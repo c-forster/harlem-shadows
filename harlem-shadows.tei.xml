@@ -27,54 +27,57 @@
 	      With an Introduction by 
 	      <lb/> Max Eastman
 	    </titlePart>
-	    <graphic url="logo.png" />
+
 	    <docImprint rend="caps">
 	      <pubPlace>New York</pubPlace>
 	      <publisher>Harcourt, Brace and Company</publisher>
 	    </docImprint>
 	  </titlePage>
+
 	  <pb n="v" />	  
+
 	  <div type="contents">
 	    <head rend="caps">Contents</head>
 	      <list rend="caps">
-		<item><ref target="#introduction">Introduction</ref></item>
-	    <item><ref target="#authors-word">Author's Word</ref></item>
-		<item><ref target="#to-one-coming-north">To One Coming North</ref></item>
-		<item><ref target="#america">America</ref></item>
-		<item><ref target="#alfonoso-dressing-to-wait-at-table">Alfonso, Dressing to Wait at Table</ref></item>
-		<item>The Tropics in New York</item>
-		<item>Flame Heart</item>
-		<item>Home Thoughts</item>
-		<item>On Broadway</item>
-		<item>The Barrier</item>
-		<item>Adolescence</item>
-		<item>Homing Swallows</item>
-		<item>The City's Love</item>
-		<item>North and South</item>
-		<item>Wild May</item>
-		<item>The Plateau</item>
-		<item>After the Winter</item>
-		<item>The Wild Goat</item>
-		<item>Harlem Shadows</item>
-		<item>The White City</item>
-		<item>The Spanish Needle</item>
-		<item>My Mother</item>
-		<item>In Bondage</item>
-		<item>December, 1919</item>
-		<item>Heritage</item>
-		<item>When I Have Passed Away</item>
+		<item>Introduction <ref target="#introduction">ix</ref></item>
+		<item>Author's Word <ref target="#authors-word">xix</ref></item>
+		<item>The Easter Flower <ref target="#the-easter-flower">3</ref></item>
+		<item>To One Coming North <ref target="#to-one-coming-north">4</ref></item>
+		<item>America <ref target="#america">6</ref></item>
+		<item>Alfonso, Dressing to Wait at Table <ref target="#alfonso-dressing-to-wait-at-table">7</ref></item>
+		<item>The Tropics in New York <ref target="#the-tropics-in-new-york">8</ref></item>
+		<item>Flame Heart <ref target="#flame-heart">9</ref></item>
+		<item>Home Thoughts <ref target="#home-thoughts">11</ref></item>
+		<item>On Broadway <ref target="#on-broadway">12</ref></item>
+		<item>The Barrier <ref target="#the-barrier">13</ref></item>
+		<item>Adolescence <ref target="#adolescence">14</ref></item>
+		<item>Homing Swallows <ref target="#homing-swallows">15</ref></item>
+		<item>The City's Love <ref target="#the-citys-love">16</ref></item>
+		<item>North and South <ref target="#north-and-south">17</ref></item>
+		<item>Wild May <ref target="#wild-may">18</ref></item>
+		<item>The Plateau <ref target="#the-plateau">19</ref></item>
+		<item>After the Winter <ref target="#after-the-winter">20</ref></item>
+		<item>The Wild Goat <ref target="#the-wild-goat">21</ref></item>
+		<item>Harlem Shadows <ref target="#harlem-shadows">22</ref></item>
+		<item>The White City <ref target="#the-white-city">23</ref></item>
+		<item>The Spanish Needle <ref target="#the-spanish-needle">24</ref></item>
+		<item>My Mother <ref target="#my-mother">26</ref></item>
+		<item>In Bondage <ref target="#in-bondage">28</ref></item>
+		<item>December, 1919 <ref target="#december-1919">29</ref></item>
+		<item>Heritage <ref target="#heritage">30</ref></item>
+		<item>When I Have Passed Away <ref target="#when-i-have-passed-away">31</ref></item>
 
 		<pb n="vi" />
 
-		<item>Enslaved</item>
-		<item>I Shall Return</item>
-		<item>Morning Joy</item>
+		<item>Enslaved <ref target="#enslaved">32</ref> </item>
+		<item>I Shall Return <ref target="#i-shall-return">33</ref></item>
+		<item>Morning Joy <ref target="#morning-joy">34</ref></item>
 		<item>Africa <ref target="#africa">35</ref></item>
 		<item>On a Primitive Canoe <ref target="#on-a-primitive-canoe">36</ref></item>
 		<item>Winter in the Country <ref target="#winter-in-the-country">37</ref></item>
 		<item>To Winter <ref target="#to-winter">39</ref></item>
 		<item>Spring in New Hampshire <ref target="#spring-in-new-hampshire">40</ref></item>
-		<item>On the Road <ref target="#on-the-rad">41</ref></item>
+		<item>On the Road <ref target="#on-the-road">41</ref></item>
 		<item>The Harlem Dancer <ref target="#the-harlem-dancer">42</ref></item>
 		<item>Dawn in New York <ref target="#dawn-in-new-york">43</ref></item>
 		<item>The Tired Worker <ref target="#the-tired-worker">44</ref></item>
@@ -83,7 +86,7 @@
 		<item>Birds of Prey <ref target="#birds-of-prey">47</ref></item>
 		<item>The Castaways <ref target="#the-castaways">48</ref></item>
 		<item>Exhortation: Summer, 1919 <ref target="#exhortation-summer-1919">49</ref></item>
-		<item>The Lynching <ref target="#the-lyching">51</ref></item>
+		<item>The Lynching <ref target="#the-lynching">51</ref></item>
 		<item>Baptism <ref target="#baptism">52</ref></item>
 		<item>If We Must Die <ref target="#if-we-must-die">53</ref></item>
 		<item>Subway Wind <ref target="#subway-wind">54</ref></item>
@@ -95,7 +98,7 @@
 		<item>O Word I Love to Sing <ref target="#o-word-i-love-to-sing">63</ref></item>
 		<item>Absence <ref target="#absence">64</ref></item>
 		<item>Summer Morn in New Hampshire <ref target="#summer-morn-in-new-hampshire">66</ref></item>
-		<item>Rest in Peace <ref target="#rest-in-peace">66</ref></item>
+		<item>Rest in Peace <ref target="#rest-in-peace">67</ref></item>
 		<item>A Red Flower <ref target="#a-red-flower">68</ref></item>
 		<item>Courage <ref target="#courage">70</ref></item>
 
@@ -401,7 +404,7 @@
 
 	  <pb n="xix" />
 
-	  <div type="preface">
+	  <div type="preface" xml:id="authors-word">
 	    <head rend="caps">Author's Word</head> 
 
 	    <p>In putting ideas and feelings into poetry, I have 
@@ -543,7 +546,7 @@
 	   </lg>
 
 	   <pb n="6"/>
-	   <lg type="poem">
+	   <lg type="poem" xml:id="america">
 	     <head>AMERICA</head>
 	     <l>Although she feeds me bread of bitterness, </l>
 	     <l>And sinks into my throat her tiger's tooth, </l>
@@ -563,7 +566,7 @@
 
 	   <pb n="7"/>
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="alfonso-dressing-to-wait-at-table">
 	     <head>ALFONSO, DRESSING TO WAIT AT TABLE</head>
 
 	     <lg type="stanza">
@@ -597,7 +600,7 @@
 	   </lg>
 
 	   <pb n="8" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-tropics-in-new-york">
 	     <head>THE TROPICS IN NEW YORK</head>
 
 	     <lg type="stanza">
@@ -623,7 +626,7 @@
 
 	   <pb n="9" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="flame-heart">
 	     <head>FLAME-HEART</head>
 
 	     <lg type="stanza">
@@ -667,7 +670,7 @@
 	   </lg>
 
 	   <pb n="11" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="home-thoughts">
 	     <head>HOME THOUGHTS</head>
 	     <l>Oh something just now must be happening there !</l>
 	     <l>That suddenly and quiveringly here,</l>
@@ -688,7 +691,7 @@
 	   </lg>
 
 	   <pb n="12" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="on-broadway">
 	     <head>ON BROADWAY</head>
 
 	     <lg type="stanza">
@@ -715,7 +718,7 @@
 	   </lg>
 	   
 	   <pb n="13" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-barrier">
 	     <head>THE BARRIER</head>
 
 	     <lg type="stanza">
@@ -741,7 +744,7 @@
 	   </lg>
 
 	   <pb n="14" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="adolescence">
 	     <head>ADOLESCENCE</head>
 	     <lg type="stanza">
 	       <l>There was a time when in late afternoon</l>
@@ -764,7 +767,7 @@
 	   </lg>
 
 	   <pb n="15" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="homing-swallows">
 	     <head>HOMING SWALLOWS</head>
 	     <lg type="stanza">
 	       <l>Swift swallows sailing from the Spanish main,</l>
@@ -787,7 +790,7 @@
 	   </lg>
 
 	   <pb n="16" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-citys-love">
 	     <head>THE CITY'S LOVE</head>
 	     <l>For one brief golden moment rare like wine,</l>
 	     <l>The gracious city swept across the line;</l>
@@ -800,7 +803,7 @@
 	   </lg>
 
 	   <pb n="17" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="north-and-south">
 	     <head>NORTH AND SOUTH</head>
 	     <l>O sweet are tropic lands for waking dreams!</l>
 	     <l rend="indent(1em)">There time and life move lazily along.</l>
@@ -823,7 +826,7 @@
 	   </lg>
 
 	   <pb n="18" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="wild-may">
 	     <head>WILD MAY</head>
 	     <l>Aleta mentions in her tender letters,</l>
 	     <l>Among a chain of quaint and touching things,</l>
@@ -843,7 +846,7 @@
 
 	   <pb n="19" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-plateau">
 	     <head>THE PLATEAU</head>
 	     <lg type="stanza">
 	       <l>It was the silver, heart-enveloping view</l>
@@ -876,7 +879,7 @@
 
 	   <pb n="20" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="after-the-winter"> 
 	     <head>AFTER THE WINTER</head>
 	     <lg type="stanza">
 	       <l>Some day, when trees have shed their leaves</l>
@@ -901,24 +904,24 @@
 	   </lg>
 
 	   <pb n="21" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-wild-goat">
 	     <head>THE WILD GOAT</head>
 	     <lg type="stanza">
-	     <l>O you would clothe me in silken frocks</l>
-<l rend="indent(1em)">And house me from the cold,</l>
-<l>And bind with bright bands my glossy locks,</l>
-<l rend="indent(1em)">And buy me chains of gold;</l>
+	       <l>O you would clothe me in silken frocks</l>
+	       <l rend="indent(1em)">And house me from the cold,</l>
+	       <l>And bind with bright bands my glossy locks,</l>
+	       <l rend="indent(1em)">And buy me chains of gold;</l>
 	     </lg>
-<lg type="stanza">
-<l>And give me — meekly to do my will —</l>
-<l rend="indent(1em)">The hapless sons of men: —</l>
-<l>But the wild goat bounding on the barren hill</l>
-<l rend="indent(1em)">Droops in the grassy pen.</l>
-</lg>
+	     <lg type="stanza">
+	       <l>And give me — meekly to do my will —</l>
+	       <l rend="indent(1em)">The hapless sons of men: —</l>
+	       <l>But the wild goat bounding on the barren hill</l>
+	       <l rend="indent(1em)">Droops in the grassy pen.</l>
+	     </lg>
 	   </lg>
 
 	   <pb n ="22"/>
-	   <lg type="poem">
+	   <lg type="poem" xml:id="harlem-shadows">
 	     <head>HARLEM SHADOWS</head>
 	     <lg type="stanza">
 	       <l>I hear the halting footsteps of a lass</l>
@@ -948,7 +951,7 @@
 
 	   <pb n="23" />
 	   
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-white-city">
 	     <head>THE WHITE CITY</head>
 
 	     <l>I will not toy with it nor bend an inch.</l>
@@ -967,7 +970,7 @@
 	     <l>Are sweet like wanton loves because I hate.</l>
 	   </lg>
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-spanish-needle">
 	     <head>THE SPANISH NEEDLE</head>
 	     <lg type="stanza">
 	       <l>Lovely dainty Spanish needle</l>
@@ -1007,7 +1010,7 @@
 	   </lg>	   
 
 	   <pb n="26" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="my-mother">
 	     <head>MY MOTHER</head>
 	     <lg type="section">
 	       <head>I</head>
@@ -1049,7 +1052,7 @@
 
 	   <pb n="28" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="in-bondage">
 	     <head>IN BONDAGE</head>
 
 	     <l>I would be wandering in distant fields</l>
@@ -1070,7 +1073,7 @@
 
 	   <pb n="29" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="december-1919">
 	     <head>DECEMBER, 1919</head>
 	     <lg type="stanza">
 	       <l>Last night I heard your voice, mother,</l>
@@ -1094,7 +1097,7 @@
 
 	   <pb n="30" />
 	   
-	   <lg type="poem">
+	   <lg type="poem" xml:id="heritage">
 	     <head>HERITAGE</head>
 	     <lg type="stanza">
 	       <l>Now the dead past seems vividly alive,</l>
@@ -1124,7 +1127,8 @@
 	   </lg>
 
 	   <pb n="31" />
-	   <lg type="poem">
+
+	   <lg type="poem" xml:id="when-i-have-passed-away">
 	     <head>WHEN I HAVE PASSED AWAY</head>
 	     <lg type="stanza">
 	       <l>When I have passed away and am forgotten,</l>
@@ -1146,8 +1150,9 @@
 	     </lg>
 	   </lg>
 
-	   <pb n="32"/>
-	   <lg type="poem">
+	   <pb n="32" />
+
+	   <lg type="poem" xml:id="enslaved">
 	     <head>ENSLAVED</head>
 	     <l>Oh when I think of my long-suffering race,</l>
 	     <l>For weary centuries despised, oppressed,</l>
@@ -1165,7 +1170,9 @@
 	     <l>To liberate my people from its yoke!</l>
 	   </lg>
 
-	   <lg type="poem">
+	   <pb n="33" />
+	   
+	   <lg type="poem" xml:id="i-shall-return">
 	     <head>I SHALL RETURN</head>
 	     <l>I shall return again; I shall return</l>
 	     <l>To laugh and love and watch with wonder-eyes</l>
@@ -1185,7 +1192,7 @@
 
 	   <pb n="34" />
 	   
-	   <lg type="poem">
+	   <lg type="poem" xml:id="morning-joy">
 	     <head>MORNING JOY</head>
 	     <l>At night the wide and level stretch of wold,</l>
 	     <l>Which at high noon had basked in quiet gold,</l>
@@ -1207,7 +1214,7 @@
 
 	   <pb n="35"/>
 	   
-	   <lg type="poem">
+	   <lg type="poem" xml:id="africa">
 	     <head>AFRICA</head>
 	     <l>The sun sought thy dim bed and brought forth <lb /> light,</l>
 	     <l>The sciences were sucklings at thy breast;</l>
@@ -1223,10 +1230,10 @@
 	     <l>They went. The darkness swallowed thee again.</l>
 	     <l>Thou art the harlot, now thy time is done,</l>
 	     <l>Of all the mighty nations of the sun.</l>
-	   </lg>	   
+	   </lg>
 
 	   <pb n="36"/>
-	   <lg type="poem">
+	   <lg type="poem" xml:id="on-a-primitive-canoe">
 	     <head>ON A PRIMITIVE CANOE</head>
 	     <l>Here, passing lonely down this quiet lane,</l>
 	     <l>Before a mud-splashed window long I pause</l>
@@ -1245,7 +1252,7 @@
 	   </lg>	   
 
 	   <pb n="37" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="winter-in-the-country">
 	     <head>WINTER IN THE COUNTRY</head>
 	     <lg type="stanza">
 	       <l>Sweet life! how lovely to be here</l>
@@ -1289,7 +1296,7 @@
 	   </lg>
 
 	   <pb n="39" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="to-winter">
 	     <head>TO WINTER</head>
 	     <l>Stay, season of calm love and soulful snows!</l>
 	     <l>There is a subtle sweetness in the sun,</l>
@@ -1308,7 +1315,7 @@
 	   </lg>
 
 	   <pb n="40" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="spring-in-new-hampshire">
 	     <head>SPRING IN NEW HAMPSHIRE</head>
 	     <head type="dedication" rend="italics">(To J. L. J. F. E.)</head>
 	     <lg type="stanza">
@@ -1330,7 +1337,7 @@
 	   </lg>
 
 	   <pb n="41" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="on-the-road">
 	     <head>ON THE ROAD</head>
 	     <l>Roar of the rushing train fearfully rocking,</l>
 	     <l>Impatient people jammed in line for food,</l>
@@ -1350,7 +1357,7 @@
 
 	   <pb n="42" />
 	   
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-harlem-dancer">
 	     <head>THE HARLEM DANCER</head>
 	     <l>Applauding youths laughed with young prostitutes</l>
 	     <l>And watched her perfect, half -clothed body sway;</l>
@@ -1370,7 +1377,7 @@
 	   
 	   <pb n="43" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="dawn-in-new-york">
 	     <head>DAWN IN NEW YORK</head>
 	     <l>The Dawn! The Dawn! The crimson-tinted, <lb /> comes</l>
 	     <l>Out of the low still skies, over the hills,</l>
@@ -1390,7 +1397,7 @@
 
 	   <pb n="44" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-tired-worker">
 	     <head>THE TIRED WORKER</head>
 	     <l>O whisper, O my soul! The afternoon</l>
 	     <l>Is waning into evening, whisper soft!</l>
@@ -1410,7 +1417,7 @@
 
 	   <pb n="45" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="outcast">
 	     <head>OUTCAST</head>
 	     <l>For the dim regions whence my fathers came</l>
 	     <l>My spirit, bondaged by the body, longs.</l>
@@ -1431,7 +1438,7 @@
 
 	   <pb n="46"/>
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="i-know-my-soul">
 	     <head>I KNOW MY SOUL</head>
 	     <l>I plucked my soul out of its secret place,</l>
 	     <l>And held it to the mirror of my eye,</l>
@@ -1451,7 +1458,7 @@
 	   
 	   <pb n="47"/>
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="birds-of-prey">
 	     <head>BIRDS OF PREY</head>
 	     <l>Their shadow dims the sunshine of our day,</l>
 	     <l>As they go lumbering across the sky,</l>
@@ -1471,7 +1478,7 @@
 	   
 	   <pb n="48"/>
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-castaways">
 	     <head>THE CASTAWAYS</head>
 	     <l>The vivid grass with visible delight</l>
 	     <l>Springing triumphant from the pregnant earth,</l>
@@ -1491,7 +1498,7 @@
 
 	   <pb n="49"/>
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="exhortation-summer-1919">
 	     <head>EXHORTATION: SUMMER, 1919</head>
 	     <lg type="stanza">
 	       <l>Through the pregnant universe rumbles life's <lb /> terrific thunder,</l>
@@ -1535,7 +1542,7 @@
 
 	   <pb n="51"/>
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-lynching">
 	     <head>THE LYNCHING</head>
 	     <l>His Spirit in smoke ascended to high heaven.</l>
 	     <l>His father, by the crudest way of pain,</l>
@@ -1555,7 +1562,7 @@
 	   
 	   <pb n="52" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="baptism">
 	     <head>BAPTISM</head>
 	     <l>Into the furnace let me go alone;</l>
 	     <l>Stay you without in terror of the heat.</l>
@@ -1575,7 +1582,7 @@
 
 	   <pb n="53" />
 
-	   <lg type = "poem">
+	   <lg type = "poem" xml:id="if-we-must-die">
 	     <head>IF WE MUST DIE</head>
 	     <l>If we must die, let it not be like hogs</l>
 	     <l>Hunted and penned in an inglorious spot,</l>
@@ -1595,7 +1602,7 @@
 	     
 	   <pb n="54" />
 
-	   <lg type = "poem">
+	   <lg type = "poem" xml:id="subway-wind">
 	     <head>SUBWAY WIND</head>
 	     <l>Far down, down through the city's great, gaunt <lb /> gut</l>
 	     <l>The gray train rushing bears the weary wind;</l>
@@ -1618,7 +1625,7 @@
 
 	   <pb n="55" />
 
-	   <lg type = "poem">
+	   <lg type = "poem" xml:id="the-night-fire">
 	     <head>THE NIGHT FIRE</head>
 	     <l>No engines shrieking rescue storm the night,</l>
 	     <l>And hose and hydrant cannot here avail;</l>
@@ -1638,7 +1645,7 @@
 
 	   <pb n="56" />
 
-	   <lg type = "poem">
+	   <lg type = "poem" xml:id="poetry">
 	     <head>POETRY</head>
 	     <l>Sometimes I tremble like a storm-swept flower,</l>
 	     <l>And seek to hide my tortured soul from thee.</l>
@@ -1658,7 +1665,7 @@
 
 	   <pb n="57" />
 
-	   <lg type = "poem">
+	   <lg type = "poem" xml:id="to-a-poet">
 	     <head>TO A POET</head>
 	     <lg type="stanza">
 	       <l>There is a lovely noise about your name,</l>
@@ -1682,7 +1689,7 @@
 
 	   <pb n="58" />
 
-	   <lg type = "poem">
+	   <lg type = "poem" xml:id="a-prayer">
 	     <head>A PRAYER</head>
 	     <lg type="stanza">
 	       <l>'Mid the discordant noises of the day I hear thee <lb /> calling;</l>
@@ -1710,7 +1717,7 @@
 
 	   <pb n="60" />
 
-	   <lg type = "poem">
+	   <lg type = "poem" xml:id="when-dawn-comes-to-the-city">
 	     <head>WHEN DAWN COMES TO THE CITY</head>
 	     <lg type="stanza">
 	       <l>The tired cars go grumbling by,</l>
@@ -1798,7 +1805,7 @@
 	   </lg>
 
 	   <pb n="63" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="o-word-i-love-to-sing">
 	     <head>O WORD I LOVE TO SING</head>
 	     <lg type="stanza">
 	       <l>O word I love to sing ! thou art too tender</l>
@@ -1821,8 +1828,10 @@
 	       <l rend="indent(1em)">My hatred for the foe of me and mine.</l>
 	     </lg>
 	   </lg>
+
 	   <pb n="64" />
-	   <lg type="poem">
+
+	   <lg type="poem" xml:id="absence">
 	     <head>ABSENCE</head>
 
 	     <lg type="stanza">
@@ -1850,7 +1859,7 @@
 	     </lg>
 	   </lg>
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="summer-morn-in-new-hampshire">
 	     <head>SUMMER MORN IN NEW HAMPSHIRE</head>
 	     <lg type="stanza">
 	       <l>All yesterday it poured, and all night long</l>
@@ -1865,7 +1874,7 @@
 
 	     <lg type="stanza">
 	       <l>But lo, there was a miracle at dawn!</l>
-	       <l  rend="indent(1em)">The still air stirred at touch of the faint breeze,</l>
+	       <l rend="indent(1em)">The still air stirred at touch of the faint breeze,</l>
 	       <l>The sun a sheet of gold bequeathed the lawn,</l>
 	       <l rend="indent(1em)">The songsters twittered in the rustling trees.</l>
 	       <l>And all things were transfigured in the day,</l>
@@ -1877,7 +1886,7 @@
 
 	   <pb n="66" />	   
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="rest-in-peace">
 	     <head>REST IN PEACE</head>
 	     <lg type="stanza">
 	       <l>No more for you the city's thorny ways,</l>
@@ -1900,7 +1909,7 @@
 	   </lg>
 
 	   <pb n="68" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="a-red-flower">
 	     <head>A RED FLOWER</head>
 
 	     <lg type="stanza">
@@ -1944,7 +1953,7 @@
 
 	   <pb n="70" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="courage">
 	     <head>COURAGE</head>
 
 	     <lg type="stanza">
@@ -1979,7 +1988,7 @@
 
 	   <pb n="71" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="to-oea">
 	     <head>TO O.E.A.</head>
 
 	     <l>Your voice is the color of a robin's breast,</l>
@@ -2002,7 +2011,7 @@
 
 	   <pb n="73" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="romance">
 	     <head>ROMANCE</head>
 
 	     <lg type="stanza">
@@ -2051,7 +2060,7 @@
 
 	   <pb n="75" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="flower-of-love">
 	     <head>FLOWER OF LOVE</head>
 	     <l>The perfume of your body dulls my sense.</l>
 	     <l rend="indent(1em)">I want nor wine nor weed ; your breath alone</l>
@@ -2072,7 +2081,7 @@
 	   </lg>
 
 	   <pb n="76" />
-	   <lg type="poem">
+	   <lg type="poem" xml:id="the-snow-fairy">
 	     <head>THE SNOW FAIRY</head>
 	     <lg type="stanza">
 	       <head>I</head>
@@ -2112,7 +2121,9 @@
 
 	   </lg>
 
-	   <lg type="poem">
+	   <pb n="78" />
+	   
+	   <lg type="poem" xml:id="la-paloma-in-london">
 	     <head>LA PALOMA IN LONDON</head>
 	     <l>About Soho we went before the light;</l>
 	     <l>We went, unresting six, craving new fun,</l>
@@ -2130,7 +2141,9 @@
 	     <l>I loved you, Cuban girl, fond sweet Diory.</l>
 	   </lg>
 
-	   <lg type="poem">
+	   <pb n="79" />
+	   
+	   <lg type="poem" xml:id="a-memory-of-june">
 	     <head>A MEMORY OF JUNE</head>
 	     <lg type="stanza">
 	       <l>When June comes dancing o'er the death of May,</l>
@@ -2173,7 +2186,7 @@
 
 	   <pb n="81" />
 	   
-	   <lg type="poem">
+	   <lg type="poem" xml:id="flirtation">
 	     <head>FLIRTATION</head>
 	     <l>Upon thy purple mat thy body bare</l>
 	     <l rend="indent(1em)">Is fine and limber like a tender tree.</l>
@@ -2187,7 +2200,7 @@
 
 	   <pb n="82" />
 	   
-	   <lg type="poem">
+	   <lg type="poem" xml:id="tormented">
 	     <head>TORMENTED</head>
 
 	     <lg type="stanza">
@@ -2214,7 +2227,7 @@
 
 	   <pb n="83" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="polarity">
 	     <head>POLARITY</head>
 
 	     <lg type="stanza">
@@ -2235,7 +2248,7 @@
 
 	   <pb n="84" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="one-year-after">
 	     <head>ONE YEAR AFTER</head>
 
 	     <lg type="stanza">
@@ -2278,7 +2291,7 @@
 
 	   </lg>
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="french-leave">
 	     <head>FRENCH LEAVE</head>
 
 	     <lg type="stanza">
@@ -2322,7 +2335,7 @@
 
 	   <pb n="88" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="jasmines">
 	     <head>JASMINES</head>
 
 	     <l>Your scent is in the room.</l>
@@ -2345,7 +2358,7 @@
 
 	   <pb n="89" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="commemoration">
 	     <head>COMMEMORATION</head>
 
 	     <lg type="stanza">
@@ -2380,7 +2393,7 @@
 
 	   <pb n="90" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="memorial">
 	     <head>MEMORIAL</head>
 
 	     <lg type="stanza">
@@ -2428,7 +2441,7 @@
 	     </lg>
 	   </lg>
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="thirst">
 	     <head>THIRST</head>
 
 	     <l>My spirit wails for water, water now!</l>
@@ -2450,7 +2463,7 @@
 
 	   <pb n="93" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="futility">
 	     <head>FUTILITY</head>
 
 	     <l>Oh, I have tried to laugh the pain away,</l>
@@ -2472,7 +2485,7 @@
 
 	   <pb n="94" />
 
-	   <lg type="poem">
+	   <lg type="poem" xml:id="through-agony">
 	     <head>THROUGH AGONY</head>
 
 	     <lg type="stanza">
