@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -21,19 +21,38 @@
    <text>
       <front>
 	  <titlePage>
-	    <titlePart type="main" rend="caps">Harlem Shadows</titlePart>
-	    <titlePart type="sub" rend="caps">The Poems of <lb/> Claude McKay</titlePart>
+	    <titlePart type="main" rend="caps">Harlem Shadows</titlePart><lb />
+	    <titlePart type="sub" rend="caps">The Poems of <lb/> Claude McKay</titlePart><lb />
 	    <titlePart type="desc" rend="caps">
 	      With an Introduction by 
 	      <lb/> Max Eastman
 	    </titlePart>
 
 	    <docImprint rend="caps">
-	      <pubPlace>New York</pubPlace>
+	      <pubPlace>New York</pubPlace> <lb />
 	      <publisher>Harcourt, Brace and Company</publisher>
 	    </docImprint>
 	  </titlePage>
 
+	  <pb />
+	  <div>
+	    <div type="copyright statement">
+	      Copyright, 1922 by <lb />
+	      Harcourt, Brace and Company, INC.
+	    </div>
+	    <div type="printing statement">
+	      Printed in the U.S.A. by
+	      The Quinn &amp; Boden Company
+	      Rahway, N. J.
+	    </div>
+	  </div>
+
+	  <pb />
+
+	  <div type="note">
+	    <p>A number of these poems appeared in the <title rend="italics">Seven Arts</title>, <title rend="italics">Pearson's</title>, <title rend="italics">The Liberator</title>, <title rend="italics">The Messenger</title>, and <title rend="italics">The Cambridge Magazine</title> (England).</p>
+	  </div>
+	  
 	  <pb n="v" />	  
 
 	  <div type="contents">
@@ -69,7 +88,7 @@
 
 		<pb n="vi" />
 
-		<item>Enslaved <ref target="#enslaved">32</ref> </item>
+		<item>Enslaved <ref target="#enslaved">32</ref></item>
 		<item>I Shall Return <ref target="#i-shall-return">33</ref></item>
 		<item>Morning Joy <ref target="#morning-joy">34</ref></item>
 		<item>Africa <ref target="#africa">35</ref></item>
