@@ -624,7 +624,7 @@
 
 	   <pb n="8" />
 	   <lg type="poem" xml:id="the-tropics-in-new-york">
-	     <head>THE TROPICS IN NEW YORK</head>
+	     <head rend="caps">The Tropics in New York</head>
 
 	     <lg type="stanza">
 	       <l>Bananas ripe and green, and ginger-root,</l>
