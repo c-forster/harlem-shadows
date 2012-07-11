@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -13,13 +15,14 @@
 	   <p>Claude McKay's Harlem Shadows, because of age, is in the public domain. This encoding is published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</ref>.</p>
          </publicationStmt>
          <sourceDesc>
-	   <p>Upconverted via Wendell Piez's XSLT pipeline from a plain text version
+	   <p>Upconverted via <ref target="">Wendell Piez's XSLT pipeline</ref> from a plain text version
 	   distributed freely through archive.org: see <ref target="http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt">http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt</ref> and then improved manually.</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
-      <front>
+     <pb n = "[]" facs="hs_ind_001.jpg hs_tor_003.jpg hs_pri_008.jpg hs_loc_005.jpg" />
+     <front>
 	  <titlePage>
 	    <titlePart type="main" rend="caps">Harlem Shadows</titlePart><lb />
 	    <titlePart type="sub" rend="caps">The Poems of <lb/> Claude McKay</titlePart><lb />
@@ -37,13 +40,11 @@
 	  <pb />
 	  <div>
 	    <div type="copyright statement">
-	      Copyright, 1922 by <lb />
-	      Harcourt, Brace and Company, INC.
+	      <docImprint>Copyright, <docDate>1922</docDate> by <lb /> Harcourt, Brace and Company, INC.</docImprint>
 	    </div>
+
 	    <div type="printing statement">
-	      Printed in the U.S.A. by
-	      The Quinn &amp; Boden Company
-	      Rahway, N. J.
+	      <docImprint>Printed in the U.S.A. by <lb /> The Quinn &amp; Boden Company <lb /> Rahway, N. J.</docImprint>
 	    </div>
 	  </div>
 
@@ -161,13 +162,13 @@
 	    by a voice from this most alien race 
 	    among us. And it should be illuminating to 
 	    observe that while these poems are characteristic 
-	    of that race as we most admire it — they are 
+	    of that race as we most admire it—they are 
 	    gentle-simple, candid, brave and friendly, quick 
-	    of laughter and of tears — yet they are still more 
+	    of laughter and of tears—yet they are still more 
 	    characteristic of what is deep and universal in 
 	    mankind. There is no special or exotic kind of 
-	    merit in them, no quality that demands a trans- 
-	    mutation of our own natures to perceive. Just 
+	    merit in them, no quality that demands a transmutation 
+	    of our own natures to perceive. Just 
 	    as the sculptures and wood and ivory carvings of 
 
 	    <pb n="x"/>
@@ -195,7 +196,7 @@
 	    farmer's life of that island. It was a life 
 	    rich in sun and sound and color and emotion, as 
 	    we can see in his poems which are forever 
-	    homeward yearning — in the midst of their present 
+	    homeward yearning—in the midst of their present 
 	    passion and strong will into the future, forever 
 	    vividly remembering. Like a blue-bird's note in 
 	    a March wind, those sudden clear thoughts of 
@@ -220,19 +221,19 @@
 	    family goes back on his mother's side beyond 
 	    the days of bondage, to a time in Madagascar 
 	    when they were still free, and by the grace of 
-	    God still "savage." He learned in early child- 
-	    hood the story of their violent abduction, and 
+	    God still "savage." He learned in early childhood 
+	    the story of their violent abduction, and 
 	    how they were freighted over the seas in ships, 
 	    and sold at public auction in Jamaica. He learned 
 	    another story, too, which must have kindled a 
-	    fire that slept in his blood — a story of the rebel- 
-	    lion of the members of his own family at the 
+	    fire that slept in his blood—a story of the rebellion 
+	    of the members of his own family at the 
 	    auction-block. A death-strike, we should call it 
 
 
 	    <pb n="xii" />
 
-	    now — for they agreed that if they were divided 
+	    now—for they agreed that if they were divided 
 	    and sold away into different parts of the country 
 	    they would all kill themselves. And this fact 
 	    solemnly announced in the market by the oldest 
@@ -257,15 +258,15 @@
 	    <p>Those early songs and the music he composed 
 	    for them, were very popular in Jamaica. Claude 
 	    McKay was quite the literary prince of the island 
-	    for a time — a kind of Robert Burns among his 
+	    for a time—a kind of Robert Burns among his 
 
 	    <pb n="xiii"/>
 
 	    own people, as we can imagine, with his physical 
 	    beauty, his quick sympathy, and the magnetic 
 	    wayward humor of his ways. He received in 
-	    191 2 the medal of the Institute of Arts and 
-	    Sciences in recognition of his preeminence. He 
+	    1912 the medal of the Institute of Arts and 
+	    Sciences in recognition of his <sic>preëminence</sic>. He 
 	    was the first Negro to receive this medal, and 
 	    he was the first poet who ever made songs in the 
 	    quaint haunting dialect of the island. But nevertheless 
@@ -292,8 +293,8 @@
 
 	    justify them in placing the whole of one of these 
 	    races in a position of inferior esteem. The same 
-	    fallacy is committed in the discussions of sex- 
-	    inferiority, and it is worth while to make clear 
+	    fallacy is committed in the discussions of sex-inferiority, 
+	    and it is worth while to make clear 
 	    the perfect folly of it. If any defined quantitative 
 	    difference is ever established between the 
 	    average abilities of such groups, it will be a 
@@ -341,8 +342,8 @@
 	    high, and made so boldly beautiful, that we can 
 	    not withhold a tribute to his will, as well as to 
 	    his music and imagination. The naked force of 
-	    character that we feel in those two recent son- 
-	    nets, "Baptism" and "The White City," is no 
+	    character that we feel in those two recent sonnets, 
+	    "Baptism" and "The White City," is no 
 	    mere verbal semblance. Its reality is certified by 
 	    the very achievement of such commanding art
 
@@ -359,7 +360,7 @@
 	    well as music to his people. He went at first to 
 	    one of our established philanthropic institutions 
 	    for the training of colored people. He stayed 
-	    there a few months — long enough to weary of 
+	    there a few months—long enough to weary of 
 	    the almost military system of discipline. And 
 	    then he went to the Agricultural College of 
 	    Kansas, where he had learned that a free life 
@@ -368,9 +369,9 @@
 	    less about farming and more about literature, 
 	    and gradually losing away altogether the 
 	    idea of returning to live in Jamaica. He left the 
-	    college in 1914, knowing that he was a poet — and 
+	    college in 1914, knowing that he was a poet—and 
 	    imagining, I think, that he was a rather irresponsible 
-	    and wayward character — to cast in his lot 
+	    and wayward character—to cast in his lot 
 	    with the working-class Negroes of the north. 
 	    Since then he has earned his living in every 
 	    one of the ways that the northern Negroes do, 
@@ -394,9 +395,9 @@
 	    able to apprehend at all. Perhaps they will be 
 	    picked up by receivers who are attuned to a different 
 	    wave-length. But the quality is here in 
-	    them all — the pure, clear arrow-like transference 
+	    them all—the pure, clear arrow-like transference 
 	    of his emotion into our breast, without any but 
-	    the inevitable words — the quality that reminds us 
+	    the inevitable words—the quality that reminds us 
 	    of Burns and Villon and Catullus, and all the 
 	    poets that we call lyric because we love them so 
 	    much. It is the quality that Keats sought to 
@@ -418,7 +419,7 @@
 	    softly, in this age of roar and advertising, to the 
 	    hearts that love a true and unaffected song.</p>
 
-	    <signed><name>Max Eastman.</name></signed> 
+	    <signed><name rend="smallCaps">Max Eastman.</name></signed> 
 	  </div>
 
 	  <pb n="xix" />
@@ -503,14 +504,17 @@
 	    summing up, fallen back on my own ear and 
 	    taste as the arbiter.</p>
 
-	    <signed><name>Claude McKay.</name></signed> 
+	    <signed><name rend="smallCaps">Claude McKay.</name></signed> 
+	  </div>
+	  <div type="half-title">
+	    <title rend="caps">Harlem Shadows</title>
 	  </div>
 	</front>  
    	<body>
    	<div>
 	    <pb n="3" />
 	    <lg type="poem" xml:id="the-easter-flower">
-	      <head>THE EASTER FLOWER</head>
+	      <head rend="caps">The Easter Flower</head>
 	      <lg type="stanza">
 		<l>Far from this foreign Easter damp and chilly</l>
 		<l rend="indent(1em)">My soul steals to a pear-shaped plot of ground,</l>
@@ -533,7 +537,7 @@
 
 	   <pb n="4" />
 	   <lg type="poem" xml:id="to-one-coming-north">
-	     <head>TO ONE COMING NORTH</head>
+	     <head rend="caps">To One Coming North</head>
 	     <lg type="stanza">
 	       <l>At first you'll joy to see the playful snow,</l>
 	       <l rend="indent(1em)">Like white moths trembling on the tropic air,</l>
@@ -541,52 +545,52 @@
 	       <l rend="indent(1em)">Gracefully falling down a shining stair.</l> 
 	     </lg>
 	     <lg>
-	       <l>And when the fields and streets are covered white </l>
-	       <l rend="indent(1em)">And the wind-worried void is chilly, raw, </l>
-	       <l>Or underneath a spell of heat and light </l>
-	       <l rend="indent(1em)">The cheerless frozen spots begin to thaw, </l>
+	       <l>And when the fields and streets are covered white</l>
+	       <l rend="indent(1em)">And the wind-worried void is chilly, raw,</l>
+	       <l>Or underneath a spell of heat and light</l>
+	       <l rend="indent(1em)">The cheerless frozen spots begin to thaw,</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>Like me you'll long for home, where birds' glad <lb /> song </l>
+	       <l>Like me you'll long for home, where birds' glad <lb /> song</l>
 	       <l rend="indent(1em)">Means flowering lanes and leas and spaces <lb /> dry, </l>
-	       <l>And tender thoughts and feelings fine and strong, </l>
-	       <l rend="indent(1em)">Beneath a vivid silver-flecked blue sky. </l>
+	       <l>And tender thoughts and feelings fine and strong,</l>
+	       <l rend="indent(1em)">Beneath a vivid silver-flecked blue sky.</l>
 	     </lg>
 
 	     <pb n="5"/>
 
 	     <lg type="stanza">
-	       <l>But oh! more than the changeless southern isles, </l>
+	       <l>But oh! more than the changeless southern isles,</l>
 	       <l rend="indent(1em)">When Spring has shed upon the earth her <lb /> charm, </l>
-	       <l>You'll love the Northland wreathed in golden <lb /> smiles </l>
-	       <l rend="indent(1em)">By the miraculous sun turned glad and warm. </l>
+	       <l>You'll love the Northland wreathed in golden <lb /> smiles</l>
+	       <l rend="indent(1em)">By the miraculous sun turned glad and warm.</l>
 	     </lg>
 	   </lg>
 
 	   <pb n="6"/>
 	   <lg type="poem" xml:id="america">
-	     <head>AMERICA</head>
-	     <l>Although she feeds me bread of bitterness, </l>
-	     <l>And sinks into my throat her tiger's tooth, </l>
-	     <l>Stealing my breath of life, I will confess </l>
-	     <l>I love this cultured hell that tests my youth! </l>
-	     <l>Her vigor flows like tides into my blood, </l>
-	     <l>Giving me strength erect against her hate. </l>
-	     <l>Her bigness sweeps my being like a flood. </l>
-	     <l>Yet as a rebel fronts a king in state, </l>
-	     <l>I stand within her walls with not a shred </l>
-	     <l>Of terror, malice, not a word of jeer. </l>
-	     <l>Darkly I gaze into the days ahead, </l>
-	     <l>And see her might and granite wonders there, </l>
-	     <l>Beneath the touch of Time's unerring hand, </l>
-	     <l>Like priceless treasures sinking in the sand. </l>
+	     <head rend="caps">America</head>
+	     <l>Although she feeds me bread of bitterness,</l>
+	     <l>And sinks into my throat her tiger's tooth,</l>
+	     <l>Stealing my breath of life, I will confess</l>
+	     <l>I love this cultured hell that tests my youth!</l>
+	     <l>Her vigor flows like tides into my blood,</l>
+	     <l>Giving me strength erect against her hate.</l>
+	     <l>Her bigness sweeps my being like a flood.</l>
+	     <l>Yet as a rebel fronts a king in state,</l>
+	     <l>I stand within her walls with not a shred</l>
+	     <l>Of terror, malice, not a word of jeer.</l>
+	     <l>Darkly I gaze into the days ahead,</l>
+	     <l>And see her might and granite wonders there,</l>
+	     <l>Beneath the touch of Time's unerring hand,</l>
+	     <l>Like priceless treasures sinking in the sand.</l>
 	   </lg>
 
 	   <pb n="7"/>
 
 	   <lg type="poem" xml:id="alfonso-dressing-to-wait-at-table">
-	     <head>ALFONSO, DRESSING TO WAIT AT TABLE</head>
+	     <head rend="caps">Alfonso, Dressing to Wait at Table</head>
 
 	     <lg type="stanza">
 	       <l>Alfonso is a handsome bronze-hued lad</l>
