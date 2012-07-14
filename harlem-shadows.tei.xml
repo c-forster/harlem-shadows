@@ -419,7 +419,7 @@
 	    softly, in this age of roar and advertising, to the 
 	    hearts that love a true and unaffected song.</p>
 
-	    <signed><name rend="smallCaps">Max Eastman.</name></signed> 
+	    <signed><name rend="smallcaps">Max Eastman.</name></signed> 
 	  </div>
 
 	  <pb n="xix" />
@@ -504,7 +504,7 @@
 	    summing up, fallen back on my own ear and 
 	    taste as the arbiter.</p>
 
-	    <signed><name rend="smallCaps">Claude McKay.</name></signed> 
+	    <signed><name rend="smallcaps">Claude McKay.</name></signed> 
 	  </div>
 	  <div type="half-title">
 	    <title rend="caps">Harlem Shadows</title>
@@ -650,7 +650,7 @@
 	   <pb n="9" />
 
 	   <lg type="poem" xml:id="flame-heart">
-	     <head>FLAME-HEART</head>
+	     <head rend="caps">Flame-Heart</head>
 
 	     <lg type="stanza">
 	       <l>So much have I forgotten in ten years,</l>
@@ -674,7 +674,7 @@
 	       <l rend="indent(1em)">The languid painted ladies used to dapple</l>
 	       <l>The yellow by-road mazing from the main,</l>
 	       <l rend="indent(1em)">Sweet with the golden threads of the rose-apple.</l>
-	       <l>I have forgotten — strange — but quite remember</l>
+	       <l>I have forgotten—strange—but quite remember</l>
 	       <l>The poinsettia's red, blood-red in warm December.</l>
 	     </lg>	     
 	     <pb n="10"/>
@@ -693,21 +693,22 @@
 	   </lg>
 
 	   <pb n="11" />
+
 	   <lg type="poem" xml:id="home-thoughts">
-	     <head>HOME THOUGHTS</head>
-	     <l>Oh something just now must be happening there !</l>
+	     <head rend="caps">Home Thoughts</head>
+	     <l>Oh something just now must be happening there!</l>
 	     <l>That suddenly and quiveringly here,</l>
 	     <l>Amid the city's noises, I must think</l>
 	     <l>Of mangoes leaning o'er the river's brink,</l>
 	     <l>And dexterous Davie climbing high above,</l>
 	     <l>The gold fruits ebon-speckled to remove,</l>
 	     <l>And toss them quickly in the tangled mass</l>
-	     <l>Of wis- wis twisted round the guinea grass;</l>
+	     <l>Of wis-wis twisted round the guinea grass;</l>
 	     <l>And Cyril coming through the bramble-track</l>
 	     <l>A prize bunch of bananas on his back;</l>
-	     <l>And Georgie — none could ever dive like him —</l>
+	     <l>And Georgie—none could ever dive like him—</l>
 	     <l>Throwing his scanty clothes off for a swim;</l>
-	     <l>And schoolboys, from Bridge- tunnel going home,</l>
+	     <l>And schoolboys, from Bridge-tunnel going home,</l>
 	     <l>Watching the waters downward dash and foam.</l>
 	     <l>This is no daytime dream, there's something in it,</l>
 	     <l>Oh something's happening there this very minute !</l>
@@ -715,7 +716,7 @@
 
 	   <pb n="12" />
 	   <lg type="poem" xml:id="on-broadway">
-	     <head>ON BROADWAY</head>
+	     <head rend="caps">On Broadway</head>
 
 	     <lg type="stanza">
 	       <l>About me young and careless feet</l>
@@ -724,7 +725,7 @@
 	       <l>Shed down their bright fantastic glow</l>
 	       <l rend="indent(1em)">Upon the merry crowd and lines</l>
 	       <l>Of moving carriages below.</l>
-	       <l>Oh wonderful is Broadway — only</l>
+	       <l>Oh wonderful is Broadway—only</l>
 	       <l>My heart, my heart is lonely.</l>
 	     </lg>
 
@@ -735,14 +736,15 @@
 	       <l>The rainbow lights of Broadway blaze</l>
 	       <l rend="indent(1em)">All gay without, all glad within;</l>
 	       <l>As in a dream I stand and gaze</l>
-	       <l>At Broadway, shining Broadway — only</l>
+	       <l>At Broadway, shining Broadway—only</l>
 	       <l>My heart, my heart is lonely.</l>
 	     </lg>
 	   </lg>
 	   
 	   <pb n="13" />
+
 	   <lg type="poem" xml:id="the-barrier">
-	     <head>THE BARRIER</head>
+	     <head rend="caps">The Barrier</head>
 
 	     <lg type="stanza">
 	       <l>I must not gaze at them although</l>
@@ -761,14 +763,14 @@
 	     <lg type="stanza">
 	       <l>I must not see upon your face</l>
 	       <l rend="indent(1em)">Love's softly glowing spark;</l>
-	       <l>For there's the barrier of race,</l>
+	       <l>For there's the barrier of race,</l>a
 	       <l rend="indent(1em)">You're fair and I am dark.</l>
 	     </lg>
 	   </lg>
 
 	   <pb n="14" />
 	   <lg type="poem" xml:id="adolescence">
-	     <head>ADOLESCENCE</head>
+	     <head rend="caps">Adolescence</head>
 	     <lg type="stanza">
 	       <l>There was a time when in late afternoon</l>
 	       <l rend="indent(1em)">The four-o'clocks would fold up at day's close</l>
@@ -782,7 +784,7 @@
 	       <l rend="indent(1em)">Gained without effort, sweet like early love.</l>
 	     </lg>
 	     <lg type="stanza">
-	       <l>But now no balm — nor drug nor weed nor wine —</l>
+	       <l>But now no balm—nor drug nor weed nor wine—</l>
 	       <l rend="indent(1em)">Can bring true rest to cool my body's fever,</l>
 	       <l>Nor sweeten in my mouth the acid brine,</l>
 	       <l rend="indent(1em)">That salts my choicest drink and will forever.</l>
@@ -790,13 +792,14 @@
 	   </lg>
 
 	   <pb n="15" />
+
 	   <lg type="poem" xml:id="homing-swallows">
-	     <head>HOMING SWALLOWS</head>
+	     <head rend="caps">Homing Swallows</head>
 	     <lg type="stanza">
 	       <l>Swift swallows sailing from the Spanish main,</l>
 	       <l rend="indent(1em)">O rain-birds racing merrily away</l>
 	       <l>From hill-tops parched with heat and sultry plain</l>
-	       <l rend="indent(1em)">Of wilting plants and fainting flowers, say —</l>
+	       <l rend="indent(1em)">Of wilting plants and fainting flowers, say—</l>
 	     </lg>
 	     <lg type="stanza">
 	       <l>When at the noon-hour from the chapel school</l>
@@ -813,8 +816,9 @@
 	   </lg>
 
 	   <pb n="16" />
+
 	   <lg type="poem" xml:id="the-citys-love">
-	     <head>THE CITY'S LOVE</head>
+	     <head rend="caps">The City's Love</head>
 	     <l>For one brief golden moment rare like wine,</l>
 	     <l>The gracious city swept across the line;</l>
 	     <l>Oblivious of the color of my skin,</l>
@@ -827,7 +831,7 @@
 
 	   <pb n="17" />
 	   <lg type="poem" xml:id="north-and-south">
-	     <head>NORTH AND SOUTH</head>
+	     <head rend="caps">North and South</head>
 	     <l>O sweet are tropic lands for waking dreams!</l>
 	     <l rend="indent(1em)">There time and life move lazily along.</l>
 	     <l>There by the banks of blue-and-silver streams</l>
@@ -850,7 +854,7 @@
 
 	   <pb n="18" />
 	   <lg type="poem" xml:id="wild-may">
-	     <head>WILD MAY</head>
+	     <head rend="caps">Wild May</head>
 	     <l>Aleta mentions in her tender letters,</l>
 	     <l>Among a chain of quaint and touching things,</l>
 	     <l>That you are feeble, weighted down with fetters,</l>
@@ -870,7 +874,7 @@
 	   <pb n="19" />
 
 	   <lg type="poem" xml:id="the-plateau">
-	     <head>THE PLATEAU</head>
+	     <head rend="caps">The Plateau</head>
 	     <lg type="stanza">
 	       <l>It was the silver, heart-enveloping view</l>
 	       <l rend="indent(1em)">Of the mysterious sea-line far away,</l>
@@ -903,7 +907,8 @@
 	   <pb n="20" />
 
 	   <lg type="poem" xml:id="after-the-winter"> 
-	     <head>AFTER THE WINTER</head>
+	     <head rend="caps">After The Winter</head>
+
 	     <lg type="stanza">
 	       <l>Some day, when trees have shed their leaves</l>
 	       <l rend="indent(1em)">And against the morning's white</l>
@@ -914,6 +919,7 @@
 	       <l>Where bamboos spire to shafted grove</l>
 	       <l rend="indent(1em)">And wide-mouthed orchids smile.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>And we will seek the quiet hill</l>
 	       <l rend="indent(1em)">Where towers the cotton tree,</l>
@@ -928,16 +934,18 @@
 
 	   <pb n="21" />
 	   <lg type="poem" xml:id="the-wild-goat">
-	     <head>THE WILD GOAT</head>
+	     <head rend="caps">The Wild Goat</head>
+
 	     <lg type="stanza">
 	       <l>O you would clothe me in silken frocks</l>
 	       <l rend="indent(1em)">And house me from the cold,</l>
 	       <l>And bind with bright bands my glossy locks,</l>
 	       <l rend="indent(1em)">And buy me chains of gold;</l>
 	     </lg>
+
 	     <lg type="stanza">
-	       <l>And give me — meekly to do my will —</l>
-	       <l rend="indent(1em)">The hapless sons of men: —</l>
+	       <l>And give me—meekly to do my will—</l>
+	       <l rend="indent(1em)">The hapless sons of men:—</l>
 	       <l>But the wild goat bounding on the barren hill</l>
 	       <l rend="indent(1em)">Droops in the grassy pen.</l>
 	     </lg>
@@ -945,7 +953,8 @@
 
 	   <pb n ="22"/>
 	   <lg type="poem" xml:id="harlem-shadows">
-	     <head>HARLEM SHADOWS</head>
+	     <head rend="caps">Harlem Shadows</head>
+
 	     <lg type="stanza">
 	       <l>I hear the halting footsteps of a lass</l>
 	       <l rend="indent(1em)">In Negro Harlem when the night lets fall</l>
@@ -954,6 +963,7 @@
 	       <l>Ah, little dark girls who in slippered feet</l>
 	       <l>Go prowling through the night from street to <lb /> street !</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>Through the long night until the silver break</l>
 	       <l rend="indent(1em)">Of day the little gray feet know no rest;</l>
@@ -962,6 +972,7 @@
 	       <l>The dusky, half-clad girls of tired feet</l>
 	       <l>Are trudging, thinly shod, from street to street.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>Ah, stern harsh world, that in the wretched way</l>
 	       <l rend="indent(1em)">Of poverty, dishonor and disgrace,</l>
@@ -975,7 +986,7 @@
 	   <pb n="23" />
 	   
 	   <lg type="poem" xml:id="the-white-city">
-	     <head>THE WHITE CITY</head>
+	     <head rend="caps">The White City</head>
 
 	     <l>I will not toy with it nor bend an inch.</l>
 	     <l>Deep in the secret chambers of my heart</l>
@@ -985,7 +996,7 @@
 	     <l>If this dark Passion that fills my every mood,</l>
 	     <l>And makes my heaven in the white world's hell,</l>
 	     <l>Did not forever feed me vital blood.</l>
-	     <l>I see the mighty city through a mist —</l>
+	     <l>I see the mighty city through a mist—</l>
 	     <l>The strident trains that speed the goaded mass,</l>
 	     <l>The poles and spires and towers vapor-kissed,</l>
 	     <l>The fortressed port through which the great ships <lb /> pass,</l>
@@ -993,18 +1004,25 @@
 	     <l>Are sweet like wanton loves because I hate.</l>
 	   </lg>
 
+	   <pb n="24" />
+	   
 	   <lg type="poem" xml:id="the-spanish-needle">
-	     <head>THE SPANISH NEEDLE</head>
+	     <head rend="caps">The Spanish Needle</head>
+
 	     <lg type="stanza">
 	       <l>Lovely dainty Spanish needle</l>
 	       <l rend="indent(1em)">With your yellow flower and white,</l>
 	       <l>Dew bedecked and softly sleeping,</l>
 	       <l rend="indent(1em)">Do you think of me to-night?</l>
 	     </lg>
-	     <l>Shadowed by the spreading mango,</l>
-	     <l rend="indent(1em)">Nodding o'er the rippling stream,</l>
-	     <l>Tell me, dear plant of my childhood,</l>
-	     <l rend="indent(1em)">Do you of the exile dream?</l>
+
+	     <lg type="stanza">
+	       <l>Shadowed by the spreading mango,</l>
+	       <l rend="indent(1em)">Nodding o'er the rippling stream,</l>
+	       <l>Tell me, dear plant of my childhood,</l>
+	       <l rend="indent(1em)">Do you of the exile dream?</l>
+	     </lg>
+
 	     <lg type="stanza">
 	       <l>Do you see me by the brook's side</l>
 	       <l rend="indent(1em)">Catching crayfish 'neath the stone,</l>
@@ -1017,13 +1035,16 @@
 	       <l>With a bamboo on my shoulder</l>
 	       <l rend="indent(1em)">And a pail slung from a string?</l>
 	     </lg>
+
 	     <pb n="25" />
+
 	     <lg type="stanza">
 	       <l>Do you see me all expectant</l>
 	       <l rend="indent(1em)">Lying in an orange grove,</l>
 	       <l>While the swee-swees sing above me,</l>
-	       <l rend="indent(1em)">Waiting for my elf -eyed love?</l>
+	       <l rend="indent(1em)">Waiting for my elf-eyed love?</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>Lovely dainty Spanish needle,</l>
 	       <l rend="indent(1em)">Source to me of sweet delight,</l>
@@ -1033,6 +1054,7 @@
 	   </lg>	   
 
 	   <pb n="26" />
+	   
 	   <lg type="poem" xml:id="my-mother">
 	     <head>MY MOTHER</head>
 	     <lg type="section">
