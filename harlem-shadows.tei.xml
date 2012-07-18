@@ -1056,7 +1056,7 @@
 	   <pb n="26" />
 	   
 	   <lg type="poem" xml:id="my-mother">
-	     <head>MY MOTHER</head>
+	     <head rend="caps">My Mother</head>
 	     <lg type="section">
 	       <head>I</head>
 	       <l>Reg wished me to go with him to the field,</l>
@@ -1090,7 +1090,7 @@
 	       <l>Some pulling up the weeds, some plucking corn,</l>
 	       <l>And others breaking up the sun-baked soil.</l>
 	       <l>Float, faintly-scented breeze, at early morn</l>
-	       <l>Over the earth where mortals sow and reap —</l>
+	       <l>Over the earth where mortals sow and reap—</l>
 	       <l>Beneath its breast my mother lies asleep.</l>
 	     </lg>
 	   </lg>
@@ -1098,7 +1098,7 @@
 	   <pb n="28" />
 
 	   <lg type="poem" xml:id="in-bondage">
-	     <head>IN BONDAGE</head>
+	     <head rend="caps">In Bondage</head>
 
 	     <l>I would be wandering in distant fields</l>
 	     <l>Where man, and bird, and beast, lives leisurely,</l>
@@ -1106,7 +1106,7 @@
 	     <l>Her goodly gifts to all her children free;</l>
 	     <l>Where life is fairer, lighter, less demanding,</l>
 	     <l>And boys and girls have time and space for play</l>
-	     <l>Before they come to years of understanding —</l>
+	     <l>Before they come to years of understanding—</l>
 	     <l>Somewhere I would be singing, far away.</l>
 	     <l>For life is greater than the thousand wars</l>
 	     <l>Men wage for it in their insatiate lust,</l>
@@ -1119,13 +1119,15 @@
 	   <pb n="29" />
 
 	   <lg type="poem" xml:id="december-1919">
-	     <head>DECEMBER, 1919</head>
+	     <head rend="caps">December, 1919</head>
+
 	     <lg type="stanza">
 	       <l>Last night I heard your voice, mother,</l>
 	       <l rend="indent(1em)">The words you sang to me</l>
 	       <l>When I, a little barefoot boy,</l>
 	       <l rend="indent(1em)">Knelt down against your knee.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>And tears gushed from my heart, mother,</l>
 	       <l rend="indent(1em)">And passed beyond its wall,</l>
@@ -1143,25 +1145,28 @@
 	   <pb n="30" />
 	   
 	   <lg type="poem" xml:id="heritage">
-	     <head>HERITAGE</head>
+	     <head rend="caps">Heritage</head>
 	     <lg type="stanza">
 	       <l>Now the dead past seems vividly alive,</l>
 	       <l rend="indent(1em)">And in this shining moment I can trace,</l>
 	       <l>Down through the vista of the vanished years,</l>
 	       <l rend="indent(1em)">Your faun-like form, your fond elusive face.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>And suddenly some secret spring's released,</l>
 	       <l rend="indent(1em)">And unawares a riddle is revealed,</l>
 	       <l>And I can read like large, black-lettered print,</l>
-	       <l rend="indent(1em)">What seemed before a thing forever sealed.</l>
+	       <l rend="indent(1em)">What seemed before a thing forever sealed.</l>a
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>I know the magic word, the graceful thought,</l>
 	       <l rend="indent(1em)">The song that fills me in my lucid hours,</l>
 	       <l>The spirit's wine that thrills my body through,</l>
 	       <l rend="indent(1em)">And makes me music-drunk, are yours, all <lb /> yours.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>I cannot praise, for you have passed from praise,</l>
 	       <l rend="indent(1em)">I have no tinted thoughts to paint you true;</l>
@@ -1174,22 +1179,25 @@
 	   <pb n="31" />
 
 	   <lg type="poem" xml:id="when-i-have-passed-away">
-	     <head>WHEN I HAVE PASSED AWAY</head>
+	     <head rend="caps">When I Have Passed Away</head>
+
 	     <lg type="stanza">
 	       <l>When I have passed away and am forgotten,</l>
 	       <l rend="indent(1em)">And no one living can recall my face,</l>
 	       <l>When under alien sod my bones lie rotten</l>
-	       <l rend="indent(1em)">With not a tree or stone to mark the place ;</l>
+	       <l rend="indent(1em)">With not a tree or stone to mark the place;</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>Perchance a pensive youth, with passion burning,</l>
 	       <l rend="indent(1em)">For olden verse that smacks of love and wine,</l>
 	       <l>The musty pages of old volumes turning,</l>
 	       <l rend="indent(1em)">May light upon a little song of mine,</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>And he may softly hum the tune and wonder</l>
-	       <l rend="indent(1em)">Who wrote the verses in the long ago ;</l>
+	       <l rend="indent(1em)">Who wrote the verses in the long ago;</l>
 	       <l>Or he may sit him down awhile to ponder</l>
 	       <l rend="indent(1em)">Upon the simple words that touch him so.</l>
 	     </lg>
@@ -1198,7 +1206,7 @@
 	   <pb n="32" />
 
 	   <lg type="poem" xml:id="enslaved">
-	     <head>ENSLAVED</head>
+	     <head rend="caps">Enslaved</head>
 	     <l>Oh when I think of my long-suffering race,</l>
 	     <l>For weary centuries despised, oppressed,</l>
 	     <l>Enslaved and lynched, denied a human place</l>
@@ -1218,7 +1226,7 @@
 	   <pb n="33" />
 	   
 	   <lg type="poem" xml:id="i-shall-return">
-	     <head>I SHALL RETURN</head>
+	     <head rend="caps">I Shall Return</head>
 	     <l>I shall return again; I shall return</l>
 	     <l>To laugh and love and watch with wonder-eyes</l>
 	     <l>At golden noon the forest fires burn,</l>
@@ -1238,29 +1246,41 @@
 	   <pb n="34" />
 	   
 	   <lg type="poem" xml:id="morning-joy">
-	     <head>MORNING JOY</head>
-	     <l>At night the wide and level stretch of wold,</l>
-	     <l>Which at high noon had basked in quiet gold,</l>
-	     <l>Far as the eye could see was ghostly white;</l>
-	     <l>Dark was the night save for the snow's weird <lb /> light.</l>
-	     <l>I drew the shades far down, crept into bed;</l>
-	     <l>Hearing the cold wind moaning overhead</l>
-	     <l>Through the sad pines, my soul, catching its pain,</l>
-	     <l>Went sorrowing with it across the plain.</l>
-	     <l>At dawn, behold! the pall of night was gone,</l>
-	     <l>Save where a few shrubs melancholy, lone,</l>
-	     <l>Detained a fragile shadow. Golden-lipped</l>
-	     <l>The laughing grasses heaven's sweet wine sipped.</l>
-	     <l>The sun rose smiling o'er the river's breast,</l>
-	     <l>And my soul, by his happy spirit blest,</l>
-	     <l>Soared like a bird to greet him in the sky,</l>
-	     <l>And drew out of his heart Eternity.</l>
+	     <head rend="caps">Morning Joy</head>
+
+	     <lg type="stanza">
+	       <l>At night the wide and level stretch of wold,</l>
+	       <l>Which at high noon had basked in quiet gold,</l>
+	       <l>Far as the eye could see was ghostly white;</l>
+	       <l>Dark was the night save for the snow's weird <lb /> light.</l>
+	     </lg>
+
+	     <lg type="stanza">
+	       <l>I drew the shades far down, crept into bed;</l>
+	       <l>Hearing the cold wind moaning overhead</l>
+	       <l>Through the sad pines, my soul, catching its pain,</l>
+	       <l>Went sorrowing with it across the plain.</l>
+	     </lg>
+
+	     <lg type="stanza">
+	       <l>At dawn, behold! the pall of night was gone,</l>
+	       <l>Save where a few shrubs melancholy, lone,</l>
+	       <l>Detained a fragile shadow. Golden-lipped</l>
+	       <l>The laughing grasses heaven's sweet wine sipped.</l>
+	     </lg>
+
+	     <lg type="stanza">
+	       <l>The sun rose smiling o'er the river's breast,</l>
+	       <l>And my soul, by his happy spirit blest,</l>
+	       <l>Soared like a bird to greet him in the sky,</l>
+	       <l>And drew out of his heart Eternity.</l>
+	     </lg>
 	   </lg>
 
 	   <pb n="35"/>
 	   
 	   <lg type="poem" xml:id="africa">
-	     <head>AFRICA</head>
+	     <head rend="caps">Africa</head>
 	     <l>The sun sought thy dim bed and brought forth <lb /> light,</l>
 	     <l>The sciences were sucklings at thy breast;</l>
 	     <l>When all the world was young in pregnant night</l>
@@ -1278,8 +1298,10 @@
 	   </lg>
 
 	   <pb n="36"/>
+
 	   <lg type="poem" xml:id="on-a-primitive-canoe">
-	     <head>ON A PRIMITIVE CANOE</head>
+	     <head rend="caps">On a Primitive Canoe</head>
+
 	     <l>Here, passing lonely down this quiet lane,</l>
 	     <l>Before a mud-splashed window long I pause</l>
 	     <l>To gaze and gaze, while through my active brain</l>
@@ -1297,14 +1319,17 @@
 	   </lg>	   
 
 	   <pb n="37" />
+
 	   <lg type="poem" xml:id="winter-in-the-country">
-	     <head>WINTER IN THE COUNTRY</head>
+	     <head rend="caps">Winter in the Country</head>
+
 	     <lg type="stanza">
 	       <l>Sweet life! how lovely to be here</l>
 	       <l rend="indent(1em)">And feel the soft sea-laden breeze</l>
 	       <l>Strike my flushed face, the spruce's fair</l>
 	       <l rend="indent(1em)">Free limbs to see, the lesser trees'</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>Bare hands to touch, the sparrow's cheep</l>
 	       <l rend="indent(1em)">To heed, and watch his nimble flight</l>
@@ -1341,8 +1366,10 @@
 	   </lg>
 
 	   <pb n="39" />
+	   
 	   <lg type="poem" xml:id="to-winter">
-	     <head>TO WINTER</head>
+	     <head rend="caps">To Winter</head>
+
 	     <l>Stay, season of calm love and soulful snows!</l>
 	     <l>There is a subtle sweetness in the sun,</l>
 	     <l>The ripples on the stream's breast gaily run,</l>
@@ -1360,9 +1387,11 @@
 	   </lg>
 
 	   <pb n="40" />
+
 	   <lg type="poem" xml:id="spring-in-new-hampshire">
-	     <head>SPRING IN NEW HAMPSHIRE</head>
+	     <head rend="caps">Spring in New Hampshire</head>
 	     <head type="dedication" rend="italics">(To J. L. J. F. E.)</head>
+
 	     <lg type="stanza">
 	       <l>Too green the springing April grass,</l>
 	       <l rend="indent(1em)">Too blue the silver-speckled sky,</l>
@@ -1371,6 +1400,7 @@
 	       <l>Wasting the golden hours indoors,</l>
 	       <l>Washing windows and scrubbing floors.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>Too wonderful the April night,</l>
 	       <l rend="indent(1em)">Too faintly sweet the first May flowers,</l>
@@ -1382,8 +1412,10 @@
 	   </lg>
 
 	   <pb n="41" />
+
 	   <lg type="poem" xml:id="on-the-road">
-	     <head>ON THE ROAD</head>
+	     <head rend="caps">On the Road</head>
+
 	     <l>Roar of the rushing train fearfully rocking,</l>
 	     <l>Impatient people jammed in line for food,</l>
 	     <l>The rasping noise of cars together knocking,</l>
@@ -1403,9 +1435,9 @@
 	   <pb n="42" />
 	   
 	   <lg type="poem" xml:id="the-harlem-dancer">
-	     <head>THE HARLEM DANCER</head>
+	     <head rend="caps">The Harlem Dancer</head>
 	     <l>Applauding youths laughed with young prostitutes</l>
-	     <l>And watched her perfect, half -clothed body sway;</l>
+	     <l>And watched her perfect, half-clothed body sway;</l>
 	     <l>Her voice was like the sound of blended flutes</l>
 	     <l>Blown by black players upon a picnic day.</l>
 	     <l>She sang and danced on gracefully and calm,</l>
@@ -1423,7 +1455,8 @@
 	   <pb n="43" />
 
 	   <lg type="poem" xml:id="dawn-in-new-york">
-	     <head>DAWN IN NEW YORK</head>
+	     <head rend="caps">Dawn in New York</head>
+
 	     <l>The Dawn! The Dawn! The crimson-tinted, <lb /> comes</l>
 	     <l>Out of the low still skies, over the hills,</l>
 	     <l>Manhattan's roofs and spires and cheerless domes!</l>
@@ -1443,12 +1476,13 @@
 	   <pb n="44" />
 
 	   <lg type="poem" xml:id="the-tired-worker">
-	     <head>THE TIRED WORKER</head>
+	     <head rend="caps">The Tired Worker</head>
+
 	     <l>O whisper, O my soul! The afternoon</l>
 	     <l>Is waning into evening, whisper soft!</l>
 	     <l>Peace, O my rebel heart! for soon the moon</l>
 	     <l>From out its misty veil will swing aloft!</l>
-	     <l>Be patient, weary body ; soon the night</l>
+	     <l>Be patient, weary body, soon the night</l>
 	     <l>Will wrap thee gently in her sable sheet,</l>
 	     <l>And with a leaden sigh thou wilt invite</l>
 	     <l>To rest thy tired hands and aching feet.</l>
@@ -1463,10 +1497,11 @@
 	   <pb n="45" />
 
 	   <lg type="poem" xml:id="outcast">
-	     <head>OUTCAST</head>
+	     <head rend="caps">Outcast</head>
+
 	     <l>For the dim regions whence my fathers came</l>
 	     <l>My spirit, bondaged by the body, longs.</l>
-	     <l>Words felt, but never heard, my lips would frame ;</l>
+	     <l>Words felt, but never heard, my lips would frame;</l>
 	     <l>My soul would sing forgotten jungle songs.</l>
 	     <l>I would go back to darkness and to peace,</l>
 	     <l>But the great western world holds me in fee,</l>
@@ -1484,7 +1519,7 @@
 	   <pb n="46"/>
 
 	   <lg type="poem" xml:id="i-know-my-soul">
-	     <head>I KNOW MY SOUL</head>
+	     <head rend="caps">I Know My Soul</head>
 	     <l>I plucked my soul out of its secret place,</l>
 	     <l>And held it to the mirror of my eye,</l>
 	     <l>To see it like a star against the sky,</l>
@@ -1504,7 +1539,7 @@
 	   <pb n="47"/>
 
 	   <lg type="poem" xml:id="birds-of-prey">
-	     <head>BIRDS OF PREY</head>
+	     <head rend="caps">Birds of Prey</head>
 	     <l>Their shadow dims the sunshine of our day,</l>
 	     <l>As they go lumbering across the sky,</l>
 	     <l>Squawking in joy of feeling safe on high.</l>
@@ -1512,7 +1547,7 @@
 	     <l>They scare the singing birds of earth away</l>
 	     <l>As, greed-impelled, they circle threateningly,</l>
 	     <l>Watching the toilers with malignant eye,</l>
-	     <l>From their exclusive haven — birds of prey..</l>
+	     <l>From their exclusive haven—birds of prey.</l>
 	     <l>They swoop down for the spoil in certain might,</l>
 	     <l>And fasten in our bleeding flesh their claws.</l>
 	     <l>They beat us to surrender weak with fright,</l>
@@ -1524,14 +1559,14 @@
 	   <pb n="48"/>
 
 	   <lg type="poem" xml:id="the-castaways">
-	     <head>THE CASTAWAYS</head>
+	     <head rend="caps">The Castaways</head>
 	     <l>The vivid grass with visible delight</l>
 	     <l>Springing triumphant from the pregnant earth,</l>
 	     <l>The butterflies, and sparrows in brief flight</l>
 	     <l>Chirping and dancing for the season's birth,</l>
 	     <l>The dandelions and rare daffodils</l>
 	     <l>That touch the deep-stirred heart with hands of <lb /> gold,</l>
-	     <l>The thrushes sending forth their joyous trills, —</l>
+	     <l>The thrushes sending forth their joyous trills,—</l>
 	     <l>Not these, not these did I at first behold!</l>
 	     <l>But seated on the benches daubed with green,</l>
 	     <l>The castaways of life, a few asleep,</l>
@@ -1544,7 +1579,8 @@
 	   <pb n="49"/>
 
 	   <lg type="poem" xml:id="exhortation-summer-1919">
-	     <head>EXHORTATION: SUMMER, 1919</head>
+	     <head rend="caps">Exhortation: Summer, 1919</head>
+
 	     <lg type="stanza">
 	       <l>Through the pregnant universe rumbles life's <lb /> terrific thunder,</l>
 	       <l rend="indent(1em)">And Earth's bowels quake with terror; strange <lb /> and terrible storms break,</l>
@@ -1559,27 +1595,27 @@
 	       <l>For the new birth rends the old earth and the <lb /> very dead are waking,</l>
 	       <l rend="indent(1em)">Ghosts are turned flesh, throwing off the grave's <lb /> disguise,</l>
 	       <l rend="indent(1em)">And the foolish, even children, are made wise;</l>
-	       <l>For the big earth groans in travail for the strong, <lb /> new world in making —</l>
+	       <l>For the big earth groans in travail for the strong, <lb /> new world in making—</l>
 	       <pb n="50" />
 	       <l rend="indent(1em)">O my brothers, dreaming for dim centuries,</l>
 	       <l rend="indent(1em)">Wake from sleeping; to the East turn, turn <lb /> your eyes!</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>Oh the night is sweet for sleeping, but the shin-<lb />ing day's for working;</l>
+	       <l>Oh the night is sweet for sleeping, but the shining <lb /> day's for working;</l>
 	       <l rend="indent(1em)">Sons of the seductive night, for your children's <lb /> children's sake,</l>
-	       <l>From the deep primeval forests where the crouch-<lb />ing leopard's lurking,</l>
+	       <l>From the deep primeval forests where the crouching <lb /> leopard's lurking,</l>
 	       <l rend="indent(1em)">Lift your heavy-lidded eyes, Ethiopia! awake!</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>In the East the clouds glow crimson with the new <lb /> dawn that is breaking,</l>
-	       <l rend="indent(1em)">And its golden, glory fills the western skies.</l>
+	       <l rend="indent(1em)">And its golden glory fills the western skies.</l>
 	       <l rend="indent(1em)">O my brothers and my sisters, wake! arise!</l>
 	       <l>For the new birth rends the old earth and the <lb /> very dead are waking,</l>
 	       <l rend="indent(1em)">Ghosts are turned flesh, throwing off the <lb /> grave's disguise,</l>
 	       <l rend="indent(1em)">And the foolish, even children, are made wise;</l>
-	       <l>For the big earth groans in travail for the strong, <lb /> new world in making —</l>
+	       <l>For the big earth groans in travail for the strong, <lb /> new world in making—</l>
 	       <l rend="indent(1em)">O my brothers, dreaming for long centuries,</l>
 	       <l rend="indent(1em)">Wake from sleeping; to the East turn, turn <lb /> your eyes!</l>
 	     </lg>
@@ -1588,11 +1624,12 @@
 	   <pb n="51"/>
 
 	   <lg type="poem" xml:id="the-lynching">
-	     <head>THE LYNCHING</head>
+	     <head rend="caps">The Lynching</head>
+
 	     <l>His Spirit in smoke ascended to high heaven.</l>
 	     <l>His father, by the crudest way of pain,</l>
 	     <l>Had bidden him to his bosom once again;</l>
-	     <l>The awful sin remained still un forgiven.</l>
+	     <l>The awful sin remained still unforgiven.</l>
 	     <l>All night a bright and solitary star</l>
 	     <l>(Perchance the one that ever guided him,</l>
 	     <l>Yet gave him up at last to Fate's wild whim)</l>
@@ -1608,10 +1645,11 @@
 	   <pb n="52" />
 
 	   <lg type="poem" xml:id="baptism">
-	     <head>BAPTISM</head>
+	     <head rend="caps">Baptism</head>
+
 	     <l>Into the furnace let me go alone;</l>
 	     <l>Stay you without in terror of the heat.</l>
-	     <l>I will go naked in — for thus 'tis sweet —</l>
+	     <l>I will go naked in—for thus 'tis sweet—</l>
 	     <l>Into the weird depths of the hottest zone.</l>
 	     <l>I will not quiver in the frailest bone,</l>
 	     <l>You will not note a flicker of defeat;</l>
@@ -1628,7 +1666,8 @@
 	   <pb n="53" />
 
 	   <lg type = "poem" xml:id="if-we-must-die">
-	     <head>IF WE MUST DIE</head>
+	     <head rend="caps">If We Must Die</head>
+
 	     <l>If we must die, let it not be like hogs</l>
 	     <l>Hunted and penned in an inglorious spot,</l>
 	     <l>While round us bark the mad and hungry dogs,</l>
@@ -1648,25 +1687,24 @@
 	   <pb n="54" />
 
 	   <lg type = "poem" xml:id="subway-wind">
-	     <head>SUBWAY WIND</head>
+	     <head rend="caps">Subway Wind</head>
 	     <l>Far down, down through the city's great, gaunt <lb /> gut</l>
-	     <l>The gray train rushing bears the weary wind;</l>
+	     <l rend="indent(1em)">The gray train rushing bears the weary wind;</l>
 	     <l>In the packed cars the fans the crowd's breath <lb /> cut,</l>
-	     <l>Leaving the sick and heavy air behind.</l>
+	     <l rend="indent(1em)">Leaving the sick and heavy air behind.</l>
 	     <l>And pale-cheeked children seek the upper door</l>
-	     <l>To give their summer jackets to the breeze;</l>
+	     <l rend="indent(1em)">To give their summer jackets to the breeze;</l>
 	     <l>Their laugh is swallowed in the deafening roar</l>
-	     <l>Of captive wind that moans for fields and seas;</l>
+	     <l rend="indent(1em)">Of captive wind that moans for fields and seas;</l>
 	     <l>Seas cooling warm where native schooners drift</l>
-	     <l>Through sleepy waters, while gulls wheel and <lb /> sweep,</l>
+	     <l rend="indent(1em)">Through sleepy waters, while gulls wheel and <lb /> sweep,</l>
 	     <l>Waiting for windy waves the keels to lift</l>
-	     <l>Lightly among the islands of the deep;</l>
+	     <l rend="indent(1em)">Lightly among the islands of the deep;</l>
 	     <l>Islands of lofty palm trees blooming white</l>
-	     <l>That lend their perfume to the tropic sea,</l>
+	     <l rend="indent(1em)">That lend their perfume to the tropic sea,</l>
 	     <l>Where fields lie idle in the dew drenched night,</l>
-	     <l>And the Trades float above them fresh and <lb /> free.</l>
+	     <l rend="indent(1em)">And the Trades float above them fresh and <lb /> free.</l>
 	   </lg>
-
 
 	   <pb n="55" />
 
