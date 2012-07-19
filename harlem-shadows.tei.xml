@@ -6,17 +6,33 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Claude McKay's <title level="m">Harlem Shadows</title>: An Electronic Edition</title>
+            <title>An Electronic Facsimile of the 1922 of Claude McKay's <title level="m">Harlem Shadows</title></title>
             <author role="primary">Claude McKay</author>
             <author role="editor">Max Eastman</author>
             <principal>Chris Forster</principal>
          </titleStmt>
          <publicationStmt>
 	   <p>Claude McKay's Harlem Shadows, because of age, is in the public domain. This encoding is published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</ref>.</p>
+	   <p>Inspired by <ref target="http://piez.org/wendell/projects/buechlein">Wendell Piez's XSLT pipeline</ref>, this edition was generated from the plain text version
+	   distributed freely through archive.org: see <ref target="http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt">http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt</ref> and then improved manually.</p>
          </publicationStmt>
          <sourceDesc>
-	   <p>Upconverted via <ref target="">Wendell Piez's XSLT pipeline</ref> from a plain text version
-	   distributed freely through archive.org: see <ref target="http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt">http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt</ref> and then improved manually.</p>
+	   <listWit>
+
+	     <witness xml:id="HS">
+	       <bibl>
+		 <author>McKay, Claude</author>, <title>Harlem Shadows</title>. <pubPlace>New York</pubPlace>: <publisher>Harcourt, Brace, and Company</publisher>, <date when="1922">1922</date>.
+	       </bibl>
+	     </witness>
+
+	     <witness xml:id="SINH">
+	       <bibl>
+		 <author>McKay, Claude</author>, <title>Spring in New Hampshire</title>. <pubPlace>London</pubPlace>: <publisher>Grant Richards Ltd.</publisher>, <date when="1920">1920</date>.
+	       </bibl>
+	     </witness>
+
+	   </listWit>
+
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -39,13 +55,8 @@
 
 	  <pb />
 	  <div>
-	    <div type="copyright statement">
-	      <docImprint>Copyright, <docDate>1922</docDate> by <lb /> Harcourt, Brace and Company, INC.</docImprint>
-	    </div>
-
-	    <div type="printing statement">
-	      <docImprint>Printed in the U.S.A. by <lb /> The Quinn &amp; Boden Company <lb /> Rahway, N. J.</docImprint>
-	    </div>
+	      <p>Copyright, 1922 by <lb /> Harcourt, Brace and Company, INC.</p>
+	      <p>Printed in the U.S.A. by <lb /> The Quinn &amp; Boden Company <lb /> Rahway, N. J.</p>
 	  </div>
 
 	  <pb />
@@ -506,13 +517,19 @@
 
 	    <signed><name rend="smallcaps">Claude McKay.</name></signed> 
 	  </div>
+
+	  <pb />
+
 	  <div type="half-title">
-	    <title rend="caps">Harlem Shadows</title>
+	    <head><title rend="caps">Harlem Shadows</title></head>
 	  </div>
+	  
 	</front>  
+
+	<pb n="3" />
+	
    	<body>
-   	<div>
-	    <pb n="3" />
+	  
 	    <lg type="poem" xml:id="the-easter-flower">
 	      <head rend="caps">The Easter Flower</head>
 	      <lg type="stanza">
@@ -522,7 +539,7 @@
 		<l rend="indent(1em)">Soft-scented in the air for yards around;</l>
 	      </lg>
 	      <lg type="stanza">
-		<l>Alone, without a hint of guardian leaf!</l>
+		<l>Alone, without a hint of guardian leaf!		</l>
 		<l rend="indent(1em)">Just like a fragile bell of silver rime,</l>
 		<l>It burst the tomb for freedom sweet and brief</l>
 		<l rend="indent(1em)">In the young pregnant year at Eastertime;</l>
@@ -2627,8 +2644,6 @@
 	     </lg>
 
 	   </lg>
-
-	 </div>
        </body>
    </text>
 </TEI>
