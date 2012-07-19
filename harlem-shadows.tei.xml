@@ -780,7 +780,7 @@
 	     <lg type="stanza">
 	       <l>I must not see upon your face</l>
 	       <l rend="indent(1em)">Love's softly glowing spark;</l>
-	       <l>For there's the barrier of race,</l>a
+	       <l>For there's the barrier of race,</l>
 	       <l rend="indent(1em)">You're fair and I am dark.</l>
 	     </lg>
 	   </lg>
@@ -794,12 +794,14 @@
 	       <l>Pink-white in prayer, and 'neath the floating moon</l>
 	       <l rend="indent(1em)">I lay with them in calm and sweet repose.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>And in the open spaces I could sleep,</l>
 	       <l rend="indent(1em)">Half-naked to the shining worlds above;</l>
 	       <l>Peace came with sleep and sleep was long and <lb /> deep,</l>
 	       <l rend="indent(1em)">Gained without effort, sweet like early love.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>But now no balm—nor drug nor weed nor wine—</l>
 	       <l rend="indent(1em)">Can bring true rest to cool my body's fever,</l>
@@ -1174,7 +1176,7 @@
 	       <l>And suddenly some secret spring's released,</l>
 	       <l rend="indent(1em)">And unawares a riddle is revealed,</l>
 	       <l>And I can read like large, black-lettered print,</l>
-	       <l rend="indent(1em)">What seemed before a thing forever sealed.</l>a
+	       <l rend="indent(1em)">What seemed before a thing forever sealed.</l>
 	     </lg>
 
 	     <lg type="stanza">
