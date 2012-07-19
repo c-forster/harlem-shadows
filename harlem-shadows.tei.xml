@@ -15,7 +15,7 @@
 	   <p>Claude McKay's Harlem Shadows, because of age, is in the public domain. This encoding is published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</ref>.</p>
          </publicationStmt>
          <sourceDesc>
-	   <p>Upconverted via <ref target="">Wendell Piez's XSLT pipeline</ref> from a plain text version
+	   <p>Upconverted via <ref target="http://piez.org/wendell/projects/buechlein">Wendell Piez's XSLT pipeline</ref> from a plain text version
 	   distributed freely through archive.org: see <ref target="http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt">http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt</ref> and then improved manually.</p>
          </sourceDesc>
       </fileDesc>
@@ -39,13 +39,9 @@
 
 	  <pb />
 	  <div>
-	    <div type="copyright statement">
-	      <docImprint>Copyright, <docDate>1922</docDate> by <lb /> Harcourt, Brace and Company, INC.</docImprint>
-	    </div>
+	    <p>Copyright, 1922 by <lb /> Harcourt, Brace and Company, INC.</p>
+	    <p>Printed in the U.S.A. by <lb /> The Quinn &amp; Boden Company <lb /> Rahway, N. J.</p>
 
-	    <div type="printing statement">
-	      <docImprint>Printed in the U.S.A. by <lb /> The Quinn &amp; Boden Company <lb /> Rahway, N. J.</docImprint>
-	    </div>
 	  </div>
 
 	  <pb />
@@ -507,7 +503,7 @@
 	    <signed><name rend="smallcaps">Claude McKay.</name></signed> 
 	  </div>
 	  <div type="half-title">
-	    <title rend="caps">Harlem Shadows</title>
+	    <head rend="caps">Harlem Shadows</head>
 	  </div>
 	</front>  
    	<body>
@@ -763,7 +759,7 @@
 	     <lg type="stanza">
 	       <l>I must not see upon your face</l>
 	       <l rend="indent(1em)">Love's softly glowing spark;</l>
-	       <l>For there's the barrier of race,</l>a
+	       <l>For there's the barrier of race,</l>
 	       <l rend="indent(1em)">You're fair and I am dark.</l>
 	     </lg>
 	   </lg>
@@ -1157,7 +1153,7 @@
 	       <l>And suddenly some secret spring's released,</l>
 	       <l rend="indent(1em)">And unawares a riddle is revealed,</l>
 	       <l>And I can read like large, black-lettered print,</l>
-	       <l rend="indent(1em)">What seemed before a thing forever sealed.</l>a
+	       <l rend="indent(1em)">What seemed before a thing forever sealed.</l>
 	     </lg>
 
 	     <lg type="stanza">
