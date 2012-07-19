@@ -1709,7 +1709,7 @@
 	   <pb n="55" />
 
 	   <lg type = "poem" xml:id="the-night-fire">
-	     <head>THE NIGHT FIRE</head>
+	     <head rend="caps">The Night Fire</head>
 	     <l>No engines shrieking rescue storm the night,</l>
 	     <l>And hose and hydrant cannot here avail;</l>
 	     <l>The flames laugh high and fling their challenging <lb /> light,</l>
@@ -1729,7 +1729,8 @@
 	   <pb n="56" />
 
 	   <lg type = "poem" xml:id="poetry">
-	     <head>POETRY</head>
+	     <head rend="caps">Poetry</head>
+
 	     <l>Sometimes I tremble like a storm-swept flower,</l>
 	     <l>And seek to hide my tortured soul from thee.</l>
 	     <l>Bowing my head in deep humility</l>
@@ -1738,9 +1739,9 @@
 	     <l>As from the specter of pursuing death;</l>
 	     <l>Intimidated lest thy mighty breath,</l>
 	     <l>Windways, will sweep me into utter night.</l>
-	     <l>For oh, I fear they will be swallowed up —</l>
+	     <l>For oh, I fear they will be swallowed up—</l>
 	     <l>The loves which are to me of vital worth,</l>
-	     <l>My passion and my pleasure in the earth —</l>
+	     <l>My passion and my pleasure in the earth—</l>
 	     <l>And lost forever in thy magic cup!</l>
 	     <l>I fear, I fear my truly human heart</l>
 	     <l>Will perish on the altar-stone of art!</l>
@@ -1749,19 +1750,22 @@
 	   <pb n="57" />
 
 	   <lg type = "poem" xml:id="to-a-poet">
-	     <head>TO A POET</head>
+	     <head rend="caps">To a Poet</head>
+
 	     <lg type="stanza">
 	       <l>There is a lovely noise about your name,</l>
 	       <l rend="indent(1em)">Above the shoutings of the city clear,</l>
 	       <l>More than a moment's merriment, whose claim</l>
 	       <l rend="indent(1em)">Will greater grow with every mellowed year.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>The people will not bear you down the street,</l>
 	       <l rend="indent(1em)">Dancing to the strong rhythm of your words,</l>
 	       <l>The modern kings will throttle you to greet</l>
 	       <l rend="indent(1em)">The piping voice of artificial birds.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>But the rare lonely spirits, even mine,</l>
 	       <l rend="indent(1em)">Who love the immortal music of all days,</l>
@@ -1773,24 +1777,30 @@
 	   <pb n="58" />
 
 	   <lg type = "poem" xml:id="a-prayer">
-	     <head>A PRAYER</head>
+	     <head rend="caps">A Prayer</head>
+
 	     <lg type="stanza">
 	       <l>'Mid the discordant noises of the day I hear thee <lb /> calling;</l>
 	       <l>I stumble as I fare along Earth's way; keep me <lb /> from falling.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>Mine eyes are open but they cannot see for gloom <lb /> of night;</l>
-	       <l>I can no more than lift my heart to thee for in-<lb />ward light.</l>
+	       <l>I can no more than lift my heart to thee for inward <lb /> light.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>The wild and fiery passion of my youth consumes <lb /> my soul;</l>
 	       <l>In agony I turn to thee for truth and self-control.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>For Passion and all the pleasures it can give will <lb /> die the death;</l>
 	       <l>But this of me eternally must live, thy borrowed <lb /> breath.</l>
 	     </lg>
+
 	     <pb n="59" />
+
 	     <lg type="stanza">
 	       <l>'Mid the discordant noises of the day I hear thee <lb /> calling;</l>
 	       <l>I stumble as I fare along Earth's way; keep me <lb /> from falling.</l>
@@ -1801,16 +1811,17 @@
 	   <pb n="60" />
 
 	   <lg type = "poem" xml:id="when-dawn-comes-to-the-city">
-	     <head>WHEN DAWN COMES TO THE CITY</head>
+	     <head rend="caps">When Dawn Comes to the City</head>
+
 	     <lg type="stanza">
-	       <l>The tired cars go grumbling by,</l>
-	       <l rend="indent(1em)">The moaning, groaning cars,</l>
-	       <l>And the old milk carts go rumbling by</l>
-	       <l rend="indent(1em)">Under the same dull stars.</l>
-	       <l>Out of the tenements, cold as stone,</l>
-	       <l rend="indent(1em)">Dark figures start for work;</l>
-	       <l>I watch them sadly shuffle on,</l>
-	       <l rend="indent(1em)">'Tis dawn, dawn in New York.</l>
+	       <l rend="indent(1em)">The tired cars go grumbling by,</l>
+	       <l rend="indent(2em)">The moaning, groaning cars,</l>
+	       <l rend="indent(1em)">And the old milk carts go rumbling by</l>
+	       <l rend="indent(2em)">Under the same dull stars.</l>
+	       <l rend="indent(1em)">Out of the tenements, cold as stone,</l>
+	       <l rend="indent(2em)">Dark figures start for work;</l>
+	       <l rend="indent(1em)">I watch them sadly shuffle on,</l>
+	       <l rend="indent(2em)">'Tis dawn, dawn in New York.</l>
 	     </lg>
 
 	     <lg type="stanza">
@@ -1823,40 +1834,16 @@
 	       <l rend="indent(1em)">And the tethered cow is lowing, lowing, lowing,</l>
 	       <l>And dear old Ned is braying, braying, braying,</l>
 	       <l>And the shaggy Nannie goat is calling, calling, <lb /> calling</l>
+
 	       <pb n="61" />
+
 	       <l rend="indent(1em)">From her little trampled corner of the long <lb /> wide lea</l>
 	       <l>That stretches to the waters of the hill-stream <lb /> falling</l>
 	       <l rend="indent(2em)">Sheer upon the flat rocks joyously!</l>
 	       <l rend="indent(2em)">There, oh there ! on the island of the sea,</l>
 	       <l rend="indent(3em)">There I would be at dawn.</l>
 	     </lg>
-	     <lg type="stanza">
-	       <l>The tired cars go grumbling by,</l>
-	       <l rend="indent(1em)">The crazy, lazy cars,</l>
-	       <l>And the same milk carts go rumbling by</l>
-	       <l rend="indent(1em)">Under the dying stars.</l>
-	       <l>A lonely newsboy hurries by,</l>
-	       <l rend="indent(1em)">Humming a recent ditty;</l>
-	       <l>Red streaks strike through the gray of the sky,</l>
-	       <l rend="indent(1em)">The dawn comes to the city.</l>
-	     </lg>
-	     <lg type="stanza">
-	       <l rend="indent(2em)">But I would be on the island of the sea,</l>
-	       <l rend="indent(2em)">In the heart of the island of the sea,</l>
-	       <l rend="indent(1em)">Where the cocks are crowing, crowing, crowing,</l>
-	       <l rend="indent(1em)">And the hens are cackling in the rose-apple tree,</l>
-	       <l>Where the old draft-horse is neighing, neighing, <lb /> neighing</l>
-	       <l rend="indent(2em)">Out on the brown dew-silvered lawn,</l>
-	       <l rend="indent(1em)">And the tethered cow is lowing, lowing, lowing,</l>
-	       <pb n="62" />
-	       <l rend="indent(1em)">And dear old Ned is braying, braying, braying,</l>
-	       <l rend="indent(1em)">And the shaggy Nannie goat is calling, calling, <lb /> calling</l>
-	       <l rend="indent(2em)">From her little trampled corner of the long <lb /> wide lea</l>
-	       <l rend="indent(1em)">That stretches to the waters of the hill-stream <lb /> falling</l>
-	       <l rend="indent(2em)">Sheer upon the flat rocks joyously!</l>
-	       <l rend="indent(2em)">There, oh there! on the island of the sea,</l>
-	       <l rend="indent(3em)">There I would be at dawn.</l>
-	     </lg>
+
 	     <lg type="stanza">
 	       <l rend="indent(1em)">The tired cars go grumbling by,</l>
 	       <l rend="indent(2em)">The crazy, lazy cars,</l>
@@ -1876,22 +1863,26 @@
 	       <l>Where the old draft-horse is neighing, neighing, <lb /> neighing</l>
 	       <l rend="indent(2em)">Out on the brown dew-silvered lawn,</l>
 	       <l rend="indent(1em)">And the tethered cow is lowing, lowing, lowing,</l>
+
 	       <pb n="62" />
+
 	       <l rend="indent(1em)">And dear old Ned is braying, braying, braying,</l>
 	       <l rend="indent(1em)">And the shaggy Nannie goat is calling, calling, <lb /> calling</l>
 	       <l rend="indent(2em)">From her little trampled corner of the long <lb /> wide lea</l>
 	       <l rend="indent(1em)">That stretches to the waters of the hill-stream <lb /> falling</l>
-	       <l rend="indent(3em)">Sheer upon the flat rocks joyously!</l>
-	       <l rend="indent(3em)">There, oh there! on the island of the sea,</l>
-	       <l rend="indent(4em)">There I would be at dawn.</l>
+	       <l rend="indent(2em)">Sheer upon the flat rocks joyously!</l>
+	       <l rend="indent(2em)">There, oh there! on the island of the sea,</l>
+	       <l rend="indent(3em)">There I would be at dawn.</l>
 	     </lg>
 	   </lg>
 
 	   <pb n="63" />
+
 	   <lg type="poem" xml:id="o-word-i-love-to-sing">
-	     <head>O WORD I LOVE TO SING</head>
+	     <head rend="caps">O Word I Love to Sing</head>
+
 	     <lg type="stanza">
-	       <l>O word I love to sing ! thou art too tender</l>
+	       <l>O word I love to sing! thou art too tender</l>
 	       <l rend="indent(1em)">For all the passions agitating me;</l>
 	       <l>For all my bitterness thou art too tender,</l>
 	       <l rend="indent(1em)">I cannot pour my red soul into thee.</l>
@@ -1915,35 +1906,40 @@
 	   <pb n="64" />
 
 	   <lg type="poem" xml:id="absence">
-	     <head>ABSENCE</head>
+	     <head rend="caps">Absence</head>
 
 	     <lg type="stanza">
 	       <l>Your words dropped into my heart like pebbles <lb /> into a pool,</l>
 	       <l>Rippling around my breast and leaving it melting <lb /> cool.</l>
 	     </lg>
 
-
 	     <lg type="stanza">
 	       <l>Your kisses fell sharp on my flesh like dawn-dews <lb /> from the limb,</l>
 	       <l>Of a fruit-filled lemon tree when the day is young <lb /> and dim.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>Like soft rain-christened sunshine, as fragile as <lb /> rare gold lace,</l>
 	       <l>Your breath, sweet-scented and warm, has kindled <lb /> my tranquil face.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>But a silence vasty-deep, oh deeper than all these <lb /> ties</l>
-	       <l>Now, through the menacing miles, brooding <choice><orig>be-<lb />tween</orig><corr>between</corr></choice> us lies.</l>
+	       <l>Now, through the menacing miles, brooding between <lb /> us lies.</l>
 	     </lg>
+
 	     <pb n="65" />
+
 	     <lg type="stanza">
 	       <l>And more than the songs I sing, I await your <lb /> written word,</l>
 	       <l>To stir my fluent blood as never your presence <lb /> stirred.</l>
 	     </lg>
 	   </lg>
 
+	   <pb n="66" />
+	   
 	   <lg type="poem" xml:id="summer-morn-in-new-hampshire">
-	     <head>SUMMER MORN IN NEW HAMPSHIRE</head>
+	     <head rend="caps">Summer Morn in New Hampshire</head>
 	     <lg type="stanza">
 	       <l>All yesterday it poured, and all night long</l>
 	       <l rend="indent(1em)">I could not sleep; the rain unceasing beat</l>
@@ -1967,24 +1963,27 @@
 	     </lg>
 	   </lg>
 
-	   <pb n="66" />	   
+	   <pb n="67" />	   
 
 	   <lg type="poem" xml:id="rest-in-peace">
-	     <head>REST IN PEACE</head>
+	     <head rend="caps">Rest in Peace</head>
+
 	     <lg type="stanza">
 	       <l>No more for you the city's thorny ways,</l>
 	       <l rend="indent(1em)">The ugly corners of the Negro belt;</l>
 	       <l>The miseries and pains of these harsh days</l>
 	       <l rend="indent(1em)">By you will never, never again be felt.</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>No more, if still you wander, will you meet</l>
 	       <l rend="indent(1em)">With nights of unabating bitterness;</l>
 	       <l>They cannot reach you in your safe retreat,</l>
 	       <l rend="indent(1em)">The city's hate, the city's prejudice!</l>
 	     </lg>
+
 	     <lg type="stanza">
-	       <l>'Twas sudden — but your menial task is done,</l>
+	       <l>'Twas sudden—but your menial task is done,</l>
 	       <l rend="indent(1em)">The dawn now breaks on you, the dark is over,</l>
 	       <l>The sea is crossed, the longed-for port is won;</l>
 	       <l rend="indent(1em)">Farewell, oh, fare you well! my friend and <lb /> lover.</l>
@@ -1992,8 +1991,9 @@
 	   </lg>
 
 	   <pb n="68" />
+
 	   <lg type="poem" xml:id="a-red-flower">
-	     <head>A RED FLOWER</head>
+	     <head rend="caps">A Red Flower</head>
 
 	     <lg type="stanza">
 	       <l>Your lips are like a southern lily red,</l>
@@ -2037,7 +2037,7 @@
 	   <pb n="70" />
 
 	   <lg type="poem" xml:id="courage">
-	     <head>COURAGE</head>
+	     <head rend="caps">Courage</head>
 
 	     <lg type="stanza">
 	       <l>O lonely heart so timid of approach,</l>
@@ -2072,21 +2072,23 @@
 	   <pb n="71" />
 
 	   <lg type="poem" xml:id="to-oea">
-	     <head>TO O.E.A.</head>
+	     <head rend="caps">To O.E.A.</head>
 
 	     <l>Your voice is the color of a robin's breast,</l>
-	     <l rend="indent(1em)">And there's a sweet sob in it like rain — still <lb /> rain in the night.</l>
+	     <l rend="indent(1em)">And there's a sweet sob in it like rain—still <lb /> rain in the night.</l>
 	     <l>Among the leaves of the trumpet-tree, close to his <lb /> nest,</l>
 	     <l rend="indent(1em)">The pea-dove sings, and each note thrills me <lb /> with strange delight</l>
 	     <l>Like the words, wet with music, that well from <lb /> your trembling throat.</l>
-	     <l rend="indent(1em)">I'm afraid of your eyes, they're so bold,</l>
-	     <l rend="indent(1em)">Searching me through, reading my thoughts, <lb /> shining like gold.</l>
+	     <l rend="indent(2em)">I'm afraid of your eyes, they're so bold,</l>
+	     <l rend="indent(2em)">Searching me through, reading my thoughts, <lb /> shining like gold.</l>
 	     <l>But sometimes they are gentle and soft like the <lb /> dew on the lips of the eucharis</l>
 	     <l>Before the sun comes warm with his lover's kiss.</l>
-	     <l rend="indent(1em)">You are sea-foam, pure with the star's <choice><orig>love-<lb />liness</orig><reg>loveliness</reg></choice>,</l>
+	     <l rend="indent(1em)">You are sea-foam, pure with the star's <lb /> loveliness,</l>
 	     <l>Not mortal, a flower, a fairy, too fair for the <lb /> beauty-shorn earth.</l>
 	     <l>All wonderful things, all beautiful things, gave of <lb /> their wealth to your birth.</l>
+
 	     <pb n="72" />
+
 	     <l>Oh I love you so much, not recking of passion, <lb /> that I feel it is wrong!</l>
 	     <l rend="indent(1em)">But men will love you, flower, fairy, non-<lb />mortal spirit burdened with flesh,</l>
 	     <l>Forever, life-long.</l>
@@ -2095,7 +2097,7 @@
 	   <pb n="73" />
 
 	   <lg type="poem" xml:id="romance">
-	     <head>ROMANCE</head>
+	     <head rend="caps">Romance</head>
 
 	     <lg type="stanza">
 	       <l>To clasp you now and feel your head close-<lb />pressed,</l>
@@ -2135,7 +2137,7 @@
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>We know it is not true, but it is sweet —</l>
+	       <l>We know it is not true, but it is sweet—</l>
 	       <l>The poem with this music is complete.</l>
 	     </lg>
 
@@ -2144,9 +2146,10 @@
 	   <pb n="75" />
 
 	   <lg type="poem" xml:id="flower-of-love">
-	     <head>FLOWER OF LOVE</head>
+	     <head rend="caps">Flower of Love</head>
+
 	     <l>The perfume of your body dulls my sense.</l>
-	     <l rend="indent(1em)">I want nor wine nor weed ; your breath alone</l>
+	     <l rend="indent(1em)">I want nor wine nor weed; your breath alone</l>
 	     <l>Suffices. In this moment rare and tense</l>
 	     <l rend="indent(1em)">I worship at your breast. The flower is blown,</l>
 	     <l>The saffron petals tempt my amorous mouth,</l>
@@ -2157,17 +2160,20 @@
 	     <l rend="indent(1em)">Here let us linger indivisible.</l>
 	     <l>The portals of your sanctuary unseen</l>
 	     <l rend="indent(1em)">Receive my offering, yielding unto me.</l>
-	     <l>Oh, with our love the night is warm. and deep!</l>
+	     <l>Oh, with our love the night is warm and deep!</l>
 	     <l rend="indent(1em)">The air is sweet, my flower, and sweet the flute</l>
 	     <l>Whose music lulls our burning brain to sleep,</l>
 	     <l rend="indent(1em)">While we lie loving, passionate and mute.</l>
 	   </lg>
 
 	   <pb n="76" />
+
 	   <lg type="poem" xml:id="the-snow-fairy">
-	     <head>THE SNOW FAIRY</head>
+	     <head rend="caps">The Snow Fairy</head>
+
 	     <lg type="stanza">
 	       <head>I</head>
+
 	       <l>Throughout the afternoon I watched them there,</l>
 	       <l>Snow-fairies falling, falling from the sky,</l>
 	       <l>Whirling fantastic in the misty air,</l>
@@ -2183,12 +2189,16 @@
 	       <l>The sun shone brightly on them half the day,</l>
 	       <l>By night they stealthily had stol'n away.</l>
 	     </lg>
+	     
 	     <lg type="stanza">
 	       <head>II</head>
+	       
 	       <l>And suddenly my thoughts then turned to you</l>
 	       <l>Who came to me upon a winter's night,</l>
 	       <l>When snow-sprites round my attic window flew,</l>
+
 	       <pb n="77" />
+
 	       <l>Your hair disheveled, eyes aglow with light.</l>
 	       <l>My heart was like the weather when you came,</l>
 	       <l>The wanton winds were blowing loud and long;</l>
@@ -2207,7 +2217,8 @@
 	   <pb n="78" />
 	   
 	   <lg type="poem" xml:id="la-paloma-in-london">
-	     <head>LA PALOMA IN LONDON</head>
+	     <head rend="caps">La Paloma in London</head>
+
 	     <l>About Soho we went before the light;</l>
 	     <l>We went, unresting six, craving new fun,</l>
 	     <l>New scenes, new raptures, for the fevered night</l>
@@ -2215,7 +2226,7 @@
 	     <l>The vault was void, but for the dawn's great star</l>
 	     <l>That shed upon our path its silver flame,</l>
 	     <l>When La Paloma on a low guitar</l>
-	     <l>Abruptly from a darkened casement came —</l>
+	     <l>Abruptly from a darkened casement came—</l>
 	     <l>Harlem! All else shut out, I saw the hall,</l>
 	     <l>And you in your red shoulder sash come dancing</l>
 	     <l>With Val against me languid by the wall,</l>
@@ -2227,7 +2238,8 @@
 	   <pb n="79" />
 	   
 	   <lg type="poem" xml:id="a-memory-of-june">
-	     <head>A MEMORY OF JUNE</head>
+	     <head rend="caps">A Memory of June</head>
+
 	     <lg type="stanza">
 	       <l>When June comes dancing o'er the death of May,</l>
 	       <l rend="indent(1em)">With scarlet roses tinting her green breast,</l>
@@ -2236,8 +2248,8 @@
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>I always see the evening when we met —</l>
-	       <l rend="indent(1em)">The first of June baptized in tender rain —</l>
+	       <l>I always see the evening when we met—</l>
+	       <l rend="indent(1em)">The first of June baptized in tender rain—</l>
 	       <l>And walked home through the wide streets, <lb /> gleaming wet,</l>
 	       <l rend="indent(1em)">Arms locked, our warm flesh pulsing with <lb /> love's pain.</l>
 	     </lg>
@@ -2251,7 +2263,7 @@
 
 	     <lg type="stanza">
 	       <l>Where in the starlit stillness we lay mute,</l>
-	       <l>And heard the whispering showers all night long,</l>
+	       <l rend="indent(1em)">And heard the whispering showers all night long,</l>
 	       <l>And your brown burning body was a lute</l>
 	       <l>Whereon my passion played his fevered song.</l>
 	     </lg>
@@ -2264,13 +2276,13 @@
 	       <l>My soul takes leave of me to sing all day</l>
 	       <l rend="indent(1em)">A love so fugitive and so complete.</l>
 	     </lg>
-
 	   </lg>
 
 	   <pb n="81" />
 	   
 	   <lg type="poem" xml:id="flirtation">
-	     <head>FLIRTATION</head>
+	     <head rend="caps">Flirtation</head>
+
 	     <l>Upon thy purple mat thy body bare</l>
 	     <l rend="indent(1em)">Is fine and limber like a tender tree.</l>
 	     <l>The motion of thy supple form is rare,</l>
@@ -2284,7 +2296,7 @@
 	   <pb n="82" />
 	   
 	   <lg type="poem" xml:id="tormented">
-	     <head>TORMENTED</head>
+	     <head rend="caps">Tormented</head>
 
 	     <lg type="stanza">
 	       <l>I will not reason, wrestle here with you,</l>
@@ -2311,7 +2323,7 @@
 	   <pb n="83" />
 
 	   <lg type="poem" xml:id="polarity">
-	     <head>POLARITY</head>
+	     <head rend="caps">Polarity</head>
 
 	     <lg type="stanza">
 	       <l>Nay, why reproach each other, be unkind,</l>
@@ -2332,10 +2344,11 @@
 	   <pb n="84" />
 
 	   <lg type="poem" xml:id="one-year-after">
-	     <head>ONE YEAR AFTER</head>
+	     <head rend="caps">One Year After</head>
 
 	     <lg type="stanza">
 	       <head>I</head>
+
 	       <l>Not once in all our days of poignant love,</l>
 	       <l>Did I a single instant give to thee</l>
 	       <l>My undivided being wholly free.</l>
@@ -2354,14 +2367,17 @@
 
 	     <lg type="stanza">
 	       <head>II</head>
+
 	       <l>Adventure-seasoned and storm-buffeted,</l>
 	       <l>I shun all signs of anchorage, because</l>
 	       <l>The zest of life exceeds the bound of laws.</l>
+
 	       <pb n="85" />
+
 	       <l>New gales of tropic fury round my head</l>
 	       <l>Break lashing me through hours of soulful dread;</l>
 	       <l>But when the terror thins and, spent, withdraws,</l>
-	       <l>Leaving me wondering awhile, I pause —</l>
+	       <l>Leaving me wondering awhile, I pause—</l>
 	       <l>But soon again the risky ways I tread!</l>
 	       <l>No rigid road for me, no peace, no rest,</l>
 	       <l>While molten elements run through my blood;</l>
@@ -2371,11 +2387,10 @@
 	       <l>Like rivers of the Spring, lets loose its flood.</l>
 
 	     </lg>
-
 	   </lg>
 
 	   <lg type="poem" xml:id="french-leave">
-	     <head>FRENCH LEAVE</head>
+	     <head rend="caps">French Leave</head>
 
 	     <lg type="stanza">
 	       <l>No servile little fear shall daunt my will</l>
@@ -2419,7 +2434,7 @@
 	   <pb n="88" />
 
 	   <lg type="poem" xml:id="jasmines">
-	     <head>JASMINES</head>
+	     <head rend="caps">Jasmines</head>
 
 	     <l>Your scent is in the room.</l>
 	     <l>Swiftly it overwhelms and conquers me!</l>
@@ -2434,7 +2449,7 @@
 	     <l>The cold nude trees are tossing to and fro;</l>
 	     <l>Too stormy is the night for your fond face;</l>
 	     <l>For your low voice too loud the wind's mad roar.</l>
-	     <l>But oh, your scent is here — jasmines that grow</l>
+	     <l>But oh, your scent is here—jasmines that grow</l>
 	     <l>Luxuriant, clustered round your cottage door!</l>
 
 	   </lg>
@@ -2442,7 +2457,7 @@
 	   <pb n="89" />
 
 	   <lg type="poem" xml:id="commemoration">
-	     <head>COMMEMORATION</head>
+	     <head rend="caps">Commemoration</head>
 
 	     <lg type="stanza">
 	       <l>When first your glory shone upon my face</l>
@@ -2471,13 +2486,12 @@
 	       <l>Into a miracle of godlike grace,</l>
 	       <l rend="indent(1em)">Transfigured, bathed in your immortal flame.</l>
 	     </lg>
-
 	   </lg>
 
 	   <pb n="90" />
 
 	   <lg type="poem" xml:id="memorial">
-	     <head>MEMORIAL</head>
+	     <head rend="caps">Memorial</head>
 
 	     <lg type="stanza">
 	       <l>Your body was a sacred cell always,</l>
@@ -2525,7 +2539,7 @@
 	   </lg>
 
 	   <lg type="poem" xml:id="thirst">
-	     <head>THIRST</head>
+	     <head rend="caps">Thirst</head>
 
 	     <l>My spirit wails for water, water now!</l>
 	     <l>My tongue is aching dry, my throat is hot</l>
@@ -2547,7 +2561,7 @@
 	   <pb n="93" />
 
 	   <lg type="poem" xml:id="futility">
-	     <head>FUTILITY</head>
+	     <head rend="caps">Futility</head>
 
 	     <l>Oh, I have tried to laugh the pain away,</l>
 	     <l>Let new flames brush my love-springs like a <lb /> feather.</l>
@@ -2569,10 +2583,11 @@
 	   <pb n="94" />
 
 	   <lg type="poem" xml:id="through-agony">
-	     <head>THROUGH AGONY</head>
+	     <head rend="caps">Through Agony</head>
 
 	     <lg type="stanza">
 	       <head>I</head>
+
 	       <l>All night, through the eternity of night,</l>
 	       <l>Pain was my portion though I could not feel.</l>
 	       <l>Deep in my humbled heart you ground your heel,</l>
@@ -2591,10 +2606,13 @@
 
 	     <lg type="stanza">
 	       <head>II</head>
+
 	       <l>I do not fear to face the fact and say,</l>
 	       <l>How darkly-dull my living hours have grown,</l>
-	     	<l>My wounded heart sinks heavier than stone,</l>
+	       <l>My wounded heart sinks heavier than stone,</l>
+
 	       <pb n="95" />
+
 	       <l>Because I loved you longer than a day!</l>
 	       <l>I do not shame to turn myself away</l>
 	       <l>From beckoning flowers beautifully blown,</l>
