@@ -15,10 +15,25 @@
 	   <p>Claude McKay's Harlem Shadows, because of age, is in the public domain. This encoding is published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</ref>.</p>
          </publicationStmt>
          <sourceDesc>
-	   <p>Upconverted via <ref target="http://piez.org/wendell/projects/buechlein">Wendell Piez's XSLT pipeline</ref> from a plain text version
-	   distributed freely through archive.org: see <ref target="http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt">http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt</ref> and then improved manually.</p>
+	   <listWit>
+	     <witness xml:id="HS">
+	       <bibl>
+		 <author>McKay, Claude</author>, <title>Harlem Shadows</title>. <pubPlace>New York</pubPlace>: <publisher>Harcourt, Brace, and Company</publisher>, <date when="1922">1922</date>.
+	       </bibl>
+	     </witness>
+
+	     <witness xml:id="SINH">
+	       <bibl>
+		 <author>McKay, Claude</author>, <title>Spring in New Hampshire</title>. <pubPlace>London</pubPlace>: <publisher>Grant Richards Ltd.</publisher>, <date when="1920">1920</date>.
+	       </bibl>
+	     </witness>
+	   </listWit>
+
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+	<variantEncoding method="parallel-segmentation" location="internal" />
+      </encodingDesc>
    </teiHeader>
    <text>
      <pb n = "[]" facs="hs_ind_001.jpg hs_tor_003.jpg hs_pri_008.jpg hs_loc_005.jpg" />
@@ -586,12 +601,26 @@
 	   <pb n="7"/>
 
 	   <lg type="poem" xml:id="alfonso-dressing-to-wait-at-table">
-	     <head rend="caps">Alfonso, Dressing to Wait at Table</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-alfonso">
+		   <bibl>
+		     <title>Alfonso, Dressing to Wait at Table, Sings</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 13
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       <title>
+		 <app>
+		   <lem wit="#HS">Alfonso, Dressing to Wait at Table</lem>
+		   <rdg wit="SINH-alfonso">Alfonso, Dressing to Wait at Table, Sings</rdg>
+		 </app>
+	       </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>Alfonso is a handsome bronze-hued lad</l>
 	       <l rend="indent(1em)">Of subtly-changing and surprising parts;</l>
-	       <l>His moods are storms that frighten and make <lb /> glad,</l>
+	       <l>His moods are storms that frighten and make <app><rdg wit="#HS"><lb /></rdg></app> glad,</l>
 	       <l rend="indent(1em)">His eyes were made to capture women's hearts.</l>
 	     </lg>
 
@@ -604,15 +633,18 @@
 	     
 	     <lg type="stanza">
 	       <l>Alfonso's voice of mellow music thrills</l>
-	       <l rend="indent(1em)">Our swaying forms and steals our hearts with <lb /> joy;</l>
-	       <l>And when he soars, his fine falsetto trills</l>
+	       <l rend="indent(1em)">Our swaying forms and steals our hearts with <app><rdg wit="#HS"><lb /></rdg></app> joy;</l>
+	       <l>And<app><lem /><rdg wit="#SINH-alfonso">,</rdg></app> when he soars, his fine falsetto trills</l>
 	       <l rend="indent(1em)">Are rarest notes of gold without alloy.</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>But, O Alfonso! wherefore do you sing</l>
-	       <l rend="indent(1em)">Dream-songs of carefree men and ancient <lb /> places?</l>
-	       <l>Soon we shall be beset by clamouring</l>
+	       <l>But<app><lem wit="#HS">,</lem></app> O<app><lem /><rdg wit="#SINH-alfonso">!</rdg></app> Alfonso<app><lem wit="#HS">!</lem><rdg wit="SINH-alfonso">,</rdg></app> wherefore do you sing</l>
+	       <l rend="indent(1em)">Dream-songs of carefree men and ancient <app><rdg wit="#HS"><lb /></rdg></app> places?</l>
+	       <l>Soon <app>
+	       <lem wit="#HS">we shall</lem>
+	       <rdg wit="#SINH-alfonso">shall we</rdg>
+	       </app> be beset by clamouring</l>
 	       <l rend="indent(1em)">Of hungry and importunate palefaces.</l>
 	     </lg>
 
@@ -620,10 +652,25 @@
 
 	   <pb n="8" />
 	   <lg type="poem" xml:id="the-tropics-in-new-york">
-	     <head rend="caps">The Tropics in New York</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-tropics">
+		   <bibl>
+		     <title>The Tropics in New York</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 26
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+	       <app>
+		 <lem wit="#HS" rend="caps">The Tropics in New York</lem>
+		 <rdg wit="#SINH-tropics">The Tropics in New York</rdg>
+	       </app>
+	     </title>
+	     </head>
 
 	     <lg type="stanza">
-	       <l>Bananas ripe and green, and ginger-root,</l>
+	       <l>Bananas ripe and green<app><lem wit="#HS">,</lem></app> and ginger-root,</l>
 	       <l rend="indent(1em)">Cocoa in pods and alligator pears,</l>
 	       <l>And tangerines and mangoes and grape fruit,</l>
 	       <l rend="indent(1em)">Fit for the highest prize at parish fairs,</l>
@@ -632,11 +679,15 @@
 	     <lg type="stanza">
 	       <l>Set in the window, bringing memories</l>
 	       <l rend="indent(1em)">Of fruit-trees laden by low-singing rills,</l>
-	       <l>And dewy dawns, and mystical blue skies</l>
+	       <l>And dewy dawns<app><lem wit="#HS">,</lem></app> and mystical blue skies</l>
 	       <l rend="indent(1em)">In benediction over nun-like hills.</l>
 	     </lg>
+
 	     <lg type="stanza">
-	       <l>My eyes grew dim, and I could no more gaze;</l>
+	       <l><app>
+		 <lem wit="#HS">My</lem>
+		 <rdg wit="#SINH-tropics">Mine</rdg>
+		 </app> eyes grew dim<app><lem wit="#HS">,</lem></app> and I could no more gaze<app><lem wit="#HS">;</lem><rdg wit="#SINH-tropics">,</rdg></app></l>
 	       <l rend="indent(1em)">A wave of longing through my body swept,</l>
 	       <l>And, hungry for the old, familiar ways,</l>
 	       <l rend="indent(1em)">I turned aside and bowed my head and wept.</l>
@@ -646,44 +697,75 @@
 	   <pb n="9" />
 
 	   <lg type="poem" xml:id="flame-heart">
-	     <head rend="caps">Flame-Heart</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-flame">
+		   <bibl>
+		     <title>Flame-Heart</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 30
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">Flame-Heart</lem>
+		   <rdg wit="#SINH-flame">Flame-Heart</rdg>
+		 </app>
+	       </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>So much have I forgotten in ten years,</l>
-	       <l rend="indent(1em)">So much in ten brief years! I have forgot</l>
-	       <l>What time the purple apples come to juice,</l>
-	       <l rend="indent(1em)">And what month brings the shy forget-me-not.</l>
-	       <l>I have forgot the special, startling season</l>
-	       <l rend="indent(1em)">Of the pimento's flowering and fruiting;</l>
-	       <l>What time of year the ground doves brown the <lb /> fields</l>
-	       <l rend="indent(1em)">And fill the noonday with their curious fluting.</l>
+	       <l rend="indent(1em)">So much in ten brief years<app><lem wit="#HS">!</lem><rdg wit="#SINH-flame">;</rdg></app> I have forgot</l>
+	       <l>What time the purple apples come to juice<app><lem wit="#HS">,</lem></app></l>
+	       <l rend="indent(1em)">And what month brings the shy forget-me-not<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">;</rdg></app></l>
+	       <l><app>
+		 <lem wit="#HS">I have forgot</lem>
+		 <rdg wit="#SINH-flame">Forgotten is</rdg>
+		 </app> the special, startling season</l>
+	       <l rend="indent(1em)">Of <app>
+	       <lem wit="#HS">the pimento's</lem>
+	       <rdg wit="#SINH-flame">some beloved tree's</rdg>
+	       </app> flowering and fruiting<app><lem wit="#HS">;</lem><rdg wit="#SINH-flame">,</rdg></app></l>
+	       <l>What time of year the ground doves brown the <app><rdg wit="#HS"><lb /></rdg></app> fields</l>
+	       <l rend="indent(1em)">And fill the noonday with their curious fluting<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
 	       <l>I have forgotten much, but still remember</l>
 	       <l>The poinsettia's red, blood-red in warm December.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I still recall the honey-fever grass,</l>
-	       <l rend="indent(1em)">But cannot recollect the high days when</l>
+	       <l rend="indent(1em)">But <app>
+	       <lem wit="#HS">cannot recollect the high days</lem>
+	       <rdg with="#SINH-flame">I cannot bring back to mind just</rdg>
+	       </app> when</l>
 	       <l>We rooted them out of the ping-wing path</l>
 	       <l rend="indent(1em)">To stop the mad bees in the rabbit pen.</l>
 	       <l>I often try to think in what sweet month</l>
 	       <l rend="indent(1em)">The languid painted ladies used to dapple</l>
-	       <l>The yellow by-road mazing from the main,</l>
-	       <l rend="indent(1em)">Sweet with the golden threads of the rose-apple.</l>
-	       <l>I have forgotten—strange—but quite remember</l>
+	       <l>The yellow <app>
+	       <lem wit="#HS">by-road</lem>
+	       <rdg wit="#SINH-flame">bye road</rdg>
+	       </app> mazing from the main,</l>
+	       <l rend="indent(1em)">Sweet with the golden threads of the rose-apple<app><lem wit="#HS">.</lem><rdg with="#SINH-flame">:</rdg></app></l>
+	       <l>I have forgotten<app><lem wit="#HS">—</lem><rdg wit="#SINH-flame">, </rdg></app>strange<app><lem wit="#HS">—</lem><rdg with="#SINH-flame">, </rdg></app>but quite remember</l>
 	       <l>The poinsettia's red, blood-red in warm December.</l>
 	     </lg>	     
+
 	     <pb n="10"/>
+
 	     <lg type="stanza">
-	       <l>What weeks, what months, what time of the mild <lb /> year</l>
+	       <l>What weeks, what months, what time <app>
+	       <lem wit="#HS">of</lem>
+	       <rdg wit="#SINH-flame">o'</rdg></app> the mild <app><rdg wit="#HS"><lb /></rdg></app> year</l>
 	       <l rend="indent(1em)">We cheated school to have our fling at tops?</l>
-	       <l>What days our wine-thrilled bodies pulsed with <lb /> joy</l>
+	       <l>What days our wine-thrilled bodies pulsed with <app><rdg wit="#HS"><lb /></rdg></app> joy</l>
 	       <l rend="indent(1em)">Feasting upon blackberries in the copse?</l>
 	       <l>Oh some I know! I have embalmed the days,</l>
-	       <l rend="indent(1em)">Even the sacred moments when we played,</l>
-	       <l>All innocent of passion, uncorrupt,</l>
-	       <l rend="indent(1em)">At noon and evening in the flame-heart's shade.</l>
-	       <l>We were so happy, happy, I remember,</l>
+	       <l rend="indent(1em)">Even the sacred moments<app><rdg wit="#SINH-flame">,</rdg></app> when we played,</l>
+	       <l>All innocent of passion<app><lem wit="#HS">,</lem></app> uncorrupt,</l>
+	       <l rend="indent(1em)">At noon and evening in the flame-heart's shade<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
+	       <l>We were so happy, happy,<app><rdg wit="#SINH-flame">—</rdg></app> I remember<app><lem wit="#HS">,</lem></app></l>
 	       <l>Beneath the poinsettia's red in warm December.</l>
 	     </lg>
 	   </lg>
@@ -712,7 +794,23 @@
 
 	   <pb n="12" />
 	   <lg type="poem" xml:id="on-broadway">
-	     <head rend="caps">On Broadway</head>
+
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-on-broadway">
+		   <bibl>
+		     <title>On Broadway</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 18
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+	       <app>
+		 <lem wit="#HS" rend="caps">On Broadway</lem>
+		 <rdg wit="#SINH-on-broadway">On Broadway</rdg>
+	       </app>
+	     </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>About me young and careless feet</l>
@@ -720,7 +818,7 @@
 	       <l rend="indent(1em)">Above, a hundred shouting signs</l>
 	       <l>Shed down their bright fantastic glow</l>
 	       <l rend="indent(1em)">Upon the merry crowd and lines</l>
-	       <l>Of moving carriages below.</l>
+	       <l>Of moving carriages below<app><lem wit="#HC">.</lem><rdg wit="SINH-on-broadway">:</rdg></app></l>
 	       <l>Oh wonderful is Broadway—only</l>
 	       <l>My heart, my heart is lonely.</l>
 	     </lg>
@@ -827,28 +925,49 @@
 
 	   <pb n="17" />
 	   <lg type="poem" xml:id="north-and-south">
-	     <head rend="caps">North and South</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-north-and-south">
+		   <bibl>
+		     <title>North and South</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 20
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+	       <app>
+		 <lem wit="#HS" rend="caps">North and South</lem>
+		 <rdg wit="#SINH-morning">North and South</rdg>
+	       </app>
+	     </title>
+	     </head>
+
+
 	     <l>O sweet are tropic lands for waking dreams!</l>
-	     <l rend="indent(1em)">There time and life move lazily along.</l>
+	     <l rend="indent(1em)">There time and life move lazily along<app><lem wit="#HS">.</lem><rdg wit="#SINH-north-and-south">;</rdg></app></l>
 	     <l>There by the banks of blue-and-silver streams</l>
 	     <l rend="indent(1em)">Grass-sheltered crickets chirp incessant song,</l>
-	     <l>Gay-colored lizards loll all through the day,</l>
-	     <l rend="indent(1em)">Their tongues outstretched for careless little <lb /> flies,</l>
-	     <l>And swarthy children in the fields at play,</l>
+	     <l>Gay-<app><lem wit="#HS">colored</lem><rdg wit="#SINH-north-and-south">coloured</rdg></app> lizards loll all through the day,</l>
+	     <l rend="indent(1em)">Their tongues outstretched for careless little <app><rdg wit="#HS"><lb /></rdg></app> flies,</l>
+	     <l>And swarthy children in the fields at play<app><lem wit="#HS">,</lem></app></l>
 	     <l rend="indent(1em)">Look upward laughing at the smiling skies.</l>
 	     <l>A breath of idleness is in the air</l>
 	     <l rend="indent(1em)">That casts a subtle spell upon all things,</l>
-	     <l>And love and mating-time are everywhere,</l>
+	     <l>And love and mating-time are everywhere<app><lem wit="#HS">,</lem></app></l>
 	     <l rend="indent(1em)">And wonder to life's commonplaces clings.</l>
-	     <l>The fluttering humming-bird darts through the <lb /> trees</l>
+	     <l>The fluttering humming-bird darts through the <app><rdg wit="#HS"><lb /></rdg></app> trees</l>
 	     <l rend="indent(1em)">And dips his long beak in the big bell-flowers,</l>
-	     <l>The leisured buzzard floats upon the breeze,</l>
-	     <l rend="indent(1em)">Riding a crescent cloud for endless hours,</l>
-	     <l>The sea beats softly on the emerald strands—</l>
-	     <l>O sweet for quiet dreams are tropic lands!</l>
+	     <l>The leisured buzzard floats upon the breeze<app><lem wit="#HS">,</lem></app></l>
+	     <l rend="indent(1em)">Riding a crescent cloud for endless hours<app><lem wit="#HS">,</lem><rdg wit="#SINH-north-and-south">;</rdg></app></l>
+	     <l>The sea beats softly on the emerald strands<app><rdg wit="#SINH-north-and-south">,</rdg></app>—</l>
+	     <l>O sweet for <app>
+	     <lem wit="#HS">quiet</lem>
+	     <rdg wit="#SINH-north-and-south">dainty</rdg>
+	     </app> dreams are tropic lands!</l>
 	   </lg>
 
 	   <pb n="18" />
+
 	   <lg type="poem" xml:id="wild-may">
 	     <head rend="caps">Wild May</head>
 	     <l>Aleta mentions in her tender letters,</l>
@@ -903,7 +1022,22 @@
 	   <pb n="20" />
 
 	   <lg type="poem" xml:id="after-the-winter"> 
-	     <head rend="caps">After The Winter</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-after">
+		   <bibl>
+		     <title>After the Winter</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 25
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+	       <app>
+		 <lem wit="#HS" rend="caps">After The Winter</lem>
+		 <rdg wit="#SINH-after">After The Winter</rdg>
+	       </app>
+	     </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>Some day, when trees have shed their leaves</l>
@@ -919,11 +1053,11 @@
 	     <lg type="stanza">
 	       <l>And we will seek the quiet hill</l>
 	       <l rend="indent(1em)">Where towers the cotton tree,</l>
-	       <l>And leaps the laughing crystal rill,</l>
-	       <l rend="indent(1em)">And works the droning bee.</l>
+	       <l>And leaps the laughing crystal rill<app><lem wit="#HS">,</lem></app></l>
+	       <l rend="indent(1em)">And works the droning bee<app><lem wit="#HS">.</lem><rdg wit="#SINH-after">,</rdg></app></l>
 	       <l>And we will build a cottage there</l>
 	       <l rend="indent(1em)">Beside an open glade,</l>
-	       <l>With black-ribbed blue-bells blowing near,</l>
+	       <l>With black-ribbed blue-bells blowing near<app><lem wit="#HS">,</lem></app></l>
 	       <l rend="indent(1em)">And ferns that never fade.</l>
 	     </lg>	     
 	   </lg>
@@ -949,30 +1083,51 @@
 
 	   <pb n ="22"/>
 	   <lg type="poem" xml:id="harlem-shadows">
-	     <head rend="caps">Harlem Shadows</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-harlem-shadows">
+		   <bibl>
+		     <title>Harlem Shadows</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 32
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">Harlem Shadows</lem>
+		   <rdg wit="#SINH-harlem-shadows">Harlem Shadows</rdg>
+		 </app>
+	       </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>I hear the halting footsteps of a lass</l>
 	       <l rend="indent(1em)">In Negro Harlem when the night lets fall</l>
 	       <l>Its veil. I see the shapes of girls who pass</l>
-	       <l rend="indent(1em)">To bend and barter at desire's call.</l>
-	       <l>Ah, little dark girls who in slippered feet</l>
-	       <l>Go prowling through the night from street to <lb /> street !</l>
+	       <l rend="indent(1em)"><app>
+		 <lem wit="#HC">To bend and barter at desire's call.</lem>
+		 <rdg wit="#SINH-harlem-shadows">Eager to heed desire's insistent call:</rdg>
+	       </app></l>
+	       <l>Ah, little dark girls<app><rdg wit="#SINH-harlem-shadows">,</rdg></app> who in slippered feet</l>
+	       <l>Go prowling through the night from street to <app><rdg wit="#HC"><lb /></rdg></app> street<app><lem wit="#HC">!</lem><rdg wit="#SINH-harlem-shadows">.</rdg></app></l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Through the long night until the silver break</l>
-	       <l rend="indent(1em)">Of day the little gray feet know no rest;</l>
+	       <l rend="indent(1em)">Of day the little gray feet know no rest<app><lem wit="#HC">;</lem><rdg wit="#SINH-harlem-shadows">,</rdg></app></l>
 	       <l>Through the lone night until the last snow-flake</l>
-	       <l rend="indent(1em)">Has dropped from heaven upon the earth's <lb /> white breast,</l>
+	       <l rend="indent(1em)">Has dropped from heaven upon the earth's <app><rdg wit="#HC"><lb /></rdg></app> white breast,</l>
 	       <l>The dusky, half-clad girls of tired feet</l>
 	       <l>Are trudging, thinly shod, from street to street.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Ah, stern harsh world, that in the wretched way</l>
-	       <l rend="indent(1em)">Of poverty, dishonor and disgrace,</l>
-	       <l>Has pushed the timid little feet of clay,</l>
+	       <l rend="indent(1em)">Of poverty, <app>
+	       <lem wit="#HC">dishonor</lem>
+	       <rdg wit="#SINH-harlem-shadows">dishonour</rdg>
+	       </app> and disgrace,</l>
+	       <l>Has pushed the timid little feet of clay<app><lem wit="#HC">,</lem><rdg wit="#SINH-harlem-shadows">.</rdg></app></l>
 	       <l rend="indent(1em)">The sacred brown feet of my fallen race!</l>
 	       <l>Ah, heart of me, the weary, weary feet</l>
 	       <l>In Harlem wandering from street to street.</l>
@@ -1025,6 +1180,7 @@
 	       <l>As you did the day you whispered:</l>
 	       <l rend="indent(1em)">Leave the harmless dears alone?</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>Do you see me in the meadow</l>
 	       <l rend="indent(1em)">Coming from the woodland spring</l>
@@ -1094,28 +1250,67 @@
 	   <pb n="28" />
 
 	   <lg type="poem" xml:id="in-bondage">
-	     <head rend="caps">In Bondage</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-in-bondage">
+		   <bibl>
+		     <title>In Bondage</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 31
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">In Bondage</lem>
+		   <rdg wit="#SINH-in-bondage">In Bondage</rdg>
+		 </app>
+	       </title>
+	     </head>
 
 	     <l>I would be wandering in distant fields</l>
 	     <l>Where man, and bird, and beast, lives leisurely,</l>
-	     <l>And the old earth is kind, and ever yields</l>
+	     <l>And the old earth is kind<app><lem wit="#HS">,</lem></app> and ever yields</l>
 	     <l>Her goodly gifts to all her children free;</l>
 	     <l>Where life is fairer, lighter, less demanding,</l>
 	     <l>And boys and girls have time and space for play</l>
-	     <l>Before they come to years of understanding—</l>
-	     <l>Somewhere I would be singing, far away.</l>
+	     <l>Before they come to years of understanding<app><rdg wit="#SINH-in-bondage">,</rdg></app>—</l>
+	     <l>Somewhere I would be singing, far away<app><lem wit="#HS">.</lem><rdg wit="#SINH-in-bondage">;</rdg></app></l>
 	     <l>For life is greater than the thousand wars</l>
 	     <l>Men wage for it in their insatiate lust,</l>
-	     <l>And will remain like the eternal stars,</l>
-	     <l>When all that shines to-day is drift and dust</l>
+	     <l>And will remain like the eternal stars<app><lem wit="#HS">,</lem></app></l>
+	     <l>When all that <app>
+	     <lem wit="#HS">shines</lem>
+	     <rdg wit="#SINH-in-bondage">is</rdg>
+	     </app> to-day is <app>
+	     <lem wit="#HS">drift</lem>
+	     <rdg wit="#SINH-in-bondage">ashes</rdg>
+	     </app> and dust<app><rdg wit="#SINH-in-bondage">:</rdg></app></l>
 	     <l>But I am bound with you in your mean graves,</l>
-	     <l>O black men, simple slaves of ruthless slaves.</l>
+	     <l><app>
+	       <lem wit="#HS">O</lem>
+	       <rdg wit="#SINH-in-bondage">Oh</rdg>
+	     </app> black men, simple slaves of ruthless slaves.</l>
 	   </lg>
 
 	   <pb n="29" />
 
 	   <lg type="poem" xml:id="december-1919">
-	     <head rend="caps">December, 1919</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-december">
+		   <bibl>
+		     <title>December 1919</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 29
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">December, 1919</lem>
+		   <rdg wit="#SINH-the-castaways">December 1919</rdg>
+		 </app>
+	       </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>Last night I heard your voice, mother,</l>
@@ -1222,33 +1417,67 @@
 	   <pb n="33" />
 	   
 	   <lg type="poem" xml:id="i-shall-return">
-	     <head rend="caps">I Shall Return</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-i-shall">
+		   <bibl>
+		     <title>I Shall Return</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 27
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">I Shall Return</lem>
+		   <rdg wit="#SINH-i-shall">I Shall Return</rdg>
+		 </app>
+	       </title>
+	     </head>
+
 	     <l>I shall return again; I shall return</l>
-	     <l>To laugh and love and watch with wonder-eyes</l>
+	     <l>To laugh and love and watch with wonder-eyes<app><rdg wit="#SINH-i-shall">,</rdg></app></l>
 	     <l>At golden noon the forest fires burn,</l>
 	     <l>Wafting their blue-black smoke to sapphire skies.</l>
 	     <l>I shall return to loiter by the streams</l>
-	     <l>That bathe the brown blades of the bending <lb /> grasses,</l>
-	     <l>And realize once more my thousand dreams</l>
+	     <l>That bathe the brown blades of the bending <app><rdg wit="#HC"><lb /></rdg></app> grasses,</l>
+	     <l>And <app>
+	     <lem wit="#HS">realize</lem>
+	     <rdg wit="#SINH-i-shall">realize</rdg>
+	     </app> once more my thousand dreams</l>
 	     <l>Of waters rushing down the mountain passes.</l>
 	     <l>I shall return to hear the fiddle and fife</l>
 	     <l>Of village dances, dear delicious tunes</l>
 	     <l>That stir the hidden depths of native life,</l>
-	     <l>Stray melodies of dim remembered runes.</l>
-	     <l>I shall return, I shall return again,</l>
+	     <l>Stray melodies of dim remembered runes<app><lem wit="#HC">.</lem><rdg wit="#SINH-i-shall">:</rdg></app></l>
+	     <l>I shall return, I shall return again<app><lem wit="#HC">,</lem></app></l>
 	     <l>To ease my mind of long, long years of pain.</l>
 	   </lg>
 
 	   <pb n="34" />
 	   
 	   <lg type="poem" xml:id="morning-joy">
-	     <head rend="caps">Morning Joy</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-morning">
+		   <bibl>
+		     <title>Morning Joy</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 16
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+	       <app>
+		 <lem wit="#HS" rend="caps">Morning Joy</lem>
+		 <rdg wit="#SINH-morning">Morning Joy</rdg>
+	       </app>
+	     </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>At night the wide and level stretch of wold,</l>
 	       <l>Which at high noon had basked in quiet gold,</l>
 	       <l>Far as the eye could see was ghostly white;</l>
-	       <l>Dark was the night save for the snow's weird <lb /> light.</l>
+	       <l>Dark was the night save for the snow's weird <app><rdg wit="#HS"><lb /></rdg></app> light.</l>
 	     </lg>
 
 	     <lg type="stanza">
@@ -1259,7 +1488,7 @@
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>At dawn, behold! the pall of night was gone,</l>
+	       <l>At dawn<app><lem wit="#HS">,</lem></app> behold! the pall of night was gone<app><lem wit="#HS">,</lem></app></l>
 	       <l>Save where a few shrubs melancholy, lone,</l>
 	       <l>Detained a fragile shadow. Golden-lipped</l>
 	       <l>The laughing grasses heaven's sweet wine sipped.</l>
@@ -1268,7 +1497,7 @@
 	     <lg type="stanza">
 	       <l>The sun rose smiling o'er the river's breast,</l>
 	       <l>And my soul, by his happy spirit blest,</l>
-	       <l>Soared like a bird to greet him in the sky,</l>
+	       <l>Soared like a bird to greet him in the sky<app><lem wit="#HS">,</lem></app></l>
 	       <l>And drew out of his heart Eternity.</l>
 	     </lg>
 	   </lg>
@@ -1317,7 +1546,22 @@
 	   <pb n="37" />
 
 	   <lg type="poem" xml:id="winter-in-the-country">
-	     <head rend="caps">Winter in the Country</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-winter">
+		   <bibl>
+		     <title>Winter in the Country</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 24
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+	       <app>
+		 <lem wit="#HS" rend="caps">Winter in the Country</lem>
+		 <rdg wit="#SINH-winter">Winter in the Country</rdg>
+	       </app>
+	     </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>Sweet life! how lovely to be here</l>
@@ -1332,12 +1576,14 @@
 	       <l>Above the short brown grass asleep.</l>
 	       <l rend="indent(1em)">Love glorious in his friendly might,</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>Music that every heart could bless,</l>
 	       <l rend="indent(1em)">And thoughts of life serene, divine,</l>
-	       <l>Beyond my power to express,</l>
+	       <l>Beyond my power to express<app><lem wit="#HS">,</lem></app></l>
 	       <l rend="indent(1em)">Crowd round this lifted heart of mine!</l>
 	     </lg>
+
 	     <lg type="stanza">
 	       <l>But oh! to leave this paradise</l>
 	       <l rend="indent(1em)">For the city's dirty basement room,</l>
@@ -1355,16 +1601,36 @@
 	     </lg>
 	     <lg type="stanza">
 	       <l>Will welcome me . . . And yet, and yet</l>
-	       <l rend="indent(1em)">This very wind, the winter birds,</l>
+	       <l rend="indent(1em)"><app>
+		 <lem wit="#HS">This very wind</lem>
+		 <rdg wit="#SINH-winter">The sea-wind here</rdg></app>, the winter birds,</l>
 	       <l>The glory of the soft sunset,</l>
-	       <l rend="indent(1em)">Come there to me in words.</l>
+	       <l rend="indent(1em)"><app>
+		 <lem wit="#HS">Come There</lem>
+		 <rdg wit="#SINH-winter">There come</rdg>
+		 </app> to me in words.</l>
 	     </lg>
 	   </lg>
 
 	   <pb n="39" />
 	   
 	   <lg type="poem" xml:id="to-winter">
-	     <head rend="caps">To Winter</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-to-winter">
+		   <bibl>
+		     <title>To Winter</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 23
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+	       <app>
+		 <lem wit="#HS" rend="caps">To Winter</lem>
+		 <rdg wit="#SINH-to-winter">To Winter</rdg>
+	       </app>
+	     </title>
+	     </head>
 
 	     <l>Stay, season of calm love and soulful snows!</l>
 	     <l>There is a subtle sweetness in the sun,</l>
@@ -1373,10 +1639,14 @@
 	     <l>And each succeeding day now longer grows.</l>
 	     <l>The birds a gladder music have begun,</l>
 	     <l>The squirrel, full of mischief and of fun,</l>
-	     <l>From maples' topmost branch the brown twig <lb /> throws.</l>
-	     <l>I read these pregnant signs, know what they <lb /> mean:</l>
+	     <l>From maples' topmost branch <app>
+	     <lem wit="#HS">the brown twig</lem>
+	     <rdg wit="#SINH-to-winter">small brown twigs</rdg>
+	     </app>
+	     <app><rdg wit="#HS #SINH-to-winter"><lb /></rdg></app> throws.</l>
+	     <l>I read these pregnant signs, know what they <app><rdg wit="#HS"><lb /></rdg></app> mean:</l>
 	     <l>I know that thou art making ready to go.</l>
-	     <l>Oh stay! I fled a land where fields are green</l>
+	     <l>Oh stay! <app><rdg wit="#SINH-to-winter">. . .</rdg></app> I fled a land where fields are green</l>
 	     <l>Always, and palms wave gently to and fro,</l>
 	     <l>And winds are balmy, blue brooks ever sheen,</l>
 	     <l>To ease my heart of its impassioned woe.</l>
@@ -1431,7 +1701,23 @@
 	   <pb n="42" />
 	   
 	   <lg type="poem" xml:id="the-harlem-dancer">
-	     <head rend="caps">The Harlem Dancer</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-the-harlem-dancer">
+		   <bibl>
+		     <title>The Harlem Dancer</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 33
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">The Harlem Dancer</lem>
+		   <rdg wit="#SINH-the-harlem-dancer">Harlem Shadows</rdg>
+		 </app>
+	       </title>
+	     </head>
+
 	     <l>Applauding youths laughed with young prostitutes</l>
 	     <l>And watched her perfect, half-clothed body sway;</l>
 	     <l>Her voice was like the sound of blended flutes</l>
@@ -1440,10 +1726,13 @@
 	     <l>The light gauze hanging loose about her form;</l>
 	     <l>To me she seemed a proudly-swaying palm</l>
 	     <l>Grown lovelier for passing through a storm.</l>
-	     <l>Upon her swarthy neck black shiny curls</l>
-	     <l>Luxuriant fell; and tossing coins in praise,</l>
-	     <l>The wine-flushed, bold-eyed boys, and even the <lb /> girls,</l>
-	     <l>Devoured her shape with eager, passionate gaze;</l>
+	     <l>Upon her swarthy neck black<app><rdg wit="#SINH-the-harlem-dancer">,</rdg></app> shiny curls</l>
+	     <l><app>
+	       <lem wit="#HC">Luxuriant</lem>
+	       <rdg wit="#SINH-the-harlem-dancer">Profusely</rdg>
+	       </app> fell; and<app><rdg wit="#SINH-the-harlem-dancer">,</rdg></app> tossing coins in praise,</l>
+	     <l>The wine-flushed, bold-eyed boys, and even the <app><rdg wit="#HC"><lb /></rdg></app> girls,</l>
+	     <l>Devoured her <app><lem wit="#HC">shape</lem></app> with eager, passionate gaze<app><lem wit="#HC">;</lem><rdg wit="#</l>
 	     <l>But looking at her falsely-smiling face,</l>
 	     <l>I knew her self was not in that strange place.</l>
 	   </lg>
@@ -1451,22 +1740,52 @@
 	   <pb n="43" />
 
 	   <lg type="poem" xml:id="dawn-in-new-york">
-	     <head rend="caps">Dawn in New York</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-to-work">
+		   <bibl>
+		     <title>To Work</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 15
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+		 <title>
+		   <app>
+		     <lem wit="#HS" rend ="caps">Dawn in New York</lem>
+		     <rdg wit="SINH-to-work">To Work</rdg>
+		   </app>
+		 </title>
+	     </head>
 
-	     <l>The Dawn! The Dawn! The crimson-tinted, <lb /> comes</l>
+	     <l>The Dawn! <app>
+	     <lem wit="#HS">The Dawn! The</lem>
+	     <rdg wit="#SINH-to-work">the Dawn, the</rdg>
+	     </app> crimson-tinted, <app><rdg wit="#HS"><lb /></rdg></app> comes</l>
 	     <l>Out of the low still skies, over the hills,</l>
-	     <l>Manhattan's roofs and spires and cheerless domes!</l>
-	     <l>The Dawn! My spirit to its spirit thrills.</l>
+	     <l><app>
+	       <lem wit="#HS">Manhattan's roofs and</lem>
+	       <rdg wit="#SINH-to-work">New York's fantasic</rdg>
+	       </app> spires and cheerless domes<app><lem wit="#HS">!</lem><rdg wit="#SINH-to-work">,—</rdg></app></l>
+	     <l>The Dawn! <app><lem wit="#HS">My</lem><rdg wit="#SINH-to-work">my</rdg></app> spirit to its spirit thrills.</l>
 	     <l>Almost the mighty city is asleep,</l>
-	     <l>No pushing crowd, no tramping, tramping feet.</l>
-	     <l>But here and there a few cars groaning creep</l>
-	     <l>Along, above, and underneath the street,</l>
-	     <l>Bearing their strangely-ghostly burdens by,</l>
+	     <l>No pushing crowd, no tramping, tramping feet<app><lem wit="#HS">.</lem><rdg wit="#SINH-to-work">;</rdg></app></l>
+	     <l>But here and there a few cars<app><lem wit="#HS"> groaning</lem><rdg wit="#SINH-to-work">, groaning,</rdg></app> creep</l>
+	     <l>Along, above<app><lem wit="#HS">,</lem></app> and underneath the street,</l>
+	     <l>Bearing their strangely-ghostly burdens by,<app><rdg wit="#SINH-to-work">—</rdg></app></l>
 	     <l>The women and the men of garish nights,</l>
 	     <l>Their eyes wine-weakened and their clothes awry,</l>
-	     <l>Grotesques beneath the strong electric lights.</l>
-	     <l>The shadows wane. The Dawn comes to New <lb /> York.</l>
-	     <l>And I go darkly-rebel to my work.</l>
+	     <l><app>
+	       <lem wit="#HS">Grotesques beneath</lem>
+	       <rdg wit="#SINH-to-work">Nodding under</rdg>
+	       </app> the strong electric lights.</l>
+	     <l><app>
+	       <lem wit="#HS">The shadows wane. The Dawn comes to New <lb /> York.</lem>
+	       <rdg wit="#SINH-to-work">On through the waning shadows of New York,</rdg>
+	     </app></l>
+	     <l><app>
+	       <lem wit="#HS">And I go darkly-rebel to my work.</lem>
+	       <rdg wit="#SINH-to-work">Before the Dawn, I wend my way to work.</rdg>
+	     </app></l>
 	   </lg>
 
 	   <pb n="44" />
@@ -1555,19 +1874,47 @@
 	   <pb n="48"/>
 
 	   <lg type="poem" xml:id="the-castaways">
-	     <head rend="caps">The Castaways</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-the-castaways">
+		   <bibl>
+		     <title>The Castaways</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 28
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">The Castaways</lem>
+		   <rdg wit="#SINH-the-castaways">The Castaways</rdg>
+		 </app>
+	       </title>
+	     </head>
+
 	     <l>The vivid grass with visible delight</l>
-	     <l>Springing triumphant from the pregnant earth,</l>
+	     <l>Springing triumphant from the pregnant earth<app><lem wit="#HC">,</lem><rdg wit="#SINH-the-castaways">;</rdg></app></l>
 	     <l>The butterflies, and sparrows in brief flight</l>
 	     <l>Chirping and dancing for the season's birth,</l>
 	     <l>The dandelions and rare daffodils</l>
-	     <l>That touch the deep-stirred heart with hands of <lb /> gold,</l>
-	     <l>The thrushes sending forth their joyous trills,—</l>
-	     <l>Not these, not these did I at first behold!</l>
+	     <l>That <app>
+	     <lem wit="#HC">touch</lem>
+	     <rdg wit="#SINH-the-castaways">hold</rdg>
+	     </app> the deep-stirred heart with hands of <app><rdg wit="#HC"><lb /></rdg></app> gold<app><lem wit="#HC">,</lem></app></l>
+	     <l>The thrushes sending forth their joyous trills<app><lem wit="#HC">,—</lem><rdg wit="#SINH-the-castaways">;</rdg></app></l>
+	     <l>Not these, not these did I at first behold<app><lem wit="#HC">!</lem><rdg wit="#SINH-the-castaways">:</rdg></app></l>
 	     <l>But seated on the benches daubed with green,</l>
-	     <l>The castaways of life, a few asleep,</l>
-	     <l>Some withered women desolate and mean,</l>
-	     <l>And over all, life's shadows dark and deep.</l>
+	     <l>The castaways of <app>
+	     <lem wit="#HC">life</lem>
+	     <rdg wit="#SINH-the-castaways">earth</rdg>
+	     </app>, <app>
+	     <lem wit="#HC">a few</lem>
+	     <rdg wit="#SINH-the-castaways">some fast</rdg></app> asleep,</l>
+	     <l><app>
+	       <lem wit="#HC">Some withered women desolate and mean,</lem>
+	       <rdg wit="#SINH-the-castaways">With many a withered woman wedged between,</rdg>
+	       </app>
+	     </l>
+	     <l>And over all<app><lem wit="#HC">,</lem></app> life's shadows dark and deep<app><lem wit="#HC">.</lem><rdg wit="#SINH-the-castaways">:</rdg></app></l>
 	     <l>Moaning I turned away, for misery</l>
 	     <l>I have the strength to bear but not to see.</l>
 	   </lg>
@@ -1624,14 +1971,14 @@
 
 	     <l>His Spirit in smoke ascended to high heaven.</l>
 	     <l>His father, by the crudest way of pain,</l>
-	     <l>Had bidden him to his bosom once again;</l>
+	     <l>Had bidden him to his bosom once again<app><rdg wit="#HS">;</rdg><rdg wit="#SINH">:</rdg></app></l>
 	     <l>The awful sin remained still unforgiven.</l>
 	     <l>All night a bright and solitary star</l>
 	     <l>(Perchance the one that ever guided him,</l>
 	     <l>Yet gave him up at last to Fate's wild whim)</l>
 	     <l>Hung pitifully o'er the swinging char.</l>
-	     <l>Day dawned, and soon the mixed crowds came <lb /> to view</l>
-	     <l>The ghastly body swaying in the sun</l>
+	     <l>Day dawned, and soon the mixed crowds came <app><rdg wit="#HS"><lb /></rdg></app> to view</l>
+	     <l>The ghastly body swaying in the sun<app><rdg wit="#SINH">:</rdg></app></l>
 	     <l>The women thronged to look, but never a one</l>
 	     <l>Showed sorrow in her eyes of steely blue;</l>
 	     <l>And little lads, lynchers that were to be,</l>
@@ -1962,7 +2309,22 @@
 	   <pb n="67" />	   
 
 	   <lg type="poem" xml:id="rest-in-peace">
-	     <head rend="caps">Rest in Peace</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-rest-in-peace">
+		   <bibl>
+		     <title>Rest in Peace</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 21
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+	       <app>
+		 <lem wit="#HS" rend="caps">Rest in Peace</lem>
+		 <rdg wit="#SINH-rest-in-peace">Rest in Peace</rdg>
+	       </app>
+	     </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>No more for you the city's thorny ways,</l>
@@ -1973,7 +2335,7 @@
 
 	     <lg type="stanza">
 	       <l>No more, if still you wander, will you meet</l>
-	       <l rend="indent(1em)">With nights of unabating bitterness;</l>
+	       <l rend="indent(1em)">With nights of unabating bitterness<app><lem wit="#HS">;</lem><rdg wit="#SINH-rest-in-peace">,</rdg></app></l>
 	       <l>They cannot reach you in your safe retreat,</l>
 	       <l rend="indent(1em)">The city's hate, the city's prejudice!</l>
 	     </lg>
@@ -1982,7 +2344,10 @@
 	       <l>'Twas sudden—but your menial task is done,</l>
 	       <l rend="indent(1em)">The dawn now breaks on you, the dark is over,</l>
 	       <l>The sea is crossed, the longed-for port is won;</l>
-	       <l rend="indent(1em)">Farewell, oh, fare you well! my friend and <lb /> lover.</l>
+	       <l rend="indent(1em)">Farewell, oh<app><lem wit="#HS">,</lem></app> fare you well! <app>
+	       <lem wit="#HS">my</lem>
+	       <rdg wit="#SINH-rest-in-peace">fond</rdg>
+	       </app> friend and <app><rdg wit="#HS"><lb /></rdg></app> lover.</l>
 	     </lg>
 	   </lg>
 
@@ -2070,23 +2435,38 @@
 	   <lg type="poem" xml:id="to-oea">
 	     <head rend="caps">To O.E.A.</head>
 
-	     <l>Your voice is the color of a robin's breast,</l>
-	     <l rend="indent(1em)">And there's a sweet sob in it like rain—still <lb /> rain in the night.</l>
-	     <l>Among the leaves of the trumpet-tree, close to his <lb /> nest,</l>
-	     <l rend="indent(1em)">The pea-dove sings, and each note thrills me <lb /> with strange delight</l>
-	     <l>Like the words, wet with music, that well from <lb /> your trembling throat.</l>
+	     <l>Your voice is the <app><lem wit="#HS">color</lem><rdg wit="#SINH" type="orthographic">colour</rdg></app> of a robin's breast,</l>
+	     <l rend="indent(1em)">And there's a sweet sob in it like rain—still <app><lem /><rdg wit="#HS" type="linebreak"><lb /></rdg></app> rain in the <app><lem /><rdg wit="#SINH" type="linebreak"><lb /></rdg></app> night.</l>
+	     <l>Among the leaves of the trumpet-tree, close to his <app><rdg wit="#HS" type="linebreak"><lb /></rdg></app> nest,</l>
+	     <l rend="indent(1em)">The pea-dove sings, and each note thrills me <app><rdg wit="#HS" type="linebreak"><lb /></rdg></app> with strange <app><rdg wit="#SINH"><lb /></rdg></app> delight</l>
+	     <l>Like the words, wet with music, that well from <app><rdg wit="#HS" type="linebreak"><lb /></rdg></app> your <app><rdg wit="#SINH" type="linebreak"><lb /></rdg></app> trembling throat.</l>
 	     <l rend="indent(2em)">I'm afraid of your eyes, they're so bold,</l>
-	     <l rend="indent(2em)">Searching me through, reading my thoughts, <lb /> shining like gold.</l>
-	     <l>But sometimes they are gentle and soft like the <lb /> dew on the lips of the eucharis</l>
+	     <l rend="indent(2em)">Searching me through, reading my thoughts, <app><rdg wit="#HS" type="linebreak"><lb /></rdg></app> shining <app><rdg wit="#SINH" type="linebreak"><lb /></rdg></app> like gold.</l>
+	     <l>But sometimes they are gentle and soft like the <app><rdg wit="#HS" type="linebreak"><lb /></rdg></app> dew on <app><rdg wit="#SINH" type="linebreak"><lb /></rdg></app> the lips of the eucharis</l>
 	     <l>Before the sun comes warm with his lover's kiss.</l>
-	     <l rend="indent(1em)">You are sea-foam, pure with the star's <lb /> loveliness,</l>
-	     <l>Not mortal, a flower, a fairy, too fair for the <lb /> beauty-shorn earth.</l>
-	     <l>All wonderful things, all beautiful things, gave of <lb /> their wealth to your birth.</l>
+	     <l>
+	       <app>
+		 <lem wit="#HS" rend="indent(1em)">You are sea-foam, pure with the star's <lb /> loveliness,</lem>
+		 <rdg wit="#SINH" rend="indent(2em)">You are sea-foam, pure with the star's loveliness,</rdg>
+	       </app>
+	     </l>
+	     <l>Not mortal, a flower, a fairy, too fair for the <app><rdg wit="#HS"><lb /></rdg></app> beauty-shorn <app><rdg wit="#SINH"><lb /></rdg></app> earth<app><lem wit="#HS">.</lem><rdg wit="#SINH">,</rdg></app></l>
+	     <l>All wonderful things, all beautiful things, gave of <app><rdg wit="#HS"><lb /></rdg></app> their <app><rdg wit="#SINH"><lb /></rdg></app> wealth to your birth<app><lem wit="#HS">.</lem><rdg wit="#SINH">:</rdg></app></l>
 
 	     <pb n="72" />
 
-	     <l>Oh I love you so much, not recking of passion, <lb /> that I feel it is wrong!</l>
-	     <l rend="indent(1em)">But men will love you, flower, fairy, non-<lb />mortal spirit burdened with flesh,</l>
+	     <l>
+	       <app>
+		 <lem wit="#HS">Oh I love you so much, not recking of passion, <lb /> that I feel it is wrong!</lem>
+		 <rdg wit="#SINH" rend="indent(1em)">Oh I love you so much, not recking of passion, that I <lb /> feel it is wrong,</rdg>
+	       </app>
+	     </l>
+	     <l>
+	       <app>
+		 <lem wit="#HS" rend="indent(1em)">But men will love you, flower, fairy, non-<lb />mortal spirit burdened with flesh,</lem>
+		 <rdg wit="#HS" rend="indent(2em)">But men will love you, flower, fairy, non-mortal spirit <lb /> burdened with flesh,</rdg>
+	       </app>
+	     </l>
 	     <l>Forever, life-long.</l>
 	   </lg>
 
@@ -2234,7 +2614,23 @@
 	   <pb n="79" />
 	   
 	   <lg type="poem" xml:id="a-memory-of-june">
-	     <head rend="caps">A Memory of June</head>
+
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-a-memory">
+		   <bibl>
+		     <title>A Memory of June</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 22
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+	       <app>
+		 <lem wit="#HS" rend="caps">A Memory of June</lem>
+		 <rdg wit="#SINH-a-memory">A Memory of June</rdg>
+	       </app>
+	     </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>When June comes dancing o'er the death of May,</l>
@@ -2245,23 +2641,29 @@
 
 	     <lg type="stanza">
 	       <l>I always see the evening when we met—</l>
-	       <l rend="indent(1em)">The first of June baptized in tender rain—</l>
-	       <l>And walked home through the wide streets, <lb /> gleaming wet,</l>
-	       <l rend="indent(1em)">Arms locked, our warm flesh pulsing with <lb /> love's pain.</l>
+	       <l rend="indent(1em)">The first of June <app>
+	       <lem wit="#HS">baptized</lem>
+	       <rdg wit="#SINH-a-memory">baptised</rdg>
+	       </app> in tender rain—</l>
+	       <l>And walked home through the wide streets, <app><rdg wit="#HS"><lb /></rdg></app> gleaming <app><rdg wit="#SINH-a-memory"><lb /></rdg></app> wet,</l>
+	       <l rend="indent(1em)">Arms locked, our warm flesh pulsing with <app><rdg wit="#HS"><lb /></rdg></app> love's pain.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I always see the cheerful little room,</l>
-	       <l rend="indent(1em)">And in the corner, fresh and white, the bed,</l>
+	       <l rend="indent(1em)">And in the corner, fresh and white, the bed<app><lem wit="#HS">,</lem></app></l>
 	       <l>Sweet scented with a delicate perfume,</l>
-	       <l rend="indent(1em)">Wherein for one night only we were wed;</l>
+	       <l rend="indent(1em)">Wherein for one night only we were wed<app><lem wit="#HS">;</lem><rdg wit="#a-memory-of-june">:</rdg></app></l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>Where in the starlit stillness we lay mute,</l>
+	       <l>Where in the starlit stillness we lay mute<app><lem wit="#HS">,</lem></app></l>
 	       <l rend="indent(1em)">And heard the whispering showers all night long,</l>
 	       <l>And your brown burning body was a lute</l>
-	       <l>Whereon my passion played his fevered song.</l>
+	       <l>Whereon <app>
+	       <lem wit="#HS">my</lem>
+	       <rdg wit="#SINH-a-memory">wild</rdg>
+	       </app> passion played his fevered song.</l>
 	     </lg>
 
 	     <pb n="80" />
@@ -2270,7 +2672,10 @@
 	       <l>When June comes dancing o'er the death of May,</l>
 	       <l rend="indent(1em)">With scarlet roses staining her fair feet,</l>
 	       <l>My soul takes leave of me to sing all day</l>
-	       <l rend="indent(1em)">A love so fugitive and so complete.</l>
+	       <l rend="indent(1em)">A <app>
+	       <lem wit="#HS">love so fugitive and so</lem>
+	       <rdg wit="#SINH-a-memory">night of rare love, perfect and</rdg>
+	       </app> complete.</l>
 	     </lg>
 	   </lg>
 
