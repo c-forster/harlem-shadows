@@ -737,7 +737,7 @@
 	       <l>I still recall the honey-fever grass,</l>
 	       <l rend="indent(1em)">But <app>
 	       <lem wit="#HS">cannot recollect the high days</lem>
-	       <rdg with="#SINH-flame">I cannot bring back to mind just</rdg>
+	       <rdg wit="#SINH-flame">I cannot bring back to mind just</rdg>
 	       </app> when</l>
 	       <l>We rooted them out of the ping-wing path</l>
 	       <l rend="indent(1em)">To stop the mad bees in the rabbit pen.</l>
@@ -747,8 +747,8 @@
 	       <lem wit="#HS">by-road</lem>
 	       <rdg wit="#SINH-flame">bye road</rdg>
 	       </app> mazing from the main,</l>
-	       <l rend="indent(1em)">Sweet with the golden threads of the rose-apple<app><lem wit="#HS">.</lem><rdg with="#SINH-flame">:</rdg></app></l>
-	       <l>I have forgotten<app><lem wit="#HS">—</lem><rdg wit="#SINH-flame">, </rdg></app>strange<app><lem wit="#HS">—</lem><rdg with="#SINH-flame">, </rdg></app>but quite remember</l>
+	       <l rend="indent(1em)">Sweet with the golden threads of the rose-apple<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
+	       <l>I have forgotten<app><lem wit="#HS">—</lem><rdg wit="#SINH-flame">, </rdg></app>strange<app><lem wit="#HS">—</lem><rdg wit="#SINH-flame">, </rdg></app>but quite remember</l>
 	       <l>The poinsettia's red, blood-red in warm December.</l>
 	     </lg>	     
 
@@ -1082,7 +1082,7 @@
 	   <lg type="poem" xml:id="the-wild-goat">
 	     <head>
 	       <listWit>
-		 <witness xml:id="SINH-harlem-shadows">
+		 <witness xml:id="SINH-the-choice">
 		   <bibl>
 		     <title>The Choice</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 37
 		   </bibl>
@@ -1979,7 +1979,7 @@
 
 	     <lg type="stanza">
 	       <l>In the East the clouds glow crimson with the new <app><rdg wit="#HC"><lb /></rdg></app> dawn <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> that is breaking,</l>
-	       <l rend="indent(1em)">And its golden glory fills the western skies<app><lem wit="#HC">.</lem><rdg wit="#SINH-exhortation">:—</l>
+	       <l rend="indent(1em)">And its golden glory fills the western skies<app><lem wit="#HC">.</lem><rdg wit="#SINH-exhortation">:—</rdg></app></l>
 	       <l rend="indent(1em)"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers and my sisters, wake! arise!</l>
 	       <l>For the new birth rends the old earth and the <app><rdg wit="#HC"><lb /></rdg></app> very dead <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> are waking,</l>
 	       <l rend="indent(1em)">Ghosts are turned flesh, throwing off the grave's <app><rdg wit="#HC"><lb /></rdg></app> disguise,</l>
@@ -2192,7 +2192,7 @@
 	     </head>
 
 	     <lg type="stanza">
-	       <l>'Mid the discordant noises of the day I hear thee <app><rdg wit="#HC"><lb /></rdg></app> calling<app><lem wit="#HC">;</lem><rdg wit=#SINH-a-prayer">,</rdg></app></l>
+	       <l>'Mid the discordant noises of the day I hear thee <app><rdg wit="#HC"><lb /></rdg></app> calling<app><lem wit="#HC">;</lem><rdg wit="#SINH-a-prayer">,</rdg></app></l>
 	       <l>I stumble as I fare along Earth's way; keep me <app><rdg wit="#HC"><lb /></rdg></app> from <app><rdg wit="#SINH-a-prayer"><lb /></rdg></app> falling.</l>
 	     </lg>
 
