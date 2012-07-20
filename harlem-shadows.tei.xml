@@ -838,7 +838,22 @@
 	   <pb n="13" />
 
 	   <lg type="poem" xml:id="the-barrier">
-	     <head rend="caps">The Barrier</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-the-barrier">
+		   <bibl>
+		     <title>The Barrier</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 35
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">The Barrier</lem>
+		   <rdg wit="#SINH-the-barrier">The Barrier</rdg>
+		 </app>
+	       </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>I must not gaze at them although</l>
@@ -863,6 +878,7 @@
 	   </lg>
 
 	   <pb n="14" />
+
 	   <lg type="poem" xml:id="adolescence">
 	     <head rend="caps">Adolescence</head>
 	     <lg type="stanza">
@@ -1064,12 +1080,27 @@
 
 	   <pb n="21" />
 	   <lg type="poem" xml:id="the-wild-goat">
-	     <head rend="caps">The Wild Goat</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-harlem-shadows">
+		   <bibl>
+		     <title>The Choice</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 37
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">The Wild Goat</lem>
+		   <rdg wit="#SINH-the-choice">The Choice</rdg>
+		 </app>
+	       </title>
+	     </head>
 
 	     <lg type="stanza">
 	       <l>O you would clothe me in silken frocks</l>
 	       <l rend="indent(1em)">And house me from the cold,</l>
-	       <l>And bind with bright bands my glossy locks,</l>
+	       <l>And bind with bright bands my glossy locks<app><lem wit="#HC">,</lem></app></l>
 	       <l rend="indent(1em)">And buy me chains of gold;</l>
 	     </lg>
 
@@ -1922,45 +1953,62 @@
 	   <pb n="49"/>
 
 	   <lg type="poem" xml:id="exhortation-summer-1919">
-	     <head rend="caps">Exhortation: Summer, 1919</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-exhortation">
+		   <bibl>
+		     <title>Exhortation</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 39-40
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">Exhortation: Summer, 1919</lem>
+		   <rdg wit="#SINH-the-castaways">Exhortation</rdg>
+		 </app>
+	       </title>
+	     </head>
 
 	     <lg type="stanza">
-	       <l>Through the pregnant universe rumbles life's <lb /> terrific thunder,</l>
-	       <l rend="indent(1em)">And Earth's bowels quake with terror; strange <lb /> and terrible storms break,</l>
-	       <l>Lightning-torches flame the heavens, kindling <lb /> souls of men, thereunder:</l>
-	       <l rend="indent(1em)">Africa! long ages sleeping, O my motherland, <lb /> awake!</l>
+	       <l>Through the pregnant universe rumbles life's <app><rdg wit="#HC"><lb /></rdg></app> terrific <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> thunder<app><lem wit="#HC">,</lem></app></l>
+	       <l rend="indent(1em)">And Earth's bowels quake with terror; strange <app><rdg wit="#HC"><lb /></rdg></app> and <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> terrible storms break,</l>
+	       <l>Lightning-torches flame the heavens, kindling <app><rdg wit="#HC"><lb /></rdg></app> souls of <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> men<app><lem wit="#HC">,</lem></app> thereunder:</l>
+	       <l rend="indent(1em)">Africa! long ages sleeping, <app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my motherland, <app><rdg wit="#HC"><lb /></rdg></app> awake!</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>In the East the clouds glow crimson with the new <lb /> dawn that is breaking,</l>
-	       <l rend="indent(1em)">And its golden glory fills the western skies.</l>
-	       <l rend="indent(1em)">O my brothers and my sisters, wake! arise!</l>
-	       <l>For the new birth rends the old earth and the <lb /> very dead are waking,</l>
-	       <l rend="indent(1em)">Ghosts are turned flesh, throwing off the grave's <lb /> disguise,</l>
+	       <l>In the East the clouds glow crimson with the new <app><rdg wit="#HC"><lb /></rdg></app> dawn <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> that is breaking,</l>
+	       <l rend="indent(1em)">And its golden glory fills the western skies<app><lem wit="#HC">.</lem><rdg wit="#SINH-exhortation">:—</l>
+	       <l rend="indent(1em)"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers and my sisters, wake! arise!</l>
+	       <l>For the new birth rends the old earth and the <app><rdg wit="#HC"><lb /></rdg></app> very dead <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> are waking,</l>
+	       <l rend="indent(1em)">Ghosts are turned flesh, throwing off the grave's <app><rdg wit="#HC"><lb /></rdg></app> disguise,</l>
 	       <l rend="indent(1em)">And the foolish, even children, are made wise;</l>
-	       <l>For the big earth groans in travail for the strong, <lb /> new world in making—</l>
+	       <l>For the big earth groans in travail for the strong, <app><rdg wit="#HC"><lb /></rdg></app> new <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> world in making—</l>
+
 	       <pb n="50" />
-	       <l rend="indent(1em)">O my brothers, dreaming for dim centuries,</l>
-	       <l rend="indent(1em)">Wake from sleeping; to the East turn, turn <lb /> your eyes!</l>
+
+	       <l rend="indent(1em)"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers, dreaming for dim centuries,</l>
+	       <l rend="indent(1em)">Wake from sleeping; to the East turn, turn <app><rdg wit="#HC"><lb /></rdg></app> your eyes!</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>Oh the night is sweet for sleeping, but the shining <lb /> day's for working;</l>
-	       <l rend="indent(1em)">Sons of the seductive night, for your children's <lb /> children's sake,</l>
+	       <l>Oh the night is sweet for sleeping, but the shining <app><rdg wit="#HC"><lb /></rdg></app> day's <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> for working;</l>
+	       <l rend="indent(1em)">Sons of the seductive night, for your children's <app><rdg wit="#HC"><lb /></rdg></app> children's <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> sake,</l>
 	       <l>From the deep primeval forests where the crouching <lb /> leopard's lurking,</l>
-	       <l rend="indent(1em)">Lift your heavy-lidded eyes, Ethiopia! awake!</l>
+	       <l rend="indent(1em)">Lift your heavy-lidded eyes,<app><rdg wit="#SINH-exhortation">—</rdg></app> Ethiopia! awake!</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>In the East the clouds glow crimson with the new <lb /> dawn that is breaking,</l>
-	       <l rend="indent(1em)">And its golden glory fills the western skies.</l>
-	       <l rend="indent(1em)">O my brothers and my sisters, wake! arise!</l>
-	       <l>For the new birth rends the old earth and the <lb /> very dead are waking,</l>
-	       <l rend="indent(1em)">Ghosts are turned flesh, throwing off the <lb /> grave's disguise,</l>
+	       <l>In the East the clouds glow crimson with the new <app><rdg wit="#HC"><lb /></rdg></app> dawn <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> that is breaking,</l>
+	       <l rend="indent(1em)">And its golden glory fills the western skies<app><lem wit="#HC">.</lem><rdg wit="#SINH-exhortation">:—</rdg></app></l>
+	       <l rend="indent(1em)"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers and my sisters, wake! arise!</l>
+	       <l>For the new birth rends the old earth and the <app><rdg wit="#HC"><lb /></rdg></app> very dead <app><rdg wit="#SINH-exhortation"><lb /></rdg></app> are waking,</l>
+	       <l rend="indent(1em)">Ghosts are turned flesh, throwing off the <app><rdg wit="#HC"><lb /></rdg></app> grave's disguise,</l>
 	       <l rend="indent(1em)">And the foolish, even children, are made wise;</l>
-	       <l>For the big earth groans in travail for the strong, <lb /> new world in making—</l>
-	       <l rend="indent(1em)">O my brothers, dreaming for long centuries,</l>
-	       <l rend="indent(1em)">Wake from sleeping; to the East turn, turn <lb /> your eyes!</l>
+	       <l>For the big earth groans in travail for the strong, <app><rdg wit="#HC"><lb /></rdg></app> new <app><rdg wit="#HC"><lb /></rdg></app> world in making—</l>
+	       <l rend="indent(1em)"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers, dreaming for long centuries,</l>
+	       <l rend="indent(1em)">Wake from sleeping; to the East turn, turn <app><rdg wit="#HC"><lb /></rdg></app> your eyes!</l>
 	     </lg>
 	   </lg>
 
@@ -2120,41 +2168,80 @@
 	   <pb n="58" />
 
 	   <lg type = "poem" xml:id="a-prayer">
-	     <head rend="caps">A Prayer</head>
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-a-prayer">
+		   <bibl>
+		     <title>A Prayer</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 34
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">A Prayer</lem>
+		   <rdg wit="#SINH-a-prayer">A Prayer</rdg>
+		 </app>
+	       </title>
+	     </head>
+
+	     <head type="dedication">
+	       <app>
+		 <rdg rend="italics" wit="#SINH-a-prayer">(For Max Eastman)</rdg>
+	       </app>
+	     </head>
 
 	     <lg type="stanza">
-	       <l>'Mid the discordant noises of the day I hear thee <lb /> calling;</l>
-	       <l>I stumble as I fare along Earth's way; keep me <lb /> from falling.</l>
+	       <l>'Mid the discordant noises of the day I hear thee <app><rdg wit="#HC"><lb /></rdg></app> calling<app><lem wit="#HC">;</lem><rdg wit=#SINH-a-prayer">,</rdg></app></l>
+	       <l>I stumble as I fare along Earth's way; keep me <app><rdg wit="#HC"><lb /></rdg></app> from <app><rdg wit="#SINH-a-prayer"><lb /></rdg></app> falling.</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>Mine eyes are open but they cannot see for gloom <lb /> of night;</l>
-	       <l>I can no more than lift my heart to thee for inward <lb /> light.</l>
+	       <l>Mine eyes are open but they cannot see for gloom <app><rdg wit="#HC"><lb /></rdg></app> of night;</l>
+	       <l>I can no more than lift my heart to thee for inward <app><rdg wit="#HC"><lb /></rdg></app> light.</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>The wild and fiery passion of my youth consumes <lb /> my soul;</l>
+	       <l>The wild and fiery passion of my youth consumes <app><rdg wit="#HC"><lb /></rdg></app> my soul;</l>
 	       <l>In agony I turn to thee for truth and self-control.</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l>For Passion and all the pleasures it can give will <lb /> die the death;</l>
-	       <l>But this of me eternally must live, thy borrowed <lb /> breath.</l>
+	       <l>For Passion and all the pleasures it can give will <app><rdg wit="#HC"><lb /></rdg></app> die the <app><rdg wit="#SINH-a-prayer"><lb /></rdg></app> death;</l>
+	       <l>But this of me eternally must live, thy borrowed <app><rdg wit="#HC"><lb /></rdg></app> breath.</l>
 	     </lg>
 
 	     <pb n="59" />
 
 	     <lg type="stanza">
-	       <l>'Mid the discordant noises of the day I hear thee <lb /> calling;</l>
-	       <l>I stumble as I fare along Earth's way; keep me <lb /> from falling.</l>
+	       <l>'Mid the discordant noises of the day I hear thee <app><rdg wit="#HC"><lb /></rdg></app> calling<app><lem wit="#HC">;</lem><rdg wit="#SINH-a-prayer">,</rdg></app></l>
+	       <l>I stumble as I fare along Earth's way; keep me <app><rdg wit="#HC"><lb /></rdg></app> from <app><rdg wit="#SINH-a-prayer"><lb /></rdg></app> falling.</l>
 	     </lg>
 	   </lg>
 	   
-
 	   <pb n="60" />
 
 	   <lg type = "poem" xml:id="when-dawn-comes-to-the-city">
-	     <head rend="caps">When Dawn Comes to the City</head>
+
+	     <head>
+	       <listWit>
+		 <witness xml:id="SINH-when-dawn">
+		   <bibl>
+		     <title>When Dawn Comes to the City</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 36-37
+		   </bibl>
+		 </witness>
+	       </listWit>
+	       
+	       <title>
+		 <app>
+		   <lem wit="#HS" rend="caps">When Dawn Comes to the City</lem>
+		   <rdg wit="#SINH-when-dawn">When Dawn Comes to the City</rdg>
+		 </app>
+	       </title>
+	     </head>
+
+
+	     <head rend="caps"></head>
 
 	     <lg type="stanza">
 	       <l rend="indent(1em)">The tired cars go grumbling by,</l>
@@ -2172,18 +2259,18 @@
 	       <l rend="indent(2em)">In the heart of the island of the sea,</l>
 	       <l rend="indent(1em)">Where the cocks are crowing, crowing, crowing,</l>
 	       <l rend="indent(1em)">And the hens are cackling in the rose-apple tree,</l>
-	       <l>Where the old draft-horse is neighing, neighing, <lb /> neighing</l>
+	       <l>Where the old draft-horse is neighing, neighing, <app><rdg wit="#HS"><lb /></rdg></app> neighing</l>
 	       <l rend="indent(2em)">Out on the brown dew-silvered lawn,</l>
 	       <l rend="indent(1em)">And the tethered cow is lowing, lowing, lowing,</l>
 	       <l>And dear old Ned is braying, braying, braying,</l>
-	       <l>And the shaggy Nannie goat is calling, calling, <lb /> calling</l>
+	       <l>And the shaggy Nannie goat is calling, calling, <app><rdg wit="#HS"><lb /></rdg></app> calling</l>
 
 	       <pb n="61" />
 
-	       <l rend="indent(1em)">From her little trampled corner of the long <lb /> wide lea</l>
-	       <l>That stretches to the waters of the hill-stream <lb /> falling</l>
+	       <l rend="indent(1em)">From her little trampled corner of the long <app><rdg wit="#HS"><lb /></rdg></app> wide lea</l>
+	       <l>That stretches to the waters of the hill-stream <app><rdg wit="#HS"><lb /></rdg></app> falling</l>
 	       <l rend="indent(2em)">Sheer upon the flat rocks joyously!</l>
-	       <l rend="indent(2em)">There, oh there ! on the island of the sea,</l>
+	       <l rend="indent(2em)">There, oh there! on the island of the sea<app><lem wit="#HS">,</lem></app></l>
 	       <l rend="indent(3em)">There I would be at dawn.</l>
 	     </lg>
 
@@ -2194,7 +2281,7 @@
 	       <l rend="indent(2em)">Under the dying stars.</l>
 	       <l rend="indent(1em)">A lonely newsboy hurries by,</l>
 	       <l rend="indent(2em)">Humming a recent ditty;</l>
-	       <l rend="indent(1em)">Red streaks strike through the gray of the sky,</l>
+	       <l rend="indent(1em)">Red streaks strike through the gray of the <app><rdg wit="#SINH-when-dawn"><lb /></rdg></app>sky,</l>
 	       <l rend="indent(2em)">The dawn comes to the city.</l>
 	     </lg>
 
@@ -2203,18 +2290,18 @@
 	       <l rend="indent(2em)">In the heart of the island of the sea,</l>
 	       <l rend="indent(1em)">Where the cocks are crowing, crowing, crowing,</l>
 	       <l rend="indent(1em)">And the hens are cackling in the rose-apple tree,</l>
-	       <l>Where the old draft-horse is neighing, neighing, <lb /> neighing</l>
+	       <l>Where the old draft-horse is neighing, neighing, <app><rdg wit="#HS"><lb /></rdg></app> neighing</l>
 	       <l rend="indent(2em)">Out on the brown dew-silvered lawn,</l>
 	       <l rend="indent(1em)">And the tethered cow is lowing, lowing, lowing,</l>
 
 	       <pb n="62" />
 
 	       <l rend="indent(1em)">And dear old Ned is braying, braying, braying,</l>
-	       <l rend="indent(1em)">And the shaggy Nannie goat is calling, calling, <lb /> calling</l>
-	       <l rend="indent(2em)">From her little trampled corner of the long <lb /> wide lea</l>
-	       <l rend="indent(1em)">That stretches to the waters of the hill-stream <lb /> falling</l>
+	       <l rend="indent(1em)">And the shaggy Nannie goat is calling, calling, <app><rdg wit="#HC"><lb /></rdg></app> calling</l>
+	       <l rend="indent(2em)">From her little trampled corner of the long <app><rdg wit="#HC"><lb /></rdg></app> wide lea</l>
+	       <l rend="indent(1em)">That stretches to the waters of the hill-stream <app><rdg wit="#HC"><lb /></rdg></app> falling</l>
 	       <l rend="indent(2em)">Sheer upon the flat rocks joyously!</l>
-	       <l rend="indent(2em)">There, oh there! on the island of the sea,</l>
+	       <l rend="indent(2em)">There, oh there! on the island of the sea<app><lem wit="#HC">,</lem></app></l>
 	       <l rend="indent(3em)">There I would be at dawn.</l>
 	     </lg>
 	   </lg>
