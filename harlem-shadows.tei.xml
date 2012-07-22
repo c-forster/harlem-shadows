@@ -27,6 +27,122 @@
 		 <author>McKay, Claude</author>, <title>Spring in New Hampshire</title>. <pubPlace>London</pubPlace>: <publisher>Grant Richards Ltd.</publisher>, <date when="1920">1920</date>.
 	       </bibl>
 	     </witness>
+		 <witness xml:id="SINH-alfonso">
+		   <bibl>
+		     <title>Alfonso, Dressing to Wait at Table, Sings</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 13
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-tropics">
+		   <bibl>
+		     <title>The Tropics in New York</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 26
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-flame">
+		   <bibl>
+		     <title>Flame-Heart</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 30
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-on-broadway">
+		   <bibl>
+		     <title>On Broadway</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 18
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-the-barrier">
+		   <bibl>
+		     <title>The Barrier</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 35
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-north-and-south">
+		   <bibl>
+		     <title>North and South</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 20
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-after">
+		   <bibl>
+		     <title>After the Winter</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 25
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-the-choice">
+		   <bibl>
+		     <title>The Choice</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 37
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-harlem-shadows">
+		   <bibl>
+		     <title>Harlem Shadows</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 32
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-in-bondage">
+		   <bibl>
+		     <title>In Bondage</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 31
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-december">
+		   <bibl>
+		     <title>December 1919</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 29
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-i-shall">
+		   <bibl>
+		     <title>I Shall Return</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 27
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-morning">
+		   <bibl>
+		     <title>Morning Joy</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 16
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-winter">
+		   <bibl>
+		     <title>Winter in the Country</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 24
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-to-winter">
+		   <bibl>
+		     <title>To Winter</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 23
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-the-harlem-dancer">
+		   <bibl>
+		     <title>The Harlem Dancer</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 33
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-to-work">
+		   <bibl>
+		     <title>To Work</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 15
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-the-castaways">
+		   <bibl>
+		     <title>The Castaways</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 28
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-exhortation">
+		   <bibl>
+		     <title>Exhortation</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 39-40
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-a-prayer">
+		   <bibl>
+		     <title>A Prayer</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 34
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-when-dawn">
+		   <bibl>
+		     <title>When Dawn Comes to the City</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 36-37
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-rest-in-peace">
+		   <bibl>
+		     <title>Rest in Peace</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 21
+		   </bibl>
+		 </witness>
+		 <witness xml:id="SINH-a-memory">
+		   <bibl>
+		     <title>A Memory of June</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 22
+		   </bibl>
+		 </witness>
+	      
 	   </listWit>
 
          </sourceDesc>
@@ -53,15 +169,12 @@
 	  </titlePage>
 
 	  <pb />
-	  <div>
+	  <div type="frontmatter">
 	    <p>Copyright, 1922 by <lb /> Harcourt, Brace and Company, INC.</p>
 	    <p>Printed in the U.S.A. by <lb /> The Quinn &amp; Boden Company <lb /> Rahway, N. J.</p>
 
-	  </div>
-
 	  <pb />
 
-	  <div type="note">
 	    <p>A number of these poems appeared in the <title rend="italics">Seven Arts</title>, <title rend="italics">Pearson's</title>, <title rend="italics">The Liberator</title>, <title rend="italics">The Messenger</title>, and <title rend="italics">The Cambridge Magazine</title> (England).</p>
 	  </div>
 	  
@@ -602,13 +715,6 @@
 
 	   <lg type="poem" xml:id="alfonso-dressing-to-wait-at-table">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-alfonso">
-		   <bibl>
-		     <title>Alfonso, Dressing to Wait at Table, Sings</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 13
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       <title>
 		 <app>
 		   <lem wit="#HS">Alfonso, Dressing to Wait at Table</lem>
@@ -653,14 +759,6 @@
 	   <pb n="8" />
 	   <lg type="poem" xml:id="the-tropics-in-new-york">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-tropics">
-		   <bibl>
-		     <title>The Tropics in New York</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 26
-		   </bibl>
-		 </witness>
-	       </listWit>
-	       
 	       <title>
 	       <app>
 		 <lem wit="#HS" rend="caps">The Tropics in New York</lem>
@@ -698,14 +796,7 @@
 
 	   <lg type="poem" xml:id="flame-heart">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-flame">
-		   <bibl>
-		     <title>Flame-Heart</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 30
-		   </bibl>
-		 </witness>
-	       </listWit>
-	       
+    
 	       <title>
 		 <app>
 		   <lem wit="#HS" rend="caps">Flame-Heart</lem>
@@ -796,13 +887,8 @@
 	   <lg type="poem" xml:id="on-broadway">
 
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-on-broadway">
-		   <bibl>
-		     <title>On Broadway</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 18
-		   </bibl>
-		 </witness>
-	       </listWit>
+
+
 	       
 	       <title>
 	       <app>
@@ -839,14 +925,7 @@
 
 	   <lg type="poem" xml:id="the-barrier">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-the-barrier">
-		   <bibl>
-		     <title>The Barrier</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 35
-		   </bibl>
-		 </witness>
-	       </listWit>
-	       
+  
 	       <title>
 		 <app>
 		   <lem wit="#HS" rend="caps">The Barrier</lem>
@@ -942,14 +1021,7 @@
 	   <pb n="17" />
 	   <lg type="poem" xml:id="north-and-south">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-north-and-south">
-		   <bibl>
-		     <title>North and South</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 20
-		   </bibl>
-		 </witness>
-	       </listWit>
-	       
+   
 	       <title>
 	       <app>
 		 <lem wit="#HS" rend="caps">North and South</lem>
@@ -1039,13 +1111,6 @@
 
 	   <lg type="poem" xml:id="after-the-winter"> 
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-after">
-		   <bibl>
-		     <title>After the Winter</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 25
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 	       <app>
@@ -1081,14 +1146,7 @@
 	   <pb n="21" />
 	   <lg type="poem" xml:id="the-wild-goat">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-the-choice">
-		   <bibl>
-		     <title>The Choice</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 37
-		   </bibl>
-		 </witness>
-	       </listWit>
-	       
+
 	       <title>
 		 <app>
 		   <lem wit="#HS" rend="caps">The Wild Goat</lem>
@@ -1115,13 +1173,6 @@
 	   <pb n ="22"/>
 	   <lg type="poem" xml:id="harlem-shadows">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-harlem-shadows">
-		   <bibl>
-		     <title>Harlem Shadows</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 32
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 		 <app>
@@ -1282,13 +1333,7 @@
 
 	   <lg type="poem" xml:id="in-bondage">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-in-bondage">
-		   <bibl>
-		     <title>In Bondage</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 31
-		   </bibl>
-		 </witness>
-	       </listWit>
+
 	       
 	       <title>
 		 <app>
@@ -1327,13 +1372,6 @@
 
 	   <lg type="poem" xml:id="december-1919">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-december">
-		   <bibl>
-		     <title>December 1919</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 29
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 		 <app>
@@ -1449,14 +1487,7 @@
 	   
 	   <lg type="poem" xml:id="i-shall-return">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-i-shall">
-		   <bibl>
-		     <title>I Shall Return</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 27
-		   </bibl>
-		 </witness>
-	       </listWit>
-	       
+
 	       <title>
 		 <app>
 		   <lem wit="#HS" rend="caps">I Shall Return</lem>
@@ -1488,13 +1519,6 @@
 	   
 	   <lg type="poem" xml:id="morning-joy">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-morning">
-		   <bibl>
-		     <title>Morning Joy</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 16
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 	       <app>
@@ -1578,14 +1602,7 @@
 
 	   <lg type="poem" xml:id="winter-in-the-country">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-winter">
-		   <bibl>
-		     <title>Winter in the Country</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 24
-		   </bibl>
-		 </witness>
-	       </listWit>
-	       
+
 	       <title>
 	       <app>
 		 <lem wit="#HS" rend="caps">Winter in the Country</lem>
@@ -1647,14 +1664,6 @@
 	   
 	   <lg type="poem" xml:id="to-winter">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-to-winter">
-		   <bibl>
-		     <title>To Winter</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 23
-		   </bibl>
-		 </witness>
-	       </listWit>
-	       
 	       <title>
 	       <app>
 		 <lem wit="#HS" rend="caps">To Winter</lem>
@@ -1733,13 +1742,6 @@
 	   
 	   <lg type="poem" xml:id="the-harlem-dancer">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-the-harlem-dancer">
-		   <bibl>
-		     <title>The Harlem Dancer</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 33
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 		 <app>
@@ -1772,13 +1774,6 @@
 
 	   <lg type="poem" xml:id="dawn-in-new-york">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-to-work">
-		   <bibl>
-		     <title>To Work</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 15
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 		 <title>
 		   <app>
@@ -1906,13 +1901,6 @@
 
 	   <lg type="poem" xml:id="the-castaways">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-the-castaways">
-		   <bibl>
-		     <title>The Castaways</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 28
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 		 <app>
@@ -1954,13 +1942,6 @@
 
 	   <lg type="poem" xml:id="exhortation-summer-1919">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-exhortation">
-		   <bibl>
-		     <title>Exhortation</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 39-40
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 		 <app>
@@ -2169,13 +2150,6 @@
 
 	   <lg type = "poem" xml:id="a-prayer">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-a-prayer">
-		   <bibl>
-		     <title>A Prayer</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 34
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 		 <app>
@@ -2224,13 +2198,6 @@
 	   <lg type = "poem" xml:id="when-dawn-comes-to-the-city">
 
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-when-dawn">
-		   <bibl>
-		     <title>When Dawn Comes to the City</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 36-37
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 		 <app>
@@ -2397,13 +2364,6 @@
 
 	   <lg type="poem" xml:id="rest-in-peace">
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-rest-in-peace">
-		   <bibl>
-		     <title>Rest in Peace</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 21
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 	       <app>
@@ -2703,13 +2663,6 @@
 	   <lg type="poem" xml:id="a-memory-of-june">
 
 	     <head>
-	       <listWit>
-		 <witness xml:id="SINH-a-memory">
-		   <bibl>
-		     <title>A Memory of June</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 22
-		   </bibl>
-		 </witness>
-	       </listWit>
 	       
 	       <title>
 	       <app>
