@@ -641,21 +641,21 @@
 	      <head rend="caps">The Easter Flower</head>
 	      <lg type="stanza">
 		<l>Far from this foreign Easter damp and chilly</l>
-		<l rend="indent(1em)">My soul steals to a pear-shaped plot of ground,</l>
+		<l rend="indent1">My soul steals to a pear-shaped plot of ground,</l>
 		<l>Where gleamed the lilac-tinted Easter lily</l>
-		<l rend="indent(1em)">Soft-scented in the air for yards around;</l>
+		<l rend="indent1">Soft-scented in the air for yards around;</l>
 	      </lg>
 	      <lg type="stanza">
 		<l>Alone, without a hint of guardian leaf!</l>
-		<l rend="indent(1em)">Just like a fragile bell of silver rime,</l>
+		<l rend="indent1">Just like a fragile bell of silver rime,</l>
 		<l>It burst the tomb for freedom sweet and brief</l>
-		<l rend="indent(1em)">In the young pregnant year at Eastertime;</l>
+		<l rend="indent1">In the young pregnant year at Eastertime;</l>
 	      </lg>
 	      <lg>
 		<l>And many thought it was a sacred sign,</l>
-		<l rend="indent(1em)">And some called it the resurrection flower;</l>
+		<l rend="indent1">And some called it the resurrection flower;</l>
 		<l>And I, a pagan, worshiped at its shrine,</l>
-		<l rend="indent(1em)">Yielding my heart unto its perfumed power.</l>
+		<l rend="indent1">Yielding my heart unto its perfumed power.</l>
 	      </lg>	
 	    </lg>
 
@@ -664,31 +664,31 @@
 	     <head rend="caps">To One Coming North</head>
 	     <lg type="stanza">
 	       <l>At first you'll joy to see the playful snow,</l>
-	       <l rend="indent(1em)">Like white moths trembling on the tropic air,</l>
+	       <l rend="indent1">Like white moths trembling on the tropic air,</l>
 	       <l>Or waters of the hills that softly flow</l>
-	       <l rend="indent(1em)">Gracefully falling down a shining stair.</l> 
+	       <l rend="indent1">Gracefully falling down a shining stair.</l> 
 	     </lg>
 	     <lg>
 	       <l>And when the fields and streets are covered white</l>
-	       <l rend="indent(1em)">And the wind-worried void is chilly, raw,</l>
+	       <l rend="indent1">And the wind-worried void is chilly, raw,</l>
 	       <l>Or underneath a spell of heat and light</l>
-	       <l rend="indent(1em)">The cheerless frozen spots begin to thaw,</l>
+	       <l rend="indent1">The cheerless frozen spots begin to thaw,</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Like me you'll long for home, where birds' glad song</l>
-	       <l rend="indent(1em)">Means flowering lanes and leas and spaces dry, </l>
+	       <l rend="indent1">Means flowering lanes and leas and spaces dry, </l>
 	       <l>And tender thoughts and feelings fine and strong,</l>
-	       <l rend="indent(1em)">Beneath a vivid silver-flecked blue sky.</l>
+	       <l rend="indent1">Beneath a vivid silver-flecked blue sky.</l>
 	     </lg>
 
 	     <pb n="5"/>
 
 	     <lg type="stanza">
 	       <l>But oh! more than the changeless southern isles,</l>
-	       <l rend="indent(1em)">When Spring has shed upon the earth her  charm, </l>
+	       <l rend="indent1">When Spring has shed upon the earth her  charm, </l>
 	       <l>You'll love the Northland wreathed in golden smiles</l>
-	       <l rend="indent(1em)">By the miraculous sun turned glad and warm.</l>
+	       <l rend="indent1">By the miraculous sun turned glad and warm.</l>
 	     </lg>
 	   </lg>
 
@@ -725,33 +725,33 @@
 
 	     <lg type="stanza">
 	       <l>Alfonso is a handsome bronze-hued lad</l>
-	       <l rend="indent(1em)">Of subtly-changing and surprising parts;</l>
+	       <l rend="indent1">Of subtly-changing and surprising parts;</l>
 	       <l>His moods are storms that frighten and make glad,</l>
-	       <l rend="indent(1em)">His eyes were made to capture women's hearts.</l>
+	       <l rend="indent1">His eyes were made to capture women's hearts.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Down in the glory-hole Alfonso sings</l>
-	       <l rend="indent(1em)">An olden song of wine and clinking glasses</l>
+	       <l rend="indent1">An olden song of wine and clinking glasses</l>
 	       <l>And riotous rakes; magnificently flings</l>
-	       <l rend="indent(1em)">Gay kisses to imaginary lasses.</l>
+	       <l rend="indent1">Gay kisses to imaginary lasses.</l>
 	     </lg>
 	     
 	     <lg type="stanza">
 	       <l>Alfonso's voice of mellow music thrills</l>
-	       <l rend="indent(1em)">Our swaying forms and steals our hearts with joy;</l>
+	       <l rend="indent1">Our swaying forms and steals our hearts with joy;</l>
 	       <l>And<app><lem /><rdg wit="#SINH-alfonso">,</rdg></app> when he soars, his fine falsetto trills</l>
-	       <l rend="indent(1em)">Are rarest notes of gold without alloy.</l>
+	       <l rend="indent1">Are rarest notes of gold without alloy.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>But<app><lem wit="#HS">,</lem></app> O<app><lem /><rdg wit="#SINH-alfonso">!</rdg></app> Alfonso<app><lem wit="#HS">!</lem><rdg wit="SINH-alfonso">,</rdg></app> wherefore do you sing</l>
-	       <l rend="indent(1em)">Dream-songs of carefree men and ancient places?</l>
+	       <l rend="indent1">Dream-songs of carefree men and ancient places?</l>
 	       <l>Soon <app>
 	       <lem wit="#HS">we shall</lem>
 	       <rdg wit="#SINH-alfonso">shall we</rdg>
 	       </app> be beset by clamouring</l>
-	       <l rend="indent(1em)">Of hungry and importunate palefaces.</l>
+	       <l rend="indent1">Of hungry and importunate palefaces.</l>
 	     </lg>
 
 	   </lg>
@@ -769,16 +769,16 @@
 
 	     <lg type="stanza">
 	       <l>Bananas ripe and green<app><lem wit="#HS">,</lem></app> and ginger-root,</l>
-	       <l rend="indent(1em)">Cocoa in pods and alligator pears,</l>
+	       <l rend="indent1">Cocoa in pods and alligator pears,</l>
 	       <l>And tangerines and mangoes and grape fruit,</l>
-	       <l rend="indent(1em)">Fit for the highest prize at parish fairs,</l>
+	       <l rend="indent1">Fit for the highest prize at parish fairs,</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Set in the window, bringing memories</l>
-	       <l rend="indent(1em)">Of fruit-trees laden by low-singing rills,</l>
+	       <l rend="indent1">Of fruit-trees laden by low-singing rills,</l>
 	       <l>And dewy dawns<app><lem wit="#HS">,</lem></app> and mystical blue skies</l>
-	       <l rend="indent(1em)">In benediction over nun-like hills.</l>
+	       <l rend="indent1">In benediction over nun-like hills.</l>
 	     </lg>
 
 	     <lg type="stanza">
@@ -786,9 +786,9 @@
 		 <lem wit="#HS">My</lem>
 		 <rdg wit="#SINH-tropics">Mine</rdg>
 		 </app> eyes grew dim<app><lem wit="#HS">,</lem></app> and I could no more gaze<app><lem wit="#HS">;</lem><rdg wit="#SINH-tropics">,</rdg></app></l>
-	       <l rend="indent(1em)">A wave of longing through my body swept,</l>
+	       <l rend="indent1">A wave of longing through my body swept,</l>
 	       <l>And, hungry for the old, familiar ways,</l>
-	       <l rend="indent(1em)">I turned aside and bowed my head and wept.</l>
+	       <l rend="indent1">I turned aside and bowed my head and wept.</l>
 	     </lg>
 	   </lg>
 
@@ -807,38 +807,38 @@
 
 	     <lg type="stanza">
 	       <l>So much have I forgotten in ten years,</l>
-	       <l rend="indent(1em)">So much in ten brief years<app><lem wit="#HS">!</lem><rdg wit="#SINH-flame">;</rdg></app> I have forgot</l>
+	       <l rend="indent1">So much in ten brief years<app><lem wit="#HS">!</lem><rdg wit="#SINH-flame">;</rdg></app> I have forgot</l>
 	       <l>What time the purple apples come to juice<app><lem wit="#HS">,</lem></app></l>
-	       <l rend="indent(1em)">And what month brings the shy forget-me-not<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">;</rdg></app></l>
+	       <l rend="indent1">And what month brings the shy forget-me-not<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">;</rdg></app></l>
 	       <l><app>
 		 <lem wit="#HS">I have forgot</lem>
 		 <rdg wit="#SINH-flame">Forgotten is</rdg>
 		 </app> the special, startling season</l>
-	       <l rend="indent(1em)">Of <app>
+	       <l rend="indent1">Of <app>
 	       <lem wit="#HS">the pimento's</lem>
 	       <rdg wit="#SINH-flame">some beloved tree's</rdg>
 	       </app> flowering and fruiting<app><lem wit="#HS">;</lem><rdg wit="#SINH-flame">,</rdg></app></l>
 	       <l>What time of year the ground doves brown the fields</l>
-	       <l rend="indent(1em)">And fill the noonday with their curious fluting<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
+	       <l rend="indent1">And fill the noonday with their curious fluting<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
 	       <l>I have forgotten much, but still remember</l>
 	       <l>The poinsettia's red, blood-red in warm December.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I still recall the honey-fever grass,</l>
-	       <l rend="indent(1em)">But <app>
+	       <l rend="indent1">But <app>
 	       <lem wit="#HS">cannot recollect the high days</lem>
 	       <rdg wit="#SINH-flame">I cannot bring back to mind just</rdg>
 	       </app> when</l>
 	       <l>We rooted them out of the ping-wing path</l>
-	       <l rend="indent(1em)">To stop the mad bees in the rabbit pen.</l>
+	       <l rend="indent1">To stop the mad bees in the rabbit pen.</l>
 	       <l>I often try to think in what sweet month</l>
-	       <l rend="indent(1em)">The languid painted ladies used to dapple</l>
+	       <l rend="indent1">The languid painted ladies used to dapple</l>
 	       <l>The yellow <app>
 	       <lem wit="#HS">by-road</lem>
 	       <rdg wit="#SINH-flame">bye road</rdg>
 	       </app> mazing from the main,</l>
-	       <l rend="indent(1em)">Sweet with the golden threads of the rose-apple<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
+	       <l rend="indent1">Sweet with the golden threads of the rose-apple<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
 	       <l>I have forgotten<app><lem wit="#HS">—</lem><rdg wit="#SINH-flame">, </rdg></app>strange<app><lem wit="#HS">—</lem><rdg wit="#SINH-flame">, </rdg></app>but quite remember</l>
 	       <l>The poinsettia's red, blood-red in warm December.</l>
 	     </lg>	     
@@ -849,13 +849,13 @@
 	       <l>What weeks, what months, what time <app>
 	       <lem wit="#HS">of</lem>
 	       <rdg wit="#SINH-flame">o'</rdg></app> the mild year</l>
-	       <l rend="indent(1em)">We cheated school to have our fling at tops?</l>
+	       <l rend="indent1">We cheated school to have our fling at tops?</l>
 	       <l>What days our wine-thrilled bodies pulsed with joy</l>
-	       <l rend="indent(1em)">Feasting upon blackberries in the copse?</l>
+	       <l rend="indent1">Feasting upon blackberries in the copse?</l>
 	       <l>Oh some I know! I have embalmed the days,</l>
-	       <l rend="indent(1em)">Even the sacred moments<app><rdg wit="#SINH-flame">,</rdg></app> when we played,</l>
+	       <l rend="indent1">Even the sacred moments<app><rdg wit="#SINH-flame">,</rdg></app> when we played,</l>
 	       <l>All innocent of passion<app><lem wit="#HS">,</lem></app> uncorrupt,</l>
-	       <l rend="indent(1em)">At noon and evening in the flame-heart's shade<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
+	       <l rend="indent1">At noon and evening in the flame-heart's shade<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
 	       <l>We were so happy, happy,<app><rdg wit="#SINH-flame">—</rdg></app> I remember<app><lem wit="#HS">,</lem></app></l>
 	       <l>Beneath the poinsettia's red in warm December.</l>
 	     </lg>
@@ -901,9 +901,9 @@
 	     <lg type="stanza">
 	       <l>About me young and careless feet</l>
 	       <l>Linger along the garish street;</l>
-	       <l rend="indent(1em)">Above, a hundred shouting signs</l>
+	       <l rend="indent1">Above, a hundred shouting signs</l>
 	       <l>Shed down their bright fantastic glow</l>
-	       <l rend="indent(1em)">Upon the merry crowd and lines</l>
+	       <l rend="indent1">Upon the merry crowd and lines</l>
 	       <l>Of moving carriages below<app><lem wit="#HC">.</lem><rdg wit="SINH-on-broadway">:</rdg></app></l>
 	       <l>Oh wonderful is Broadway—only</l>
 	       <l>My heart, my heart is lonely.</l>
@@ -912,9 +912,9 @@
 	     <lg type="stanza">
 	       <l>Desire naked, linked with Passion,</l>
 	       <l>Goes strutting by in brazen fashion;</l>
-	       <l rend="indent(1em)">From playhouse, cabaret and inn</l>
+	       <l rend="indent1">From playhouse, cabaret and inn</l>
 	       <l>The rainbow lights of Broadway blaze</l>
-	       <l rend="indent(1em)">All gay without, all glad within;</l>
+	       <l rend="indent1">All gay without, all glad within;</l>
 	       <l>As in a dream I stand and gaze</l>
 	       <l>At Broadway, shining Broadway—only</l>
 	       <l>My heart, my heart is lonely.</l>
@@ -936,23 +936,23 @@
 
 	     <lg type="stanza">
 	       <l>I must not gaze at them although</l>
-	       <l rend="indent(1em)">Your eyes are dawning day;</l>
+	       <l rend="indent1">Your eyes are dawning day;</l>
 	       <l>I must not watch you as you go</l>
-	       <l rend="indent(1em)">Your sun-illumined way;</l>
+	       <l rend="indent1">Your sun-illumined way;</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I hear but I must never heed</l>
-	       <l rend="indent(1em)">The fascinating note,</l>
+	       <l rend="indent1">The fascinating note,</l>
 	       <l>Which, fluting like a river reed,</l>
-	       <l rend="indent(1em)">Comes from your trembling throat;</l>
+	       <l rend="indent1">Comes from your trembling throat;</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I must not see upon your face</l>
-	       <l rend="indent(1em)">Love's softly glowing spark;</l>
+	       <l rend="indent1">Love's softly glowing spark;</l>
 	       <l>For there's the barrier of race,</l>
-	       <l rend="indent(1em)">You're fair and I am dark.</l>
+	       <l rend="indent1">You're fair and I am dark.</l>
 	     </lg>
 	   </lg>
 
@@ -962,21 +962,21 @@
 	     <head rend="caps">Adolescence</head>
 	     <lg type="stanza">
 	       <l>There was a time when in late afternoon</l>
-	       <l rend="indent(1em)">The four-o'clocks would fold up at day's close</l>
+	       <l rend="indent1">The four-o'clocks would fold up at day's close</l>
 	       <l>Pink-white in prayer, and 'neath the floating moon</l>
-	       <l rend="indent(1em)">I lay with them in calm and sweet repose.</l>
+	       <l rend="indent1">I lay with them in calm and sweet repose.</l>
 	     </lg>
 	     <lg type="stanza">
 	       <l>And in the open spaces I could sleep,</l>
-	       <l rend="indent(1em)">Half-naked to the shining worlds above;</l>
+	       <l rend="indent1">Half-naked to the shining worlds above;</l>
 	       <l>Peace came with sleep and sleep was long and deep,</l>
-	       <l rend="indent(1em)">Gained without effort, sweet like early love.</l>
+	       <l rend="indent1">Gained without effort, sweet like early love.</l>
 	     </lg>
 	     <lg type="stanza">
 	       <l>But now no balm—nor drug nor weed nor wine—</l>
-	       <l rend="indent(1em)">Can bring true rest to cool my body's fever,</l>
+	       <l rend="indent1">Can bring true rest to cool my body's fever,</l>
 	       <l>Nor sweeten in my mouth the acid brine,</l>
-	       <l rend="indent(1em)">That salts my choicest drink and will forever.</l>
+	       <l rend="indent1">That salts my choicest drink and will forever.</l>
 	     </lg>
 	   </lg>
 
@@ -986,21 +986,21 @@
 	     <head rend="caps">Homing Swallows</head>
 	     <lg type="stanza">
 	       <l>Swift swallows sailing from the Spanish main,</l>
-	       <l rend="indent(1em)">O rain-birds racing merrily away</l>
+	       <l rend="indent1">O rain-birds racing merrily away</l>
 	       <l>From hill-tops parched with heat and sultry plain</l>
-	       <l rend="indent(1em)">Of wilting plants and fainting flowers, say—</l>
+	       <l rend="indent1">Of wilting plants and fainting flowers, say—</l>
 	     </lg>
 	     <lg type="stanza">
 	       <l>When at the noon-hour from the chapel school</l>
-	       <l rend="indent(1em)">The children dash and scamper down the dale,</l>
+	       <l rend="indent1">The children dash and scamper down the dale,</l>
 	       <l>Scornful of teacher's rod and binding rule</l>
-	       <l rend="indent(1em)">Forever broken and without avail,</l>
+	       <l rend="indent1">Forever broken and without avail,</l>
 	     </lg>
 	     <lg type="stanza">
 	       <l>Do they still stop beneath the giant tree</l>
-	       <l rend="indent(1em)">To gather locusts in their childish greed,</l>
+	       <l rend="indent1">To gather locusts in their childish greed,</l>
 	       <l>And chuckle when they break the pods to see</l>
-	       <l rend="indent(1em)">The golden powder clustered round the seed?</l>
+	       <l rend="indent1">The golden powder clustered round the seed?</l>
 	     </lg>
 	   </lg>
 
@@ -1032,21 +1032,21 @@
 
 
 	     <l>O sweet are tropic lands for waking dreams!</l>
-	     <l rend="indent(1em)">There time and life move lazily along<app><lem wit="#HS">.</lem><rdg wit="#SINH-north-and-south">;</rdg></app></l>
+	     <l rend="indent1">There time and life move lazily along<app><lem wit="#HS">.</lem><rdg wit="#SINH-north-and-south">;</rdg></app></l>
 	     <l>There by the banks of blue-and-silver streams</l>
-	     <l rend="indent(1em)">Grass-sheltered crickets chirp incessant song,</l>
+	     <l rend="indent1">Grass-sheltered crickets chirp incessant song,</l>
 	     <l>Gay-<app><lem wit="#HS">colored</lem><rdg wit="#SINH-north-and-south">coloured</rdg></app> lizards loll all through the day,</l>
-	     <l rend="indent(1em)">Their tongues outstretched for careless little flies,</l>
+	     <l rend="indent1">Their tongues outstretched for careless little flies,</l>
 	     <l>And swarthy children in the fields at play<app><lem wit="#HS">,</lem></app></l>
-	     <l rend="indent(1em)">Look upward laughing at the smiling skies.</l>
+	     <l rend="indent1">Look upward laughing at the smiling skies.</l>
 	     <l>A breath of idleness is in the air</l>
-	     <l rend="indent(1em)">That casts a subtle spell upon all things,</l>
+	     <l rend="indent1">That casts a subtle spell upon all things,</l>
 	     <l>And love and mating-time are everywhere<app><lem wit="#HS">,</lem></app></l>
-	     <l rend="indent(1em)">And wonder to life's commonplaces clings.</l>
+	     <l rend="indent1">And wonder to life's commonplaces clings.</l>
 	     <l>The fluttering humming-bird darts through the trees</l>
-	     <l rend="indent(1em)">And dips his long beak in the big bell-flowers,</l>
+	     <l rend="indent1">And dips his long beak in the big bell-flowers,</l>
 	     <l>The leisured buzzard floats upon the breeze<app><lem wit="#HS">,</lem></app></l>
-	     <l rend="indent(1em)">Riding a crescent cloud for endless hours<app><lem wit="#HS">,</lem><rdg wit="#SINH-north-and-south">;</rdg></app></l>
+	     <l rend="indent1">Riding a crescent cloud for endless hours<app><lem wit="#HS">,</lem><rdg wit="#SINH-north-and-south">;</rdg></app></l>
 	     <l>The sea beats softly on the emerald strands<app><rdg wit="#SINH-north-and-south">,</rdg></app>—</l>
 	     <l>O sweet for <app>
 	     <lem wit="#HS">quiet</lem>
@@ -1080,29 +1080,29 @@
 	     <head rend="caps">The Plateau</head>
 	     <lg type="stanza">
 	       <l>It was the silver, heart-enveloping view</l>
-	       <l rend="indent(1em)">Of the mysterious sea-line far away,</l>
-	       <l rend="indent(1em)">Seen only on a gleaming gold-white day,</l>
+	       <l rend="indent1">Of the mysterious sea-line far away,</l>
+	       <l rend="indent1">Seen only on a gleaming gold-white day,</l>
 	       <l>That made it dear and beautiful to you.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>And Laura loved it for the little hill,</l>
-	       <l rend="indent(1em)">Where the quartz sparkled fire, barren and dun,</l>
-	       <l rend="indent(1em)">Whence in the shadow of the dying sun,</l>
+	       <l rend="indent1">Where the quartz sparkled fire, barren and dun,</l>
+	       <l rend="indent1">Whence in the shadow of the dying sun,</l>
 	       <l>She contemplated Hallow's wooden mill.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>While Danny liked the sheltering high grass,</l>
-	       <l rend="indent(1em)">In which he lay upon a clear dry night,</l>
-	       <l rend="indent(1em)">To hear and see, screened skilfully from sight,</l>
+	       <l rend="indent1">In which he lay upon a clear dry night,</l>
+	       <l rend="indent1">To hear and see, screened skilfully from sight,</l>
 	       <l>The happy lovers of the valley pass.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>But oh! I loved it for the big round moon</l>
-	       <l rend="indent(1em)">That swung out of the clouds and swooned aloft,</l>
-	       <l rend="indent(1em)">Burning with passion, gloriously soft,</l>
+	       <l rend="indent1">That swung out of the clouds and swooned aloft,</l>
+	       <l rend="indent1">Burning with passion, gloriously soft,</l>
 	       <l>Lighting the purple flowers of fragrant June.</l>
 	     </lg>
 	   </lg>
@@ -1122,24 +1122,24 @@
 
 	     <lg type="stanza">
 	       <l>Some day, when trees have shed their leaves</l>
-	       <l rend="indent(1em)">And against the morning's white</l>
+	       <l rend="indent1">And against the morning's white</l>
 	       <l>The shivering birds beneath the eaves</l>
-	       <l rend="indent(1em)">Have sheltered for the night,</l>
+	       <l rend="indent1">Have sheltered for the night,</l>
 	       <l>We'll turn our faces southward, love,</l>
-	       <l rend="indent(1em)">Toward the summer isle</l>
+	       <l rend="indent1">Toward the summer isle</l>
 	       <l>Where bamboos spire to shafted grove</l>
-	       <l rend="indent(1em)">And wide-mouthed orchids smile.</l>
+	       <l rend="indent1">And wide-mouthed orchids smile.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>And we will seek the quiet hill</l>
-	       <l rend="indent(1em)">Where towers the cotton tree,</l>
+	       <l rend="indent1">Where towers the cotton tree,</l>
 	       <l>And leaps the laughing crystal rill<app><lem wit="#HS">,</lem></app></l>
-	       <l rend="indent(1em)">And works the droning bee<app><lem wit="#HS">.</lem><rdg wit="#SINH-after">,</rdg></app></l>
+	       <l rend="indent1">And works the droning bee<app><lem wit="#HS">.</lem><rdg wit="#SINH-after">,</rdg></app></l>
 	       <l>And we will build a cottage there</l>
-	       <l rend="indent(1em)">Beside an open glade,</l>
+	       <l rend="indent1">Beside an open glade,</l>
 	       <l>With black-ribbed blue-bells blowing near<app><lem wit="#HS">,</lem></app></l>
-	       <l rend="indent(1em)">And ferns that never fade.</l>
+	       <l rend="indent1">And ferns that never fade.</l>
 	     </lg>	     
 	   </lg>
 
@@ -1157,16 +1157,16 @@
 
 	     <lg type="stanza">
 	       <l>O you would clothe me in silken frocks</l>
-	       <l rend="indent(1em)">And house me from the cold,</l>
+	       <l rend="indent1">And house me from the cold,</l>
 	       <l>And bind with bright bands my glossy locks<app><lem wit="#HC">,</lem></app></l>
-	       <l rend="indent(1em)">And buy me chains of gold;</l>
+	       <l rend="indent1">And buy me chains of gold;</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>And give me—meekly to do my will—</l>
-	       <l rend="indent(1em)">The hapless sons of men:—</l>
+	       <l rend="indent1">The hapless sons of men:—</l>
 	       <l>But the wild goat bounding on the barren hill</l>
-	       <l rend="indent(1em)">Droops in the grassy pen.</l>
+	       <l rend="indent1">Droops in the grassy pen.</l>
 	     </lg>
 	   </lg>
 
@@ -1184,9 +1184,9 @@
 
 	     <lg type="stanza">
 	       <l>I hear the halting footsteps of a lass</l>
-	       <l rend="indent(1em)">In Negro Harlem when the night lets fall</l>
+	       <l rend="indent1">In Negro Harlem when the night lets fall</l>
 	       <l>Its veil. I see the shapes of girls who pass</l>
-	       <l rend="indent(1em)"><app>
+	       <l rend="indent1"><app>
 		 <lem wit="#HC">To bend and barter at desire's call.</lem>
 		 <rdg wit="#SINH-harlem-shadows">Eager to heed desire's insistent call:</rdg>
 	       </app></l>
@@ -1196,21 +1196,21 @@
 
 	     <lg type="stanza">
 	       <l>Through the long night until the silver break</l>
-	       <l rend="indent(1em)">Of day the little gray feet know no rest<app><lem wit="#HC">;</lem><rdg wit="#SINH-harlem-shadows">,</rdg></app></l>
+	       <l rend="indent1">Of day the little gray feet know no rest<app><lem wit="#HC">;</lem><rdg wit="#SINH-harlem-shadows">,</rdg></app></l>
 	       <l>Through the lone night until the last snow-flake</l>
-	       <l rend="indent(1em)">Has dropped from heaven upon the earth's white breast,</l>
+	       <l rend="indent1">Has dropped from heaven upon the earth's white breast,</l>
 	       <l>The dusky, half-clad girls of tired feet</l>
 	       <l>Are trudging, thinly shod, from street to street.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Ah, stern harsh world, that in the wretched way</l>
-	       <l rend="indent(1em)">Of poverty, <app>
+	       <l rend="indent1">Of poverty, <app>
 	       <lem wit="#HC">dishonor</lem>
 	       <rdg wit="#SINH-harlem-shadows">dishonour</rdg>
 	       </app> and disgrace,</l>
 	       <l>Has pushed the timid little feet of clay<app><lem wit="#HC">,</lem><rdg wit="#SINH-harlem-shadows">.</rdg></app></l>
-	       <l rend="indent(1em)">The sacred brown feet of my fallen race!</l>
+	       <l rend="indent1">The sacred brown feet of my fallen race!</l>
 	       <l>Ah, heart of me, the weary, weary feet</l>
 	       <l>In Harlem wandering from street to street.</l>
 	     </lg>
@@ -1244,46 +1244,46 @@
 
 	     <lg type="stanza">
 	       <l>Lovely dainty Spanish needle</l>
-	       <l rend="indent(1em)">With your yellow flower and white,</l>
+	       <l rend="indent1">With your yellow flower and white,</l>
 	       <l>Dew bedecked and softly sleeping,</l>
-	       <l rend="indent(1em)">Do you think of me to-night?</l>
+	       <l rend="indent1">Do you think of me to-night?</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Shadowed by the spreading mango,</l>
-	       <l rend="indent(1em)">Nodding o'er the rippling stream,</l>
+	       <l rend="indent1">Nodding o'er the rippling stream,</l>
 	       <l>Tell me, dear plant of my childhood,</l>
-	       <l rend="indent(1em)">Do you of the exile dream?</l>
+	       <l rend="indent1">Do you of the exile dream?</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Do you see me by the brook's side</l>
-	       <l rend="indent(1em)">Catching crayfish 'neath the stone,</l>
+	       <l rend="indent1">Catching crayfish 'neath the stone,</l>
 	       <l>As you did the day you whispered:</l>
-	       <l rend="indent(1em)">Leave the harmless dears alone?</l>
+	       <l rend="indent1">Leave the harmless dears alone?</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Do you see me in the meadow</l>
-	       <l rend="indent(1em)">Coming from the woodland spring</l>
+	       <l rend="indent1">Coming from the woodland spring</l>
 	       <l>With a bamboo on my shoulder</l>
-	       <l rend="indent(1em)">And a pail slung from a string?</l>
+	       <l rend="indent1">And a pail slung from a string?</l>
 	     </lg>
 
 	     <pb n="25" />
 
 	     <lg type="stanza">
 	       <l>Do you see me all expectant</l>
-	       <l rend="indent(1em)">Lying in an orange grove,</l>
+	       <l rend="indent1">Lying in an orange grove,</l>
 	       <l>While the swee-swees sing above me,</l>
-	       <l rend="indent(1em)">Waiting for my elf-eyed love?</l>
+	       <l rend="indent1">Waiting for my elf-eyed love?</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Lovely dainty Spanish needle,</l>
-	       <l rend="indent(1em)">Source to me of sweet delight,</l>
+	       <l rend="indent1">Source to me of sweet delight,</l>
 	       <l>In your far-off sunny southland</l>
-	       <l rend="indent(1em)">Do you dream of me to-night?</l>
+	       <l rend="indent1">Do you dream of me to-night?</l>
 	     </lg>
 	   </lg>	   
 
@@ -1383,22 +1383,22 @@
 
 	     <lg type="stanza">
 	       <l>Last night I heard your voice, mother,</l>
-	       <l rend="indent(1em)">The words you sang to me</l>
+	       <l rend="indent1">The words you sang to me</l>
 	       <l>When I, a little barefoot boy,</l>
-	       <l rend="indent(1em)">Knelt down against your knee.</l>
+	       <l rend="indent1">Knelt down against your knee.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>And tears gushed from my heart, mother,</l>
-	       <l rend="indent(1em)">And passed beyond its wall,</l>
+	       <l rend="indent1">And passed beyond its wall,</l>
 	       <l>But though the fountain reached my throat</l>
-	       <l rend="indent(1em)">The drops refused to fall.</l>
+	       <l rend="indent1">The drops refused to fall.</l>
 	     </lg>
 	     <lg type="stanza">
 	       <l>'Tis ten years since you died, mother,</l>
-	       <l rend="indent(1em)">Just ten dark years of pain,</l>
+	       <l rend="indent1">Just ten dark years of pain,</l>
 	       <l>And oh, I only wish that I</l>
-	       <l rend="indent(1em)">Could weep just once again.</l>
+	       <l rend="indent1">Could weep just once again.</l>
 	     </lg>
 	   </lg>
 
@@ -1408,30 +1408,30 @@
 	     <head rend="caps">Heritage</head>
 	     <lg type="stanza">
 	       <l>Now the dead past seems vividly alive,</l>
-	       <l rend="indent(1em)">And in this shining moment I can trace,</l>
+	       <l rend="indent1">And in this shining moment I can trace,</l>
 	       <l>Down through the vista of the vanished years,</l>
-	       <l rend="indent(1em)">Your faun-like form, your fond elusive face.</l>
+	       <l rend="indent1">Your faun-like form, your fond elusive face.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>And suddenly some secret spring's released,</l>
-	       <l rend="indent(1em)">And unawares a riddle is revealed,</l>
+	       <l rend="indent1">And unawares a riddle is revealed,</l>
 	       <l>And I can read like large, black-lettered print,</l>
-	       <l rend="indent(1em)">What seemed before a thing forever sealed.</l>
+	       <l rend="indent1">What seemed before a thing forever sealed.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I know the magic word, the graceful thought,</l>
-	       <l rend="indent(1em)">The song that fills me in my lucid hours,</l>
+	       <l rend="indent1">The song that fills me in my lucid hours,</l>
 	       <l>The spirit's wine that thrills my body through,</l>
-	       <l rend="indent(1em)">And makes me music-drunk, are yours, all yours.</l>
+	       <l rend="indent1">And makes me music-drunk, are yours, all yours.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I cannot praise, for you have passed from praise,</l>
-	       <l rend="indent(1em)">I have no tinted thoughts to paint you true;</l>
+	       <l rend="indent1">I have no tinted thoughts to paint you true;</l>
 	       <l>But I can feel and I can write the word;</l>
-	       <l rend="indent(1em)">The best of me is but the least of you.</l>
+	       <l rend="indent1">The best of me is but the least of you.</l>
 	     </lg>
 
 	   </lg>
@@ -1443,23 +1443,23 @@
 
 	     <lg type="stanza">
 	       <l>When I have passed away and am forgotten,</l>
-	       <l rend="indent(1em)">And no one living can recall my face,</l>
+	       <l rend="indent1">And no one living can recall my face,</l>
 	       <l>When under alien sod my bones lie rotten</l>
-	       <l rend="indent(1em)">With not a tree or stone to mark the place;</l>
+	       <l rend="indent1">With not a tree or stone to mark the place;</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Perchance a pensive youth, with passion burning,</l>
-	       <l rend="indent(1em)">For olden verse that smacks of love and wine,</l>
+	       <l rend="indent1">For olden verse that smacks of love and wine,</l>
 	       <l>The musty pages of old volumes turning,</l>
-	       <l rend="indent(1em)">May light upon a little song of mine,</l>
+	       <l rend="indent1">May light upon a little song of mine,</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>And he may softly hum the tune and wonder</l>
-	       <l rend="indent(1em)">Who wrote the verses in the long ago;</l>
+	       <l rend="indent1">Who wrote the verses in the long ago;</l>
 	       <l>Or he may sit him down awhile to ponder</l>
-	       <l rend="indent(1em)">Upon the simple words that touch him so.</l>
+	       <l rend="indent1">Upon the simple words that touch him so.</l>
 	     </lg>
 	   </lg>
 
@@ -1613,47 +1613,47 @@
 
 	     <lg type="stanza">
 	       <l>Sweet life! how lovely to be here</l>
-	       <l rend="indent(1em)">And feel the soft sea-laden breeze</l>
+	       <l rend="indent1">And feel the soft sea-laden breeze</l>
 	       <l>Strike my flushed face, the spruce's fair</l>
-	       <l rend="indent(1em)">Free limbs to see, the lesser trees'</l>
+	       <l rend="indent1">Free limbs to see, the lesser trees'</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Bare hands to touch, the sparrow's cheep</l>
-	       <l rend="indent(1em)">To heed, and watch his nimble flight</l>
+	       <l rend="indent1">To heed, and watch his nimble flight</l>
 	       <l>Above the short brown grass asleep.</l>
-	       <l rend="indent(1em)">Love glorious in his friendly might,</l>
+	       <l rend="indent1">Love glorious in his friendly might,</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Music that every heart could bless,</l>
-	       <l rend="indent(1em)">And thoughts of life serene, divine,</l>
+	       <l rend="indent1">And thoughts of life serene, divine,</l>
 	       <l>Beyond my power to express<app><lem wit="#HS">,</lem></app></l>
-	       <l rend="indent(1em)">Crowd round this lifted heart of mine!</l>
+	       <l rend="indent1">Crowd round this lifted heart of mine!</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>But oh! to leave this paradise</l>
-	       <l rend="indent(1em)">For the city's dirty basement room,</l>
+	       <l rend="indent1">For the city's dirty basement room,</l>
 	       <l>Where, beauty hidden from the eyes,</l>
-	       <l rend="indent(1em)">A table, bed, bureau and broom</l>
+	       <l rend="indent1">A table, bed, bureau and broom</l>
 	     </lg>
 
 	     <pb n="38" />
 
 	     <lg type="stanza">
 	       <l>In corner set, two crippled chairs</l>
-	       <l rend="indent(1em)">All covered up with dust and grim</l>
+	       <l rend="indent1">All covered up with dust and grim</l>
 	       <l>With hideousness and scars of years,</l>
-	       <l rend="indent(1em)">And gaslight burning weird and dim,</l>
+	       <l rend="indent1">And gaslight burning weird and dim,</l>
 	     </lg>
 	     <lg type="stanza">
 	       <l>Will welcome me . . . And yet, and yet</l>
-	       <l rend="indent(1em)"><app>
+	       <l rend="indent1"><app>
 		 <lem wit="#HS">This very wind</lem>
 		 <rdg wit="#SINH-winter">The sea-wind here</rdg></app>, the winter birds,</l>
 	       <l>The glory of the soft sunset,</l>
-	       <l rend="indent(1em)"><app>
+	       <l rend="indent1"><app>
 		 <lem wit="#HS">Come There</lem>
 		 <rdg wit="#SINH-winter">There come</rdg>
 		 </app> to me in words.</l>
@@ -1700,18 +1700,18 @@
 
 	     <lg type="stanza">
 	       <l>Too green the springing April grass,</l>
-	       <l rend="indent(1em)">Too blue the silver-speckled sky,</l>
+	       <l rend="indent1">Too blue the silver-speckled sky,</l>
 	       <l>For me to linger here, alas,</l>
-	       <l rend="indent(1em)">While happy winds go laughing by,</l>
+	       <l rend="indent1">While happy winds go laughing by,</l>
 	       <l>Wasting the golden hours indoors,</l>
 	       <l>Washing windows and scrubbing floors.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Too wonderful the April night,</l>
-	       <l rend="indent(1em)">Too faintly sweet the first May flowers,</l>
+	       <l rend="indent1">Too faintly sweet the first May flowers,</l>
 	       <l>The stars too gloriously bright,</l>
-	       <l rend="indent(1em)">For me to spend the evening hours,</l>
+	       <l rend="indent1">For me to spend the evening hours,</l>
 	       <l>When fields are fresh and streams are leaping,</l>
 	       <l>Wearied, exhausted, dully sleeping.</l>
 	     </lg>
@@ -1953,43 +1953,43 @@
 
 	     <lg type="stanza">
 	       <l>Through the pregnant universe rumbles life's terrific thunder<app><lem wit="#HC">,</lem></app></l>
-	       <l rend="indent(1em)">And Earth's bowels quake with terror; strange and terrible storms break,</l>
+	       <l rend="indent1">And Earth's bowels quake with terror; strange and terrible storms break,</l>
 	       <l>Lightning-torches flame the heavens, kindling souls of men<app><lem wit="#HC">,</lem></app> thereunder:</l>
-	       <l rend="indent(1em)">Africa! long ages sleeping, <app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my motherland, awake!</l>
+	       <l rend="indent1">Africa! long ages sleeping, <app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my motherland, awake!</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>In the East the clouds glow crimson with the new dawn that is breaking,</l>
-	       <l rend="indent(1em)">And its golden glory fills the western skies<app><lem wit="#HC">.</lem><rdg wit="#SINH-exhortation">:—</rdg></app></l>
-	       <l rend="indent(1em)"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers and my sisters, wake! arise!</l>
+	       <l rend="indent1">And its golden glory fills the western skies<app><lem wit="#HC">.</lem><rdg wit="#SINH-exhortation">:—</rdg></app></l>
+	       <l rend="indent1"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers and my sisters, wake! arise!</l>
 	       <l>For the new birth rends the old earth and the very dead are waking,</l>
-	       <l rend="indent(1em)">Ghosts are turned flesh, throwing off the grave's disguise,</l>
-	       <l rend="indent(1em)">And the foolish, even children, are made wise;</l>
+	       <l rend="indent1">Ghosts are turned flesh, throwing off the grave's disguise,</l>
+	       <l rend="indent1">And the foolish, even children, are made wise;</l>
 	       <l>For the big earth groans in travail for the strong, new world in making—</l>
 
 	       <pb n="50" />
 
-	       <l rend="indent(1em)"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers, dreaming for dim centuries,</l>
-	       <l rend="indent(1em)">Wake from sleeping; to the East turn, turn your eyes!</l>
+	       <l rend="indent1"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers, dreaming for dim centuries,</l>
+	       <l rend="indent1">Wake from sleeping; to the East turn, turn your eyes!</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Oh the night is sweet for sleeping, but the shining day's for working;</l>
-	       <l rend="indent(1em)">Sons of the seductive night, for your children's children's sake,</l>
+	       <l rend="indent1">Sons of the seductive night, for your children's children's sake,</l>
 	       <l>From the deep primeval forests where the crouching leopard's lurking,</l>
-	       <l rend="indent(1em)">Lift your heavy-lidded eyes,<app><rdg wit="#SINH-exhortation">—</rdg></app> Ethiopia! awake!</l>
+	       <l rend="indent1">Lift your heavy-lidded eyes,<app><rdg wit="#SINH-exhortation">—</rdg></app> Ethiopia! awake!</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>In the East the clouds glow crimson with the new dawn that is breaking,</l>
-	       <l rend="indent(1em)">And its golden glory fills the western skies<app><lem wit="#HC">.</lem><rdg wit="#SINH-exhortation">:—</rdg></app></l>
-	       <l rend="indent(1em)"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers and my sisters, wake! arise!</l>
+	       <l rend="indent1">And its golden glory fills the western skies<app><lem wit="#HC">.</lem><rdg wit="#SINH-exhortation">:—</rdg></app></l>
+	       <l rend="indent1"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers and my sisters, wake! arise!</l>
 	       <l>For the new birth rends the old earth and the very dead are waking,</l>
-	       <l rend="indent(1em)">Ghosts are turned flesh, throwing off the grave's disguise,</l>
-	       <l rend="indent(1em)">And the foolish, even children, are made wise;</l>
+	       <l rend="indent1">Ghosts are turned flesh, throwing off the grave's disguise,</l>
+	       <l rend="indent1">And the foolish, even children, are made wise;</l>
 	       <l>For the big earth groans in travail for the strong, new world in making—</l>
-	       <l rend="indent(1em)"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers, dreaming for long centuries,</l>
-	       <l rend="indent(1em)">Wake from sleeping; to the East turn, turn your eyes!</l>
+	       <l rend="indent1"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg></app> my brothers, dreaming for long centuries,</l>
+	       <l rend="indent1">Wake from sleeping; to the East turn, turn your eyes!</l>
 	     </lg>
 	   </lg>
 
@@ -2061,21 +2061,21 @@
 	   <lg type = "poem" xml:id="subway-wind">
 	     <head rend="caps">Subway Wind</head>
 	     <l>Far down, down through the city's great, gaunt gut</l>
-	     <l rend="indent(1em)">The gray train rushing bears the weary wind;</l>
+	     <l rend="indent1">The gray train rushing bears the weary wind;</l>
 	     <l>In the packed cars the fans the crowd's breath cut,</l>
-	     <l rend="indent(1em)">Leaving the sick and heavy air behind.</l>
+	     <l rend="indent1">Leaving the sick and heavy air behind.</l>
 	     <l>And pale-cheeked children seek the upper door</l>
-	     <l rend="indent(1em)">To give their summer jackets to the breeze;</l>
+	     <l rend="indent1">To give their summer jackets to the breeze;</l>
 	     <l>Their laugh is swallowed in the deafening roar</l>
-	     <l rend="indent(1em)">Of captive wind that moans for fields and seas;</l>
+	     <l rend="indent1">Of captive wind that moans for fields and seas;</l>
 	     <l>Seas cooling warm where native schooners drift</l>
-	     <l rend="indent(1em)">Through sleepy waters, while gulls wheel and sweep,</l>
+	     <l rend="indent1">Through sleepy waters, while gulls wheel and sweep,</l>
 	     <l>Waiting for windy waves the keels to lift</l>
-	     <l rend="indent(1em)">Lightly among the islands of the deep;</l>
+	     <l rend="indent1">Lightly among the islands of the deep;</l>
 	     <l>Islands of lofty palm trees blooming white</l>
-	     <l rend="indent(1em)">That lend their perfume to the tropic sea,</l>
+	     <l rend="indent1">That lend their perfume to the tropic sea,</l>
 	     <l>Where fields lie idle in the dew drenched night,</l>
-	     <l rend="indent(1em)">And the Trades float above them fresh and free.</l>
+	     <l rend="indent1">And the Trades float above them fresh and free.</l>
 	   </lg>
 
 	   <pb n="55" />
@@ -2126,23 +2126,23 @@
 
 	     <lg type="stanza">
 	       <l>There is a lovely noise about your name,</l>
-	       <l rend="indent(1em)">Above the shoutings of the city clear,</l>
+	       <l rend="indent1">Above the shoutings of the city clear,</l>
 	       <l>More than a moment's merriment, whose claim</l>
-	       <l rend="indent(1em)">Will greater grow with every mellowed year.</l>
+	       <l rend="indent1">Will greater grow with every mellowed year.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>The people will not bear you down the street,</l>
-	       <l rend="indent(1em)">Dancing to the strong rhythm of your words,</l>
+	       <l rend="indent1">Dancing to the strong rhythm of your words,</l>
 	       <l>The modern kings will throttle you to greet</l>
-	       <l rend="indent(1em)">The piping voice of artificial birds.</l>
+	       <l rend="indent1">The piping voice of artificial birds.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>But the rare lonely spirits, even mine,</l>
-	       <l rend="indent(1em)">Who love the immortal music of all days,</l>
+	       <l rend="indent1">Who love the immortal music of all days,</l>
 	       <l>Will see the glory of your trailing line,</l>
-	       <l rend="indent(1em)">The bedded beauty of your haunting lays.</l>
+	       <l rend="indent1">The bedded beauty of your haunting lays.</l>
 	     </lg>
 	   </lg>
 
@@ -2211,65 +2211,65 @@
 	     <head rend="caps"></head>
 
 	     <lg type="stanza">
-	       <l rend="indent(1em)">The tired cars go grumbling by,</l>
-	       <l rend="indent(2em)">The moaning, groaning cars,</l>
-	       <l rend="indent(1em)">And the old milk carts go rumbling by</l>
-	       <l rend="indent(2em)">Under the same dull stars.</l>
-	       <l rend="indent(1em)">Out of the tenements, cold as stone,</l>
-	       <l rend="indent(2em)">Dark figures start for work;</l>
-	       <l rend="indent(1em)">I watch them sadly shuffle on,</l>
-	       <l rend="indent(2em)">'Tis dawn, dawn in New York.</l>
+	       <l rend="indent1">The tired cars go grumbling by,</l>
+	       <l rend="indent2">The moaning, groaning cars,</l>
+	       <l rend="indent1">And the old milk carts go rumbling by</l>
+	       <l rend="indent2">Under the same dull stars.</l>
+	       <l rend="indent1">Out of the tenements, cold as stone,</l>
+	       <l rend="indent2">Dark figures start for work;</l>
+	       <l rend="indent1">I watch them sadly shuffle on,</l>
+	       <l rend="indent2">'Tis dawn, dawn in New York.</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l rend="indent(2em)">But I would be on the island of the sea,</l>
-	       <l rend="indent(2em)">In the heart of the island of the sea,</l>
-	       <l rend="indent(1em)">Where the cocks are crowing, crowing, crowing,</l>
-	       <l rend="indent(1em)">And the hens are cackling in the rose-apple tree,</l>
+	       <l rend="indent2">But I would be on the island of the sea,</l>
+	       <l rend="indent2">In the heart of the island of the sea,</l>
+	       <l rend="indent1">Where the cocks are crowing, crowing, crowing,</l>
+	       <l rend="indent1">And the hens are cackling in the rose-apple tree,</l>
 	       <l>Where the old draft-horse is neighing, neighing, neighing</l>
-	       <l rend="indent(2em)">Out on the brown dew-silvered lawn,</l>
-	       <l rend="indent(1em)">And the tethered cow is lowing, lowing, lowing,</l>
+	       <l rend="indent2">Out on the brown dew-silvered lawn,</l>
+	       <l rend="indent1">And the tethered cow is lowing, lowing, lowing,</l>
 	       <l>And dear old Ned is braying, braying, braying,</l>
 	       <l>And the shaggy Nannie goat is calling, calling, calling</l>
 
 	       <pb n="61" />
 
-	       <l rend="indent(1em)">From her little trampled corner of the long wide lea</l>
+	       <l rend="indent1">From her little trampled corner of the long wide lea</l>
 	       <l>That stretches to the waters of the hill-stream falling</l>
-	       <l rend="indent(2em)">Sheer upon the flat rocks joyously!</l>
-	       <l rend="indent(2em)">There, oh there! on the island of the sea<app><lem wit="#HS">,</lem></app></l>
-	       <l rend="indent(3em)">There I would be at dawn.</l>
+	       <l rend="indent2">Sheer upon the flat rocks joyously!</l>
+	       <l rend="indent2">There, oh there! on the island of the sea<app><lem wit="#HS">,</lem></app></l>
+	       <l rend="indent3">There I would be at dawn.</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l rend="indent(1em)">The tired cars go grumbling by,</l>
-	       <l rend="indent(2em)">The crazy, lazy cars,</l>
-	       <l rend="indent(1em)">And the same milk carts go rumbling by</l>
-	       <l rend="indent(2em)">Under the dying stars.</l>
-	       <l rend="indent(1em)">A lonely newsboy hurries by,</l>
-	       <l rend="indent(2em)">Humming a recent ditty;</l>
-	       <l rend="indent(1em)">Red streaks strike through the gray of the sky,</l>
-	       <l rend="indent(2em)">The dawn comes to the city.</l>
+	       <l rend="indent1">The tired cars go grumbling by,</l>
+	       <l rend="indent2">The crazy, lazy cars,</l>
+	       <l rend="indent1">And the same milk carts go rumbling by</l>
+	       <l rend="indent2">Under the dying stars.</l>
+	       <l rend="indent1">A lonely newsboy hurries by,</l>
+	       <l rend="indent2">Humming a recent ditty;</l>
+	       <l rend="indent1">Red streaks strike through the gray of the sky,</l>
+	       <l rend="indent2">The dawn comes to the city.</l>
 	     </lg>
 
 	     <lg type="stanza">
-	       <l rend="indent(2em)">But I would be on the island of the sea,</l>
-	       <l rend="indent(2em)">In the heart of the island of the sea,</l>
-	       <l rend="indent(1em)">Where the cocks are crowing, crowing, crowing,</l>
-	       <l rend="indent(1em)">And the hens are cackling in the rose-apple tree,</l>
+	       <l rend="indent2">But I would be on the island of the sea,</l>
+	       <l rend="indent2">In the heart of the island of the sea,</l>
+	       <l rend="indent1">Where the cocks are crowing, crowing, crowing,</l>
+	       <l rend="indent1">And the hens are cackling in the rose-apple tree,</l>
 	       <l>Where the old draft-horse is neighing, neighing, neighing</l>
-	       <l rend="indent(2em)">Out on the brown dew-silvered lawn,</l>
-	       <l rend="indent(1em)">And the tethered cow is lowing, lowing, lowing,</l>
+	       <l rend="indent2">Out on the brown dew-silvered lawn,</l>
+	       <l rend="indent1">And the tethered cow is lowing, lowing, lowing,</l>
 
 	       <pb n="62" />
 
-	       <l rend="indent(1em)">And dear old Ned is braying, braying, braying,</l>
-	       <l rend="indent(1em)">And the shaggy Nannie goat is calling, calling, calling</l>
-	       <l rend="indent(2em)">From her little trampled corner of the long wide lea</l>
-	       <l rend="indent(1em)">That stretches to the waters of the hill-stream falling</l>
-	       <l rend="indent(2em)">Sheer upon the flat rocks joyously!</l>
-	       <l rend="indent(2em)">There, oh there! on the island of the sea<app><lem wit="#HC">,</lem></app></l>
-	       <l rend="indent(3em)">There I would be at dawn.</l>
+	       <l rend="indent1">And dear old Ned is braying, braying, braying,</l>
+	       <l rend="indent1">And the shaggy Nannie goat is calling, calling, calling</l>
+	       <l rend="indent2">From her little trampled corner of the long wide lea</l>
+	       <l rend="indent1">That stretches to the waters of the hill-stream falling</l>
+	       <l rend="indent2">Sheer upon the flat rocks joyously!</l>
+	       <l rend="indent2">There, oh there! on the island of the sea<app><lem wit="#HC">,</lem></app></l>
+	       <l rend="indent3">There I would be at dawn.</l>
 	     </lg>
 	   </lg>
 
@@ -2280,23 +2280,23 @@
 
 	     <lg type="stanza">
 	       <l>O word I love to sing! thou art too tender</l>
-	       <l rend="indent(1em)">For all the passions agitating me;</l>
+	       <l rend="indent1">For all the passions agitating me;</l>
 	       <l>For all my bitterness thou art too tender,</l>
-	       <l rend="indent(1em)">I cannot pour my red soul into thee.</l>
+	       <l rend="indent1">I cannot pour my red soul into thee.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>O haunting melody! thou art too slender,</l>
-	       <l rend="indent(1em)">Too fragile like a globe of crystal glass;</l>
+	       <l rend="indent1">Too fragile like a globe of crystal glass;</l>
 	       <l>For all my stormy thoughts thou art too slender,</l>
-	       <l rend="indent(1em)">The burden from my bosom will not pass.</l>
+	       <l rend="indent1">The burden from my bosom will not pass.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>O tender word! O melody so slender!</l>
-	       <l rend="indent(1em)">O tears of passion saturate with brine,</l>
+	       <l rend="indent1">O tears of passion saturate with brine,</l>
 	       <l>O words, unwilling words, ye can not render</l>
-	       <l rend="indent(1em)">My hatred for the foe of me and mine.</l>
+	       <l rend="indent1">My hatred for the foe of me and mine.</l>
 	     </lg>
 	   </lg>
 
@@ -2339,24 +2339,24 @@
 	     <head rend="caps">Summer Morn in New Hampshire</head>
 	     <lg type="stanza">
 	       <l>All yesterday it poured, and all night long</l>
-	       <l rend="indent(1em)">I could not sleep; the rain unceasing beat</l>
+	       <l rend="indent1">I could not sleep; the rain unceasing beat</l>
 	       <l>Upon the shingled roof like a weird song,</l>
-	       <l rend="indent(1em)">Upon the grass like running children's feet.</l>
+	       <l rend="indent1">Upon the grass like running children's feet.</l>
 	       <l>And down the mountains by the dark cloud kissed,</l>
-	       <l rend="indent(1em)">Like a strange shape in filmy veiling dressed,</l>
+	       <l rend="indent1">Like a strange shape in filmy veiling dressed,</l>
 	       <l>Slid slowly, silently, the wraith-like mist,</l>
-	       <l rend="indent(1em)">And nestled soft against the earth's wet breast.</l>
+	       <l rend="indent1">And nestled soft against the earth's wet breast.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>But lo, there was a miracle at dawn!</l>
-	       <l rend="indent(1em)">The still air stirred at touch of the faint breeze,</l>
+	       <l rend="indent1">The still air stirred at touch of the faint breeze,</l>
 	       <l>The sun a sheet of gold bequeathed the lawn,</l>
-	       <l rend="indent(1em)">The songsters twittered in the rustling trees.</l>
+	       <l rend="indent1">The songsters twittered in the rustling trees.</l>
 	       <l>And all things were transfigured in the day,</l>
-	       <l rend="indent(1em)">But me whom radiant beauty could not move;</l>
+	       <l rend="indent1">But me whom radiant beauty could not move;</l>
 	       <l>For you, more wonderful, were far away,</l>
-	       <l rend="indent(1em)">And I was blind with hunger for your love.</l>
+	       <l rend="indent1">And I was blind with hunger for your love.</l>
 	     </lg>
 	   </lg>
 
@@ -2375,23 +2375,23 @@
 
 	     <lg type="stanza">
 	       <l>No more for you the city's thorny ways,</l>
-	       <l rend="indent(1em)">The ugly corners of the Negro belt;</l>
+	       <l rend="indent1">The ugly corners of the Negro belt;</l>
 	       <l>The miseries and pains of these harsh days</l>
-	       <l rend="indent(1em)">By you will never, never again be felt.</l>
+	       <l rend="indent1">By you will never, never again be felt.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>No more, if still you wander, will you meet</l>
-	       <l rend="indent(1em)">With nights of unabating bitterness<app><lem wit="#HS">;</lem><rdg wit="#SINH-rest-in-peace">,</rdg></app></l>
+	       <l rend="indent1">With nights of unabating bitterness<app><lem wit="#HS">;</lem><rdg wit="#SINH-rest-in-peace">,</rdg></app></l>
 	       <l>They cannot reach you in your safe retreat,</l>
-	       <l rend="indent(1em)">The city's hate, the city's prejudice!</l>
+	       <l rend="indent1">The city's hate, the city's prejudice!</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>'Twas sudden—but your menial task is done,</l>
-	       <l rend="indent(1em)">The dawn now breaks on you, the dark is over,</l>
+	       <l rend="indent1">The dawn now breaks on you, the dark is over,</l>
 	       <l>The sea is crossed, the longed-for port is won;</l>
-	       <l rend="indent(1em)">Farewell, oh<app><lem wit="#HS">,</lem></app> fare you well! <app>
+	       <l rend="indent1">Farewell, oh<app><lem wit="#HS">,</lem></app> fare you well! <app>
 	       <lem wit="#HS">my</lem>
 	       <rdg wit="#SINH-rest-in-peace">fond</rdg>
 	       </app> friend and lover.</l>
@@ -2405,39 +2405,39 @@
 
 	     <lg type="stanza">
 	       <l>Your lips are like a southern lily red,</l>
-	       <l rend="indent(1em)">Wet with the soft rain-kisses of the night,</l>
+	       <l rend="indent1">Wet with the soft rain-kisses of the night,</l>
 	       <l>In which the brown bee buries deep its head,</l>
-	       <l rend="indent(1em)">When still the dawn's a silver sea of light.</l>
+	       <l rend="indent1">When still the dawn's a silver sea of light.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Your lips betray the secret of your soul,</l>
-	       <l rend="indent(1em)">The dark delicious essence that is you,</l>
+	       <l rend="indent1">The dark delicious essence that is you,</l>
 	       <l>A mystery of life, the flaming goal</l>
-	       <l rend="indent(1em)">I seek through mazy pathways strange and new.</l>
+	       <l rend="indent1">I seek through mazy pathways strange and new.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Your lips are the red symbol of a dream.</l>
-	       <l rend="indent(1em)">What visions of warm lilies they impart,</l>
+	       <l rend="indent1">What visions of warm lilies they impart,</l>
 	       <l>That line the green bank of a fair blue stream,</l>
-	       <l rend="indent(1em)">With butterflies and bees close to each heart!</l>
+	       <l rend="indent1">With butterflies and bees close to each heart!</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Brown bees that murmur sounds of music rare,</l>
-	       <l rend="indent(1em)">That softly fall upon the languorous breeze,</l>
+	       <l rend="indent1">That softly fall upon the languorous breeze,</l>
 	       <l>Wafting them gently on the quiet air</l>
-	       <l rend="indent(1em)">Among untended avenues of trees.</l>
+	       <l rend="indent1">Among untended avenues of trees.</l>
 	     </lg>
 
 	     <pb n="69" />
 
 	     <lg type="stanza">
 	       <l>O were I hovering, a bee, to probe</l>
-	       <l rend="indent(1em)">Deep down within your scented heart, fair flower,</l>
+	       <l rend="indent1">Deep down within your scented heart, fair flower,</l>
 	       <l>Enfolded by your soft vermilion robe,</l>
-	       <l rend="indent(1em)">Amorous of sweets, for but one perfect hour!</l>
+	       <l rend="indent1">Amorous of sweets, for but one perfect hour!</l>
 	     </lg>
 
 	   </lg>
@@ -2449,29 +2449,29 @@
 
 	     <lg type="stanza">
 	       <l>O lonely heart so timid of approach,</l>
-	       <l rend="indent(1em)">Like the shy tropic flower that shuts its lips</l>
-	       <l rend="indent(1em)">To the faint touch of tender finger tips:</l>
+	       <l rend="indent1">Like the shy tropic flower that shuts its lips</l>
+	       <l rend="indent1">To the faint touch of tender finger tips:</l>
 	       <l>What is your word? What question would you broach?</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Your lustrous-warm eyes are too sadly kind</l>
-	       <l rend="indent(1em)">To mask the meaning of your dreamy tale,</l>
-	       <l rend="indent(1em)">Your guarded life too exquisitely frail</l>
+	       <l rend="indent1">To mask the meaning of your dreamy tale,</l>
+	       <l rend="indent1">Your guarded life too exquisitely frail</l>
 	       <l>Against the daggers of my warring mind.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>There is no part of the unyielding earth,</l>
-	       <l rend="indent(1em)">Even bare rocks where the eagles build their nest,</l>
-	       <l rend="indent(1em)">Will give us undisturbed and friendly rest.</l>
+	       <l rend="indent1">Even bare rocks where the eagles build their nest,</l>
+	       <l rend="indent1">Will give us undisturbed and friendly rest.</l>
 	       <l>No dewfall softens this vast belt of dearth.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>But in the socket-chiseled teeth of strife,</l>
-	       <l rend="indent(1em)">That gleam in serried files in all the lands,</l>
-	       <l rend="indent(1em)">We may join hungry, understanding hands,</l>
+	       <l rend="indent1">That gleam in serried files in all the lands,</l>
+	       <l rend="indent1">We may join hungry, understanding hands,</l>
 	       <l>And drink our share of ardent love and life.</l>
 	     </lg>
 
@@ -2483,18 +2483,18 @@
 	     <head rend="caps">To O.E.A.</head>
 
 	     <l>Your voice is the <app><lem wit="#HS">color</lem><rdg wit="#SINH" type="orthographic">colour</rdg></app> of a robin's breast,</l>
-	     <l rend="indent(1em)">And there's a sweet sob in it like rain—still rain in the night.</l>
+	     <l rend="indent1">And there's a sweet sob in it like rain—still rain in the night.</l>
 	     <l>Among the leaves of the trumpet-tree, close to his nest,</l>
-	     <l rend="indent(1em)">The pea-dove sings, and each note thrills me with strange delight</l>
+	     <l rend="indent1">The pea-dove sings, and each note thrills me with strange delight</l>
 	     <l>Like the words, wet with music, that well from your trembling throat.</l>
-	     <l rend="indent(2em)">I'm afraid of your eyes, they're so bold,</l>
-	     <l rend="indent(2em)">Searching me through, reading my thoughts, shining like gold.</l>
+	     <l rend="indent2">I'm afraid of your eyes, they're so bold,</l>
+	     <l rend="indent2">Searching me through, reading my thoughts, shining like gold.</l>
 	     <l>But sometimes they are gentle and soft like the dew on the lips of the eucharis</l>
 	     <l>Before the sun comes warm with his lover's kiss.</l>
 	     <l>
 	       <app>
-		 <lem wit="#HS" rend="indent(1em)">You are sea-foam, pure with the star's loveliness,</lem>
-		 <rdg wit="#SINH" rend="indent(2em)">You are sea-foam, pure with the star's loveliness,</rdg>
+		 <lem wit="#HS" rend="indent1">You are sea-foam, pure with the star's loveliness,</lem>
+		 <rdg wit="#SINH" rend="indent2">You are sea-foam, pure with the star's loveliness,</rdg>
 	       </app>
 	     </l>
 	     <l>Not mortal, a flower, a fairy, too fair for the beauty-shorn earth<app><lem wit="#HS">.</lem><rdg wit="#SINH">,</rdg></app></l>
@@ -2505,13 +2505,13 @@
 	     <l>
 	       <app>
 		 <lem wit="#HS">Oh I love you so much, not recking of passion, that I feel it is wrong!</lem>
-		 <rdg wit="#SINH" rend="indent(1em)">Oh I love you so much, not recking of passion, that I feel it is wrong,</rdg>
+		 <rdg wit="#SINH" rend="indent1">Oh I love you so much, not recking of passion, that I feel it is wrong,</rdg>
 	       </app>
 	     </l>
 	     <l>
 	       <app>
-		 <lem wit="#HS" rend="indent(1em)">But men will love you, flower, fairy, non-mortal spirit burdened with flesh,</lem>
-		 <rdg wit="#HS" rend="indent(2em)">But men will love you, flower, fairy, non-mortal spirit burdened with flesh,</rdg>
+		 <lem wit="#HS" rend="indent1">But men will love you, flower, fairy, non-mortal spirit burdened with flesh,</lem>
+		 <rdg wit="#HS" rend="indent2">But men will love you, flower, fairy, non-mortal spirit burdened with flesh,</rdg>
 	       </app>
 	     </l>
 	     <l>Forever, life-long.</l>
@@ -2572,21 +2572,21 @@
 	     <head rend="caps">Flower of Love</head>
 
 	     <l>The perfume of your body dulls my sense.</l>
-	     <l rend="indent(1em)">I want nor wine nor weed; your breath alone</l>
+	     <l rend="indent1">I want nor wine nor weed; your breath alone</l>
 	     <l>Suffices. In this moment rare and tense</l>
-	     <l rend="indent(1em)">I worship at your breast. The flower is blown,</l>
+	     <l rend="indent1">I worship at your breast. The flower is blown,</l>
 	     <l>The saffron petals tempt my amorous mouth,</l>
-	     <l rend="indent(1em)">The yellow heart is radiant now with dew</l>
+	     <l rend="indent1">The yellow heart is radiant now with dew</l>
 	     <l>Soft-scented, redolent of my loved South;</l>
-	     <l rend="indent(1em)">O flower of love! I give myself to you.</l>
+	     <l rend="indent1">O flower of love! I give myself to you.</l>
 	     <l>Uncovered on your couch of figured green,</l>
-	     <l rend="indent(1em)">Here let us linger indivisible.</l>
+	     <l rend="indent1">Here let us linger indivisible.</l>
 	     <l>The portals of your sanctuary unseen</l>
-	     <l rend="indent(1em)">Receive my offering, yielding unto me.</l>
+	     <l rend="indent1">Receive my offering, yielding unto me.</l>
 	     <l>Oh, with our love the night is warm and deep!</l>
-	     <l rend="indent(1em)">The air is sweet, my flower, and sweet the flute</l>
+	     <l rend="indent1">The air is sweet, my flower, and sweet the flute</l>
 	     <l>Whose music lulls our burning brain to sleep,</l>
-	     <l rend="indent(1em)">While we lie loving, passionate and mute.</l>
+	     <l rend="indent1">While we lie loving, passionate and mute.</l>
 	   </lg>
 
 	   <pb n="76" />
@@ -2674,31 +2674,31 @@
 
 	     <lg type="stanza">
 	       <l>When June comes dancing o'er the death of May,</l>
-	       <l rend="indent(1em)">With scarlet roses tinting her green breast,</l>
+	       <l rend="indent1">With scarlet roses tinting her green breast,</l>
 	       <l>And mating thrushes ushering in her day,</l>
-	       <l rend="indent(1em)">And Earth on tiptoe for her golden guest,</l>
+	       <l rend="indent1">And Earth on tiptoe for her golden guest,</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I always see the evening when we met—</l>
-	       <l rend="indent(1em)">The first of June <app>
+	       <l rend="indent1">The first of June <app>
 	       <lem wit="#HS">baptized</lem>
 	       <rdg wit="#SINH-a-memory">baptised</rdg>
 	       </app> in tender rain—</l>
 	       <l>And walked home through the wide streets, gleaming wet,</l>
-	       <l rend="indent(1em)">Arms locked, our warm flesh pulsing with love's pain.</l>
+	       <l rend="indent1">Arms locked, our warm flesh pulsing with love's pain.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I always see the cheerful little room,</l>
-	       <l rend="indent(1em)">And in the corner, fresh and white, the bed<app><lem wit="#HS">,</lem></app></l>
+	       <l rend="indent1">And in the corner, fresh and white, the bed<app><lem wit="#HS">,</lem></app></l>
 	       <l>Sweet scented with a delicate perfume,</l>
-	       <l rend="indent(1em)">Wherein for one night only we were wed<app><lem wit="#HS">;</lem><rdg wit="#a-memory-of-june">:</rdg></app></l>
+	       <l rend="indent1">Wherein for one night only we were wed<app><lem wit="#HS">;</lem><rdg wit="#a-memory-of-june">:</rdg></app></l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Where in the starlit stillness we lay mute<app><lem wit="#HS">,</lem></app></l>
-	       <l rend="indent(1em)">And heard the whispering showers all night long,</l>
+	       <l rend="indent1">And heard the whispering showers all night long,</l>
 	       <l>And your brown burning body was a lute</l>
 	       <l>Whereon <app>
 	       <lem wit="#HS">my</lem>
@@ -2710,9 +2710,9 @@
 
 	     <lg type="stanza">
 	       <l>When June comes dancing o'er the death of May,</l>
-	       <l rend="indent(1em)">With scarlet roses staining her fair feet,</l>
+	       <l rend="indent1">With scarlet roses staining her fair feet,</l>
 	       <l>My soul takes leave of me to sing all day</l>
-	       <l rend="indent(1em)">A <app>
+	       <l rend="indent1">A <app>
 	       <lem wit="#HS">love so fugitive and so</lem>
 	       <rdg wit="#SINH-a-memory">night of rare love, perfect and</rdg>
 	       </app> complete.</l>
@@ -2725,13 +2725,13 @@
 	     <head rend="caps">Flirtation</head>
 
 	     <l>Upon thy purple mat thy body bare</l>
-	     <l rend="indent(1em)">Is fine and limber like a tender tree.</l>
+	     <l rend="indent1">Is fine and limber like a tender tree.</l>
 	     <l>The motion of thy supple form is rare,</l>
-	     <l rend="indent(1em)">Like a lithe panther lolling languidly,</l>
+	     <l rend="indent1">Like a lithe panther lolling languidly,</l>
 	     <l>Toying and turning slowly in her lair.</l>
-	     <l rend="indent(1em)">Oh, I would never ask for more of thee,</l>
+	     <l rend="indent1">Oh, I would never ask for more of thee,</l>
 	     <l>Thou art so clean in passion and so fair.</l>
-	     <l rend="indent(1em)">Enough! if thou wilt ask no more of me!</l>
+	     <l rend="indent1">Enough! if thou wilt ask no more of me!</l>
 	   </lg>
 
 	   <pb n="82" />
@@ -2741,23 +2741,23 @@
 
 	     <lg type="stanza">
 	       <l>I will not reason, wrestle here with you,</l>
-	       <l rend="indent(1em)">Though you pursue and worry me about;</l>
+	       <l rend="indent1">Though you pursue and worry me about;</l>
 	       <l>As well put forth my swarthy arm to stop</l>
-	       <l rend="indent(1em)">The wild wind howling, darkly mad without.</l>
+	       <l rend="indent1">The wild wind howling, darkly mad without.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>The night is yours for revels; day will light.</l>
-	       <l rend="indent(1em)">I will not fight you, bold and tigerish,</l>
+	       <l rend="indent1">I will not fight you, bold and tigerish,</l>
 	       <l>For I am weak, while you are gaining strength;</l>
-	       <l rend="indent(1em)">Peace! cease tormenting me to have your wish.</l>
+	       <l rend="indent1">Peace! cease tormenting me to have your wish.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>But when you're filled and sated with the flesh,</l>
-	       <l rend="indent(1em)">I shall go swiftly to the silver stream,</l>
+	       <l rend="indent1">I shall go swiftly to the silver stream,</l>
 	       <l>To cleanse my body for the spirit's sake,</l>
-	       <l rend="indent(1em)">And sun my limbs, and close my eyes to dream.</l>
+	       <l rend="indent1">And sun my limbs, and close my eyes to dream.</l>
 	     </lg>
 	   </lg>
 
@@ -2768,16 +2768,16 @@
 
 	     <lg type="stanza">
 	       <l>Nay, why reproach each other, be unkind,</l>
-	       <l rend="indent(1em)">For there's no plane on which we two may meet?</l>
+	       <l rend="indent1">For there's no plane on which we two may meet?</l>
 	       <l>Let's both forgive, forget, for both were blind,</l>
-	       <l rend="indent(1em)">And life is of a day, and time is fleet.</l>
+	       <l rend="indent1">And life is of a day, and time is fleet.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>And I am fire, swift to flame and burn,</l>
-	       <l rend="indent(1em)">Melting with elements high overhead,</l>
+	       <l rend="indent1">Melting with elements high overhead,</l>
 	       <l>While you are water in an earthly urn,</l>
-	       <l rend="indent(1em)">All pure, but heavy, and of hue like lead.</l>
+	       <l rend="indent1">All pure, but heavy, and of hue like lead.</l>
 	     </lg>
 
 	   </lg>
@@ -2835,39 +2835,39 @@
 
 	     <lg type="stanza">
 	       <l>No servile little fear shall daunt my will</l>
-	       <l rend="indent(1em)">This morning. I have courage steeled to say</l>
+	       <l rend="indent1">This morning. I have courage steeled to say</l>
 	       <l>I will be lazy, conqueringly still,</l>
-	       <l rend="indent(1em)">I will not lose the hours in toil this day.</l>
+	       <l rend="indent1">I will not lose the hours in toil this day.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>The roaring world without, careless of souls,</l>
-	       <l rend="indent(1em)">Shall leave me to my placid dream of rest,</l>
+	       <l rend="indent1">Shall leave me to my placid dream of rest,</l>
 	       <l>My four walls shield me from its shouting ghouls,</l>
-	       <l rend="indent(1em)">And all its hates have fled my quiet breast.</l>
+	       <l rend="indent1">And all its hates have fled my quiet breast.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>And I will loll here resting, wide awake,</l>
-	       <l rend="indent(1em)">Dead to the world of work, the world of love,</l>
+	       <l rend="indent1">Dead to the world of work, the world of love,</l>
 	       <l>I laze contented just for dreaming's sake</l>
-	       <l rend="indent(1em)">With not the slightest urge to think or move.</l>
+	       <l rend="indent1">With not the slightest urge to think or move.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>How tired unto death, how tired I was!</l>
-	       <l rend="indent(1em)">Now for a day I put my burdens by,</l>
+	       <l rend="indent1">Now for a day I put my burdens by,</l>
 	       <l>And like a child amidst the meadow grass</l>
-	       <l rend="indent(1em)">Under the southern sun, I languid lie</l>
+	       <l rend="indent1">Under the southern sun, I languid lie</l>
 	     </lg>
 
 	     <pb n="87" />
 
 	     <lg type="stanza">
 	       <l>And feel the bed about me kindly deep,</l>
-	       <l rend="indent(1em)">My strength ooze gently from my hollow bones,</l>
+	       <l rend="indent1">My strength ooze gently from my hollow bones,</l>
 	       <l>My worried brain drift aimlessly to sleep,</l>
-	       <l rend="indent(1em)">Like softening to a song of tuneful tones.</l>
+	       <l rend="indent1">Like softening to a song of tuneful tones.</l>
 	     </lg>
 
 	   </lg>
@@ -2902,30 +2902,30 @@
 
 	     <lg type="stanza">
 	       <l>When first your glory shone upon my face</l>
-	       <l rend="indent(1em)">My body kindled to a mighty flame,</l>
+	       <l rend="indent1">My body kindled to a mighty flame,</l>
 	       <l>And burnt you yielding in my hot embrace</l>
-	       <l rend="indent(1em)">Until you swooned to love, breathing my name.</l>
+	       <l rend="indent1">Until you swooned to love, breathing my name.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>And wonder came and filled our night of sleep,</l>
-	       <l rend="indent(1em)">Like a new comet crimsoning the sky;</l>
+	       <l rend="indent1">Like a new comet crimsoning the sky;</l>
 	       <l>And stillness like the stillness of the deep</l>
-	       <l rend="indent(1em)">Suspended lay as an unuttered sigh.</l>
+	       <l rend="indent1">Suspended lay as an unuttered sigh.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I never again shall feel your warm heart flushed,</l>
-	       <l rend="indent(1em)">Panting with passion, naked unto mine,</l>
+	       <l rend="indent1">Panting with passion, naked unto mine,</l>
 	       <l>Until the throbbing world around is hushed</l>
-	       <l rend="indent(1em)">To quiet worship at our scented shrine.</l>
+	       <l rend="indent1">To quiet worship at our scented shrine.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Nor will your glory seek my swarthy face,</l>
-	       <l rend="indent(1em)">To kindle and to change my jaded frame</l>
+	       <l rend="indent1">To kindle and to change my jaded frame</l>
 	       <l>Into a miracle of godlike grace,</l>
-	       <l rend="indent(1em)">Transfigured, bathed in your immortal flame.</l>
+	       <l rend="indent1">Transfigured, bathed in your immortal flame.</l>
 	     </lg>
 	   </lg>
 
@@ -2936,46 +2936,46 @@
 
 	     <lg type="stanza">
 	       <l>Your body was a sacred cell always,</l>
-	       <l rend="indent(1em)">A jewel that grew dull in garish light,</l>
+	       <l rend="indent1">A jewel that grew dull in garish light,</l>
 	       <l>An opal which beneath my wondering gaze</l>
-	       <l rend="indent(1em)">Gleamed rarely, softly throbbing in the night.</l>
+	       <l rend="indent1">Gleamed rarely, softly throbbing in the night.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>I touched your flesh with reverential hands,</l>
-	       <l rend="indent(1em)">For you were sweet and timid like a flower</l>
+	       <l rend="indent1">For you were sweet and timid like a flower</l>
 	       <l>That blossoms out of barren tropic sands,</l>
-	       <l rend="indent(1em)">Shedding its perfume in one golden hour.</l>
+	       <l rend="indent1">Shedding its perfume in one golden hour.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>You yielded to my touch with gentle grace,</l>
-	       <l rend="indent(1em)">And though my passion was a mighty wave</l>
+	       <l rend="indent1">And though my passion was a mighty wave</l>
 	       <l>That buried you beneath its strong embrace,</l>
-	       <l rend="indent(1em)">You were yet happy in the moment's grave.</l>
+	       <l rend="indent1">You were yet happy in the moment's grave.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>Still more than passion consummate to me,</l>
-	       <l rend="indent(1em)">More than the nuptials immemorial sung,</l>
+	       <l rend="indent1">More than the nuptials immemorial sung,</l>
 	       <l>Was the warm thrill that melted me to see</l>
-	       <l rend="indent(1em)">Your clean brown body, beautiful and young;</l>
+	       <l rend="indent1">Your clean brown body, beautiful and young;</l>
 	     </lg>
 
 	     <pb n="91" />
 
 	     <lg type="stanza">
 	       <l>The joy in your maturity at length,</l>
-	       <l rend="indent(1em)">The peace that filled my soul like cooling wine,</l>
+	       <l rend="indent1">The peace that filled my soul like cooling wine,</l>
 	       <l>When you responded to my tender strength,</l>
-	       <l rend="indent(1em)">And pressed your heart exulting into mine.</l>
+	       <l rend="indent1">And pressed your heart exulting into mine.</l>
 	     </lg>
 
 	     <lg type="stanza">
 	       <l>How shall I with such memories of you</l>
-	       <l rend="indent(1em)">In coarser forms of love fruition find?</l>
+	       <l rend="indent1">In coarser forms of love fruition find?</l>
 	       <l>No, I would rather like a ghost pursue</l>
-	       <l rend="indent(1em)">The fairy phantoms of my lonely mind.</l>
+	       <l rend="indent1">The fairy phantoms of my lonely mind.</l>
 	     </lg>
 	   </lg>
 
