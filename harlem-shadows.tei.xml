@@ -32,11 +32,13 @@
 		     <title level="a">Spring in New Hampshire</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 9.
 		   </bibl>
 		 </witness>
+
 		 <witness xml:id="SINH-alfonso">
 		   <bibl>
 		     <title>Alfonso, Dressing to Wait at Table, Sings</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 13
 		   </bibl>
 		 </witness>
+
 		 <witness xml:id="SINH-tropics">
 		   <bibl>
 		     <title>The Tropics in New York</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 26
@@ -180,13 +182,6 @@
 	       <bibl><title level="a">Outcast</title> in <ref target="#ThreeSonnets"><title level="j">The Literary Digest</title></ref></bibl>
 	     </witness>
 		 
-
-		 <witness xml:id="SINH-alfonso">
-		   <bibl>
-		     <title>Alfonso, Dressing to Wait at Table, Sings</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 13
-		   </bibl>
-		 </witness>
-
 	     <witness xml:id="CambridgeMagazine">
 	       <bibl>
 		 <title level="j">Cambridge Magazine</title>. <date when="1920">Summer, 1920</date>. <biblScope>pg. 55-59.</biblScope>
@@ -248,12 +243,6 @@
 	     <witness xml:id="CambridgeMagazine-RestInPeace">
 	       <bibl>
 		 <title level="a">Rest in Peace</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 57.
-	       </bibl>
-	     </witness>
-
-	     <witness xml:id="CambridgeMagazine-MemoryOfJune">
-	       <bibl>
-		 <title level="a">A Memory of June</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 57.
 	       </bibl>
 	     </witness>
 
