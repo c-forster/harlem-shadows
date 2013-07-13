@@ -2709,7 +2709,7 @@
 	       <note type="textual" resp="cf">
 		 This poem also appeared in <ref target="#Liberator-tired"><title level="j">The Liberator</title></ref> <date when="1919-08">(August, 1919)</date>.
 
-		 In the version appearing in <title level="j">The Liberator</title>, even number lines are indented (except the final line).
+		 In the version appearing in <title level="j">The Liberator</title>, even numbered lines are indented (except the final line).
 	       </note>
 	     </head>
 
@@ -3126,17 +3126,12 @@
 
 	   <lg type = "poem" xml:id="a-prayer">
 	     <head>
-	       
-	       <title>
-		 <app>
-		   <lem wit="#HS" rend="caps">A Prayer</lem>
-		   <rdg wit="#SINH-a-prayer">A Prayer</rdg>
-		 </app>
-	       </title>
+		 A Prayer
 	     </head>
 
 	     <head type="dedication">
 	       <app>
+		 <lem wit="#HS" />
 		 <rdg rend="italics" wit="#SINH-a-prayer">(For Max Eastman)</rdg>
 	       </app>
 	     </head>
