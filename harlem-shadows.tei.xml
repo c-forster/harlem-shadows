@@ -4141,7 +4141,7 @@
 	      never offends our sensibilities. His love poetry clear of the 
 	      hint which would put our racial instinct against him whether we 
 	      would or no.
-	      <quote>
+	      <quote source="#the-harlem-dancer">
 		<lg>
 		  <l>"Applauding youths laughed with young prostitutes</l>
 		  <l>And watched her perfect, half-clothed body sway;</l>
@@ -4161,7 +4161,7 @@
 	      </quote>
 	      The whole <choice><sic>books</sic><corr>book</corr></choice> sounds a curiously wistful note, but the pathos
 	      is nowhere more poignant than in the following:—
-	      <quote>
+	      <quote source="#the-lynching">
 		<lg>
 		  <l>"His spirit in smoke ascended to high heaven.</l>
 		  <l>His father, by the cruellest way of pain,</l>
@@ -4185,19 +4185,161 @@
 	      side needs supporting in quite the way he depicts.</p>
 	    </body>
 	  </text>
-	
+
 	  <text>
 	    <body>
 	      <head>
-	      <title>Review in <title level="j">Southern Workman</title></title>
-	      <bibl>
-		<author>Edith A. Talbot</author>
-		<title level="a">"Harlem Shadows" [Review]</title>
-		<title level="j">Southern Workman</title>
-		<date when="1922-09">September, 1922</date>
-		<pubPlace>Hampton, VA</pubPlace>
-		<biblScope>441-42</biblScope>
-	      </bibl>
+		<bibl>
+		  <author>
+		    <persName>
+		      <forename type="first">James</forename> <forename type="middle">Weldon</forename> <surname>Johnson</surname>
+		    </persName>
+		  </author>
+		  <title level="a">A Real Poet</title>
+		  <title level="j">The New York Age: The Natioanl Negro Weekly</title>
+		  <date when="1922-05-20">May 20, 1922</date>
+		  <pubPlace>New York, New York</pubPlace>
+		  <biblScope>4</biblScope>
+		</bibl>
+	      </head>
+	      <div type="section">
+		<p>For years the great poet has been regarded as the highest 
+		manifestation of the intellectual, esthetic, and in many cases spiritual, 
+		powers of a race. In the names that have come down through 
+		history it is those of the great poets that blaze out brightest. It 
+		is chiefly upon the achievements of such poets that races and 
+		peoples claim greatness for themselves.</p>
+
+		<p>There are, of course, four names which in their influence 
+		and appeal stand on a level with or even above the greatest poets. 
+		They are Buddha, Confucucius, Christ and Mohammed. But these 
+		four great religious teachers were after all great ethical poets. 
+		Judged in every light they do represents the highest peaks of the 
+		genius of the races that produced them. But these names are 
+		limited to oriental races. No occidental race has yet produced 
+		a great religious teacher. Among the occidental peoples the great 
+		poet still stands almost unrivaled. There are other lists, of course, 
+		that contain names of wide influence and appeal. For example, 
+		that soldiers' list can show Alexander, Cæsar and Napoleon. But 
+		there is not an occidental people in which the final test would not 
+		put its greatest poet above its greatest soldier.</p>
+		
+		<p>The times are slightly changed and the glamor about the 
+		poet may be somewhat dimmed. We are living in a very material 
+		age, and the man of science, the man who is able to bend 
+		the forces of nature to the well being of humanity is coming into 
+		ascendency. There may come a time when from achievements 
+		in science there will spring names that will shed a luster as bright 
+		and enduring as the names of Homer, Shakespeare, Dante, Moliere 
+		and Goethe.</p>
+
+		<p>However, to my mind, this is improbable. The materialism 
+		of the present age amy be but a transitory state. Moreover, although 
+		the scientist may contribute what in the <choice><orig>ultilitarian</orig><corr>utilitarian</corr></choice> sense 
+		is far more important to humanity, he can never take hold of the 
+		imaginations of men and stir their souls like the poet. It therefore 
+		seems that as <choice><orig>lon gas</orig><corr>long as</corr></choice> man loves the beautiful the great poet 
+		will hold his supreme place.</p>
+	      </div>
+
+	      <div type="section">
+		<p>I have indulged in this rather weighty sounding introduction 
+		simply to induce a train of thought. I wish my readers to think 
+		of the production of poets by a race as a vital thing. It is vital 
+		not only as an indication of the development of the race but it is 
+		vital as to the place and recognition which that race is given 
+		by the world at large.</p>
+
+		<p>In accordance with the temper of the age, and more particularly, 
+		in accordance with false ideas with which the mind of 
+		the Negro in American has been impregnanted, we Aframericans 
+		are prone to think of one of our number who conducts a successful 
+		corner grocery store as being far more vital and important as a 
+		factor in our progress than one who turns out a sheaf of poems, 
+		even though the poems are real poetry. We are prone to think of 
+		the grocer as one who is laying <sic>foundations</sic> stones in our racial 
+		greatness and of the poet as doing little more than wasting his 
+		time.</p>
+
+		<p>Without disparaging the successful grocer, I must say that 
+		this evaluation is all wrong. It would be interesting, if it were 
+		possible, to calculate how many successful Negro grocers it would 
+		take to equal the force of Paul Laurence Dunbar as a factor in 
+		the progress of the race and in having the progress recognized by 
+		the world. I am now driving at the truth contained in the words 
+		of Jesus Christ when He said, "Man shall not live by bread alone." 
+		If the race would develop its greatness and highest possibilities 
+		it needs not only to support its grocers but also to appreciate 
+		its poets.</p>
+	      </div>
+
+	      <div type="section">
+		<p>All this is merely introductory to a few words to call attention 
+		to a Negro poet who has risen like a new and flaming 
+		star on the horizon. The poet is Claude McKay.</p>
+
+		<p>Mr. McKay deserves a fully and prompt appreciation. We 
+		should not do in his case what were guilty of in the case of 
+		Dunbar, that was, not to recognize or not even to know his greatness 
+		until it was acclaimed by the whites.</p>
+
+		<p>Mr. McKay is a real poet and a great poet. I mean by this 
+		that he has both the poetic endowment and the ability to make 
+		that endowment articulate, and he is yet far from his full growth. 
+		He is still a young man. He is a poet of beauty and a poet of 
+		power. No Negro poet has sung more beautifully of his own race 
+		than McKay and no Negro poet has equalled the power with which 
+		he expresses the bitterness that so often rises in the heart of the 
+		race. As an example of that powe rwe quote his sonnet, "If We 
+		Must Die," written after the <choice><sic>tetrrible</sic><corr>terrible</corr></choice> riots in the summer of 1919:
+		<quote source="#if-we-must-die">
+		  <lg>
+		    <lg>
+		      <l>If we must die, let it not be like hogs</l>
+		      <l>Hunted and penned in an inglorious spot,</l>
+		      <l>While round us bark the mad and hungry dogs,</l>
+		      <l>Making their mock at our accursed lot.</l>
+		      <l>If we must die, O let us nobly die,</l>
+		      <l>So that our precious blood may not be shed</l>
+		      <l>In vain: then even the monsters we defy</l>
+		      <l>Shall be constrained to honor us though dead!</l>
+		    </lg>
+
+		    <lg>
+		      <l>O kinsmen! we must meet the common foe!</l>
+		      <l>Though far outnumbered let us show us brace,</l>
+		      <l>And for their thousand blows deal one deathblow!</l>
+		      <l>What though before us lies the open grave?</l>
+		      <l>Like men we'll face the murderous, cowardly pack,</l>
+		      <l>Pressed to the wall, dying, but fighting back!</l>
+		    </lg>
+		  </lg>
+		</quote>
+		</p>
+		
+		<p>The race ought to be proud of a poet capable of voicing it so
+		fully. Such a voice is not found every day.</p>
+
+		<p>Mr. McKay's volume, "Harlem Shadows," published by Harcourt, 
+		Brace &amp; Company, New York, is already attracing the 
+		attention of the critics of the country. What he has achieved 
+		in this little volume sheds honor upon the whole race.</p>
+	      </div>
+	    </body>
+	  </text>
+
+	  <text>
+	    <body>
+	      <head>
+		<title>Review in <title level="j">Southern Workman</title></title>
+		<bibl>
+		  <author>Edith A. Talbot</author>
+		  <title level="a">"Harlem Shadows" [Review]</title>
+		  <title level="j">Southern Workman</title>
+		  <date when="1922-09">September, 1922</date>
+		  <pubPlace>Hampton, VA</pubPlace>
+		  <biblScope>441-42</biblScope>
+		</bibl>
 	      </head>
 	      
 	      <p><title><hi rend="bold">Harlem Shadows</hi></title>. By Claude McKay,
