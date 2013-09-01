@@ -1319,7 +1319,6 @@
 	</front>  
 
    	<body>
-   	  <div>
 	    <pb n="3" />
 	    <lg type="poem" xml:id="the-easter-flower">
 	      <head rend="caps">The Easter Flower
@@ -4105,13 +4104,443 @@
 
 	    </lg>
 
-	  </div>
 	</body>
       </text>
-      <text>
+
 	<group>
 	  <head>Contemporary Reviews</head>
-	  <text>
+
+	  <text type="review" xml:id="review_braithwaite-some">
+	    <body>
+	      <head>
+		<title>from "Some Contemporary Poets of the Negro Race"</title>
+
+		<bibl>
+		  <author>
+		    <persName>
+		      <forename>William</forename> <forename>Stanley</forename> <surname>Braithwaite</surname>
+		    </persName>
+		  </author>
+		  <title level="a">Some Contemporary Poets of the Negro Race</title>
+		  <title type ="main" level="j">The Crisis</title>
+		  <title type="sub" level="j">A Record of the Darker Races</title>
+		  <date when="1919-04">April, 1919</date>
+		  <biblScope>Vol. 17, no. 6: 275-280</biblScope>
+		</bibl>
+	      </head>
+
+	      <pb n="275" />
+
+	      <p>The present revival of poetry in America 
+	      could scarcely advance without 
+	      carrying in its wake the impulse and practice 
+	      of a poetic consciousness in the Negro race.</p>
+
+	      <p>While we have no traditions in the art, 
+	      we have a rich and precious tradition in 
+	      the substance of poetry: vision, intense emotionalism, 
+	      spiritual and mystical affinities, 
+	      with both absrtact and concrete experience, 
+	      and a subtle natural sense of rhythmic 
+	      values. All these are essential folk-qualities, 
+	      primal virtues in the epxression of 
+	      impassioned experience, whether festive of 
+	      ceremonial, in all the indigenous folk-literatures 
+	      of the world. But when a race 
+	      advances from primitive life and customs, 
+	      or when the divisions of a particular race 
+	      become sharply differentiated by learning 
+	      and culture, and intercourse with other 
+	      peoples with modes of culture more perfect in 
+	      certain respects affects them, there is produced 
+	      a standard of form in written and 
+	      oral speech that becomes a characteristic 
+	      of class co-racial consciousness. This standard 
+	      becomes the medium of literary expression 
+	      in which taste is the vital essence, 
+	      and is opposed by the "vulgar tongue" of 
+	      the "people" in which the vigorous and imaginative 
+	      folk-ballads are recited, the communal 
+	      chants of traditional custom and 
+	      ritual dramatized, and national songs sung.</p>
+
+	      <p>The survival of the vulgar tongue in modern 
+	      times, where the influence of formal and 
+	      conventional civilization has penetrated 
+	      among primitive communities, is in dialect 
+	      the attempt of the invaded, enslaved, and 
+	      suppressed peoples, to imitate phonetically 
+	      the speech of the dominant class or race. 
+	      Dialect is, thus, not the corruption of the 
+	      folk or tribal language, of the Frankish 
+	      invaders of Gaul, of the Anglo-Saxon conquest 
+	      of ancient Britain, of the absorption 
+	      of the African savages—who be likened 
+	      in every tribal respect to the Franks, 
+	      Angles and Saxons—by America, but of 
+	      the language of the Latins, the Britons, and 
+	      the English.</p>
+
+	      <p>Dialect may be employed as the <foreign rend="italics">langue 
+	      d'oc</foreign> of Frédéric Mistral's Provençal poems, 
+	      as a preserved tongue, the only adequate 
+	      medium of rendering the psychology of character, 
+	      and of describing the background of 
+	      the people whose lives and experience are 
+	      kept within the environment, where the 
+	      dialect survives as the universal speech; or it 
+	      may be employed as a special mark of emphasis
+	      upon the peculiar characteristic and 
+	      tempermental traits of a people whose 
+	      action and experiences are given in contact 
+	      and relationship with a dominant language, 
+	      and are set in a literary fabric of which they 
+	      are but one strand of many in the weaving.</p>
+
+	      <p>I have gone to some length in the foregoing 
+	      because the matter is of vital importance 
+	      to those who regard the future accomplishment 
+	      of the Negro in American literature. 
+	      It holds, too, I think, the explanation 
+	      of that gap which exists between the 
+	      mysterious and anonymous period of the 
+	      "Sorrow Songs"—vivid, intense poetry of 
+	      a suffering, but eternally confident folk—and 
+	      the advent of Paul Laurence Dunbar. 
+	      The Negro poet as such, can be said to 
+	      have inherited no poetic traditions which 
+	      would make him a bi-national artist: that 
+	      is to say, he had no precursors sufficient 
+	      in numbers and of decided genius, the 
+	      subtance of whose song was racial, while the 
+	      expression was national—the glorious and 
+	      perfect instrument of English poetic art, 
+	      which we know as the common possession 
+	      of Chaucer, Shakespeare, Milton, Wordsworth, 
+	      Keats, Shelley, Swinburne, Browning, 
+	      Longfellow, Poe and Lowell.</p>
+
+	      <p>This gap I postulate as a silent transition 
+	      to a new order of imaginative and emotional 
+	      racial utterance. Remember that 
+	      here was a race of many tribes, members 
+	      of which amounting to hundreds of thousands 
+	      were stolen from their native homes, 
+	      from their immemorial customs and traditions, 
+	      which in many instances have been 
+	      proven to be the traits of a highly organized 
+	      primitive culture and social code, and 
+	      forcibly held in a captivity that suppressed 
+	      every virtue but work and every 
+	      ideal but obedience. The struggle through 
+	      two centuries udner this unchristian suppression 
+	      was toward the acquisition of a 
+	      <pb n="276" />
+	      new language which in all its unfamiliar 
+	      and tortuous meanings had to be learned 
+	      through the auditory sense, as the invaluable 
+	      aids of reading and writing were denied; 
+	      and it is little wonder that the earliest 
+	      and latest folk utterance of these 
+	      people was the collective yearning of sorrow, 
+	      impassioned and symbolic, addressed 
+	      to the one benign spirit their masters taught 
+	      them from whom to seek love and mercy in 
+	      a mystical hereafter as a compensation for 
+	      their miserable existence on earth. It was 
+	      the poetry of an ancient race passing 
+	      through the throes of an enforced re-birth 
+	      into the epoch of an alien and dominating 
+	      civilization.</p>
+
+	      <p>When it sought voice in Paul Laurence 
+	      Dunbar, it did so with old memories and 
+	      impulses; it was the finale, in a rather 
+	      conscious manner, of centuries of spiritual 
+	      isolation, of a detached brooding and yearning 
+	      for self-realization in the universal 
+	      human scale, and in a childish gayety in 
+	      eating the fruits of a freedom so suddenly 
+	      possessed and difficult to realize. Dunbar 
+	      was the end of a régime, and not the beginning 
+	      of a tradition, as most careless critics, 
+	      both white and colored, seem to think. But 
+	      his niche is secure because he made the 
+	      effort to express himself, and clothe his 
+	      material artistically; though he never ventured 
+	      into the abstract intricacies and wrung 
+	      from the elements of rhythmic principles 
+	      the subtle and most haunting forms of expression. 
+	      His work reflected chiefly the life 
+	      of the Negro during the era of Reconstruction 
+	      and just a little beyond, when the race 
+	      was emerging from the illusion of freedom 
+	      to the hard and bitter reality of how 
+	      much ground still remained to be dishearteningly 
+	      but persistently fought for before 
+	      a moral and spiritual liberty, as well as 
+	      a complete political freedom and social fraternity, 
+	      was attained. When Mr. Howells said 
+	      that Dunbar was the first poet of his 
+	      race to express and interpret the life of 
+	      his people lyrically, he told only a half-truth; 
+	      what survives and attracts us in 
+	      the poetry of Dunbar is the life of the 
+	      Negro in the limited experience of a transitional 
+	      period, the rather helpless and 
+	      still subservient era of testing freedom, and 
+	      adjusting in the mass a new condition of 
+	      relationship to the social, economic, civil 
+	      and spiritual fabric of American civilization. 
+	      Behind all this was an awakening 
+	      impulse, a burning and brooding aspiration, 
+	      creeping like a smothered fire through 
+	      the consciousness of the race, which broke occasionally 
+	      in Dunbar as through the crevices 
+	      of his spirit—notably the sonnet to "Robert 
+	      Gould Shaw," the "Ode to Ethiopia," and a 
+	      few other poems—but whcih he did not 
+	      have the deep and indignant and impassioned 
+	      vision, or the subtle and enchanting 
+	      art to sustain.</p>
+
+	      <p>Such a poet we did have in substance, 
+	      though he chose to express himself in the 
+	      rhythms of impassioned prose rather than 
+	      the more restricted and formal rhythm of 
+	      verse. But the fact is as solid as the earth 
+	      itself, that Dr. DuBois in "The Souls of 
+	      Black Folk" began a poetry tradition. 
+	      This book has more profoundly affected the 
+	      spiritual nature of the race than any other 
+	      ever written in this country; and has more 
+	      clearly revealed to the nation at large the 
+	      true idealism and high aspiration of the 
+	      American Negro; and the intellectual mind 
+	      of the country accepted it as the humanistic 
+	      doctrine by which on terms of equal economic, 
+	      political and social endeavor the 
+	      Negro was to work out his destiny as an 
+	      American citizen—sharing pound for pound 
+	      the weight of responsibility, enjoying the 
+	      same indivisible measure of privilege in the 
+	      American democracy.</p>
+
+	      <p>It is only through the intense, passionate, 
+	      spiritual idealism of such substance as 
+	      makes "The Souls of Black Folk" such 
+	      a quivering rhapsody of wrongs endured and 
+	      hopes to be fulfilled that the poets of the 
+	      race with compelling artistry can lift the 
+	      Negro into the only full and complete nationalism 
+	      he knows—that of the American 
+	      democracy. "There is no difference between 
+	      men;" declared G. Lowes Dickinson, the 
+	      English Platonist, "wealth, position race or 
+	      nationality, make no difference between 
+	      men: it is only the growth of the soul." And 
+	      the poets of a race give expression and reality 
+	      to the soul of a people through whose 
+	      eternal laws no unnatural impediments of 
+	      injustices or wrongs can keep from ascendency 
+	      to the highest fulfilment and the 
+	      fullest participation in ideal and eternal 
+	      privileges of life.</p>
+
+	      <p>I am not one who believes that a Negro 
+	      writer of verse—or of fiction, for that matter—must 
+	      think, feel or write racially to 
+	      be a great artist; nor can he be distinctively 
+	      labeled by the material he uses. This is a 
+	      <pb n="277" />
+	      fallacy too often expressed by critics to 
+	      confirm the desired hypothesis that the 
+	      Negro is humanly different in the scale of 
+	      mankind, that even after some centuries of 
+	      civilizing process in America, he is still 
+	      nearer in his most cultivated class to the 
+	      instincts of his ancestral forbears than any 
+	      other of the conglomerate races who compose 
+	      the citizenry of the Republic. In every 
+	      race and nation there are primitives who 
+	      retain and impulses of barbarism, more evident 
+	      and prevalent among peoples of the 
+	      Teutonic stock than among those of the 
+	      Latin stock. But the Negro has absorbed, 
+	      in his advanced class, just as the advanced 
+	      class of any other peoples, the culture of 
+	      the best civilizations in the world today, and 
+	      in his imaginative and artistic expression 
+	      he is universal. What I said about embodying 
+	      racial aspirations and material does not 
+	      alter this fact. All great artists are interracial 
+	      and international in rendering in the 
+	      medium of any particular art the fundamental 
+	      passions and the primary instincts of 
+	      humanity.</p>
+
+	      <p>The promise of this I seem to detect in 
+	      the spiritual voice of the Negro becoming 
+	      articulate in the poets who are beginning 
+	      to emerge from the background of the people. 
+	      They are springing up around us 
+	      everywhere, and it is the profound duty of 
+	      the race to encourage and support them. 
+	      There is power and beauty in this pristine 
+	      utterance—wood notes wild that have 
+	      scarcely yet been heard beyond the forest 
+	      of their own dreams. But if we will cherish 
+	      these with a responsive audience, one day, 
+	      and not very long hence, we shall have a 
+	      great chorus of these singers to glorify our 
+	      souls and the soul of America.</p>
+
+	      <p>These notes do not include all the poets 
+	      who have published books within recent 
+	      years; they are intended rather to indicate 
+	      tendencies, which I regard as more important 
+	      for the moment, and illustrated by the 
+	      examples of representative work printed 
+	      during the past year. Thus, such writers 
+	      as the late James D. Corruthers, Edward 
+	      Smyth Jones, George Reginald Margetson, 
+	      and others, do not fall within the 
+	      scope of this paper. Nor do these writers 
+	      quite reach the artistic development of those 
+	      I deal with, neither does Mr. Fenton Johnson, 
+	      a young man already the author of 
+	      three volumes, and whose recent work shows 
+	      a rapid and steady progress. This question 
+	      of equipment, of a thorough grounding 
+	      in the technical elements of the science 
+	      of versification, is the greatest handicap to
+	      the progress of many contemporary writers 
+	      of verse. It is the hard and laborious task 
+	      of mastering the subtle and fluctuating 
+	      rhythms of verse that the average individual 
+	      tries to escape which produces such a mass 
+	      of mediocre work, often choking and wasting 
+	      the substance of a passionate and imaginative 
+	      poetic spirit. It is difficult to impress 
+	      upon such individuals that they must 
+	      serve a jealous and consecrated apprenticeship 
+	      to this divine mistress, and that ambition 
+	      is but a humble offering upon the altar 
+	      of her sacred mystical religion.</p>
+
+	      <p>There are, however, three books recently 
+	      published, which show not only a distinctive 
+	      poetic quality, but also an artistic adequacy 
+	      of expression and which promise 
+	      the fulfilment of the Negro in poetry I 
+	      have so confidently predicted for the future. 
+	      Besides these books, I have in the past year 
+	      come across single poems in the magazines 
+	      by unknown writers confirming more specifically 
+	      the rapid development of the higher 
+	      poetic qualities that are manifesting themselves 
+	      in the Negro. These latter I will deal 
+	      with first, because they represent what I 
+	      hope most to see accomplished; because they 
+	      are the proofs of the contention that poets 
+	      of the race may deal with a rich and original 
+	      vein of racial material and give it the highest 
+	      forms of creative literary expression, 
+	      which neither differentiates the author from 
+	      the artist in general nor tolerates for a moment 
+	      the false psychology of that gratuitous, 
+	      separate standard by which white critics are 
+	      prone to jduge the works of Negro authors.</p>
+
+	      <p>The most significant accomplishment 
+	      among these recent poems are two sonnets 
+	      signed by "Eli Edwards" which appeared 
+	      in <title level="j" rend="italic">The Seven Arts</title> for last October. "Eli 
+	      Edwards," I understand, is the pseudonym 
+	      of Claude McKay, who lives in New York 
+	      City, choosing to conceal his identity as a 
+	      poet from the associates among whom he 
+	      works for his daily bread. His story as it 
+	      is, which I had from Mr. Oppenheim, who 
+	      accepted his poems when editor of <title level="j" rend="italic">The 
+	      Seven Arts</title>, if full of alluring interest, and 
+	      may one day be vividly featured as a 
+	      topic of historic literary importance. For 
+	      he may well be the keystone of the new 
+	      movement in racial poetic achievement. Let 
+	      me quote one of the sonnets:
+	      <pb n ="278" />
+	      <quote source="#SevenArts-harlem">
+		<lg type="poem">
+		  <head rend="caps">The Harlem Dancer</head>
+		  <l>Applauding youths laughed with young prostitutes</l>
+		  <l rend="indent1">And watched her perfect, half-clothed body sway;</l>
+		  <l>Her voice was like the sound of blended flutes</l>
+		  <l rend="indent1">Blown by black players upon a picnic day.</l>
+		  <l>She sang and danced on gracefully and calm,</l>
+		  <l rend="indent1">The light gauze hanging loose about her form;</l>
+		  <l>To me she seemed a proudly-swaying palm</l>
+		  <l rend="indent1">Grown lovelier for passing through a storm.</l>
+		  <l>Upon her swarthy neck black, shiny curls</l>
+		  <l rend="indent1">Profusely fell; and, tossing coins in prise,</l>
+		  <l>The wine-flushed, bold-eyed boys, and even the girls,</l>
+		  <l rend="indent1">Devoured her with their eager, passionate gaze;</l>
+		  <l rend="indent1">But, looking at her falsely-smiling face</l>
+		  <l rend="indent1">I knew her self was not in that strange place.</l>
+		</lg>
+	      </quote>
+	      </p>
+
+	      <p>Here, indeed, is the genuine gift—a vision 
+	      that evokes from the confusing details of 
+	      experience and brings into the picture the 
+	      image in all its completeness of outline and 
+	      its gradation of color, and rendered with 
+	      that precise surety of form possessed by the 
+	      resourceful artist. The power in this poet 
+	      is, I think, his ability to reproduce a 
+	      hectic scene of reality with all the solid 
+	      accessories, as in "The Harlem Dancer," 
+	      and yet make it float as it were upon a 
+	      background of illusion through which comes 
+	      piercing the glowing sense of a spiritual 
+	      mystery. Note the exalted close of Mr. 
+	      <sic>Edward's</sic> riotous picture of the dancer 
+	      when
+
+	      <quote>
+		<lg>
+		  <l>. . . . looking at her falsely-smiling face,</l>
+		  <l>I knew herself was not in that strange place—</l>
+		</lg>
+	      </quote>
+
+	      he translates the significance of the intoxicated 
+	      figure with its sensuous contagion 
+	      into something ultimate behind the 
+	      "falsely-smiling face," where "herself"—be 
+	      it the innocent memory of childhood, perhaps 
+	      of some pursuing dream of a brief 
+	      happiness in love, or a far-away country 
+	      home where her corybantic earnings secures 
+	      in peace and comfort for the aged days of 
+	      her parents—is inviolably wrapped in the 
+	      innocence and beauty of her dreams. This 
+	      sonnet differs in both visionary and artistic 
+	      power from anything so far produced by 
+	      the poets of the rate. The visual quality 
+	      here possessed is extraordinary; not only 
+	      does Mr. <sic>Edwards</sic> evoke his images with a 
+	      clear and decisive imagination, but he 
+	      throws at the same time upon the object 
+	      the rich and warm colors his emotional 
+	      sympathies.</p>
+
+
+	    </body>
+	  </text>
+
+	  <text type="review" xml:id="review_unsigned-two">
 	    <body>
 	      <head>
 		<title>Two Volumes of Verse [A Review of <title level="m">Spring in New Hampshire </title>]
@@ -4186,9 +4615,10 @@
 	    </body>
 	  </text>
 
-	  <text>
+	  <text type="review" xml:id="review_johnson-real">
 	    <body>
 	      <head>
+		<title>A Real Poet</title>
 		<bibl>
 		  <author>
 		    <persName>
@@ -4196,7 +4626,7 @@
 		    </persName>
 		  </author>
 		  <title level="a">A Real Poet</title>
-		  <title level="j">The New York Age: The Natioanl Negro Weekly</title>
+		  <title level="j">The New York Age: The National Negro Weekly</title>
 		  <date when="1922-05-20">May 20, 1922</date>
 		  <pubPlace>New York, New York</pubPlace>
 		  <biblScope>4</biblScope>
@@ -4328,13 +4758,17 @@
 	    </body>
 	  </text>
 
-	  <text>
+	  <text type="review" xml:id="review_talbot-harlem">
 	    <body>
 	      <head>
 		<title>Review in <title level="j">Southern Workman</title></title>
 		<bibl>
-		  <author>Edith A. Talbot</author>
-		  <title level="a">"Harlem Shadows" [Review]</title>
+		  <author>
+		    <persName>
+		      <forename type="first">Edith</forename> <forename type="middle">A.</forename> <surname>Talbot</surname>
+		    </persName>
+		  </author>
+		  <title level="a">'Harlem Shadows' [Review]</title>
 		  <title level="j">Southern Workman</title>
 		  <date when="1922-09">September, 1922</date>
 		  <pubPlace>Hampton, VA</pubPlace>
@@ -4402,7 +4836,6 @@
 	    </body>
 	  </text>
 	</group>
-      </text>
     </group>
   </text>
 
