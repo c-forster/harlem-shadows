@@ -957,7 +957,7 @@
 
 	    <p>These poems have a special interest for all the 
 	    races of man because they are sung by a pure 
-	    blooded Negro. They are the first significant 
+	    blooded Negro.xs They are the first significant 
 	    expression of that race in poetry. We tried 
 	    faithfully to give a position in our literature to 
 	    Paul Laurence Dunbar. We have excessively 
@@ -1385,7 +1385,7 @@
 	      <l rend="indent1">Means <app>
 	      <lem wit="#HS">flowering</lem>
 	      <rdg wit="#Liberator-to-one">flower-filled</rdg>
-	      </app> lanes and leas and spaces dry,</l>
+	      </app> lanes and leas<note type="editorial"><hi rend="bold">Leas:</hi> Grassy area; from the OED: "A tract of open ground, either meadow, pasture, or arable land. After Old English chiefly found (exc. where it is the proper name of a particular piece of ground) in poetical or rhetorical use, ordinarily applied to grass land."</note> and spaces dry,</l>
 	      <l>And tender thoughts and feelings fine and strong,</l>
 	      <l rend="indent1">Beneath a vivid silver-flecked blue sky.</l>
 	    </lg>
@@ -1462,9 +1462,9 @@
 	    </lg>
 
 	    <lg type="stanza">
-	      <l>Down in the glory-hole Alfonso sings</l>
+	      <l>Down in the glory-hole<note type="editorial"><hi rend="bold">Glory-hole</hi>: "A receptacle (as a drawer, room, etc.) in which things are heaped together without any attempt at order or tidiness" (OED).</note> Alfonso sings</l>
 	      <l rend="indent1">An olden song of wine and clinking glasses</l>
-	      <l>And riotous rakes; magnificently flings</l>
+	      <l>And riotous rakes<note type="editorial"><hi rend="bold">Rake:</hi> "A fashionable or stylish man of dissolute or promiscuous habits" (OED).</note>; magnificently flings</l>
 	      <l rend="indent1">Gay kisses to imaginary lasses.</l>
 	    </lg>
 	    
@@ -1482,7 +1482,7 @@
 	      <lem wit="#HS">we shall</lem>
 	      <rdg wit="#SINH-alfonso #Cambridge-Alfonso">shall we</rdg>
 	      </app> be beset by clamouring</l>
-	      <l rend="indent1">Of hungry and importunate palefaces.</l>
+	      <l rend="indent1">Of hungry and importunate palefaces<note type="editorial"><hi rend="bold">Palefaces:</hi> "orig. N. Amer. (chiefly derogatory). A white person" (OED). The OED also notes,  "Chiefly in representations of North American Indian speech and in African-American usage."</note>.</l>
 	    </lg>
 
 	  </lg>
@@ -1508,7 +1508,7 @@
 	      <l>Bananas ripe and green<app><lem wit="#HS #Liberator-tropics">,</lem><rdg wit="#SINH-tropics #CambridgeMagazine-TropicsInNewYork" /></app> and ginger-root,</l>
 	      <l rend="indent1">Cocoa in pods and alligator pears,</l>
 	      <l>And tangerines and mangoes and grape fruit,</l>
-	      <l rend="indent1">Fit for the highest prize at parish fairs,</l>
+	      <l rend="indent1">Fit for the highest prize at parish<note type="editorial"><hi rend="bold">Parish:</hi> "A division or department of a county or other area... (in some former British Colonies) a local division used for civil purposes, frequently as an electoral district; a civil parish" (OED).</note> fairs,</l>
 	    </lg>
 
 	    <lg type="stanza">
@@ -1571,13 +1571,13 @@
 	      <l>So much have I forgotten in ten years,</l>
 	      <l rend="indent1">So much in ten brief years<app><lem wit="#HS">!</lem><rdg wit="#SINH-flame">;</rdg></app> I have forgot</l>
 	      <l>What time the purple apples come to juice<app><lem wit="#HS">,</lem></app></l>
-	      <l rend="indent1">And what month brings the shy forget-me-not<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">;</rdg></app></l>
+	      <l rend="indent1">And what month brings the shy forget-me-not<note type="editorial"><hi rend="bold">Forget-me-not:</hi> a flowering plant of the genus <hi rend="italics">myosotis</hi>.</note><app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">;</rdg></app></l>
 	      <l><app>
 		<lem wit="#HS">I have forgot</lem>
 		<rdg wit="#SINH-flame">Forgotten is</rdg>
 	      </app> the special, startling season</l>
 	      <l rend="indent1">Of <app>
-	      <lem wit="#HS">the pimento's</lem>
+	      <lem wit="#HS">the pimento's<note type="editorial"><hi rend="bold">Pimento:</hi> tree that bears allspice.</note></lem>
 	      <rdg wit="#SINH-flame">some beloved tree's</rdg>
 	      </app> flowering and fruiting<app><lem wit="#HS">;</lem><rdg wit="#SINH-flame">,</rdg></app></l>
 	      <l>What time of year the ground doves brown the fields</l>
@@ -1592,14 +1592,14 @@
 	      <lem wit="#HS">cannot recollect the high days</lem>
 	      <rdg wit="#SINH-flame">I cannot bring back to mind just</rdg>
 	      </app> when</l>
-	      <l>We rooted them out of the ping-wing path</l>
+	      <l>We rooted them out of the ping-wing<note type="editorial"><hi rend="bold">Ping-wind:</hi> a pinguin plant, a prickly shrub, used to build fences.</note> path</l>
 	      <l rend="indent1">To stop the mad bees in the rabbit pen.</l>
 	      <l>I often try to think in what sweet month</l>
 	      <l rend="indent1">The languid painted ladies used to dapple</l>
 	      <l>The yellow <app>
 	      <lem wit="#HS">by-road</lem>
 	      <rdg wit="#SINH-flame">bye road</rdg>
-	      </app> mazing from the main,</l>
+	      </app> mazing<note type="editorial"><hi rend="bold">Mazing:</hi> here, as an adjective, meaning winding, like a maze.</note> from the main,<note type="editorial"><hi rend="bold">Main:</hi> The sea. The OED notes such use is "now chiefly poetical."</note></l>
 	      <l rend="indent1">Sweet with the golden threads of the rose-apple<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
 	      <l>I have forgotten<app><lem wit="#HS">—</lem><rdg wit="#SINH-flame">, </rdg></app>strange<app><lem wit="#HS">—</lem><rdg wit="#SINH-flame">, </rdg></app>but quite remember</l>
 	      <l>The poinsettia's red, blood-red in warm December.</l>
@@ -1613,7 +1613,7 @@
 	      <rdg wit="#SINH-flame">o'</rdg></app> the mild year</l>
 	      <l rend="indent1">We cheated school to have our fling at tops?</l>
 	      <l>What days our wine-thrilled bodies pulsed with joy</l>
-	      <l rend="indent1">Feasting upon blackberries in the copse?</l>
+	      <l rend="indent1">Feasting upon blackberries in the copse<note type="editorial"><hi rend="bold">Copse:</hi> a small wood.</note>?</l>
 	      <l>Oh some I know! I have embalmed the days,</l>
 	      <l rend="indent1">Even the sacred moments<app><rdg wit="#SINH-flame">,</rdg></app> when we played,</l>
 	      <l>All innocent of passion<app><lem wit="#HS">,</lem></app> uncorrupt,</l>
@@ -1646,7 +1646,7 @@
 	    <l>Amid the city's noises, I must think</l>
 	    <l>Of mangoes leaning o'er the river's brink,</l>
 	    <l>And dexterous Davie climbing high above,</l>
-	    <l>The gold fruits ebon-speckled to remove,</l>
+	    <l>The gold fruits ebon-speckled<note type="editorial"><hi rend="bold">Ebon-Speckled:</hi> black specked (i.e. ebony speckled).</note> to remove,</l>
 	    <l>And <app>
 	    <lem wit="#HS #ThreeSonnets-HomeThoughts">toss</lem>
 	    <rdg wit="#Liberator-home">throwing</rdg>
@@ -1654,7 +1654,7 @@
 	    <lem wit="#HS #ThreeSonnets-HomeThoughts">quickly</lem>
 	    <rdg wit="#Liberator-home">carefully</rdg>
 	    </app> in the tangled mass</l>
-	    <l>Of wis-wis <app>
+	    <l>Of wis-wis<note type="editorial"><hi rend="bold">Wis-wis:</hi> a vine-like weed easily tangled with other plants</note> <app>
 	    <lem wit="#HS #ThreeSonnets-HomeThoughts">twisted round the guinea grass</lem>
 	    <rdg wit="#Liberator-home">lush and blue and lance-shaped grass</rdg>
 	    </app>;</l>
@@ -1769,7 +1769,7 @@
 	    <head rend="caps">Adolescence</head>
 	    <lg type="stanza">
 	      <l>There was a time when in late afternoon</l>
-	      <l rend="indent1">The four-o'clocks would fold up at day's close</l>
+	      <l rend="indent1">The four-o'clocks<note type="editorial"><hi rend="bold">Four-O'Clocks:</hi>perennial flower that blooms late in the day</note> would fold up at day's close</l>
 	      <l>Pink-white in prayer, and 'neath the floating moon</l>
 	      <l rend="indent1">I lay with them in calm and sweet repose.</l>
 	    </lg>
@@ -1790,22 +1790,22 @@
 	  <pb n="15" />
 
 	  <lg type="poem" xml:id="homing-swallows">
-	    <head rend="caps">Homing Swallows</head>
+	    <head rend="caps">Homing Swallows<note type="editorial"><hi rend="bold">Homing Swallow:</hi> a swallow capable of traveling distances but returning to its point of origin, like a homing pigeon.</note></head>
 	    <lg type="stanza">
-	      <l>Swift swallows sailing from the Spanish main,</l>
-	      <l rend="indent1">O rain-birds racing merrily away</l>
+	      <l>Swift swallows sailing from the Spanish main<note type="editorial"><hi rend="bold">Spanish Main:</hi> The mainland of the Americas that were part of the Spanish empire.</note>,</l>
+	      <l rend="indent1">O rain-birds<note type="editorial"><hi rend="bold">Rain-Birds:</hi> Birds whose singing signals the coming of rain.</note> racing merrily away</l>
 	      <l>From hill-tops parched with heat and sultry plain</l>
 	      <l rend="indent1">Of wilting plants and fainting flowers, say—</l>
 	    </lg>
 	    <lg type="stanza">
-	      <l>When at the noon-hour from the chapel school</l>
+	      <l>When at the noon-hour from the chapel school<note type="editorial"><hi rend="bold">Chapel School:</hi> A school run by a religious organization.</note></l>
 	      <l rend="indent1">The children dash and scamper down the dale,</l>
 	      <l>Scornful of teacher's rod and binding rule</l>
 	      <l rend="indent1">Forever broken and without avail,</l>
 	    </lg>
 	    <lg type="stanza">
 	      <l>Do they still stop beneath the giant tree</l>
-	      <l rend="indent1">To gather locusts in their childish greed,</l>
+	      <l rend="indent1">To gather locusts<note type="editorial"><hi rend="bold">Locusts:</hi> Here not the insect, but instead locust flowers, the flowers of the <hi rend="italics">robinia pseudoacaci</hi>.</note>  in their childish greed,</l>
 	      <l>And chuckle when they break the pods to see</l>
 	      <l rend="indent1">The golden powder clustered round the seed?</l>
 	    </lg>
@@ -1816,7 +1816,7 @@
 	  <lg type="poem" xml:id="the-citys-love">
 	    <head rend="caps">The City's Love</head>
 	    <l>For one brief golden moment rare like wine,</l>
-	    <l>The gracious city swept across the line;</l>
+	    <l>The gracious city swept across the line<note type="editorial"><hi rend="bold">The line:</hi> Here, the color line.</note>;</l>
 	    <l>Oblivious of the color of my skin,</l>
 	    <l>Forgetting that I was an alien guest,</l>
 	    <l>She bent to me, my hostile heart to win,</l>
@@ -1843,7 +1843,7 @@
 	    <l rend="indent1">Grass-sheltered crickets chirp incessant song,</l>
 	    <l>Gay-<app><lem wit="#HS">colored</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-NorthAndSouth">coloured</rdg></app> lizards loll all through the day,</l>
 	    <l rend="indent1">Their tongues outstretched for careless little flies,</l>
-	    <l>And swarthy children in the fields at play<app><lem wit="#HS">,</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-NorthAndSouth" /></app></l>
+	    <l>And swarthy<note type="editorial"><hi rend="bold">Swarthy:</hi> A somewhat archaic term for dark, or dark skinned.</note> children in the fields at play<app><lem wit="#HS">,</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-NorthAndSouth" /></app></l>
 	    <l rend="indent1">Look upward laughing at the smiling skies.</l>
 	    <l>A breath of idleness is in the air</l>
 	    <l rend="indent1">That casts a subtle spell upon all things,</l>
@@ -1869,7 +1869,7 @@
 	    <l>That you are feeble, weighted down with fetters,</l>
 	    <l>And given to strange deeds and mutterings.</l>
 	    <l>No longer without trace or thought of fear,</l>
-	    <l>Do you leap to and ride the rebel roan;</l>
+	    <l>Do you leap to and ride the rebel roan<note type="editorial"><hi rend="bold">Roan:</hi> A horse with mottled coat.</note></l>
 	    <l>But have become the victim of grim care,</l>
 	    <l>With three brown beauties to support alone.</l>
 	    <l>But none the less will you be in my mind,</l>
@@ -1893,7 +1893,7 @@
 
 	    <lg type="stanza">
 	      <l>And Laura loved it for the little hill,</l>
-	      <l rend="indent1">Where the quartz sparkled fire, barren and dun,</l>
+	      <l rend="indent1">Where the quartz sparkled fire, barren and dun<note type="editorial"><hi rend="bold">Dun:</hi> Dull, grayish brown color.</note>,</l>
 	      <l rend="indent1">Whence in the shadow of the dying sun,</l>
 	      <l>She contemplated Hallow's wooden mill.</l>
 	    </lg>
@@ -1946,7 +1946,7 @@
 	    <lg type="stanza">
 	      <l>And we will seek the quiet hill</l>
 	      <l rend="indent1">Where towers the cotton tree,</l>
-	      <l>And leaps the laughing crystal rill<app><lem wit="#HS #Liberator-after">,</lem><rdg wit="#SINH-after #CambridgeMagazine-AfterTheWinter" /></app></l>
+	      <l>And leaps the laughing crystal rill<note type="editorial"><hi rend="bold">Rill:</hi> a small stream.</note><app><lem wit="#HS #Liberator-after">,</lem><rdg wit="#SINH-after #CambridgeMagazine-AfterTheWinter" /></app></l>
 	      <l rend="indent1">And works the droning bee<app><lem wit="#HS #Liberator-after">.</lem><rdg wit="#SINH-after #CambridgeMagazine-AfterTheWinter">,</rdg></app></l>
 	      <l>And we will build a <app><lem wit="#HS">cottage there</lem><rdg wit="#Liberator-after">lonely nest</rdg></app></l>
 	      <l rend="indent1">Beside an open glade,</l>
@@ -2069,7 +2069,7 @@
 	  <pb n="24" />
 	  
 	  <lg type="poem" xml:id="the-spanish-needle">
-	    <head rend="caps">The Spanish Needle
+	    <head rend="caps">The Spanish Needle<note type="editorial"><hi rend="bold">Spanish Needle:</hi> A wildflower (<hi rend="italics">bidens alba</hi>), with white and yellow blossoms.</note>
 	    <note type="textual" resp="cf">
 	      <ref target="#CambridgeMagazine-SpanishNeedle">This poem appears in <title level="j">The Cambridge Magazine</title></ref> (1920).
 	    </note>
@@ -2108,7 +2108,8 @@
 	    <lg type="stanza">
 	      <l>Do you see me all expectant</l>
 	      <l rend="indent1">Lying in an orange grove,</l>
-	      <l>While the swee-swees sing above me,</l>
+	      <l>While the swee-swees<note type="editorial"><hi rend="bold">Swee-swee:</hi> the Swee Waxbill, a small finch found in the Caribbean and Sub-Saharan Africa.</note>
+ sing above me,</l>
 	      <l rend="indent1">Waiting for my elf-eyed love?</l>
 	    </lg>
 
@@ -2248,7 +2249,7 @@
 	      <l>Now the dead past seems vividly alive,</l>
 	      <l rend="indent1">And in this shining moment I can trace,</l>
 	      <l>Down through the vista of the vanished years,</l>
-	      <l rend="indent1">Your faun-like form, your fond elusive face.</l>
+	      <l rend="indent1">Your faun-like<note type="editorial"><hi rend="bold">Faun-like:</hi> like a faun, a forest god or goddess of Greek mythology.</note> form, your fond elusive face.</l>
 	    </lg>
 
 	    <lg type="stanza">
@@ -2356,7 +2357,7 @@
 	    <l>I shall return to hear the fiddle and fife</l>
 	    <l>Of village dances, dear delicious tunes</l>
 	    <l>That stir the hidden depths of native life,</l>
-	    <l>Stray melodies of dim remembered runes<app><lem wit="#HC">.</lem><rdg wit="#SINH-i-shall #CambridgeMagazine-IShallReturn">:</rdg></app></l>
+	    <l>Stray melodies of dim remembered runes<note type="editorial"><hi rend="bold">Rune:</hi> Ancient letters and characters of the earliest Germanic alphabet, preceding the Latin alphabet. In extended use, a song, poem, or verse, esp. a cryptic or magic verse, spell, or incantation.</note><app><lem wit="#HC">.</lem><rdg wit="#SINH-i-shall #CambridgeMagazine-IShallReturn">:</rdg></app></l>
 	    <l>I shall return, I shall return again<app><lem wit="#HC">,</lem><rdg wit="#SINH-i-shall #CambridgeMagazine-IShallReturn" /></app></l>
 	    <l>To ease my mind of long, long years of pain.</l>
 	  </lg>
@@ -2378,7 +2379,8 @@
 	    </head>
 
 	    <lg type="stanza">
-	      <l>At night the wide and level stretch of wold,</l>
+	      <l>At night the wide and level stretch of wold<note type="editorial"><hi rend="bold">Wold:</hi> woodland on high ground.</note>
+,</l>
 	      <l>Which at high noon had basked in quiet gold,</l>
 	      <l>Far as the eye could see was ghostly white;</l>
 	      <l>Dark was the night save for the snow's weird light.</l>
@@ -2392,7 +2394,7 @@
 	    </lg>
 
 	    <lg type="stanza">
-	      <l>At dawn<app><lem wit="#HS #Liberator-morning">,</lem><rdg wit="#SINH-morning #CambridgeMagazine-MorningJoy" /></app> behold! the pall of night was gone<app><lem wit="#HS #Liberator-morning">,</lem><rdg wit="#SINH-morning #CambridgeMagazine-MorningJoy" /></app></l>
+	      <l>At dawn<app><lem wit="#HS #Liberator-morning">,</lem><rdg wit="#SINH-morning #CambridgeMagazine-MorningJoy" /></app> behold! the pall<note type="editorial"><hi rend="bold">Pall: </hi> A darkness, or gloominess. Originally a piece of fabric or cloth, with funereal connotations (as in a pallbearer, for instance).</note> of night was gone<app><lem wit="#HS #Liberator-morning">,</lem><rdg wit="#SINH-morning #CambridgeMagazine-MorningJoy" /></app></l>
 	      <l>Save where a few shrubs melancholy, lone,</l>
 	      <l>Detained <app>
 	      <lem wit="#HS #Liberator-morning">a fragile</lem>
@@ -2447,7 +2449,7 @@
 	    <l>To gaze and gaze, while through my active brain</l>
 	    <l>Still thoughts are stirred to wakefulness; because</l>
 	    <l>Long, long ago in a dim unknown land,</l>
-	    <l>A massive forest-tree, ax-felled, adze-hewn,</l>
+	    <l>A massive forest-tree, ax-felled, adze-hewn<note type="editorial"><hi rend="bold">Adze-hewn:</hi> That is carved by an adze, an axe-like tool for the carving of wood.</note>,</l>
 	    <l>Was deftly done by cunning mortal hand</l>
 	    <l>Into a symbol of the tender moon.</l>
 	    <l>Why does it thrill more than the handsome boat</l>
@@ -2618,11 +2620,11 @@
 	    <l>Exasperated grown beyond control,</l>
 	    <l>From waiting for his soup or fish or mutton.</l>
 	    <l>At last the station's reached, the engine stops;</l>
-	    <l>For bags and wraps the red-caps circle round;</l>
+	    <l>For bags and wraps the red-caps<note type="editorial"><hi rend="bold">Red-Caps:</hi> Railroad porters (so called for their the red hats they conventionally wore). </note> circle round;</l>
 	    <l>From off the step the passenger lightly hops,</l>
 	    <l>And seeks his cab or tram-car homeward bound:</l>
 	    <l>The waiters pass out weary, listless, glum,</l>
-	    <l>To spend their tips on harlots, cards and rum.</l>
+	    <l>To spend their tips on harlots<note type="editorial"><hi rend="bold">Harlot:</hi> Here, a prostitute.</note>, cards and rum.</l>
 	  </lg>
 
 	  <pb n="42" />
@@ -2970,7 +2972,7 @@
 	    <l>My heart shall tremble not its fate to meet,</l>
 	    <l>My mouth give utterance to any moan.</l>
 	    <l>The yawning oven spits forth fiery spears<app><lem wit="#HS">;</lem><rdg wit="#Liberator-baptism">,</rdg></app></l>
-	    <l>Red aspish tongues shout wordlessly my name<app><lem wit="#HS">.</lem><rdg wit="#Liberator-baptism">;</rdg></app></l>
+	    <l>Red aspish<note type="editorial"><hi rend="bold">Aspish: </hi> Like an asp, snakelike, full of venom.</note> tongues shout wordlessly my name<app><lem wit="#HS">.</lem><rdg wit="#Liberator-baptism">;</rdg></app></l>
 	    <l>Desire destroys, consumes my mortal fears,</l>
 	    <l>Transforming me into a shape of flame.</l>
 	    <l>I will come out, back to your world of tears<app><lem wit="#HS">,</lem><rdg wit="#Liberator-baptism" /></app></l>
@@ -3204,7 +3206,7 @@
 
 	      <pb n="61" />
 
-	      <l rend="indent1">From her little trampled corner of the long wide lea</l>
+	      <l rend="indent1">From her little trampled corner of the long wide lea<note type="editorial"><hi rend="bold">Lea:</hi> A grassy area.</note></l>
 	      <l>That stretches to the waters of the hill-stream falling</l>
 	      <l rend="indent2">Sheer upon the flat rocks joyously!</l>
 	      <l rend="indent2">There, oh there! on the island of the sea<app><lem wit="#HS">,</lem><rdg wit="#SINH-when-dawn #CambridgeMagazine-WhenDawnComesToTheCity" /></app></l>
@@ -3307,7 +3309,7 @@
 
 	    <lg type="stanza">
 	      <l>And more than the songs I sing, I await your written word,</l>
-	      <l>To stir my fluent blood as never your presence stirred.</l>
+	      <l>To stir my fluent<note type="editorial"><hi rend="bold">Fluent:</hi> Free flowing.</note> blood as never your presence stirred.</l>
 	    </lg>
 	  </lg>
 
@@ -3322,7 +3324,7 @@
 	      <l rend="indent1">Upon the grass like running children's feet.</l>
 	      <l>And down the mountains by the dark cloud kissed,</l>
 	      <l rend="indent1">Like a strange shape in filmy veiling dressed,</l>
-	      <l>Slid slowly, silently, the wraith-like mist,</l>
+	      <l>Slid slowly, silently, the wraith-like<note type="editorial"><hi rend="bold">Wraith-like:</hi> A wraith is a ghost or spectre; so ghost-like or ethereal.</note> mist,</l>
 	      <l rend="indent1">And nestled soft against the earth's wet breast.</l>
 	    </lg>
 
@@ -3353,7 +3355,7 @@
 
 	    <lg type="stanza">
 	      <l>No more for you the city's thorny ways,</l>
-	      <l rend="indent1">The ugly corners of the Negro belt;</l>
+	      <l rend="indent1">The ugly corners of the Negro belt<note type="editorial"><hi rend="bold">Negro Belt:</hi> A region of the U.S. South, from Mississippi to Virginia, home to a high concentration of enslaved African Americans before Emancipation. Booker T. Washington, in his autobiography <title level="m">Up from Slavery</title> offers the following explanation of the cognate term "black belt": "I have often been asked to define the term 'Black Belt.' So far as I can learn, the term was first used to designate a part of the country which was distinguished by the colour of the soil. THe part of the country possessing this thick, dark, and naturally rich soil was, of course, the part of the South where the slaves were most profitable, and consequently they were taken there in the largest numbers. Later, and especially since the war [the American Civil War], the term seems to be used wholly in a political sense---that is, to designate the counties where the balck people outnumber the white."</note>;</l>
 	      <l>The miseries and pains of these harsh days</l>
 	      <l rend="indent1">By you will never, never again be felt.</l>
 	    </lg>
@@ -3448,7 +3450,7 @@
 
 	    <lg type="stanza">
 	      <l>But in the socket-chiseled teeth of strife,</l>
-	      <l rend="indent1">That gleam in serried files in all the lands,</l>
+	      <l rend="indent1">That gleam in serried<note type="editorial"><hi rend="bold">Serried:</hi> Packed close together.</note> files in all the lands,</l>
 	      <l rend="indent1">We may join hungry, understanding hands,</l>
 	      <l>And drink our share of ardent love and life.</l>
 	    </lg>
@@ -3471,7 +3473,7 @@
 	    <l>Like the words, wet with music, that well from your trembling throat.</l>
 	    <l rend="indent2">I'm afraid of your eyes, they're so bold,</l>
 	    <l rend="indent2">Searching me through, reading my thoughts, shining like gold.</l>
-	    <l>But sometimes they are gentle and soft like the dew on the lips of the eucharis</l>
+	    <l>But sometimes they are gentle and soft like the dew on the lips of the eucharis<note type="editorial"><hi rend="bold">Eucharis:</hi> A flowering, tropical plant with white, bell-shaped flowers.</note></l>
 	    <l>Before the sun comes warm with his lover's kiss<app><lem wit="#HS">.</lem><rdg wit="#SINH #CambridgeMagazine-ToOEA">,</rdg></app></l>
 	    <l>
 	      <app>
@@ -3623,20 +3625,20 @@
 	  
 	  <lg type="poem" xml:id="la-paloma-in-london">
 	    <head rend="caps">
-	      La Paloma in London
+	      La Paloma<note type="editorial"><hi rend="bold">La Paloma:</hi> A popular, nineteenth-century Spanish song by Sebastian Yradier, inspired by a visit to Cuba that has spread worldwide as a popular folk song.</note> in London
 	      <note type="textual" resp="cf">
 		This poem also appeared in <ref target="#Liberator-paloma"><title level="j">The Liberator</title></ref> <date when="1922-01">(January, 1922).</date>
 	      </note>
 	    </head>
 
-	    <l>About Soho we went before the light;</l>
+	    <l>About Soho<note type="editorial"><hi rend="bold">Soho:</hi> New York City neighborhood in Lower Manhattan, south of Houston Street.</note> we went before the light;</l>
 	    <l>We went, unresting six, craving new fun,</l>
 	    <l>New scenes, new raptures<app><lem wit="#HS">,</lem><rdg wit="#Liberator-paloma" /></app> for the fevered night</l>
 	    <l>Of rollicking laughter, drink and song, was done.</l>
 	    <l>The vault was void, but for the dawn's great star</l>
 	    <l>That shed upon our path its silver flame,</l>
 	    <l>When La Paloma on a low guitar</l>
-	    <l>Abruptly from a darkened casement came—</l>
+	    <l>Abruptly from a darkened casement<note type="editorial"><hi rend="bold">Casement:</hi> a hinged window which typically opens on its upright side.</note> came—</l>
 	    <l>Harlem! All else <app>
 	    <lem wit="#HS">shut out</lem>
 	    <rdg wit="#Liberator-paloma">a blank</rdg></app>, I saw the hall,</l>
@@ -4030,7 +4032,7 @@
 	    </head>
 
 	    <l>Oh<app><lem wit="#HS">,</lem><rdg wit="#Liberator-futility" /></app> I have tried to laugh the pain away,</l>
-	    <l>Let new flames brush my love-springs like a feather.</l>
+	    <l>Let new flames brush my love-springs<note type="editorial"><hi rend="bold">Love-Springs:</hi> The young shoorts of love; compare <title level="m">Comedy of Errors</title> where Luciana asks Antipholus, "shall, Antipholus, / Even in the spring of love, thy <hi rend="bold">love-springs</hi> rot? / Shall love, in building, grow so ruinous?" (III.ii).</note> like a feather.</l>
 	    <l>But the old fever seizes me to-day,</l>
 	    <l>As sickness grips a soul in wretched weather.</l>
 	    <l>I have given up myself to every urge,</l>
@@ -4039,7 +4041,7 @@
 	    <l>To soothe and deaden my heart's unhealing rent.</l>
 	    <l>But you have torn a nerve out of my frame,</l>
 	    <l>A gut that no physician can replace,</l>
-	    <l>And reft my life of happiness and aim.</l>
+	    <l>And reft<note type="editorial"><hi rend="bold">Reft:</hi> Deprived of, bereft of.</note> my life of happiness and aim.</l>
 	    <l>Oh what new purpose shall I now embrace?</l>
 	    <l>What substance hold, what lovely form pursue,</l>
 	    <l>When my thought burns through everything to you?</l>
@@ -4226,7 +4228,7 @@
 	    <lg type="poem">
 	      <head rend="caps">The Park in Spring</head>
 	      <lg type="stanza">
-		<l>The vivid grass with visinle delight</l>
+		<l>The vivid grass with visible delight</l>
 		<l rend="indent1">Springing triumphant from the pregnant earth;</l>
 		<l>The butterflies, and sparrows in brief flight</l>
 		<l rend="indent1">Chirping and dancing for the season's birth,</l>
