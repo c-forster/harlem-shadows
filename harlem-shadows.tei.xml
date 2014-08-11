@@ -1058,7 +1058,7 @@
 	    himself by an instinctive gravitation singing in 
 	    the forefront of the battle for human liberty. A 
 	    wider experience and a man's comprehension of 
-	    the science of history" has only strengthened his 
+	    the science of history has only strengthened his 
 	    voice and his resolution.</p>
 
 	    <p>Those early songs and the music he composed 
@@ -1345,7 +1345,7 @@
 	      <l>It burst the tomb for freedom sweet and brief</l>
 	      <l rend="indent1">In the young pregnant year at Eastertime;</l>
 	    </lg>
-	    <lg>
+	    <lg type="stanza">
 	      <l>And many thought it was a sacred sign,</l>
 	      <l rend="indent1">And some called it the resurrection flower;</l>
 	      <l>And I, a pagan, <app>
@@ -1373,7 +1373,7 @@
 	      <l rend="indent1">Gracefully falling down a shining stair.</l> 
 	    </lg>
 
-	    <lg>
+	    <lg type="stanza">
 	      <l>And when the fields and streets are covered white</l>
 	      <l rend="indent1">And the wind-worried void is chilly, raw,</l>
 	      <l>Or underneath a spell of heat and light</l>
