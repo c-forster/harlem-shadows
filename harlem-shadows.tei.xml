@@ -4032,7 +4032,7 @@
 	    </head>
 
 	    <l>Oh<app><lem wit="#HS">,</lem><rdg wit="#Liberator-futility" /></app> I have tried to laugh the pain away,</l>
-	    <l>Let new flames brush my love-springs<note type="editorial"><hi rend="bold">Love-Springs:</hi> The young shoorts of love; compare <title level="m">Comedy of Errors</title> where Luciana asks Antipholus, "shall, Antipholus, / Even in the spring of love, thy <hi rend="bold">love-springs</hi> rot? / Shall love, in building, grow so ruinous?" (III.ii).</note> like a feather.</l>
+	    <l>Let new flames brush my love-springs<note type="editorial"><hi rend="bold">Love-Springs:</hi> The young shoots of love; compare <title level="m">Comedy of Errors</title> where Luciana asks Antipholus, "shall, Antipholus, / Even in the spring of love, thy <hi rend="bold">love-springs</hi> rot? / Shall love, in building, grow so ruinous?" (III.ii).</note> like a feather.</l>
 	    <l>But the old fever seizes me to-day,</l>
 	    <l>As sickness grips a soul in wretched weather.</l>
 	    <l>I have given up myself to every urge,</l>
@@ -4297,8 +4297,6 @@
 	    </lg>
 	  </body>
 	</text>
-
-
       </group>
 
       <group xml:id="cr">
