@@ -952,8 +952,8 @@
 	  
 	  <pb n="ix"/>
 
-	  <div type="introduction" xml:id="introduction">
-            <head>INTRODUCTION</head>
+	  <div type="introductory-prose" xml:id="introduction">
+            <head rend="caps">Introduction</head>
 
 	    <p>These poems have a special interest for all the 
 	    races of man because they are sung by a pure 
@@ -1072,7 +1072,7 @@
 	    beauty, his quick sympathy, and the magnetic 
 	    wayward humor of his ways. He received in 
 	    1912 the medal of the Institute of Arts and 
-	    Sciences in recognition of his <sic>preëminence</sic>. He 
+	    Sciences in recognition of his preëminence. He 
 	    was the first Negro to receive this medal, and 
 	    he was the first poet who ever made songs in the 
 	    quaint haunting dialect of the island. But nevertheless 
@@ -1232,7 +1232,7 @@
 
 	  <pb n="xix" />
 
-	  <div type="preface" xml:id="authors-word">
+	  <div type="introductory-prose" xml:id="authors-word">
 	    <head rend="caps">Author's Word</head> 
 
 	    <p>In putting ideas and feelings into poetry, I have 
@@ -5240,7 +5240,7 @@
 	    <div type="section">
 	      <p>The first thought that will flash into the 
 	      mind of the reader of "Harlem Shadows" 
-	      will be: <hi rend="italics">"This is poetry!"</hi> No toher later 
+	      will be: <hi rend="italics">"This is poetry!"</hi> No other later 
 	      discovery, a slight unevenness of power, a 
 	      strange rhythm, the fact of the author's 
 	      ancestry, will be able to affect that first 
@@ -5774,7 +5774,7 @@
 	    schoolmaster in the northwestern part of the island.</p>
 
 	    <p>From that time on I became interested in books. 
-	    The school building, to whcih was attached the teacher's 
+	    The school building, to which was attached the teacher's 
 	    cottage, was an old slave house, plain, substantial 
 	    and comfortable. My brother, an amateur journalist, 
 	    country correspondent for the city papers, was fond 
