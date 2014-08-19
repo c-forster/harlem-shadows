@@ -1324,11 +1324,12 @@
    	<body>
 	  <pb n="3" />
 	  <lg type="poem" xml:id="the-easter-flower">
-	    <head rend="caps">The Easter Flower
-	    <note type="textual" resp="cf">
+	    <head rend="caps">The Easter Flower</head>
+
+	    <note type="textual">
 	      This poem also appears in <ref target="#Liberator-easter"><title level="j">The Liberator</title></ref> (<date when="1921-03">March, 1921</date>).
 	    </note>
-	    </head>
+
 
 	    <lg type="stanza">
 	      <l>Far from this foreign Easter damp and chilly</l>
@@ -1358,13 +1359,12 @@
 
 	  <pb n="4" />
 	  <lg type="poem" xml:id="to-one-coming-north">
-	    <head rend="caps">
-	      To One Coming North
+	    <head rend="caps">To One Coming North</head>
 
-	      <note type="textual" resp="cf">
-		This poem also appears in <ref target="#Liberator-to-one"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.
-	      </note>
-	    </head>
+	    <note type="textual">
+	      This poem also appears in <ref target="#Liberator-to-one"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.
+	    </note>
+
 
 	    <lg type="stanza">
 	      <l>At first you'll joy to see the playful snow,</l>
@@ -1402,17 +1402,15 @@
 
 	  <pb n="6"/>
 	  <lg type="poem" xml:id="america">
-	    <head rend="caps">
-	      America
-	      <note>This poem appears in:
-	      <list>
-		<item><ref target="#ThreeSonnets-America"><title level="j">The Literary Digest</title> with two other sonnets under the title "Three Sonnets" (<date when="1922-10-28">October 28, 1922.</date>)</ref></item>
-		<item><ref target="#Liberator-america"><title level="j">The Liberator</title> (<date when="1921-12">December, 1921</date>)</ref></item>
-	      </list>
-	      </note>
-	      
-	    </head>
+	    <head rend="caps">America</head>
 	    
+	    <note>This poem appears in:
+	    <list>
+	      <item><ref target="#ThreeSonnets-America"><title level="j">The Literary Digest</title> with two other sonnets under the title "Three Sonnets" (<date when="1922-10-28">October 28, 1922.</date>)</ref></item>
+	      <item><ref target="#Liberator-america"><title level="j">The Liberator</title> (<date when="1921-12">December, 1921</date>)</ref></item>
+	    </list>
+	    </note>
+
 	    <l><app>
 	      <lem wit="#HS">Although</lem>
 	      <rdg wit="#ThreeSonnets-America">Altho</rdg>
@@ -1450,9 +1448,10 @@
 		<lem wit="#HS" rend="caps">Alfonso, Dressing to Wait at Table</lem>
 		<rdg wit="#Cambridge-Alfonso #SINH-alfonso">Alfonso, Dressing to Wait at Table, Sings</rdg>
 	      </app>
-	      <note>This poem also appears in <ref target="#Cambridge-Alfonso"><title level="j">Cambridge Magazine</title> (<date when="1920">1920</date>)</ref> and <ref target="#SINH-Alfonso"><title level="m">Spring in New Hampshire</title></ref>.
-	      </note>
 	    </head>
+
+	    <note>This poem also appears in <ref target="#Cambridge-Alfonso"><title level="j">Cambridge Magazine</title> (<date when="1920">1920</date>)</ref> and <ref target="#SINH-Alfonso"><title level="m">Spring in New Hampshire</title></ref>.</note>
+
 
 	    <lg type="stanza">
 	      <l>Alfonso is a handsome bronze-hued lad</l>
@@ -1489,20 +1488,17 @@
 
 	  <pb n="8" />
 	  <lg type="poem" xml:id="the-tropics-in-new-york">
-	    <head rend="caps">
-	      The Tropics in New York
-	      
-	      <note type="textual" resp="cf">
-		This poem also appeared in:
-		<list>
-		  <item><ref target="#SINH-tropics"><title level="m">Spring in New Hampshire</title></ref></item>
-		  <item><ref target="#CambridgeMagazine-TropicsInNewYork"><title level="j">Cambridge Magazine</title></ref>.</item>
-		  <item><ref target="#Liberator-tropics"><title level="j">The Liberator</title></ref> <date when="1920-05">(May, 1920).</date></item>
-		</list>
+	    <head rend="caps">The Tropics in New York</head>
+	    <note type="textual">
+	      This poem also appeared in:
+	      <list>
+		<item><ref target="#SINH-tropics"><title level="m">Spring in New Hampshire</title></ref></item>
+		<item><ref target="#CambridgeMagazine-TropicsInNewYork"><title level="j">Cambridge Magazine</title></ref>.</item>
+		<item><ref target="#Liberator-tropics"><title level="j">The Liberator</title></ref> <date when="1920-05">(May, 1920).</date></item>
+	      </list>
 
-		In its appearance in <ref target="#Liberator-tropics"><title level="j">The Liberator</title></ref>, this poem did not feature any line indentation.
-	      </note>
-	    </head>
+	      In its appearance in <ref target="#Liberator-tropics"><title level="j">The Liberator</title></ref>, this poem did not feature any line indentation.
+	    </note>
 
 	    <lg type="stanza">
 	      <l>Bananas ripe and green<app><lem wit="#HS #Liberator-tropics">,</lem><rdg wit="#SINH-tropics #CambridgeMagazine-TropicsInNewYork" /></app> and ginger-root,</l>
@@ -1626,15 +1622,14 @@
 	  <pb n="11" />
 
 	  <lg type="poem" xml:id="home-thoughts">
-	    <head rend="caps">Home Thoughts
-	    <note type="textual" resp="#cf">
+	    <head rend="caps">Home Thoughts</head>
+	    <note type="textual">
 	      This poem also appears:
 	      <list>
 		<item><ref target="#ThreeSonnets-HomeThoughts"><title level="a">"Home Thoughts"</title></ref> appears with two other sonnets in <ref target="#ThreeSonnets"><title level="a">"Three Sonnets"</title></ref> (<title level="j">The Literary Digest</title>, <date when="1922-10-28">October 28, 1922</date>).</item>
                 <item>in <ref target="#Liberator-home"><title level="j">The Liberator</title></ref> <date when="1920-02">(February, 1920).</date></item>
 	      </list>
 	    </note>
-	    </head>
 
 	    <l><app>
 	      <lem wit="#HS #ThreeSonnets-HomeThoughts">Oh</lem>
@@ -1689,10 +1684,11 @@
 		<lem wit="#HS" rend="caps">On Broadway</lem>
 		<rdg wit="#SINH-on-broadway #CambridgeMagazine-OnBroadway">On Broadway</rdg>
 	      </app>
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#SINH-on-broadway"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-OnBroadway"><title level="j">Cambridge Magazine</title></ref>.
-	      </note>
 	    </head>
+
+	    <note type="textual">
+	      This poem also appeared in <ref target="#SINH-on-broadway"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-OnBroadway"><title level="j">Cambridge Magazine</title></ref>.
+	    </note>
 
 	    <lg type="stanza">
 	      <l>About me young and careless feet</l>
@@ -1728,15 +1724,17 @@
 		<lem wit="#HS" rend="caps">The Barrier</lem>
 		<rdg wit="#SINH-the-barrier">The Barrier</rdg>
 	      </app>
-	      <note type="textual" resp="cf">
-		This poem also appeared in:
-		<list>
-		  <item><ref target="#Liberator-barrier"><title level="j">The Liberator</title> <date when="1919-07">(July, 1919)</date></ref></item>
-		  <item><ref target="#SINH-the-barrier"><title level="m">Spring in New Hampshire</title></ref></item>
-		  <item><ref target="#CambridgeMagazine-TheBarrier"><title level="j">Cambridge Magazine</title></ref></item>
-		</list>
-	      </note>
 	    </head>
+
+	    <note type="textual">
+	      This poem also appeared in:
+	      <list>
+		<item><ref target="#Liberator-barrier"><title level="j">The Liberator</title> <date when="1919-07">(July, 1919)</date></ref></item>
+		<item><ref target="#SINH-the-barrier"><title level="m">Spring in New Hampshire</title></ref></item>
+		<item><ref target="#CambridgeMagazine-TheBarrier"><title level="j">Cambridge Magazine</title></ref></item>
+	      </list>
+	    </note>
+
 
 	    <lg type="stanza">
 	      <l>I must not gaze at them although</l>
@@ -1791,6 +1789,7 @@
 
 	  <lg type="poem" xml:id="homing-swallows">
 	    <head rend="caps">Homing Swallows<note type="editorial"><hi rend="bold">Homing Swallow:</hi> a swallow capable of traveling distances but returning to its point of origin, like a homing pigeon.</note></head>
+
 	    <lg type="stanza">
 	      <l>Swift swallows sailing from the Spanish main<note type="editorial"><hi rend="bold">Spanish Main:</hi> The mainland of the Americas that were part of the Spanish empire.</note>,</l>
 	      <l rend="indent1">O rain-birds<note type="editorial"><hi rend="bold">Rain-Birds:</hi> Birds whose singing signals the coming of rain.</note> racing merrily away</l>
@@ -1815,6 +1814,7 @@
 
 	  <lg type="poem" xml:id="the-citys-love">
 	    <head rend="caps">The City's Love</head>
+
 	    <l>For one brief golden moment rare like wine,</l>
 	    <l>The gracious city swept across the line<note type="editorial"><hi rend="bold">The line:</hi> Here, the color line.</note>;</l>
 	    <l>Oblivious of the color of my skin,</l>
@@ -1832,10 +1832,11 @@
 		<lem wit="#HS" rend="caps">North and South</lem>
 		<rdg wit="#SINH-north-and-south #CambridgeMagazine-NorthAndSouth">North and South</rdg>
 	      </app>
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#SINH-north-and-south"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-NorthAndSouth"><title level="j">Cambridge Magazine</title></ref>.
-	      </note>
 	    </head>
+
+	    <note type="textual">
+	      This poem also appeared in <ref target="#SINH-north-and-south"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-NorthAndSouth"><title level="j">Cambridge Magazine</title></ref>.
+	    </note>
 
 	    <l>O sweet are tropic lands for waking dreams!</l>
 	    <l rend="indent1">There time and life move lazily along<app><lem wit="#HS">.</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-NorthAndSouth">;</rdg></app></l>
@@ -1884,6 +1885,7 @@
 
 	  <lg type="poem" xml:id="the-plateau">
 	    <head rend="caps">The Plateau</head>
+
 	    <lg type="stanza">
 	      <l>It was the silver, heart-enveloping view</l>
 	      <l rend="indent1">Of the mysterious sea-line far away,</l>
@@ -1922,15 +1924,17 @@
 		<rdg wit="#SINH-after #CambridgeMagazine-AfterTheWinter">After the Winter</rdg>
 		<rdg wit="#Liberator-after" rend="caps">After the Winters.</rdg>
 	      </app>
-	      <note type="textual" resp="cf">
-		This poem also appeared in:
-		<list>
-		  <item><ref target="#Liberator-after"><title level="j">The Liberator</title> <date when="1919-07">(July, 1919)</date></ref></item>
-		  <item><ref target="#SINH-after"><title level="m">Spring in New Hampshire</title></ref></item>
-		  <item><ref target="#CambridgeMagazine-AfterTheWinter"><title level="j">Cambridge Magazine</title></ref></item>
-		</list>
-	      </note>
 	    </head>
+
+	    <note type="textual">
+	      This poem also appeared in:
+	      <list>
+		<item><ref target="#Liberator-after"><title level="j">The Liberator</title> <date when="1919-07">(July, 1919)</date></ref></item>
+		<item><ref target="#SINH-after"><title level="m">Spring in New Hampshire</title></ref></item>
+		<item><ref target="#CambridgeMagazine-AfterTheWinter"><title level="j">Cambridge Magazine</title></ref></item>
+	      </list>
+	    </note>
+
 
 	    <lg type="stanza">
 	      <l>Some day, when trees have shed their leaves<app><lem wit="HS" /><rdg wit="#Liberator-after">,</rdg></app></l>
@@ -1989,18 +1993,17 @@
 
 	  <pb n ="22"/>
 	  <lg type="poem" xml:id="harlem-shadows">
-	    <head rend="caps">
-	      Harlem Shadows
+	    <head rend="caps">Harlem Shadows</head>
 
-	      <note type="textual" resp="cf">
-		<list>
-		  <item><ref target="#Pearsons-harlem"><title level="j">Pearson's Magazine</title></ref> <date when="1918-09">(September, 1918)</date>.</item>
-		  <item><ref target="#SINH-harlem-shadows"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
-		</list>
+	    <note type="textual">
+	      <list>
+		<item><ref target="#Pearsons-harlem"><title level="j">Pearson's Magazine</title></ref> <date when="1918-09">(September, 1918)</date>.</item>
+		<item><ref target="#SINH-harlem-shadows"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
+	      </list>
 
-		In <title level="j">Pearson's Magazine</title>, this poem (along with <ref target="#supp_mckay_to-the-white-fiends">"To the White Fiends,"</ref> <ref target="#supp_mckay_the-conqueror">"The Conqueror,"</ref> <ref target="#supp_mckay_the-park-in-spring">"The Park in Spring,"</ref> and <ref target="#supp_mckay_is-it-worthwhile">"Is it Worth While?</ref>") was prefaced by a statement by McKay, <ref target="#Pearsons-claude"><title level="a">"Claude <choice><sic>MacKay</sic><corr resp="cf">McKay</corr></choice> Describes His Own Life: A Negro Poet</title></ref>.
-	      </note>
-	    </head>
+	      In <title level="j">Pearson's Magazine</title>, this poem (along with <ref target="#supp_mckay_to-the-white-fiends">"To the White Fiends,"</ref> <ref target="#supp_mckay_the-conqueror">"The Conqueror,"</ref> <ref target="#supp_mckay_the-park-in-spring">"The Park in Spring,"</ref> and <ref target="#supp_mckay_is-it-worthwhile">"Is it Worth While?</ref>") was prefaced by a statement by McKay, <ref target="#Pearsons-claude"><title level="a">"Claude <choice><sic>MacKay</sic><corr resp="cf">McKay</corr></choice> Describes His Own Life: A Negro Poet</title></ref>.
+	    </note>
+
 
 	    <lg type="stanza">
 	      <l>I hear the halting footsteps of a lass</l>
@@ -2039,11 +2042,9 @@
 	  <pb n="23" />
 	  
 	  <lg type="poem" xml:id="the-white-city">
-	    <head rend="caps">
-	      The White City
-	      
-	      <note type="textual" resp="cf">This poem also appears in <ref target="#Liberator-white"><title level="j">The Liberator</title></ref> <date when="1921-10">(October, 1921)</date>.</note>
-	    </head>
+	    <head rend="caps">The White City</head>
+
+	    <note type="textual">This poem also appears in <ref target="#Liberator-white"><title level="j">The Liberator</title></ref> <date when="1921-10">(October, 1921)</date>.</note>
 
 	    <l>I will not toy with it nor bend an inch.</l>
 	    <l>Deep in the secret chambers of my heart</l>
@@ -2069,11 +2070,12 @@
 	  <pb n="24" />
 	  
 	  <lg type="poem" xml:id="the-spanish-needle">
-	    <head rend="caps">The Spanish Needle<note type="editorial"><hi rend="bold">Spanish Needle:</hi> A wildflower (<hi rend="italics">bidens alba</hi>), with white and yellow blossoms.</note>
+	    <head rend="caps">The Spanish Needle<note type="editorial"><hi rend="bold">Spanish Needle:</hi> A wildflower (<hi rend="italics">bidens alba</hi>), with white and yellow blossoms.</note></head>
+
 	    <note type="textual" resp="cf">
 	      <ref target="#CambridgeMagazine-SpanishNeedle">This poem appears in <title level="j">The Cambridge Magazine</title></ref> (1920).
 	    </note>
-	    </head>
+
 
 	    <lg type="stanza">
 	      <l>Lovely dainty Spanish needle</l>
@@ -2124,12 +2126,12 @@
 	  <pb n="26" />
 	  
 	  <lg type="poem" xml:id="my-mother">
-	    <head rend="caps">
-	      My Mother
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#Liberator-mother"><title level="j">The Liberator</title></ref> <date when="1920-03">(March, 1920)</date>. The version appearing in <title level="j">The Liberator</title> lacks numbers for the stanzas.
-	      </note>
-	    </head>
+	    <head rend="caps">My Mother</head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#Liberator-mother"><title level="j">The Liberator</title></ref> <date when="1920-03">(March, 1920)</date>. The version appearing in <title level="j">The Liberator</title> lacks numbers for the stanzas.
+	    </note>
+
 
 	    <lg type="section">
 	      <head>I</head>
@@ -2174,16 +2176,16 @@
 	  <pb n="28" />
 
 	  <lg type="poem" xml:id="in-bondage">
-	    <head rend="caps">
-	      In Bondage
-	      <note type="textual">
-		This poem also appears in:
-		<list>
-		  <item><ref target="#SINH-in-bondage"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
-		  <item><ref target="#Liberator-in"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.</item>
-		</list>
-	      </note>
-	    </head>
+	    <head rend="caps">In Bondage</head>
+
+	    <note type="textual">
+	      This poem also appears in:
+	      <list>
+		<item><ref target="#SINH-in-bondage"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
+		<item><ref target="#Liberator-in"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.</item>
+	      </list>
+	    </note>
+
 
 	    <l>I would be wandering in distant fields</l>
 	    <l>Where man, and bird, and beast, lives leisurely,</l>
@@ -2305,12 +2307,12 @@
 	  <pb n="32" />
 
 	  <lg type="poem" xml:id="enslaved">
-	    <head rend="caps">
-	      Enslaved
-	      <note type="textual" resp="cf">
-		This poem also appear in <ref target="#Liberator-enslaved"><title level="j">The Liberator</title> (<date when="1921-07">July, 1921</date>).</ref>
-	      </note>
-	    </head>
+	    <head rend="caps">Enslaved</head>
+
+	    <note type="textual">
+	      This poem also appear in <ref target="#Liberator-enslaved"><title level="j">The Liberator</title> (<date when="1921-07">July, 1921</date>).</ref>
+	    </note>
+
 	    <l>Oh when I think of my long-suffering race<app><lem wit="#HS">,</lem><rdg wit="#Liberator-enslaved" /></app></l>
 	    <l>For weary centuries despised, oppressed,</l>
 	    <l>Enslaved and lynched, denied a human place</l>
@@ -2338,10 +2340,11 @@
 		<lem wit="#HS" rend="caps">I Shall Return</lem>
 		<rdg wit="#SINH-i-shall #CambridgeMagazine-IShallReturn">I Shall Return</rdg>
 	      </app>
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#SINH-i-shall"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-IShallReturn"><title level="j">Cambridge Magazine</title></ref>.
-	      </note>
 	    </head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#SINH-i-shall"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-IShallReturn"><title level="j">Cambridge Magazine</title></ref>.
+	    </note>
 
 	    <l>I shall return again; I shall return</l>
 	    <l>To laugh and love and watch with wonder-eyes<app><lem wit="#HS" /><rdg wit="#SINH-i-shall #CambridgeMagazine-IShallReturn">,</rdg></app></l>
@@ -2365,18 +2368,16 @@
 	  <pb n="34" />
 	  
 	  <lg type="poem" xml:id="morning-joy">
-	    <head rend="caps">
-	      Morning Joy
+	    <head rend="caps">Morning Joy</head>
 
-	      <note type="textual" resp="cf">
-		This poem also appeared in:
-		<list>
-		  <item><ref target="#CambridgeMagazine-MorningJoy"><title level="j">Cambridge Magazine</title></ref> <date when="1920"></date>.</item>
-		  <item><ref target="#SINH-morning"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
-		  <item><ref target="#Liberator-morning"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921).</date></item>
-		</list>
-	      </note>
-	    </head>
+	    <note type="textual" resp="cf">
+	      This poem also appeared in:
+	      <list>
+		<item><ref target="#CambridgeMagazine-MorningJoy"><title level="j">Cambridge Magazine</title></ref> <date when="1920"></date>.</item>
+		<item><ref target="#SINH-morning"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
+		<item><ref target="#Liberator-morning"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921).</date></item>
+	      </list>
+	    </note>
 
 	    <lg type="stanza">
 	      <l>At night the wide and level stretch of wold<note type="editorial"><hi rend="bold">Wold:</hi> woodland on high ground.</note>
@@ -2414,12 +2415,11 @@
 	  <pb n="35"/>
 	  
 	  <lg type="poem" xml:id="africa">
-	    <head rend="caps">
-	      Africa
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#Liberator-africa"><title level="j">The Liberator</title></ref> <date when="1922-08">(August, 1921)</date>, where even numbered lines were indented.
-	      </note>
-	    </head>
+	    <head rend="caps">Africa</head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#Liberator-africa"><title level="j">The Liberator</title></ref> <date when="1922-08">(August, 1921)</date>, where even numbered lines were indented.
+	    </note>
 
 	    <l>The sun sought thy dim bed and brought forth light,</l>
 	    <l>The sciences were sucklings at thy breast;</l>
@@ -2468,10 +2468,11 @@
 		<lem wit="#HS" rend="caps">Winter in the Country</lem>
 		<rdg wit="#SINH-winter #CambridgeMagazine-WinterInTheCountry">Winter in the Country</rdg>
 	      </app>
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#SINH-winter"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-WinterInTheCountry"><title level="j">Cambridge Magazine</title></ref>.
-	      </note>
 	    </head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#SINH-winter"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-WinterInTheCountry"><title level="j">Cambridge Magazine</title></ref>.
+	    </note>
 
 	    <lg type="stanza">
 	      <l>Sweet life! how lovely to be here</l>
@@ -2531,10 +2532,11 @@
 		<lem wit="#HS" rend="caps">To Winter</lem>
 		<rdg wit="#SINH-to-winter #CambridgeMagazine-ToWinter">To Winter</rdg>
 	      </app>
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#SINH-to-winter"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-ToWinter"><title level="j">Cambridge Magazine</title></ref>.
-	      </note>
 	    </head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#SINH-to-winter"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-ToWinter"><title level="j">Cambridge Magazine</title></ref>.
+	    </note>
 
 	    <l>Stay, season of calm love and soulful snows!</l>
 	    <l>There is a subtle sweetness in the sun,</l>
@@ -2560,14 +2562,6 @@
 
 	  <lg type="poem" xml:id="spring-in-new-hampshire">
 	    <head type ="title" rend="caps">Spring in New Hampshire</head>
-	    <note type="textual" resp="cf">
-	      This poem also appeared in:
-	      <list>
-		<item><ref target="#SINH-spring"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">1920</date>.</item>
-		<item><ref target="#CambridgeMagazine-AfterTheWinter"><title level="j">Cambridge Magazine</title></ref> <date when="1920">(1920)</date>.</item>
-		<item><ref target="#Liberator-spring"><title level="j">The Liberator</title></ref> <date when="1919-08">(August, 1919).</date></item>
-	      </list>
-	    </note>
 	    <head type="dedication" rend="italics">
 	      <app>
 		<lem wit="#HS #SINH-spring">
@@ -2576,6 +2570,15 @@
 		<rdg wit="#CambridgeMagazine-SpringInNewHampshire #Liberator-spring" />
 	      </app>
 	    </head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in:
+	      <list>
+		<item><ref target="#SINH-spring"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">1920</date>.</item>
+		<item><ref target="#CambridgeMagazine-AfterTheWinter"><title level="j">Cambridge Magazine</title></ref> <date when="1920">(1920)</date>.</item>
+		<item><ref target="#Liberator-spring"><title level="j">The Liberator</title></ref> <date when="1919-08">(August, 1919).</date></item>
+	      </list>
+	    </note>
 
 	    <lg type="stanza">
 	      <l>Too green the springing April grass,</l>
@@ -2599,14 +2602,13 @@
 	  <pb n="41" />
 
 	  <lg type="poem" xml:id="on-the-road">
-	    <head rend="caps">
-	      On the Road
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#Liberator-on-the"><title level="j">The Liberator</title></ref> <date when="1922-03">(March, 1922).</date>
-		
-		The version in <title level="j">The Liberator</title> breaks the octet and sextet into separate line groups.
-	      </note>
-	    </head>
+	    <head rend="caps">On the Road</head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#Liberator-on-the"><title level="j">The Liberator</title></ref> <date when="1922-03">(March, 1922).</date>
+	      
+	      The version in <title level="j">The Liberator</title> breaks the octet and sextet into separate line groups.
+	    </note>
 
 	    <l>Roar of the rushing train fearfully rocking,</l>
 	    <l>Impatient people jammed in line for food,</l>
@@ -2630,17 +2632,15 @@
 	  <pb n="42" />
 	  
 	  <lg type="poem" xml:id="the-harlem-dancer">
-	    <head rend="caps">
-	      The Harlem Dancer
+	    <head rend="caps">The Harlem Dancer</head>
 
-	      <note type="textual" resp="cf">
-		This poem also appeared in:
-		<list>
-		  <item><ref target="#SevenArts-harlem"><title level="j">The Seven Arts</title></ref> <date when="1917-10">(October, 1917)</date> with <ref target="#SevenArts-invocation">"Invocation"</ref>, presented as "Two Sonnets" by Eli Edwards.</item>
-		  <item><ref target="#SINH-the-harlem-dancer"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
-		</list>
-	      </note>
-	    </head>
+	    <note type="textual">
+	      This poem also appeared in:
+	      <list>
+		<item><ref target="#SevenArts-harlem"><title level="j">The Seven Arts</title></ref> <date when="1917-10">(October, 1917)</date> with <ref target="#SevenArts-invocation">"Invocation"</ref>, presented as "Two Sonnets" by Eli Edwards.</item>
+		<item><ref target="#SINH-the-harlem-dancer"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
+	      </list>
+	    </note>
 
 	    <l>Applauding youths laughed with young prostitutes</l>
 	    <l>And watched her perfect, half-clothed body sway;</l>
@@ -2669,10 +2669,12 @@
 		<lem wit="#HS" rend ="caps">Dawn in New York</lem>
 		<rdg wit="#CambridgeMagazine-to-work #SINH-to-work">To Work</rdg>
 	      </app>
-	      <note type="textual" resp="cf">
-		This poem also appears in <ref target="CambridgeMagazine-to-work"><title level="j">Cambridge Magazine</title></ref> and <ref target="#SINH-to-work"><title level="m">Spring in New Hampshire</title></ref> under the title "To Work."
-	      </note>
 	    </head>
+
+	    <note type="textual">
+	      This poem also appears in <ref target="CambridgeMagazine-to-work"><title level="j">Cambridge Magazine</title></ref> and <ref target="#SINH-to-work"><title level="m">Spring in New Hampshire</title></ref> under the title "To Work."
+	    </note>
+
 
 	    <l>The Dawn! <app>
 	    <lem wit="#HS">The Dawn! The</lem>
@@ -2708,14 +2710,13 @@
 	  <pb n="44" />
 
 	  <lg type="poem" xml:id="the-tired-worker">
-	    <head rend="caps">
-	      The Tired Worker
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#Liberator-tired"><title level="j">The Liberator</title></ref> <date when="1919-08">(August, 1919)</date>.
+	    <head rend="caps">The Tired Worker</head>
 
-		In the version appearing in <title level="j">The Liberator</title>, even numbered lines are indented (except the final line).
-	      </note>
-	    </head>
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#Liberator-tired"><title level="j">The Liberator</title></ref> <date when="1919-08">(August, 1919)</date>.
+
+	      In the version appearing in <title level="j">The Liberator</title>, even numbered lines are indented (except the final line).
+	    </note>
 
 	    <l>O whisper, O my soul!<app>
 	    <lem wit="#HS"> The</lem>
@@ -2742,11 +2743,11 @@
 	  <pb n="45" />
 
 	  <lg type="poem" xml:id="outcast">
-	    <head rend="caps">Outcast
+	    <head rend="caps">Outcast</head>
+
 	    <note type="textual" resp="cf">
 	      This poem appears as <ref target="#ThreeSonnets-Outcast"><title level="a">"Outcast"</title></ref> with two other sonnets in <ref target="#ThreeSonnets"><title level="a">"Three Sonnets"</title></ref> (<title level="j">The Literary Digest</title>, <date when="1922-10-28">October 28, 1922)</date>
 	    </note>
-	    </head>
 
 	    <l><app>
 	      <lem wit="#HS">For</lem>
@@ -2817,11 +2818,11 @@
 		<lem wit="#HS" rend="caps">The Castaways</lem>
 		<rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">The Castaways</rdg>
 	      </app>
-
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#SINH-the-castaways"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-TheCastaways"><title level="j">Cambridge Magazine</title></ref>.
-	      </note>
 	    </head>
+
+	    <note type="textual">
+	      This poem also appeared in <ref target="#SINH-the-castaways"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-TheCastaways"><title level="j">Cambridge Magazine</title></ref>.
+	    </note>
 
 	    <l>The vivid grass with visible delight</l>
 	    <l>Springing triumphant from the pregnant earth<app><lem wit="#HC">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">;</rdg></app></l>
@@ -2869,18 +2870,17 @@
 		<rdg wit="#SINH-exhortation">Exhortation</rdg>
 		<rdg wit="#Liberator-to">To Ethiopa</rdg>
 	      </app>
-
-
-	      <note type="textual" resp="cf">
-		This poem also appears in:
-		<list>
-		  <item><ref target="#SINH-exhortation"><title level="m">Spring in New Hampshire</title></ref> (<date when="1920">1920</date>).</item>
-		  <item><ref target="#Liberator-to"><title level="j">The Liberator</title></ref> (<date when="1920-02">February, 1920</date>) under the title "To Ethiopia."</item>
-		</list>
-
-		The version appearing in <title level="j">The Liberator</title> does not indent any poetic lines. Its organization into stanzas is also different: 1-7, 8-13,14-20,21-26.
-	      </note>
 	    </head>
+
+	    <note type="textual">
+	      This poem also appears in:
+	      <list>
+		<item><ref target="#SINH-exhortation"><title level="m">Spring in New Hampshire</title></ref> (<date when="1920">1920</date>).</item>
+		<item><ref target="#Liberator-to"><title level="j">The Liberator</title></ref> (<date when="1920-02">February, 1920</date>) under the title "To Ethiopia."</item>
+	      </list>
+
+	      The version appearing in <title level="j">The Liberator</title> does not indent any poetic lines. Its organization into stanzas is also different: 1-7, 8-13,14-20,21-26.
+	    </note>
 
 	    <lg type="stanza">
 	      <l>Through the pregnant universe rumbles life's terrific thunder<app><lem wit="#HC">,</lem><rdg wit="#SINH-exhortation #Liberator-to" /></app></l>
@@ -2927,11 +2927,11 @@
 	  <pb n="51"/>
 
 	  <lg type="poem" xml:id="the-lynching">
-	    <head rend="caps">The Lynching
-	    <note type="textual" resp="cf">
+	    <head rend="caps">The Lynching</head>
+
+	    <note type="textual">
 	      This poem also appears in <ref target="#CambridgeMagazine-Lynching"><title>Cambridge Magazine</title> (1920)</ref> and in <ref target="#SINH-lynching"><title level="m">Spring in New Hamphshire</title></ref>.
 	    </note>
-	    </head>
 
 	    <l>His <app>
 	    <lem wit="#HS">Spirit</lem>
@@ -2956,12 +2956,12 @@
 	  <pb n="52" />
 
 	  <lg type="poem" xml:id="baptism">
-	    <head rend="caps">
-	      Baptism
-	      <note type="textual" resp="cf">
-		This poem also appears in <ref target="#Libeator-baptism"><title level="j">The Liberator</title> (<date when="1921-10">October, 1921</date>)</ref>.
-	      </note>
-	    </head>
+	    <head rend="caps">Baptism</head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appears in <ref target="#Libeator-baptism"><title level="j">The Liberator</title> (<date when="1921-10">October, 1921</date>)</ref>.
+	    </note>
+
 
 	    <l>Into the furnace let me go alone<app><lem wit="#HS">;</lem><rdg wit="#Libeator-baptism">.</rdg></app></l>
 	    <l>Stay you without in terror of the heat.</l>
@@ -2982,11 +2982,10 @@
 	  <pb n="53" />
 
 	  <lg type = "poem" xml:id="if-we-must-die">
-	    <head rend="caps">
-	      If We Must Die
-	      <note type="textual" resp="cf">This poem also appeared in <ref target="Liberator-if"><title level="j">The Liberator</title></ref> <date when="1919-07">(July, 1919).</date> 
-	      In its appearance in <title level="j">The Liberator</title>, the poem is broken into two distinct linegroups, an octet and sestet.</note>
-	    </head>
+	    <head rend="caps">If We Must Die</head>
+
+	    <note type="textual" resp="cf">This poem also appeared in <ref target="Liberator-if"><title level="j">The Liberator</title></ref> <date when="1919-07">(July, 1919).</date> 
+	    In its appearance in <title level="j">The Liberator</title>, the poem is broken into two distinct linegroups, an octet and sestet.</note>
 
 	    <l>If we must die<app><lem wit="#HS">, </lem><rdg wit="#Liberator-if">—</rdg></app>let it not be like hogs</l>
 	    <l>Hunted and penned in an inglorious spot,</l>
@@ -3018,12 +3017,12 @@
 	  <pb n="54" />
 
 	  <lg type = "poem" xml:id="subway-wind">
-	    <head rend="caps">
-	      Subway Wind
-	      <note type="textual" resp="cf">
-		This poem also appears in <ref target="#Liberator-subway"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.
-	      </note>
-	    </head>
+	    <head rend="caps">Subway Wind</head>
+
+	    <note type="textual">
+	      This poem also appears in <ref target="#Liberator-subway"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.
+	    </note>
+
 
 	    <l>Far down, down through the city's great, gaunt gut</l>
 	    <l rend="indent1">The <app>
@@ -3055,12 +3054,11 @@
 	  <pb n="55" />
 
 	  <lg type = "poem" xml:id="the-night-fire">
-	    <head rend="caps">
-	      The Night Fire
-	      <note type="textual" resp="cf">
-		This poem also appears in <ref target="#Liberator-night"><title level="j">The Liberator</title></ref> <date when="1922-05">(May, 1922)</date>.
-	      </note>
-	    </head>
+	    <head rend="caps">The Night Fire</head>
+
+	    <note type="textual">
+	      This poem also appears in <ref target="#Liberator-night"><title level="j">The Liberator</title></ref> <date when="1922-05">(May, 1922)</date>.
+	    </note>
 
 	    <l>No engines shrieking rescue storm the night,</l>
 	    <l>And hose and hydrant cannot here avail<app><lem wit="#HS">;</lem><rdg wit="#Liberator-night">,</rdg></app></l>
@@ -3129,9 +3127,7 @@
 	  <pb n="58" />
 
 	  <lg type = "poem" xml:id="a-prayer">
-	    <head>
-	      A Prayer
-	    </head>
+	    <head>A Prayer</head>
 
 	    <head type="dedication">
 	      <app>
@@ -3176,11 +3172,11 @@
 		<lem wit="#HS" rend="caps">When Dawn Comes to the City</lem>
 		<rdg wit="#SINH-when-dawn #CambridgeMagazine-Lynching">When Dawn Comes to the City</rdg>
 	      </app>
-
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#SINH-when-dawn"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-WhenDawnComesToTheCity"><title level="j">Cambridge Magazine</title></ref>.
-	      </note>
 	    </head>
+
+	    <note type="textual">
+	      This poem also appeared in <ref target="#SINH-when-dawn"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-WhenDawnComesToTheCity"><title level="j">Cambridge Magazine</title></ref>.
+	    </note>
 
 	    <lg type="stanza">
 	      <l rend="indent1">The tired cars go grumbling by,</l>
@@ -3278,12 +3274,11 @@
 	  <pb n="64" />
 
 	  <lg type="poem" xml:id="absence">
-	    <head rend="caps">
-	      Absence
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#Liberator-absence"><title level="j">The Liberator</title> <date when="1922-03">(March, 1922):</date></ref>, signed "Claude McKay."
-	      </note>
-	    </head>
+	    <head rend="caps">Absence</head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#Liberator-absence"><title level="j">The Liberator</title> <date when="1922-03">(March, 1922):</date></ref>, signed "Claude McKay."
+	    </note>
 
 	    <lg type="stanza">
 	      <l>Your words dropped into my heart like pebbles into a pool,</l>
@@ -3317,6 +3312,7 @@
 	  
 	  <lg type="poem" xml:id="summer-morn-in-new-hampshire">
 	    <head rend="caps">Summer Morn in New Hampshire</head>
+
 	    <lg type="stanza">
 	      <l>All yesterday it poured, and all night long</l>
 	      <l rend="indent1">I could not sleep; the rain unceasing beat</l>
@@ -3348,10 +3344,11 @@
 		<lem wit="#HS" rend="caps">Rest in Peace</lem>
 		<rdg wit="#SINH-rest-in-peace #CambridgeMagazine-RestInPeace">Rest in Peace</rdg>
 	      </app>
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#SINH-rest-in-peace"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-RestInPeace"><title level="j">Cambridge Magazine</title></ref>.
-	      </note>
 	    </head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#SINH-rest-in-peace"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-RestInPeace"><title level="j">Cambridge Magazine</title></ref>.
+	    </note>
 
 	    <lg type="stanza">
 	      <l>No more for you the city's thorny ways,</l>
@@ -3460,11 +3457,11 @@
 	  <pb n="71" />
 
 	  <lg type="poem" xml:id="to-oea">
-	    <head rend="caps">To O.E.A.
-	    <note type="textual" resp="cf">
+	    <head rend="caps">To O.E.A.</head>
+
+	    <note type="textual">
 	      This poem also appears in <ref target="#CambridgeMagazine-ToOEA">Cambridge Magazine <date when="1920">(1920)</date></ref>.
 	    </note>
-	    </head>
 
 	    <l>Your voice is the <app><lem wit="#HS">color</lem><rdg wit="#SINH #CambridgeMagazine-ToOEA" type="orthographic">colour</rdg></app> of a robin's breast,</l>
 	    <l rend="indent1">And there's a sweet sob in it like rain—still rain in the night.</l>
@@ -3626,10 +3623,10 @@
 	  <lg type="poem" xml:id="la-paloma-in-london">
 	    <head rend="caps">
 	      La Paloma<note type="editorial"><hi rend="bold">La Paloma:</hi> A popular, nineteenth-century Spanish song by Sebastian Yradier, inspired by a visit to Cuba that has spread worldwide as a popular folk song.</note> in London
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#Liberator-paloma"><title level="j">The Liberator</title></ref> <date when="1922-01">(January, 1922).</date>
-	      </note>
 	    </head>
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#Liberator-paloma"><title level="j">The Liberator</title></ref> <date when="1922-01">(January, 1922).</date>
+	    </note>
 
 	    <l>About Soho<note type="editorial"><hi rend="bold">Soho:</hi> New York City neighborhood in Lower Manhattan, south of Houston Street.</note> we went before the light;</l>
 	    <l>We went, unresting six, craving new fun,</l>
@@ -3657,16 +3654,16 @@
 
 	    <head rend="caps">
 	      A Memory of June
-
-	      <note type="textual" resp="cf">
-		This poem also appeared in:
-		<list>
-		  <item><ref target="#SINH-a-memory"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
-		  <item><ref target="#CambridgeMagazine-MemoryOfJune"><title level="j">Cambridge Magazine</title></ref> <date when="1920">(1920)</date>.</item>
-		  <item><ref target="#Liberator-a-memory"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.</item>
-		</list>
-	      </note>
 	    </head>
+
+	    <note type="textual">
+	      This poem also appeared in:
+	      <list>
+		<item><ref target="#SINH-a-memory"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
+		<item><ref target="#CambridgeMagazine-MemoryOfJune"><title level="j">Cambridge Magazine</title></ref> <date when="1920">(1920)</date>.</item>
+		<item><ref target="#Liberator-a-memory"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.</item>
+	      </list>
+	    </note>
 
 	    <lg type="stanza">
 	      <l>When June comes dancing o'er the death of May,</l>
@@ -3718,11 +3715,10 @@
 	  <pb n="81" />
 	  
 	  <lg type="poem" xml:id="flirtation">
-	    <head rend="caps">Flirtation
-	    <note type="textual" resp="cf">
+	    <head rend="caps">Flirtation</head>
+	    <note type="textual">
 	      This poem also appeared in <ref target="#Liberator-flirtation"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921).</date>
 	    </note>
-	    </head>
 
 	    <l>Upon thy purple mat thy body bare</l>
 	    <l rend="indent1">Is fine and limber like a tender tree.</l>
@@ -3831,12 +3827,11 @@
 	  </lg>
 
 	  <lg type="poem" xml:id="french-leave">
-	    <head rend="caps">
-	      French Leave
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#Liberator-french"><title level="j">The Liberator</title></ref> <date when="1922-04">(April, 1922).</date>
-	      </note>
-	    </head>
+	    <head rend="caps">French Leave</head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#Liberator-french"><title level="j">The Liberator</title></ref> <date when="1922-04">(April, 1922).</date>
+	    </note>
 
 	    <lg type="stanza">
 	      <l>No servile little fear shall daunt my will</l>
@@ -3880,12 +3875,11 @@
 	  <pb n="88" />
 
 	  <lg type="poem" xml:id="jasmines">
-	    <head rend="caps">
-	      Jasmines
-	      <note type="textual" resp="cf">
-		This poem also appears in <ref target="#Liberator-jasmines"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.
-	      </note>
-	    </head>
+	    <head rend="caps">Jasmines</head>
+	    <note type="textual" resp="cf">
+	      This poem also appears in <ref target="#Liberator-jasmines"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.
+	    </note>
+
 
 	    <l>Your scent is in the room.</l>
 	    <l>Swiftly it overwhelms and conquers me!</l>
@@ -3991,12 +3985,11 @@
 	  </lg>
 
 	  <lg type="poem" xml:id="thirst">
-	    <head rend="caps">
-	      Thirst
-	      <note type="textual" resp="cf">
-		This poem also appeared in <ref target="#Liberator-thirst"><title level="j">The Liberator</title></ref> <date when="1921-12">(December, 1921)</date>.
-	      </note>
-	    </head>
+	    <head rend="caps">Thirst</head>
+
+	    <note type="textual" resp="cf">
+	      This poem also appeared in <ref target="#Liberator-thirst"><title level="j">The Liberator</title></ref> <date when="1921-12">(December, 1921)</date>.
+	    </note>
 
 	    <l>My spirit wails for water, water now!</l>
 	    <l>My tongue is aching dry, my throat is hot</l>
@@ -4026,10 +4019,9 @@
 	  <pb n="93" />
 
 	  <lg type="poem" xml:id="futility">
-	    <head rend="caps">
-	      Futility
-	      <note type="textual" resp="cf">This poem also appeared in <ref target="#Liberator-futility"><title level="j">The Liberator</title></ref> <date when="1922-01">(January, 1922).</date></note>
-	    </head>
+	    <head rend="caps">Futility</head>
+
+	    <note type="textual" resp="cf">This poem also appeared in <ref target="#Liberator-futility"><title level="j">The Liberator</title></ref> <date when="1922-01">(January, 1922).</date></note>
 
 	    <l>Oh<app><lem wit="#HS">,</lem><rdg wit="#Liberator-futility" /></app> I have tried to laugh the pain away,</l>
 	    <l>Let new flames brush my love-springs<note type="editorial"><hi rend="bold">Love-Springs:</hi> The young shoots of love; compare <title level="m">Comedy of Errors</title> where Luciana asks Antipholus, "shall, Antipholus, / Even in the spring of love, thy <hi rend="bold">love-springs</hi> rot? / Shall love, in building, grow so ruinous?" (III.ii).</note> like a feather.</l>
@@ -4051,14 +4043,13 @@
 	  <pb n="94" />
 
 	  <lg type="poem" xml:id="through-agony">
-	    <head rend="caps">
-	      Through Agony
-	      <note type="textual" resp="cf">
-		This poem also appears in <ref target="Liberator-through"><title level="j">The Liberator</title></ref> <date when="1921-12">(December, 1921)</date>.
+	    <head rend="caps">Through Agony</head>
 
-		In its appearance in <title level="j">The Liberator</title> the first stanza is unnumbered. 
-	      </note>
-	    </head>
+	    <note type="textual" resp="cf">
+	      This poem also appears in <ref target="Liberator-through"><title level="j">The Liberator</title></ref> <date when="1921-12">(December, 1921)</date>.
+
+	      In its appearance in <title level="j">The Liberator</title> the first stanza is unnumbered. 
+	    </note>
 
 	    <lg type="stanza">
 	      <head>I</head>
