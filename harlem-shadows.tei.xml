@@ -1401,7 +1401,7 @@
 	  </lg>
 
 	  <pb n="6"/>
-	  <lg type="poem" xml:id="america">
+	  <lg type="poem" xml:id="america" rhyme="ababcdcdefefgg">
 	    <head rend="caps">America</head>
 	    
 	    <note>This poem appears in:
@@ -1863,7 +1863,7 @@
 
 	  <pb n="18" />
 
-	  <lg type="poem" xml:id="wild-may">
+	  <lg type="poem" xml:id="wild-may" rhyme="ababcdcdefefgg">
 	    <head rend="caps">Wild May</head>
 	    <l>Aleta mentions in her tender letters,</l>
 	    <l>Among a chain of quaint and touching things,</l>
@@ -2041,7 +2041,7 @@
 
 	  <pb n="23" />
 	  
-	  <lg type="poem" xml:id="the-white-city">
+	  <lg type="poem" xml:id="the-white-city" rhyme="ababcdcdefefgg">
 	    <head rend="caps">The White City</head>
 
 	    <note type="textual">This poem also appears in <ref target="#Liberator-white"><title level="j">The Liberator</title></ref> <date when="1921-10">(October, 1921)</date>.</note>
@@ -2175,7 +2175,7 @@
 
 	  <pb n="28" />
 
-	  <lg type="poem" xml:id="in-bondage">
+	  <lg type="poem" xml:id="in-bondage" rhyme="ababcdcdefefgg">
 	    <head rend="caps">In Bondage</head>
 
 	    <note type="textual">
@@ -2306,7 +2306,7 @@
 
 	  <pb n="32" />
 
-	  <lg type="poem" xml:id="enslaved">
+	  <lg type="poem" xml:id="enslaved" rhyme="ababcdcdefefgg">
 	    <head rend="caps">Enslaved</head>
 
 	    <note type="textual">
@@ -2334,7 +2334,7 @@
 
 	  <pb n="33" />
 	  
-	  <lg type="poem" xml:id="i-shall-return">
+	  <lg type="poem" xml:id="i-shall-return" rhyme="ababcdcdefefgg">
 	    <head>
 	      <app>
 		<lem wit="#HS" rend="caps">I Shall Return</lem>
@@ -2414,7 +2414,7 @@
 
 	  <pb n="35"/>
 	  
-	  <lg type="poem" xml:id="africa">
+	  <lg type="poem" xml:id="africa" rhyme="ababcdcdefefgg">
 	    <head rend="caps">Africa</head>
 
 	    <note type="textual" resp="cf">
@@ -2441,7 +2441,7 @@
 
 	  <pb n="36"/>
 
-	  <lg type="poem" xml:id="on-a-primitive-canoe">
+	  <lg type="poem" xml:id="on-a-primitive-canoe" rhyme="ababcdcdefefgg">
 	    <head rend="caps">On a Primitive Canoe</head>
 
 	    <l>Here, passing lonely down this quiet lane,</l>
@@ -2526,7 +2526,7 @@
 
 	  <pb n="39" />
 	  
-	  <lg type="poem" xml:id="to-winter">
+	  <lg type="poem" xml:id="to-winter" rhyme="abbaabbacdcdcd">
 	    <head>
 	      <app>
 		<lem wit="#HS" rend="caps">To Winter</lem>
@@ -2601,7 +2601,7 @@
 
 	  <pb n="41" />
 
-	  <lg type="poem" xml:id="on-the-road">
+	  <lg type="poem" xml:id="on-the-road" rhyme="ababcdcdefefgg">
 	    <head rend="caps">On the Road</head>
 
 	    <note type="textual" resp="cf">
@@ -2631,7 +2631,7 @@
 
 	  <pb n="42" />
 	  
-	  <lg type="poem" xml:id="the-harlem-dancer">
+	  <lg type="poem" xml:id="the-harlem-dancer" rhyme="ababcdcdefegg">
 	    <head rend="caps">The Harlem Dancer</head>
 
 	    <note type="textual">
@@ -2663,7 +2663,7 @@
 	  
 	  <pb n="43" />
 
-	  <lg type="poem" xml:id="dawn-in-new-york">
+	  <lg type="poem" xml:id="dawn-in-new-york" rhyme="ababcdcdefefgg">
 	    <head>
 	      <app>
 		<lem wit="#HS" rend ="caps">Dawn in New York</lem>
@@ -2709,7 +2709,7 @@
 
 	  <pb n="44" />
 
-	  <lg type="poem" xml:id="the-tired-worker">
+	  <lg type="poem" xml:id="the-tired-worker" rhyme="ababcdcdefefgg">
 	    <head rend="caps">The Tired Worker</head>
 
 	    <note type="textual" resp="cf">
@@ -2742,7 +2742,7 @@
 
 	  <pb n="45" />
 
-	  <lg type="poem" xml:id="outcast">
+	  <lg type="poem" xml:id="outcast" rhyme="ababcdcdefefgg">
 	    <head rend="caps">Outcast</head>
 
 	    <note type="textual" resp="cf">
@@ -2772,8 +2772,9 @@
 
 	  <pb n="46"/>
 
-	  <lg type="poem" xml:id="i-know-my-soul">
+	  <lg type="poem" xml:id="i-know-my-soul" rhyme="abbaabbacdcdcd">
 	    <head rend="caps">I Know My Soul</head>
+
 	    <l>I plucked my soul out of its secret place,</l>
 	    <l>And held it to the mirror of my eye,</l>
 	    <l>To see it like a star against the sky,</l>
@@ -2792,8 +2793,9 @@
 	  
 	  <pb n="47"/>
 
-	  <lg type="poem" xml:id="birds-of-prey">
+	  <lg type="poem" xml:id="birds-of-prey" rhyme="abbaabbacdcdcd">
 	    <head rend="caps">Birds of Prey</head>
+
 	    <l>Their shadow dims the sunshine of our day,</l>
 	    <l>As they go lumbering across the sky,</l>
 	    <l>Squawking in joy of feeling safe on high.</l>
@@ -2812,7 +2814,7 @@
 	  
 	  <pb n="48"/>
 
-	  <lg type="poem" xml:id="the-castaways">
+	  <lg type="poem" xml:id="the-castaways" rhyme="ababcdcdefefgg">
 	    <head>
 	      <app>
 		<lem wit="#HS" rend="caps">The Castaways</lem>
@@ -2926,11 +2928,11 @@
 
 	  <pb n="51"/>
 
-	  <lg type="poem" xml:id="the-lynching">
+	  <lg type="poem" xml:id="the-lynching" rhyme="abbacddceffegg">
 	    <head rend="caps">The Lynching</head>
 
 	    <note type="textual">
-	      This poem also appears in <ref target="#CambridgeMagazine-Lynching"><title>Cambridge Magazine</title> (1920)</ref> and in <ref target="#SINH-lynching"><title level="m">Spring in New Hamphshire</title></ref>.
+	      This poem also appears in <ref target="#CambridgeMagazine-Lynching"><title>Cambridge Magazine</title> (1920)</ref> and in <ref target="#SINH-lynching"><title level="m">Spring in New Hampshire</title></ref>.
 	    </note>
 
 	    <l>His <app>
@@ -2955,7 +2957,7 @@
 	  
 	  <pb n="52" />
 
-	  <lg type="poem" xml:id="baptism">
+	  <lg type="poem" xml:id="baptism" rhyme="abbaabbacdcdcd">
 	    <head rend="caps">Baptism</head>
 
 	    <note type="textual" resp="cf">
@@ -2981,7 +2983,7 @@
 
 	  <pb n="53" />
 
-	  <lg type = "poem" xml:id="if-we-must-die">
+	  <lg type = "poem" xml:id="if-we-must-die" rhyme="ababcdcdefefgg">
 	    <head rend="caps">If We Must Die</head>
 
 	    <note type="textual" resp="cf">This poem also appeared in <ref target="Liberator-if"><title level="j">The Liberator</title></ref> <date when="1919-07">(July, 1919).</date> 
@@ -3053,7 +3055,7 @@
 
 	  <pb n="55" />
 
-	  <lg type = "poem" xml:id="the-night-fire">
+	  <lg type = "poem" xml:id="the-night-fire" rhyme="ababcdcdefefgg">
 	    <head rend="caps">The Night Fire</head>
 
 	    <note type="textual">
@@ -3078,7 +3080,7 @@
 
 	  <pb n="56" />
 
-	  <lg type = "poem" xml:id="poetry">
+	  <lg type = "poem" xml:id="poetry" rhyme="abbacddceffegg">
 	    <head rend="caps">Poetry</head>
 
 	    <l>Sometimes I tremble like a storm-swept flower,</l>
@@ -3620,7 +3622,7 @@
 
 	  <pb n="78" />
 	  
-	  <lg type="poem" xml:id="la-paloma-in-london">
+	  <lg type="poem" xml:id="la-paloma-in-london" rhyme="ababcdcdefefgg">
 	    <head rend="caps">
 	      La Paloma<note type="editorial"><hi rend="bold">La Paloma:</hi> A popular, nineteenth-century Spanish song by Sebastian Yradier, inspired by a visit to Cuba that has spread worldwide as a popular folk song.</note> in London
 	    </head>
@@ -3984,7 +3986,7 @@
 	    </lg>
 	  </lg>
 
-	  <lg type="poem" xml:id="thirst">
+	  <lg type="poem" xml:id="thirst" rhyme="ababcdcdefefgg">
 	    <head rend="caps">Thirst</head>
 
 	    <note type="textual" resp="cf">
@@ -4018,7 +4020,7 @@
 
 	  <pb n="93" />
 
-	  <lg type="poem" xml:id="futility">
+	  <lg type="poem" xml:id="futility" rhyme="ababcdcdefefgg">
 	    <head rend="caps">Futility</head>
 
 	    <note type="textual" resp="cf">This poem also appeared in <ref target="#Liberator-futility"><title level="j">The Liberator</title></ref> <date when="1922-01">(January, 1922).</date></note>
