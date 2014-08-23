@@ -1404,7 +1404,7 @@
 	  <lg type="poem" xml:id="america" rhyme="ababcdcdefefgg">
 	    <head rend="caps">America</head>
 	    
-	    <note>This poem appears in:
+	    <note type="textual">This poem appears in:
 	    <list>
 	      <item><ref target="#ThreeSonnets-America"><title level="j">The Literary Digest</title> with two other sonnets under the title "Three Sonnets" (<date when="1922-10-28">October 28, 1922.</date>)</ref></item>
 	      <item><ref target="#Liberator-america"><title level="j">The Liberator</title> (<date when="1921-12">December, 1921</date>)</ref></item>
@@ -1450,7 +1450,7 @@
 	      </app>
 	    </head>
 
-	    <note>This poem also appears in <ref target="#Cambridge-Alfonso"><title level="j">Cambridge Magazine</title> (<date when="1920">1920</date>)</ref> and <ref target="#SINH-Alfonso"><title level="m">Spring in New Hampshire</title></ref>.</note>
+	    <note type="textual">This poem also appears in <ref target="#Cambridge-Alfonso"><title level="j">Cambridge Magazine</title> (<date when="1920">1920</date>)</ref> and <ref target="#SINH-Alfonso"><title level="m">Spring in New Hampshire</title></ref>.</note>
 
 
 	    <lg type="stanza">
