@@ -317,7 +317,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1922-03">(March, 1922):</date>
-		  <biblScope>10</biblScope>
+		  <biblScope unit="pg">10</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -333,7 +333,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1922-08">(August, 1921):</date>
-		  <biblScope>20</biblScope>
+		  <biblScope unit="pg">20</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -349,7 +349,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1919-07">(July, 1919):</date>
-		  <biblScope>20</biblScope>
+		  <biblScope unit="pg">20</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -365,7 +365,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-08">(August, 1921):</date>
-		  <biblScope>10</biblScope>
+		  <biblScope unit="pg">10</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -381,7 +381,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-12">(December, 1921):</date>
-		  <biblScope>9</biblScope>
+		  <biblScope unit="pg">9</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -397,7 +397,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-10">(October, 1921):</date>
-		  <biblScope>7</biblScope>
+		  <biblScope unit="pg">7</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -413,7 +413,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1919-07">(July, 1919):</date>
-		  <biblScope>9</biblScope>
+		  <biblScope unit="pg">9</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -429,7 +429,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-03">(March, 1921):</date>
-		  <biblScope>6</biblScope>
+		  <biblScope unit="pg">6</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -445,7 +445,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-07">(July, 1921):</date>
-		  <biblScope>6</biblScope>
+		  <biblScope unit="pg">6</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -461,7 +461,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-08">(August, 1921):</date>
-		  <biblScope>10</biblScope>
+		  <biblScope unit="pg">10</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -477,7 +477,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1922-04">(April, 1922):</date>
-		  <biblScope>27</biblScope>
+		  <biblScope unit="pg">27</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -493,7 +493,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1922-01">(January, 1922):</date>
-		  <biblScope>23</biblScope>
+		  <biblScope unit="pg">23</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -509,7 +509,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1920-02">(February, 1920):</date>
-		  <biblScope>19</biblScope>
+		  <biblScope unit="pg">19</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -525,7 +525,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1919-07">(July, 1919):</date>
-		  <biblScope>21</biblScope>
+		  <biblScope unit="pg">21</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -541,7 +541,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-08">(August, 1921):</date>
-		  <biblScope>10</biblScope>
+		  <biblScope unit="pg">10</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -557,7 +557,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-08">(August, 1921):</date>
-		  <biblScope>11</biblScope>
+		  <biblScope unit="pg">11</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -573,7 +573,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1922-01">(January, 1922):</date>
-		  <biblScope>23</biblScope>
+		  <biblScope unit="pg">23</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -589,7 +589,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-08">(August, 1921):</date>
-		  <biblScope>11</biblScope>
+		  <biblScope unit="pg">11</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -605,7 +605,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1920-03">(March, 1920):</date>
-		  <biblScope>24</biblScope>
+		  <biblScope unit="pg">24</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -621,7 +621,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1922-03">(March, 1922):</date>
-		  <biblScope>22</biblScope>
+		  <biblScope unit="pg">22</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -637,7 +637,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1919-08">(August, 1919):</date>
-		  <biblScope>46</biblScope>
+		  <biblScope unit="pg">46</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -653,7 +653,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-08">(August, 1921):</date>
-		  <biblScope>10</biblScope>
+		  <biblScope unit="pg">10</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -669,7 +669,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1922-05">(May, 1922):</date>
-		  <biblScope>16</biblScope>
+		  <biblScope unit="pg">16</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -685,7 +685,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-12">(December, 1921):</date>
-		  <biblScope>9</biblScope>
+		  <biblScope unit="pg">9</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -701,7 +701,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-12">(December, 1921):</date>
-		  <biblScope>9</biblScope>
+		  <biblScope unit="pg">9</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -717,7 +717,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1919-08">(August, 1919):</date>
-		  <biblScope>46</biblScope>
+		  <biblScope unit="pg">46</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -733,7 +733,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1920-02">(February, 1920):</date>
-		  <biblScope>7</biblScope>
+		  <biblScope unit="pg">7</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -749,7 +749,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-08">(August, 1921):</date>
-		  <biblScope>11</biblScope>
+		  <biblScope unit="pg">11</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -765,7 +765,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1920-05">(May, 1920):</date>
-		  <biblScope>48</biblScope>
+		  <biblScope unit="pg">48</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -781,7 +781,7 @@
 		<title level="j">The Liberator</title>
 		<imprint>
 		  <date when="1921-10">(October, 1921):</date>
-		  <biblScope>7</biblScope>
+		  <biblScope unit="pg">7</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -797,7 +797,7 @@
 		<title level="j">Pearson's Magazine</title>
 		<imprint>
 		  <date when="1918-09">(September, 1918):</date>
-		  <biblScope>276</biblScope>
+		  <biblScope unit="pg">276</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -813,11 +813,50 @@
 		<title level="j">The Seven Arts</title>
 		<imprint>
 		  <date when="1917-10">(October, 1917):</date>
-		  <biblScope>742</biblScope>
+		  <biblScope unit="pg">742</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
 	  </witness>
+
+	  <witness xml:id="Messenger-birds">
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title>Birds of Prey</title>
+	      </analytic>
+	      <monogr>
+		<title level="j">The Messenger</title>
+		<imprint>
+		  <date when="1919-12">(December, 1919):</date>
+		  <biblScope unit="vol">II</biblScope> <biblScope unit="issue">11</biblScope>
+		  <biblScope unit="pg">23</biblScope>
+		</imprint>
+	      </monogr>
+	      <note type="textual">This text taken from microfilm: <ref target="http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957">http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957</ref></note>
+	    </biblStruct>
+	  </witness>
+
+	  <witness xml:id="Messenger-if">
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title>If We Must Die</title>
+	      </analytic>
+	      <monogr>
+		<title level="j">The Messenger</title>
+		<imprint>
+		  <date when="1919-09">(September, 1919):</date>
+		  <biblScope unit="vol">II</biblScope> <biblScope unit="issue">9</biblScope>
+		  <biblScope unit="pg">4</biblScope>
+		</imprint>
+	      </monogr>
+	      <note type="textual">This text taken from microfilm: <ref target="http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957">http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957</ref></note>
+	    </biblStruct>
+	    
+	  </witness>
+
+
 
 	</listWit>
 
@@ -1979,7 +2018,7 @@
 	    <lg type="stanza">
 	      <l>O you would clothe me in silken frocks</l>
 	      <l rend="indent1">And house me from the cold,</l>
-	      <l>And bind with bright bands my glossy locks<app><lem wit="#HC">,</lem></app></l>
+	      <l>And bind with bright bands my glossy locks<app><lem wit="#HS">,</lem></app></l>
 	      <l rend="indent1">And buy me chains of gold;</l>
 	    </lg>
 
@@ -2010,16 +2049,16 @@
 	      <l rend="indent1">In Negro Harlem when the night lets fall</l>
 	      <l>Its veil. I see the shapes of girls who pass</l>
 	      <l rend="indent1"><app>
-		<lem wit="#HC">To bend and barter at desire's call.</lem>
+		<lem wit="#HS">To bend and barter at desire's call.</lem>
 		<rdg wit="#Pearsons-harlem #SINH-harlem-shadows">Eager to heed desire's insistent call:</rdg>
 	      </app></l>
 	      <l>Ah, little dark girls<app><rdg wit="#Pearsons-harlem SINH-harlem-shadows">,</rdg></app> who in slippered feet</l>
-	      <l>Go prowling through the night from street to street<app><lem wit="#HC">!</lem><rdg wit="#Pearsons-harlem #SINH-harlem-shadows">.</rdg></app></l>
+	      <l>Go prowling through the night from street to street<app><lem wit="#HS">!</lem><rdg wit="#Pearsons-harlem #SINH-harlem-shadows">.</rdg></app></l>
 	    </lg>
 
 	    <lg type="stanza">
 	      <l>Through the long night until the silver break</l>
-	      <l rend="indent1">Of day the little gray feet know no rest<app><lem wit="#HC">;</lem><rdg wit="#Pearsons-harlem #SINH-harlem-shadows">,</rdg></app></l>
+	      <l rend="indent1">Of day the little gray feet know no rest<app><lem wit="#HS">;</lem><rdg wit="#Pearsons-harlem #SINH-harlem-shadows">,</rdg></app></l>
 	      <l>Through the lone night until the last snow-flake</l>
 	      <l rend="indent1">Has dropped from heaven upon the earth's white breast,</l>
 	      <l>The dusky, half-clad girls of tired feet</l>
@@ -2029,10 +2068,10 @@
 	    <lg type="stanza">
 	      <l>Ah, stern harsh world, that in the wretched way</l>
 	      <l rend="indent1">Of poverty, <app>
-	      <lem wit="#HC #Pearsons-harlem">dishonor</lem>
+	      <lem wit="#HS #Pearsons-harlem">dishonor</lem>
 	      <rdg wit="#SINH-harlem-shadows">dishonour</rdg>
-	      </app> and disgrace<app><lem wit="#HC #SINH-harlem-shadows">,</lem><rdg wit="#Pearsons-harlem" /></app></l>
-	      <l>Has pushed the timid little feet of clay<app><lem wit="#HC #Pearsons-harlem">,</lem><rdg wit="#SINH-harlem-shadows">.</rdg></app></l>
+	      </app> and disgrace<app><lem wit="#HS #SINH-harlem-shadows">,</lem><rdg wit="#Pearsons-harlem" /></app></l>
+	      <l>Has pushed the timid little feet of clay<app><lem wit="#HS #Pearsons-harlem">,</lem><rdg wit="#SINH-harlem-shadows">.</rdg></app></l>
 	      <l rend="indent1">The sacred brown feet of my fallen race!</l>
 	      <l>Ah, heart of me, the weary, weary feet</l>
 	      <l>In Harlem wandering from street to street.</l>
@@ -2360,8 +2399,8 @@
 	    <l>I shall return to hear the fiddle and fife</l>
 	    <l>Of village dances, dear delicious tunes</l>
 	    <l>That stir the hidden depths of native life,</l>
-	    <l>Stray melodies of dim remembered runes<note type="editorial"><hi rend="bold">Rune:</hi> Ancient letters and characters of the earliest Germanic alphabet, preceding the Latin alphabet. In extended use, a song, poem, or verse, esp. a cryptic or magic verse, spell, or incantation.</note><app><lem wit="#HC">.</lem><rdg wit="#SINH-i-shall #CambridgeMagazine-IShallReturn">:</rdg></app></l>
-	    <l>I shall return, I shall return again<app><lem wit="#HC">,</lem><rdg wit="#SINH-i-shall #CambridgeMagazine-IShallReturn" /></app></l>
+	    <l>Stray melodies of dim remembered runes<note type="editorial"><hi rend="bold">Rune:</hi> Ancient letters and characters of the earliest Germanic alphabet, preceding the Latin alphabet. In extended use, a song, poem, or verse, esp. a cryptic or magic verse, spell, or incantation.</note><app><lem wit="#HS">.</lem><rdg wit="#SINH-i-shall #CambridgeMagazine-IShallReturn">:</rdg></app></l>
+	    <l>I shall return, I shall return again<app><lem wit="#HS">,</lem><rdg wit="#SINH-i-shall #CambridgeMagazine-IShallReturn" /></app></l>
 	    <l>To ease my mind of long, long years of pain.</l>
 	  </lg>
 
@@ -2652,11 +2691,11 @@
 	    <l>Grown lovelier for passing through a storm.</l>
 	    <l>Upon her swarthy neck black<app><lem wit="#HS" /><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">,</rdg></app> shiny curls</l>
 	    <l><app>
-	      <lem wit="#HC">Luxuriant</lem>
+	      <lem wit="#HS">Luxuriant</lem>
 	      <rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">Profusely</rdg>
 	    </app> fell; and<app><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">,</rdg></app> tossing coins in praise,</l>
 	    <l>The wine-flushed, bold-eyed boys, and even the girls,</l>
-	    <l>Devoured her <app><lem wit="#HC">shape</lem><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer" /></app> with eager, passionate gaze<app><lem wit="#HC">;</lem><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">:</rdg></app></l>
+	    <l>Devoured her <app><lem wit="#HS">shape</lem><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer" /></app> with eager, passionate gaze<app><lem wit="#HS">;</lem><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">:</rdg></app></l>
 	    <l>But<app><lem wit="#HS" /><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">,</rdg></app> looking at her falsely-smiling face,</l>
 	    <l>I knew her self was not in that strange place.</l>
 	  </lg>
@@ -2796,19 +2835,43 @@
 	  <lg type="poem" xml:id="birds-of-prey" rhyme="abbaabbacdcdcd">
 	    <head rend="caps">Birds of Prey</head>
 
-	    <l>Their shadow dims the sunshine of our day,</l>
+	    <note type="textual">
+	      This poem also appears in <ref target="#Messenger-birds"><title level="j">The Messenger</title></ref> (<date when="1919-12">December, 1919</date>). When it appeared in <title level="j">The Messenger</title>, there was a break between the octet and the sestet, and even numbered lines were indented.</note>
+
+	    <l>Their shadow<app><lem wit="#HS" /><rdg wit="#Messenger-birds">s</rdg></app> <app><lem wit="#HS">dims</lem><rdg wit="#Messenger-birds">dim</rdg></app> the sunshine of our day<app><lem wit="#HS">,</lem><rdg wit="#Messenger-birds" /></app></l>
 	    <l>As they go lumbering across the sky,</l>
-	    <l>Squawking in joy of feeling safe on high.</l>
+	    <l>Squawking in joy of feeling safe on high,</l>
 	    <l>Beating their heavy wings of owlish gray.</l>
 	    <l>They scare the singing birds of earth away</l>
 	    <l>As, greed-impelled, they circle threateningly,</l>
-	    <l>Watching the toilers with malignant eye,</l>
-	    <l>From their exclusive haven—birds of prey.</l>
-	    <l>They swoop down for the spoil in certain might,</l>
-	    <l>And fasten in our bleeding flesh their claws.</l>
-	    <l>They beat us to surrender weak with fright,</l>
-	    <l>And tugging and tearing without let or pause,</l>
-	    <l>They flap their hideous wings in grim delight,</l>
+	    <l>Watching the toilers with malignant eye<app><lem wit="#HS">,</lem><rdg wit="#Messenger-birds">—</rdg></app></l>
+	    <l><app>
+	      <lem wit="#HS">From their exclusive haven</lem>
+	      <rdg wit="#Messenger-birds">Birds of the darkness</rdg></app>—<app>
+	      <lem wit="#HS" />
+	      <rdg wit="#Messenger-birds">human </rdg></app>birds of prey.</l>
+	    <l>They swoop down <app>
+	    <rdg wit="#HS">for the spoil in certain</rdg>
+	    <rdg wit="#Messenger-birds">upon us in merciless</rdg></app> might,</l>
+	    <l><app>
+	      <lem wit="#HS">And</lem>
+	      <rdg wit="#Messenger-birds">They</rdg>
+	    </app> fasten in our bleeding flesh their claws<app><lem wit="#HS">.</lem><rdg wit="#Messenger-birds" /></app></l>
+	    <l>
+	      <app>
+		<lem wit="#HS">They beat us to surrender weak with fright,</lem>
+		<rdg wit="#Messenger-birds">(We may be black or yellow, brown or white)</rdg>
+	      </app>
+	    </l>
+	    <l>And<app><lem wit="#HS" /><rdg wit="#Messenger-birds">,</rdg></app> tugging and tearing without 
+	      <app>
+	        <lem wit="#HS">let</lem>
+	        <rdg wit="#Messenger-birds">rest</rdg>
+	      </app> or pause,</l>
+	    <l>They flap their hideous wings 
+	      <app>
+		<lem wit="#HS">in grim</lem>
+	        <rdg wit="#Messenger-birds">with wild</rdg></app> delight<app><lem wit="#HS">,</lem><rdg wit="#Messenger-birds" /></app></l>
 	    <l>And stuff our gory hearts into their maws.</l>
 	  </lg>
 	  
@@ -2827,7 +2890,7 @@
 	    </note>
 
 	    <l>The vivid grass with visible delight</l>
-	    <l>Springing triumphant from the pregnant earth<app><lem wit="#HC">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">;</rdg></app></l>
+	    <l>Springing triumphant from the pregnant earth<app><lem wit="#HS">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">;</rdg></app></l>
 	    <l><app>
 	      <lem wit="#HS">The</lem>
 	      <rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">And</rdg>
@@ -2838,27 +2901,27 @@
 	      <rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">And</rdg>
 	    </app> dandelions and rare daffodils</l>
 	    <l>That <app>
-	    <lem wit="#HC">touch</lem>
+	    <lem wit="#HS">touch</lem>
 	    <rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">hold</rdg>
-	    </app> the deep-stirred heart with hands of gold<app><lem wit="#HC">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways" /></app></l>
+	    </app> the deep-stirred heart with hands of gold<app><lem wit="#HS">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways" /></app></l>
 	    <l><app>
 	      <lem wit="#HS">The</lem>
 	      <rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">And</rdg>
-	    </app> thrushes sending forth their joyous trills<app><lem wit="#HC">,—</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">;</rdg></app></l>
-	    <l>Not these, not these did I at first behold<app><lem wit="#HC">!</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">:</rdg></app></l>
+	    </app> thrushes sending forth their joyous trills<app><lem wit="#HS">,—</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">;</rdg></app></l>
+	    <l>Not these, not these did I at first behold<app><lem wit="#HS">!</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">:</rdg></app></l>
 	    <l>But seated on the benches daubed with green,</l>
 	    <l>The castaways of <app>
-	    <lem wit="#HC">life</lem>
+	    <lem wit="#HS">life</lem>
 	    <rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">earth</rdg>
 	    </app>, <app>
-	    <lem wit="#HC">a few</lem>
+	    <lem wit="#HS">a few</lem>
 	    <rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">some fast</rdg></app> asleep,</l>
 	    <l><app>
-	      <lem wit="#HC">Some withered women desolate and mean,</lem>
+	      <lem wit="#HS">Some withered women desolate and mean,</lem>
 	      <rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">With many a withered woman wedged between,</rdg>
 	    </app>
 	    </l>
-	    <l>And over all<app><lem wit="#HC">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways" /></app> life's shadows dark and deep<app><lem wit="#HC">.</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">:</rdg></app></l>
+	    <l>And over all<app><lem wit="#HS">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways" /></app> life's shadows dark and deep<app><lem wit="#HS">.</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-TheCastaways">:</rdg></app></l>
 	    <l>Moaning I turned away, for misery</l>
 	    <l>I have the strength to bear but not to see.</l>
 	  </lg>
@@ -2885,16 +2948,16 @@
 	    </note>
 
 	    <lg type="stanza">
-	      <l>Through the pregnant universe rumbles life's terrific thunder<app><lem wit="#HC">,</lem><rdg wit="#SINH-exhortation #Liberator-to" /></app></l>
+	      <l>Through the pregnant universe rumbles life's terrific thunder<app><lem wit="#HS">,</lem><rdg wit="#SINH-exhortation #Liberator-to" /></app></l>
 	      <l rend="indent1">And Earth's bowels quake with terror; strange and terrible storms break,</l>
-	      <l>Lightning-torches flame the heavens, kindling souls of men<app><lem wit="#HC">,</lem><rdg wit="#SINH-exhortation #Liberator-to" /></app> thereunder:</l>
-	      <l rend="indent1">Africa! long ages sleeping, <app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation">Oh</rdg><rdg wit="#Liberator-to">oh</rdg></app> my motherland, awake!</l>
+	      <l>Lightning-torches flame the heavens, kindling souls of men<app><lem wit="#HS">,</lem><rdg wit="#SINH-exhortation #Liberator-to" /></app> thereunder:</l>
+	      <l rend="indent1">Africa! long ages sleeping, <app><lem wit="#HS">O</lem><rdg wit="#SINH-exhortation">Oh</rdg><rdg wit="#Liberator-to">oh</rdg></app> my motherland, awake!</l>
 	    </lg>
 
 	    <lg type="stanza">
 	      <l>In the East the clouds glow crimson with the new dawn that is breaking,</l>
-	      <l rend="indent1">And its golden glory fills the western skies<app><lem wit="#HC">.</lem><rdg wit="#SINH-exhortation #Liberator-to">:—</rdg></app></l>
-	      <l rend="indent1"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation #Liberator-to">Oh</rdg></app> my brothers and my sisters, wake! arise!</l>
+	      <l rend="indent1">And its golden glory fills the western skies<app><lem wit="#HS">.</lem><rdg wit="#SINH-exhortation #Liberator-to">:—</rdg></app></l>
+	      <l rend="indent1"><app><lem wit="#HS">O</lem><rdg wit="#SINH-exhortation #Liberator-to">Oh</rdg></app> my brothers and my sisters, wake! arise!</l>
 	      <l>For the new birth rends the old earth and the very dead are waking,</l>
 	      <l rend="indent1">Ghosts are turned flesh, throwing off the grave's disguise,</l>
 	      <l rend="indent1">And the foolish, even children, are made wise;</l>
@@ -2902,7 +2965,7 @@
 
 	      <pb n="50" />
 
-	      <l rend="indent1"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation #Liberator-to">Oh</rdg></app> my brothers, dreaming for dim centuries,</l>
+	      <l rend="indent1"><app><lem wit="#HS">O</lem><rdg wit="#SINH-exhortation #Liberator-to">Oh</rdg></app> my brothers, dreaming for dim centuries,</l>
 	      <l rend="indent1">Wake from sleeping; to the East turn, turn your eyes!</l>
 	    </lg>
 
@@ -2915,13 +2978,13 @@
 
 	    <lg type="stanza">
 	      <l>In the East the clouds glow crimson with the new dawn that is breaking,</l>
-	      <l rend="indent1">And its golden glory fills the western skies<app><lem wit="#HC">.</lem><rdg wit="#SINH-exhortation #Liberator-to">:—</rdg></app></l>
-	      <l rend="indent1"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation #Liberator-to">Oh</rdg></app><app><lem wit="#HS #SINH-exhortation" /><rdg wit="#Liberator-to">,</rdg></app> my brothers and my sisters, wake<app><lem wit="#HS #SINH-exhortation">!</lem><rdg wit="#Liberator-to">,</rdg></app> arise!</l>
+	      <l rend="indent1">And its golden glory fills the western skies<app><lem wit="#HS">.</lem><rdg wit="#SINH-exhortation #Liberator-to">:—</rdg></app></l>
+	      <l rend="indent1"><app><lem wit="#HS">O</lem><rdg wit="#SINH-exhortation #Liberator-to">Oh</rdg></app><app><lem wit="#HS #SINH-exhortation" /><rdg wit="#Liberator-to">,</rdg></app> my brothers and my sisters, wake<app><lem wit="#HS #SINH-exhortation">!</lem><rdg wit="#Liberator-to">,</rdg></app> arise!</l>
 	      <l>For the new birth rends the old earth and the very dead are waking,</l>
 	      <l rend="indent1">Ghosts are turned flesh, throwing off the grave's disguise,</l>
 	      <l rend="indent1">And the foolish, even children, are made wise;</l>
 	      <l>For the big earth groans in travail for the strong, new world in making—</l>
-	      <l rend="indent1"><app><lem wit="#HC">O</lem><rdg wit="#SINH-exhortation #Liberator-to">Oh</rdg></app><app><lem wit="#HS #SINH-exhortation" /><rdg wit="#Liberator-to">,</rdg></app> my brothers<app><lem wit="#HS SINH-exhortation">,</lem><rdg wit="#Liberator-to" /></app> dreaming for long centuries,</l>
+	      <l rend="indent1"><app><lem wit="#HS">O</lem><rdg wit="#SINH-exhortation #Liberator-to">Oh</rdg></app><app><lem wit="#HS #SINH-exhortation" /><rdg wit="#Liberator-to">,</rdg></app> my brothers<app><lem wit="#HS SINH-exhortation">,</lem><rdg wit="#Liberator-to" /></app> dreaming for long centuries,</l>
 	      <l rend="indent1">Wake from sleeping; to the East turn, turn your eyes!</l>
 	    </lg>
 	  </lg>
@@ -2986,34 +3049,35 @@
 	  <lg type = "poem" xml:id="if-we-must-die" rhyme="ababcdcdefefgg">
 	    <head rend="caps">If We Must Die</head>
 
-	    <note type="textual" resp="cf">This poem also appeared in <ref target="Liberator-if"><title level="j">The Liberator</title></ref> <date when="1919-07">(July, 1919).</date> 
-	    In its appearance in <title level="j">The Liberator</title>, the poem is broken into two distinct linegroups, an octet and sestet.</note>
+	    <note type="textual" resp="cf"><p>This poem also appeared in <ref target="#Liberator-if"><title level="j">The Liberator</title></ref> <date when="1919-07">(July, 1919</date>) and <ref target="#Messenger-if"><title level="j">The Messenger</title></ref> <date when="1919-09">(September, 1919)</date>.</p>
+	    <p>In its appearance in both <title level="j">The Liberator</title> and <title level="j">The Messenger</title>, the poem is broken into two distinct linegroups, an octet and sestet. In <title level="j">The Messenger</title> even numbered lines are indented.</p>
+	    <p>When it appeared in <title level="j">The Messenger</title>, the poem was included in an editorial on (also titled "If We Must Die").</p></note>
 
-	    <l>If we must die<app><lem wit="#HS">, </lem><rdg wit="#Liberator-if">—</rdg></app>let it not be like hogs</l>
+	    <l>If we must die<app><lem wit="#HS #Messenger-if">, </lem><rdg wit="#Liberator-if">—</rdg></app>let it not be like hogs</l>
 	    <l>Hunted and penned in an inglorious spot,</l>
 	    <l>While round us bark the mad and hungry dogs,</l>
 	    <l>Making their mock at our accursed lot.</l>
-	    <l>If we must die<app><lem wit="#HS">, </lem><rdg wit="#Liberator-if">—</rdg></app><app>
+	    <l>If we must die<app><lem wit="#HS #Messenger-if">, </lem><rdg wit="#Liberator-if">—</rdg></app><app>
 	    <lem wit="#HS">O</lem>
-	    <rdg wit="#Liberator-if">oh,</rdg></app> let us nobly die,</l>
+	    <rdg wit="#Liberator-if #Messenger-if">oh,</rdg></app> let us nobly die,</l>
 	    <l>So that our precious blood may not be shed</l>
 	    <l>In vain; then even the monsters we defy</l>
-	    <l>Shall be constrained to honor us though dead!</l>
+	    <l>Shall be constrained to honor us<app><lem wit="#HS #Liberator-if" /><rdg wit=#"Messenger-if">,</rdg></app> though dead!</l>
 	    <l><app>
 	      <lem wit="#HS">O</lem>
-	      <rdg wit="#Liberator-if">Oh,</rdg>
+	      <rdg wit="#Liberator-if #Messenger-if">Oh,</rdg>
 	      </app> kinsmen! <app>
 	      <lem wit="#HS">we</lem>
-	      <rdg wit="#Liberator-if">We</rdg>
-	    </app> must meet the common foe<app><lem wit="#HS">!</lem><rdg wit="#Liberator-if">;</rdg></app></l>
-	    <l>Though far outnumbered let us <app>
+	      <rdg wit="#Liberator-if #Messenger-if">We</rdg>
+	    </app> must meet the common foe<app><lem wit="#HS">!</lem><rdg wit="#Liberator-if #Messenger-if">;</rdg></app></l>
+	    <l>Though far outnumbered<app><lem wit="#HS #Liberator-if" /><rdg wit="#Messenger-if">,</rdg></app> let us <app>
 	    <lem wit="#HS">show us</lem>
-	    <rdg wit="#Liberator-if">still be</rdg>
-	    </app> brave,</l>
+	    <rdg wit="#Liberator-if #Messenger-if">still be</rdg>
+	    </app> brave<app><lem wit="#HS #Liberator-if">,</lem><rdg wit="#Messenger-if">.</rdg></app></l>
 	    <l>And for their thousand blows deal one death-blow!</l>
 	    <l>What though before us lies the open grave?</l>
 	    <l>Like men we'll face the murderous, cowardly pack,</l>
-	    <l>Pressed to the wall, dying, but<app><lem wit="#HS"> </lem><rdg wit="#Liberator-if">—</rdg></app>fighting back!</l>
+	    <l>Pressed to the wall, dying, but<app><lem wit="#HS"> </lem><rdg wit="#Liberator-if #Messenger-if">—</rdg></app>fighting back!</l>
 	  </lg>
 	  
 	  <pb n="54" />
@@ -3139,7 +3203,7 @@
 	    </head>
 
 	    <lg type="stanza">
-	      <l>'Mid the discordant noises of the day I hear thee calling<app><lem wit="#HC">;</lem><rdg wit="#SINH-a-prayer">,</rdg></app></l>
+	      <l>'Mid the discordant noises of the day I hear thee calling<app><lem wit="#HS">;</lem><rdg wit="#SINH-a-prayer">,</rdg></app></l>
 	      <l>I stumble as I fare along Earth's way; keep me from falling.</l>
 	    </lg>
 
@@ -3161,7 +3225,7 @@
 	    <pb n="59" />
 
 	    <lg type="stanza">
-	      <l>'Mid the discordant noises of the day I hear thee calling<app><lem wit="#HC">;</lem><rdg wit="#SINH-a-prayer">,</rdg></app></l>
+	      <l>'Mid the discordant noises of the day I hear thee calling<app><lem wit="#HS">;</lem><rdg wit="#SINH-a-prayer">,</rdg></app></l>
 	      <l>I stumble as I fare along Earth's way; keep me from falling.</l>
 	    </lg>
 	  </lg>
@@ -3241,7 +3305,7 @@
 	      <l rend="indent2">From her little trampled corner of the long wide lea</l>
 	      <l rend="indent1">That stretches to the waters of the hill-stream falling</l>
 	      <l rend="indent2">Sheer upon the flat rocks joyously!</l>
-	      <l rend="indent2">There, oh there! on the island of the sea<app><lem wit="#HC">,</lem><rdg wit="#SINH-when-dawn #CambridgeMagazine-WhenDawnComesToTheCity" /></app></l>
+	      <l rend="indent2">There, oh there! on the island of the sea<app><lem wit="#HS">,</lem><rdg wit="#SINH-when-dawn #CambridgeMagazine-WhenDawnComesToTheCity" /></app></l>
 	      <l rend="indent3">There I would be at dawn.</l>
 	    </lg>
 	  </lg>
@@ -3462,7 +3526,7 @@
 	    <head rend="caps">To O.E.A.</head>
 
 	    <note type="textual">
-	      This poem also appears in <ref target="#CambridgeMagazine-ToOEA">Cambridge Magazine <date when="1920">(1920)</date></ref>.
+	      This poem also appears in <ref target="#CambridgeMagazine-ToOEA">Cambridge Magazine <date when="1920">(1920)</date></ref> and <ref target="#SINH"><title level="j">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.
 	    </note>
 
 	    <l>Your voice is the <app><lem wit="#HS">color</lem><rdg wit="#SINH #CambridgeMagazine-ToOEA" type="orthographic">colour</rdg></app> of a robin's breast,</l>
@@ -5805,6 +5869,7 @@
 	    of African Art in general.</p>
 	  </body>
 	</text>
+
 	<text type="supplementary" xml:id="supp_mckay_claude-mackay-describes">
 	  <body>
 	    <head>
@@ -5968,6 +6033,128 @@
 
 	    <p>I am a waiter on the railroad now. Here are a few 
 	    of my poems.</p>
+	  </body>
+	</text>
+
+	<text type="suppelementary" xml:id="supp_domingo_messenger_if-we-must-die">
+	  <body>
+	    <head>
+	      <title>"If We Must Die" [<title level="j">Messenger Editorial</title>]</title>
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename type="first"><choice><abbr type="initial">W</abbr><expan>Wilfred</expan></choice></forename> <forename type="middle"><choice><abbr type="initial">A</abbr><expan>Adolphus</expan></choice></forename> <surname>Domingo</surname>
+		  </persName>
+		</author>
+		<title level="a">"If We Must Die" [Editorial]</title>
+		<title level="j">The Messenger</title>
+		<date when="1919-09">September, 1919</date>
+		<biblScope unit="vol">II.9</biblScope>
+		<biblScope unit="pg">4</biblScope>
+	      </bibl>
+	    </head>
+
+	    <p>America won the war that was alleged to be 
+	    fought for the purpose of making the world safe 
+	    for democracy, but in the light of recent happenings 
+	    in Washington, the Capital city, and Chicago, 
+	    it would seem as though the United States is not 
+	    a part of the world. In order to win the war 
+	    President Wilson employed "force, unstinted force" 
+	    and those who expect to bring any similar desirable 
+	    termination to a just cause can do no less than 
+	    follow the splendid example set them by the reputed 
+	    spokesman of humanity. That the lesson did 
+	    not take long to penetrate the minds of Negroes is 
+	    demonstrated by the change that has taken place 
+	    in their demeanor and tactics. No longer are Negroes 
+	    willing to be shot down or hunted from place 
+	    to place like wild beasts; no longer will they flee 
+	    from their homes and leave their property to the 
+	    tender mercies of the howling and cowardly mob. 
+	    They have changed, and now they intend to give 
+	    men's account of themselves. If death is to be 
+	    their portion, New Negroes are determined to make 
+	    their dying a costly investment for all concerned. 
+	    If they must die they are determined that they 
+	    shall not travel through the valley of the shadow 
+	    of death alone, but that some of their oppressors 
+	    shall be their companions.</p>
+	    
+	    <p>This new spirit is but a reflex of the great war, 
+	    and it is largely due to the insistent and vigorous 
+	    agitation carried on by younger men of the race. 
+	    The demand is uncompromisingly made for either 
+	    liberty or death, and since death is likely to be a 
+	    two-edged sword it will be to the advantage of 
+	    those in a position to do so to give the race its 
+	    long-denied liberty.</p>
+
+	    <p>The new spirit animating Negroes is not confined 
+	    to the United States, where it is most acutely 
+	    manifested, but is simmering beneath the surface 
+	    in every country where the race is oppressed. The 
+	    Washington and Chicago outbreaks should be 
+	    regarded as symptoms of a great pandemic, and the 
+	    Negroes as courageous surgeons who performed the 
+	    necessary though painful operation. That the remedy 
+	    is efficacious is beyond question. It has 
+	    brought results, for as a consequence the eyes of 
+	    the entire world are focused upon the racial situation 
+	    in the United States. The world knows now 
+	    that the New Negroes are determined to observe 
+	    the primal law of self-preservation whenever civil 
+	    laws break down; to assist the authorities to preserve 
+	    order and prevent themselves and families 
+	    from being murdered in cold blood. Surely, no 
+	    one can sincerely object to this new and laudable 
+	    determination. Justification for this course is not 
+	    lacking, for it is the white man's own Bible that 
+	    says "Those who live by the sword shall perish by 
+	    the sword," and since white men believe in force, 
+	    Negroes who have mimicked them for nearly three 
+	    centuries must copy them in this respect. Since 
+	    fire must be fought with hell fire, and diamond 
+	    alone can cut diamond, Negroes realize that force 
+	    alone is an effective medium to counteract force. 
+	    Counter irritants are useful in curing diseases, and 
+	    Negroes are being driven by their white fellow 
+	    citizens to investigate the curative values inherent 
+	    in mass action, revolvers and other lethal devices 
+	    when applied to social diseases.</p>
+
+	    <p>The New Negro has arrived with stiffened back 
+	    bone, dauntless manhood, defiant eye, steady hand 
+	    and a will or iron. His creed is admirably summed 
+	    up in the poem of Claude McKay, the black Jamaican 
+	    poet, who is carving out for himself a niche in 
+	    the Hall of Fame:</p>
+	    
+	    <quote source="#if-we-must-die">
+	      <lg type="poem">
+		<head>IF WE MUST DIE</head>
+		
+		<lg type="octet">
+		  <l>If we must die, let it not be like hogs</l>
+		  <l rend="indent1">Hunted and penned in an inglorious spot,</l>
+		  <l>While round us bark the mad and hungry dogs,</l>
+		  <l rend="indent1">Making their mock at our accursed lot.</l>
+		  <l>If we must die, oh, let us nobly die,</l>
+		  <l rend="indent1">So that our precious blood may not be shed</l>
+		  <l>In vain; then even the monsters we deft</l>
+		  <l rend="indent1">Shall be constrained to honor us, though dead!</l>
+		</lg>
+
+		<lg type="sestet">
+		  <l>Oh, kinsmen! We must meet the common foe;</l>
+		  <l rend="indent1">Though far outnumbered, let us still be brave.</l>
+		  <l>And for their thousand blows deal one death-blow!</l>
+		  <l rend="indent1">What though before us lies the open grave?</l>
+		  <l>Like men we'll face the murderous, cowardly pack,</l>
+		  <l rend="indent1">Pressed to the wall, dying, but—fighting back!</l>
+		</lg>
+	      </lg>
+	    </quote>
 	  </body>
 	</text>
 
