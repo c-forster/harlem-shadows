@@ -4174,6 +4174,47 @@
 	<head>Additional Poems by Claude McKay</head>
 
 	<!-- This contains an individual poem, with bibliographical information. --> 
+	<text xml:id="supp_mckay_invocation">
+	  <body>
+	    <head>
+	      <title>Invocation</title>
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename type="first">Claude</forename> <surname>McKay</surname>
+		  </persName>
+		</author>
+
+		<title level="a">Invocation</title>
+		<title level="j">The Seven Arts</title>
+		<date when="1917-10">(October, 1917):</date>
+		<biblScope unit="pg">741</biblScope>
+	      </bibl>
+	    </head>
+
+	    <lg type="poem" rhyme="abbaabbacdcdcd">
+	      <head rend="caps">Invocation</head>
+	      <note type="textual">This sonnet was published along with <ref target="#the-harlem-dancer">"The Harlem Dancer"</ref> in <title level="j">Seven Arts</title> Magazine (<date when="1917-10">October, 1917</date>), under the title "Two Sonnets." It appeared under the name "Eli Edwards," with a short <ref target="">biographical note</ref>.</note>
+
+	      <l>Ancestral Spirit, hidden from my sight</l>
+	      <l>By modern Time's unnumbered works and ways</l>
+	      <l>On which in awe and wonderment I gaze,</l>
+	      <l>Where hid'st thou in the deepness of the night?</l>
+	      <l>What evil powers thy healing presence blight?</l>
+	      <l>Thou who from out the dark and dust didst raise</l>
+	      <l>The Ethiop standard in the curtained days,</l>
+	      <l>Before the white God said: Let there be light!</l>
+	      <l>Bring ancient music to my modern heart,</l>
+	      <l>Let fall the light upon my sable face</l>
+	      <l>That once gleamed on the Ethiopian's art;</l>
+	      <l>Lift me to thee out of this alien place</l>
+	      <l>So I may be, thine exiled counterpart,</l>
+	      <l>The worthy singer of my world and race.</l>
+
+	    </lg>
+	  </body>
+	</text>
+
 	<text xml:id="supp_mckay_to-the-white-fiends">
 	  <body>
 	    <head>
@@ -5835,38 +5876,193 @@
 	    </closer>
 	  </body>
 	</text>
+
+	<text type="review" xml:id="review_mans-song">
+	  <body>
+	    <head>
+	      <title>A Man's Song</title>
+
+	      <bibl>
+		<title level="a">A Man's Song (Review of <title level='j'>Harlem Shadows</title>)</title>
+		<author>
+		  <persName>
+		    <forename type="first">Clement</forename> <surname>Wood</surname>
+		  </persName>
+		</author>
+		<title level="j">Literary Review of the New York Evening Post</title>.
+		<biblScope>127</biblScope>
+		<date when="1922-10-21">October 21, 1922.</date>
+		<pubPlace>New York</pubPlace>
+	      </bibl>
+	    </head>
+
+	  <p>James Weldon Johnson, in the sound 
+	  and aggressive foreword to his collection, "The
+	  Book of American Negro Poetry," says that the 
+	  negro is the creator of the only things artistic that 
+	  have yet sprung from American soil and been universally 
+	  acknowledged as distinctive American products. 
+	  The four exhibits that he cites are the Uncle Remus 
+	  folk talks, the spirituals or slave songs, the cakewalk 
+	  and negro dancing, and ragtime. Let him grant to 
+	  the Caucasian Walt Whitman's polyrhythms, and to 
+	  the Amerind basket weaving and blanket designs, and 
+	  the list is complete. In all fields artistic the negro is 
+	  leaving a proud mark, the present volume being one 
+	  of the best of his contributions to the awkward poetry 
+	  of <choice><orig>to-day</orig><reg>today</reg></choice>.</p>
+
+	  <p>Claude McKay was born in the island of Jamaica, 
+	  in 1890. Before he was twenty-two he had composed 
+	  many songs in the haunting dialect of the islanders; 
+	  he is said to have been the first poet to have written 
+	  in this dialect. In 1912 the medal of the Institute 
+	  of Arts and Sciences was awarded him, in recognition 
+	  of his <choice><orig>preëminence</orig><reg>preeminence</reg></choice>; he was the first negro to be 
+	  awarded the medal. That same year he came to the 
+	  United States, and since then has earned his living in 
+	  all the jumbled ways that working-class negroes of 
+	  the North turn to. But his main goals were life 
+	  and song, and to these he has paid his chief allegiance. 
+	  He is one of the editors of <title level='j'>The Liberator</title>, and is yet 
+	  young in his singing.</p>
+
+	  <p>Mr. McKay is highly effective as a propagandist. 
+	  Upon those racial themes which demand so clarion a 
+	  voice and so impelling a music he is not lacking:
+
+	  <quote source="#enslaved">
+	    <lg type='poem'>
+	      <head>ENSLAVED</head>
+	      
+	      <l>Oh, when I think of my long-suffering race,</l>
+	      <l>For weary centuries despised, oppressed,</l>
+	      <l>Enslaved and lynched, denied a human place</l>
+	      <l>In the great life line of the Christian West;</l>
+	      <l>And in the Black Land disinherited,</l>
+	      <l>Robbed in the ancient country of its birth.</l>
+	      <l>My heart grows sick with hate, becomes as lead,</l>
+	      <l>For this my race that has no home on earth.</l>
+	      <l>Then from the dark depths of my soul I cry</l>
+	      <l>To the avenging angel to consume</l>
+	      <l>The whit man's world of wonders utterly:</l>
+	      <l>Let it be swallowed up in earth's vast womb,</l>
+	      <l>Or upward roll as sacrificial smoke,</l>
+	      <l>To liberate my people from its yoke!</l>
+	    </lg>
+	  </quote>
+
+	  "The Lynching" has power and majesty, from its 
+	  momentous opening to the sardonic throb at the end—
+
+	  <quote>
+	    <lg>
+	      <l>And little lads, lynchers that were to be,</l>
+	      <l>Danced round the dreadful thing in fiendish glee.</l>
+	    </lg>
+	  </quote>
+
+	  "If We Must Die" is a powerful call to battle; this 
+	  trinity of sonnets is one of the most effective things 
+	  ever done upon the theme. It compares favorably with 
+	  Du Bois's "Litany," with James Weldon Johnson's 
+	  "Brothers"; it is superior to William Ellery Leonard's 
+	  "The Lynching Bee."</p>
+
+	  <p>As stark realist, such poems as "On the Road," a 
+	  reminiscence of his dining car days, and the title poem 
+	  and "The Harlem Dancer" for another phase of life, 
+	  are vivid and gripping. Nor is he too close to the 
+	  writhing to achieve the poet's penetrating detachment, 
+	  as evidence in a line like this from "In Bondage":
+
+	  <quote source="#in-bondage">
+	    <lg>
+	      <l>O black men, simple slaves of ruthless slaves.</l>
+	    </lg>
+	  </quote>
+
+	  He is both doer and seer in "America":
+	  
+	  <quote source="#america">
+	    <lg>
+	      <l>Although she . . . </l>
+	      <l> . . . sinks into my throat her tiger's tooth . . .</l>
+	      <l>I love this cultured hell that tests my youth!</l>
+	    </lg>
+	  </quote>
+
+	  His tributes to his mother, especially the one with the 
+	  line "The best of me is the but the least of you," are finely 
+	  thought, and wrought as well. If he sometimes strays 
+	  into an experiment as weak as
+
+	  <quote>
+	    <lg>
+	      <l>And the tethered cow is lowing, lowing, lowing,</l>
+	      <l>And dear old Ned is braying, braying, braying,</l>
+	      <l>And the shaggy Nannie goat is calling, calling, calling,</l>
+	    </lg>
+	  </quote>
+
+	  this is forgiven for the loveliness of his love songs, 
+	  "Romance," "Flower of June," "The Snow Fairy," 
+	  "A Memory of June," and especially the bird-like 
+	  opening of "The Barrier":
+
+	  <quote>
+	    <lg>
+	      <l>I must not gaze at them although</l>
+	      <l rend="indent1">Your eyes are dawning day;</l>
+	      <l>I must not watch you as you go</l>
+	      <l rend="indent1">Your sun-illumined way;</l>
+	    </lg>
+	    <lg>
+	      <l>I hear but I must never heed</l>
+	      <l rend="indent1">The fascinating note,</l>
+	      <l>Which, fluting like a river reed,</l>
+	      <l rend="indent1">Comes from your trembling throat.</l>
+	    </lg>
+	  </quote>
+	  </p>
+
+	  <p>Mr. McKay is a lyric poet of strength and grace, 
+	  with many varied keys to his playing. He is not an 
+	  innovator in technique; Fenton Johnson and Anne 
+	  Spencer, among negro poets, have gone much further 
+	  in the newer modes of singing. But modernness is 
+	  more than method. Mr. McKay's verse is free of 
+	  the stilted pseudo-poetic vocabulary of the Amaranth-Asphodel 
+	  poetlings, as of the inversions and verbal 
+	  circumambulations of the What Time sonneteers and 
+	  the Like As lyricists. His verse is modern in its 
+	  directness and simplicity, its vigor and variety.</p>
+	  </body>
+	</text>
+
       </group>
 
       <group xml:id="st">
 	<head>Supplementary Texts</head>
 
-	<text type="supplementary" xml:id="supp_ogden_cambridge-magazine-introduction">
+	<text type="supplementary" xml:id="supp_seven-arts-biography">
 	  <body>
 	    <head>
-	      <title>Introduction to "Poems: Claude McKay," <title level="j">Cambridge Magazine</title></title>
+	      <title>Notes on Names [Biographical Note on McKay from <title level="j">Seven Arts</title> Magazine, 1917]</title>
 	      <bibl>
-		<author>
-		  <persName>
-		    <forename type="first"><choice><abbr type="initial">C</abbr><expan>Charles</expan></choice></forename> <forename type="middle"><choice><abbr type="initial">K</abbr><expan>Kay</expan></choice></forename>
-		    <surname>Ogden</surname>
-		  </persName>
-		</author>
-		<title level="a">Claude <choice><sic>MacKay</sic><corr>McKay</corr></choice> Describes His Own Life</title>
-		<title level="j">Cambridge Magazine</title>
-		<date when="1918-09">Summer, 1920</date>
-		<biblScope>55</biblScope>
+		<title level="a">Eli Edwards</title>
+		<title level="j">Seven Arts</title>
+		<date when="1917-10">October, 1917</date>
+		<biblScope>np</biblScope>
 	      </bibl>
 	    </head>
-	    <p>The author of these poems is a native of Jamaica, where he was born in 1889, and where 
-	    he lived till 1911, publishing a book of dialect verse already referred to in our columns. 
-	    After reaching the United States he worked his way through Kansas to the West in various 
-	    capacities, and gained experience which has not been without effect on the subject matter of his 
-	    poetry. For a while he stayed at the Kansas Agricultural College, where the opportunity 
-	    presented itself of studying 'literary English.' The fact that this is for Mr. McKay partly an 
-	    acquired language adds considerably to the interest of his work. Here can be found some of those 
-	    peculiar qualities which rendered the visit of the Southern Syncopated Orchestra so memorable 
-	    last autumn, and for which we are becoming accustomed to look as the distinctive contribution 
-	    of African Art in general.</p>
+
+	    <note type="editorial"><p>When these McKay published two sonnets in <title level="j">Seven Arts</title>, he had already published collections of poetry under his own name in Jamaica. However, when he began publishing poems  in the United States he used a pen name, a masculinization of his mother's name, Hannah Ann Elizabeth Edwards (see Cooper 26).</p>
+	    <p>The same issue of <title level="j">Seven Arts</title> featured material by J. D. Beresford, John Cournos, Clement Jones, Edna Kenton, Amy Lowell, Lajpat Rai, Paul Rosenfeld, Bertrand Russell, Jean Starr Untermeyer, and Willard Huntington.</p>
+	    </note>
+
+	    <p><hi rend="smallcaps">Eli Edwards</hi> is the pen-name of a young negro who makes his living as a waiter in a New York club.</p>
+
 	  </body>
 	</text>
 
@@ -6155,6 +6351,36 @@
 		</lg>
 	      </lg>
 	    </quote>
+	  </body>
+	</text>
+
+	<text type="supplementary" xml:id="supp_ogden_cambridge-magazine-introduction">
+	  <body>
+	    <head>
+	      <title>Introduction to "Poems: Claude McKay," <title level="j">Cambridge Magazine</title></title>
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename type="first"><choice><abbr type="initial">C</abbr><expan>Charles</expan></choice></forename> <forename type="middle"><choice><abbr type="initial">K</abbr><expan>Kay</expan></choice></forename>
+		    <surname>Ogden</surname>
+		  </persName>
+		</author>
+		<title level="a">Claude <choice><sic>MacKay</sic><corr>McKay</corr></choice> Describes His Own Life</title>
+		<title level="j">Cambridge Magazine</title>
+		<date when="1920">Summer, 1920</date>
+		<biblScope>55</biblScope>
+	      </bibl>
+	    </head>
+	    <p>The author of these poems is a native of Jamaica, where he was born in 1889, and where 
+	    he lived till 1911, publishing a book of dialect verse already referred to in our columns. 
+	    After reaching the United States he worked his way through Kansas to the West in various 
+	    capacities, and gained experience which has not been without effect on the subject matter of his 
+	    poetry. For a while he stayed at the Kansas Agricultural College, where the opportunity 
+	    presented itself of studying 'literary English.' The fact that this is for Mr. McKay partly an 
+	    acquired language adds considerably to the interest of his work. Here can be found some of those 
+	    peculiar qualities which rendered the visit of the Southern Syncopated Orchestra so memorable 
+	    last autumn, and for which we are becoming accustomed to look as the distinctive contribution 
+	    of African Art in general.</p>
 	  </body>
 	</text>
 
