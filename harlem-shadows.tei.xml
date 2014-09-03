@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="hsxslt.xsl" ?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Claude McKay's <title level="m">Harlem Shadows</title>: An Electronic Critical Edition</title>
+        <title>Claude McKay's <title level="m">Harlem Shadows</title>: An Electronic Edition</title>
         <author role="primary">Claude McKay</author>
         <author role="editor">Max Eastman</author>
         <principal>Chris Forster</principal>
@@ -4194,7 +4193,7 @@
 
 	    <lg type="poem" rhyme="abbaabbacdcdcd">
 	      <head rend="caps">Invocation</head>
-	      <note type="textual">This sonnet was published along with <ref target="#the-harlem-dancer">"The Harlem Dancer"</ref> in <title level="j">Seven Arts</title> Magazine (<date when="1917-10">October, 1917</date>), under the title "Two Sonnets." It appeared under the name "Eli Edwards," with a short <ref target="">biographical note</ref>.</note>
+	      <note type="textual">This sonnet was published along with <ref target="#the-harlem-dancer">"The Harlem Dancer"</ref> in <title level="j">Seven Arts</title> Magazine (<date when="1917-10">October, 1917</date>), under the title "Two Sonnets." It appeared under the name "Eli Edwards," with a short <ref target="#supp_seven-arts-biography">biographical note</ref>.</note>
 
 	      <l>Ancestral Spirit, hidden from my sight</l>
 	      <l>By modern Time's unnumbered works and ways</l>
@@ -4760,7 +4759,7 @@
 	    movement in racial poetic achievement. Let 
 	    me quote one of the sonnets:
 	    <pb n ="278" />
-	    <quote source="#SevenArts-harlem">
+	    <quote source="#the-harlem-dancer">
 	      <lg type="poem">
 		<head rend="caps">The Harlem Dancer</head>
 		<l>Applauding youths laughed with young prostitutes</l>
