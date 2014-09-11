@@ -818,6 +818,26 @@
 	    </biblStruct>
 	  </witness>
 
+	  <witness xml:id="Crisis-if">
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title>"If We Must Die Extract"</title>
+	      </analytic>
+	      <monogr>
+		<title level="j">Crisis</title>
+		<imprint>
+		  <date when="1919-10">(October, 1919):</date>
+		  <biblScope unit="vol">18</biblScope> <biblScope unit="issue">6</biblScope>
+		  <biblScope unit="pg">300</biblScope>
+		</imprint>
+	      </monogr>
+	      <note type="editorial">The Crisis printed the first eight lines of McKay's sonnet in the Literature section of "The Looking Class." The issue also contains discussions of the recent riots.</note>
+	      <note type="textual">This text taken from <ref target="http://www.modjourn.org/render.php?view=mjp_object&amp;id=1295988949906250">The Modernist Journals Project</ref>.</note>
+	    </biblStruct>
+
+	  </witness>
+
 	  <witness xml:id="Messenger-birds">
 	    <biblStruct>
 	      <analytic>
@@ -852,7 +872,24 @@
 	      </monogr>
 	      <note type="textual">This text taken from microfilm: <ref target="http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957">http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957</ref></note>
 	    </biblStruct>
-	    
+	  </witness>
+
+	  <witness xml:id="Crusader-if-1919-09">
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title>If We Must Die</title>
+	      </analytic>
+	      <monogr>
+		<title level="j">The Crusader</title>
+		<imprint>
+		  <date when="1919-09">(September, 1919):</date>
+		  <biblScope unit="vol">II</biblScope> <biblScope unit="issue">1</biblScope>
+		  <biblScope unit="pg">7</biblScope>
+		</imprint>
+	      </monogr>
+	      <note type="textual">This text taken from the 1987 republication of <title level='j'>The Crusader</title> by Garland Publishing. <ref target="http://summit.syr.edu/vwebv/holdingsInfo?bibId=640704">Syracuse University, M.L. King Library</ref></note>
+	    </biblStruct>
 	  </witness>
 
 
@@ -1452,8 +1489,7 @@
 	    <l><app>
 	      <lem wit="#HS">Although</lem>
 	      <rdg wit="#ThreeSonnets-America">Altho</rdg>
-	    </app>
-	    she feeds me bread of bitterness,</l>
+	    </app> she feeds me bread of bitterness,</l>
 	    <l>And sinks into my throat her tiger's tooth,</l>
 	    <l>Stealing my breath of life, I will confess</l>
 	    <l>I love this cultured hell that tests my youth!</l>
@@ -1462,7 +1498,7 @@
 	    <l>Her bigness sweeps my being like a flood.</l>
 	    <l>Yet as a rebel fronts a king in state,</l>
 	    <l>I stand within her walls with not a shred</l>
-	    <l>Of terror, malice<app><lem wit="#HS">,  not</lem><rdg wit="#Liberator-america">nor even</rdg></app> a word of jeer.</l>
+	    <l>Of terror, malice<app><lem wit="#HS">,  not</lem><rdg wit="#Liberator-america"> nor even</rdg></app> a word of jeer.</l>
 	    <l>Darkly I gaze into the days ahead<app><lem wit="#HS">,</lem><rdg wit="#Liberator-america" /></app></l>
 	    <l><app>
 	      <lem wit="#HS">And</lem>
@@ -1630,8 +1666,7 @@
 	      <l rend="indent1">To stop the mad bees in the rabbit pen.</l>
 	      <l>I often try to think in what sweet month</l>
 	      <l rend="indent1">The languid painted ladies used to dapple</l>
-	      <l>The yellow <app>
-	      <lem wit="#HS">by-road</lem>
+	      <l>The yellow <app><lem wit="#HS">by-road</lem>
 	      <rdg wit="#SINH-flame">bye road</rdg>
 	      </app> mazing<note type="editorial"><hi rend="bold">Mazing:</hi> here, as an adjective, meaning winding, like a maze.</note> from the main,<note type="editorial"><hi rend="bold">Main:</hi> The sea. The OED notes such use is "now chiefly poetical."</note></l>
 	      <l rend="indent1">Sweet with the golden threads of the rose-apple<app><lem wit="#HS">.</lem><rdg wit="#SINH-flame">:</rdg></app></l>
@@ -3046,37 +3081,44 @@
 	  <pb n="53" />
 
 	  <lg type = "poem" xml:id="if-we-must-die" rhyme="ababcdcdefefgg">
-	    <head rend="caps">If We Must Die</head>
+	    <head rend="caps">If We Must Die<app type="punctuation"><lem wit="#HS #Liberator-if" /><rdg wit="#Crusader-if-1919-09">.</rdg></app></head>
 
-	    <note type="textual" resp="cf"><p>This poem also appeared in <ref target="#Liberator-if"><title level="j">The Liberator</title></ref> <date when="1919-07">(July, 1919</date>) and <ref target="#Messenger-if"><title level="j">The Messenger</title></ref> <date when="1919-09">(September, 1919)</date>.</p>
-	    <p>In its appearance in both <title level="j">The Liberator</title> and <title level="j">The Messenger</title>, the poem is broken into two distinct linegroups, an octet and sestet. In <title level="j">The Messenger</title> even numbered lines are indented.</p>
-	    <p>When it appeared in <title level="j">The Messenger</title>, the poem was included in an editorial on (also titled "If We Must Die").</p></note>
+	    <note type="textual" resp="cf">
+	      <p>This poem first appeared in <ref target="#Liberator-if"><title level="j">The Liberator</title></ref> <date when="1919-07">(July, 1919</date>). It later appeared in:
+	      <list>
+		<item><ref target="#Messenger-if"><title level="j">The Messenger</title></ref> <date when="1919-09">(September, 1919)</date>.</item>
+		<item><ref target="#Crusader-if-1919-09"><title level="j">The Crusader</title></ref> <date when="1919-09">(September, 1919)</date>.</item>
+	      </list>
+	      </p>
+	      <p>In its appearances in <title level="j">The Liberator</title>, <title level="j">The Crusader</title>, and <title level="j">The Messenger</title>, the poem is broken into two distinct linegroups, an octet and sestet. In <title level="j">The Messenger</title> and <title level="j">The Crusader</title> even numbered lines are indented.</p>
+	      <p>When it appeared in <title level="j">The Messenger</title>, the poem was included in an editorial on (also titled "If We Must Die").</p>
+	    </note>
 
-	    <l>If we must die<app><lem wit="#HS #Messenger-if">, </lem><rdg wit="#Liberator-if">—</rdg></app>let it not be like hogs</l>
-	    <l>Hunted and penned in an inglorious spot,</l>
+	    <l>If we must die<app><lem wit="#HS #Messenger-if #Crusader-if-1919-09">, </lem><rdg wit="#Liberator-if">—</rdg></app>let it not be like hogs</l>
+	    <l>Hunted and penned in an inglorious spot<app type="punctuation"><lem wit="#HS #Liberator-if">,</lem><rdg wit="#Crusader-if-1919-09">.</rdg></app></l>
 	    <l>While round us bark the mad and hungry dogs,</l>
 	    <l>Making their mock at our accursed lot.</l>
-	    <l>If we must die<app><lem wit="#HS #Messenger-if">, </lem><rdg wit="#Liberator-if">—</rdg></app><app>
+	    <l>If we must die<app><lem wit="#HS #Messenger-if">, </lem><rdg wit="#Liberator-if #Crusader-if-1919-09">—</rdg></app><app>
 	    <lem wit="#HS">O</lem>
-	    <rdg wit="#Liberator-if #Messenger-if">oh,</rdg></app> let us nobly die,</l>
+	    <rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">oh,</rdg></app> let us nobly die,</l>
 	    <l>So that our precious blood may not be shed</l>
 	    <l>In vain; then even the monsters we defy</l>
-	    <l>Shall be constrained to honor us<app><lem wit="#HS #Liberator-if" /><rdg wit="#Messenger-if">,</rdg></app> though dead!</l>
+	    <l>Shall be constrained to honor us<app><lem wit="#HS #Liberator-if" /><rdg wit="#Messenger-if #Crusader-if-1919-09">,</rdg></app> though dead!</l>
 	    <l><app>
 	      <lem wit="#HS">O</lem>
-	      <rdg wit="#Liberator-if #Messenger-if">Oh,</rdg>
+	      <rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">Oh,</rdg>
 	      </app> kinsmen! <app>
 	      <lem wit="#HS">we</lem>
-	      <rdg wit="#Liberator-if #Messenger-if">We</rdg>
-	    </app> must meet the common foe<app><lem wit="#HS">!</lem><rdg wit="#Liberator-if #Messenger-if">;</rdg></app></l>
-	    <l>Though far outnumbered<app><lem wit="#HS #Liberator-if" /><rdg wit="#Messenger-if">,</rdg></app> let us <app>
+	      <rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">We</rdg>
+	    </app> must meet the common foe<app><lem wit="#HS">!</lem><rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">;</rdg></app></l>
+	    <l>Though far outnumbered<app><lem wit="#HS #Liberator-if" /><rdg wit="#Messenger-if #Crusader-if-1919-09">,</rdg></app> let us <app>
 	    <lem wit="#HS">show us</lem>
-	    <rdg wit="#Liberator-if #Messenger-if">still be</rdg>
-	    </app> brave<app><lem wit="#HS #Liberator-if">,</lem><rdg wit="#Messenger-if">.</rdg></app></l>
+	    <rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">still be</rdg>
+	    </app> brave<app><lem wit="#HS #Liberator-if #Crusader-if-1919-09">,</lem><rdg wit="#Messenger-if">.</rdg></app></l>
 	    <l>And for their thousand blows deal one death-blow!</l>
 	    <l>What though before us lies the open grave?</l>
 	    <l>Like men we'll face the murderous, cowardly pack,</l>
-	    <l>Pressed to the wall, dying, but<app><lem wit="#HS"> </lem><rdg wit="#Liberator-if #Messenger-if">—</rdg></app>fighting back!</l>
+	    <l>Pressed to the wall, dying, but<app><lem wit="#HS"> </lem><rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">—</rdg></app>fighting back!</l>
 	  </lg>
 	  
 	  <pb n="54" />
@@ -6039,6 +6081,100 @@
 	  </body>
 	</text>
 
+	<text type="review" xml:id="johnson_messenger-review">
+	  <body>
+	    <head>
+	      <title>Review of <title level='m'>Harlem Shadows</title> by Georgia Johnson (<title level='j'>The Messenger</title>, May 1923)</title>
+
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename type='first'>Georgia</forename> <forename type='middle'>Douglas</forename> <surname>Johnson</surname>
+		  </persName>
+		</author>
+		<title level="a">Rev. of <title level='m'>Harlem Shadows</title></title>
+		<title type ="main" level="j">The Messenger</title>
+		<date when="1923-05">May, 1923</date>
+		<biblScope>Vol. 5, no. 5: 697, 717</biblScope>
+
+		<note type="textual">Text of this review from microfilm held by <ref target="http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957">Syracuse University Libraries.</ref></note>
+	      </bibl>
+	    </head>
+
+
+	    <p>This sketch is not an attempt at authentic and prolonged 
+	    criticism of Claude McKay's delightful "Harlem Shadows"—only 
+	    a reaction, impulsive and personal.</p>
+
+	    <p>Read "The Harlem Dancer":</p>
+
+	    <quote source='#the-harlem-dancer'>
+	      <lg type='poem'>
+		<l>"Applauding youths laughed with young prostitutes</l>
+		<l>And watched her perfect, half-clothed body sway;</l>
+		<l>Her voice was like the sound of blended flutes</l>
+		<l>Blown by black players upon a picnic day.</l>
+		<l>She sang and danced on, gracefully and calm,</l>
+		<l>The light gauze hanging loose about her form;</l>
+		<l>To me she seemed a proudly-swaying palm</l>
+		<l>Grown lovelier for passing through a storm.</l>
+		<l>Upon her swarthy neck black shiny curls</l>
+		<l>Luxuriant fell; and tossing coins in praise,</l>
+		<l>The wine flushed, bold-eyed boys and even the girls,</l>
+		<l>Devoured her shape with eager passionate gaze;</l>
+		<l>But looking at her falsely-smiling face,</l>
+		<l>I knew her self was not in that strange place."</l>
+	      </lg>
+	    </quote>
+
+	    <p>Unfadingly canvassed are the lines: "To me she seemed a 
+	    proudly swaying palm," etc., and, "her voice was like the 
+	    sound of blended flutes," one can hear the magic tones. This 
+	    picture of the lovely Harlem Dancer is as vividly painted 
+	    on my mind as is the Mona Liza.</p>
+
+	    <p>Vital and living is "Harlem Shadows":</p>
+
+	    <quote source='#harlem-shadows'>
+	      <lg>
+		<l>"I hear the halting footsteps of a lass</l>
+		<l rend='indent1'>In Negro Harlem when the night lets fall</l>
+		<l>Its veil. I see the shapes of girls who pass</l>
+		<l rend='indent1'>To bend and barter at desires call.</l>
+		<l>Ah, little dark girls who in slippered feet</l>
+		<l rend='indent1'>Go prowling through the night from street to street!"</l>
+	      </lg>
+	    </quote>
+
+	    <pb n='717' />
+
+	    <p>The flame-shod feet of "the little dark girls" pass over my 
+	    heart and I feel that touch of anguish that was the author's 
+	    own when he wrote these lines.</p>
+
+	    <p>The prophecy in the last four lines of "America" is signfiicant:</p>
+
+	    <quote source="#america">
+	      <lg>
+		<l>"Darkly I gaze into the days ahead,</l>
+		<l>And see her might and granite wonders there,</l>
+		<l>Beneath the touch of Time's unerring hand</l>
+		<l>Like priceless treasures sinking in the sand."</l>
+	      </lg>
+	    </quote>
+
+	    <p>It is the unmistakable writing on the wall, and yet what 
+	    tender compassion pervades the author, who continues:</p>
+
+	    <quote source="#america">
+	      <lg>
+		<l>"I stand within her walls with not a shred</l>
+		<l>Of terror, malice, not a word of jeer."</l>
+	      </lg>
+	    </quote>
+	  </body>
+	</text>
+
       </group>
 
       <group xml:id="st">
@@ -6056,7 +6192,7 @@
 	      </bibl>
 	    </head>
 
-	    <note type="editorial"><p>When these McKay published two sonnets in <title level="j">Seven Arts</title>, he had already published collections of poetry under his own name in Jamaica. However, when he began publishing poems  in the United States he used a pen name, a masculinization of his mother's name, Hannah Ann Elizabeth Edwards (see Cooper 26).</p>
+	    <note type="editorial"><p>When these McKay published two sonnets in <title level="j">Seven Arts</title>, he had already published collections of poetry under his own name in Jamaica. However, when he began publishing poems  in the United States he used a pen name, a masculinization of his mother's name, Hannah Ann Elizabeth Edwards (see Cooper 26). McKay expains in his autobiography, "The nom de plume was adapted from my mother's name. I used it because at the time when the poems were submitted, I was a waiter at a women's club. The members were students of the arts. Some were literary aspirants and were always reading and discussing the new and little magazines. As I was a good enough waiter I did not care to be discovered as a poet there" (<title level='m'>Long Way from Home</title> 26).</p>
 	    <p>The same issue of <title level="j">Seven Arts</title> featured material by J. D. Beresford, John Cournos, Clement Jones, Edna Kenton, Amy Lowell, Lajpat Rai, Paul Rosenfeld, Bertrand Russell, Jean Starr Untermeyer, and Willard Huntington.</p>
 	    </note>
 
@@ -6231,6 +6367,375 @@
 	  </body>
 	</text>
 
+	<text type="supplementary" xml:id="supp_briggs_capital-and-chicago-race-riots">
+	  <body>
+	    <head>
+	      <title>Cyril V. Briggs, "The Capital and Chicago Race Riots"</title>
+	      <bibl>
+		<title level="a">The Capital and Chicago Race Riots</title>
+		<title level="j">The Crusader</title>
+		<date when="1919-09">September, 1919</date>
+		<biblScope unit="vol">II.1</biblScope>
+		<biblScope unit="pg">3-6</biblScope>
+	      </bibl>
+
+	      <note type="editorial" resp="cf"></note>
+	    </head>
+
+	    <p>On the face of the facts, both as to the 
+	    origin and the immediate (fighting) results 
+	    of the Washington and Chicago race 
+	    riots, the Negro certainly has nothing to be 
+	    ashamed of and nothing to regret—save the 
+	    casualties and sufferings which of necessity 
+	    were the portion of both groups of 
+	    participants. And he has many reasons for 
+	    a justifiable pride in the prowess and resource 
+	    displayed by the men and women 
+	    of his race who were forced to take up arms 
+	    in <choice><orig>defence</orig><reg>defense</reg></choice> of their lives and homes, and 
+	    who, with their "backs to wall," fighting 
+	    over the Battle of Democracy, showed themselves 
+	    the superiors in courage, resource 
+	    and "civilized warfare" of their 
+	    white opponents and, terribly outnumbered 
+	    though they were, more than held their 
+	    own, hitting back in hard, telling blows that 
+	    had more effect in discouraging the murderous 
+	    lust of white hoodlums and ruffians 
+	    than any act on the part of the local and 
+	    military authorities.</p>
+
+	    <p>And in both cases the Negro had an undeniable 
+	    "moral case." Both in Washington 
+	    and in Chicago the white man plainly 
+	    was the aggressor. And the aggressor on 
+	    no excusable or condonable grounds! In 
+	    Washington whit marines and soldiers, 
+	    travelling in groups, attacked and beat up 
+	    lone colored men because of recent alleged 
+	    attacks by Negroes on white women. In 
+	    Chicago white bathers stoned to death a 
+	    small colored boy whose drifting raft had 
+	    carried him across the "white section" of 
+	    the lake front!</p>
+
+	    <p>But while both riots were caused by 
+	    white aggression and while both have many 
+	    features in common there are certain 
+	    shameful things that occurred in Washington 
+	    that, happily, were not duplicated in 
+	    Chicago. For this reason, then, the two 
+	    riots should be considered separately.</p>
+	    
+	    <div>
+	      <head>The Washington Riot</head>
+
+	      <p>Without a doubt the Washington trouble 
+	      could have been averted had the Capital 
+	      police taken prompt measures in suppression 
+	      of the mob spirit of the white marines
+	      and soldiers. And quite probably, too, the 
+	      Chicago trouble would not have occurred 
+	      so soon, though observers seem to agree 
+	      that it was fated to come. But the Washington 
+	      police took no steps to suppress the 
+	      disorderly conduct of the white mobs during 
+	      the days when they were beating up 
+	      Negroes and "shooting up" the Negro sections 
+	      with the colored people quiescent, 
+	      long-suffering and patiently waiting for 
+	      action on the part of the police to suppress 
+	      the disorder and re-establish the reign of 
+	      Law and Order. The white papers themselves 
+	      report that:</p>
+
+	      <quote>"During the troubles on the first 
+	      two nights the police made no effort 
+	      to stop the White mobs. They 
+	      seemed to consider it was none of 
+	      their business..."</quote>
+
+	      <p>General attacks on Negroes began on 
+	      July 19 and for two full days the white 
+	      mobs had a merry, unopposed blood-picnic 
+	      while the white Washington police stood 
+	      by in the role of benevolent neutrals and 
+	      the colored police were detached from duty
+	      because, as The Globe reported:</p>
+
+	      <quote>"The attacks by service men on 
+	      Negroes were so general that 
+	      uniformed Negro policemen were detached 
+	      from duty and sent home 
+	      by the authorities."</quote>
+
+	      <p>What a confession of weakness and race 
+	      prejudice in high places! Thus the Negro 
+	      population of Washington, refused the protection 
+	      of white policemen and denied that 
+	      of their own policemen, were thrown upon 
+	      their own resources for the protection of 
+	      their lives and homes. And how nobly and 
+	      effectively they responded to this necessity 
+	      is now a matter of proud record. Again we 
+	      quote the white press:</p>
+
+	      <quote>"While in the minor disorders of 
+	      Saturday and Monday night
+	      crowds of white men assumed the 
+	      aggressive, the latest rioting was 
+	      marked by a general preparedness 
+	      on the part of colored men, who 
+	      <pb n="4" />
+	      during the day purchased hundreds 
+	      of revolvers. They formed 
+	      into crowds in their own sections 
+	      and attacked white men wherever
+	      found."</quote>
+
+	      <p>But with action on the part of the Negro
+	      to defend his home and life against the 
+	      wanton attacks of white mobs, the situation 
+	      underwent a rapid change. The white 
+	      police threw off its neutrality and we read 
+	      such headlines in the Metropolitan dailies 
+	      as:</p>
+
+	      <p>"Capital Police and Negroes in Many 
+	      Battles; Three Are Dead."</p>
+
+	      <p>And then, with the situation beyond control 
+	      of the local police, came military intervention 
+	      and the despatch of white soldiers 
+	      to Washington by order of the Secretary 
+	      of War, who took action after a conference 
+	      with the President, and the appearance in 
+	      the Metropolitan dailies of such headlines 
+	      as:</p>
+
+	      <p>"5 Dead in Capital Race Riots; U. S. 
+	      Cavalry Fail to Stop Negroes."</p>
+	      
+	      <p>Thus establishing the fact that, while 
+	      in Washington riotous outbreaks had occurred 
+	      between two groups of American 
+	      citizens, it was only against the mobs of 
+	      one group that the United States troops 
+	      were used.</p>
+
+	      <p>But even the United States regulars
+	      seemed to have been unable to stop the 
+	      long-suffering worm that at last had turned 
+	      upon its persecutors; and Negroes, at first 
+	      quiescent, later on the defensive, were now 
+	      on the aggressive in true "Hell Fighters" 
+	      style, and were carrying the war into "the 
+	      enemy's country," speeding through the 
+	      streets of the white quarters in improvised 
+	      tanks and leaving deadly leaden souvenirs 
+	      behind:</p>
+
+	      <p>"Numbers of Negroes took possession 
+	      of high-powered automobiles in which they 
+	      raced through the streets, pumping bullets 
+	      from automatic weapons at all whites who 
+	      happened without range. It is believed that 
+	      numerous casualties resulting from this 
+	      indiscriminate firing have not been reported 
+	      to the police.</p>
+
+	      <p>"Pennsylvania Avenue, the main thoroughfare, 
+	      was thronged all night with 
+	      crowds of both whites and Negroes. 
+	      Wherever they met there was a clash. 
+	      Shots were exchanged and razors flashed. 
+	      Negroes, defying the whites, are touring 
+	      the Northwest section of the city and daring 
+	      any white man or woman to leave their 
+	      homes. Many shots have been fired at 
+	      windows in which a white face was seen.</p>
+
+	      <p>"Apparently fearless of the shining 
+	      bayonets of the United States forces, the 
+	      Negroes organized a fleet of improvised 
+	      tanks and started out to clean up the town. 
+	      Practically all of them were armed. Many 
+	      of the automobiles contained a surplus 
+	      supply of sawed off shotguns loaded with 
+	      heavy charges and buckshot."</p>
+	      
+	      <p>And not only did the Negroes of the Capital 
+	      fight back, and fight back with a vengeance, 
+	      but the colored people in several 
+	      near-by towns across the Maryland border 
+	      organized and began to move upon the 
+	      Capital to the aid of their brethren, and 
+	      were only prevented from taking a hand 
+	      in the Washington eruption by the quick 
+	      action of the War Department which despatched 
+	      a large force of the United States 
+	      regulars to block their way to the Capital.</p>
+	    </div>
+
+	    <div>
+	      <head>The Chicago Riot</head>
+	      <p>Ill-feeling of long standing between the 
+	      two races in Chicago was the underlying 
+	      cause of the outbreak which, however, was 
+	      undoubtedly precipitated by the Washington 
+	      troubles. One of the chief reasons of 
+	      <pb n="5" />
+	      racial antagonism in Chicago was the rapid 
+	      growth of the Negro population, its 
+	      increasing competition in the labor market 
+	      and its invasion of white neighborhoods.</p>
+
+	      <p>The Chicago Negroes, having digested 
+	      the lesson of the Washington riots when 
+	      the white police stood by in benevolent neutrality 
+	      to white mobs, fought back from the 
+	      start. They, too, carried the war into "the 
+	      enemy's territory," though in greater 
+	      numerical inferiority than were the Washington 
+	      Negroes. They, too, demonstrated that 
+	      they had learnt a good many things by their 
+	      participation in the White Man's War of 
+	      1914-1919. One of their first acts being 
+	      the storming and rifling of an armory and 
+	      the cutting of the telephone wires in the 
+	      "war area."</p>
+
+	      <p>While, as said before, the two outbreaks 
+	      were alike in their salient features, Chicago
+	      was saved the disgraceful spectacle of the 
+	      authorities truckling to the white mobs by 
+	      detaching from duty her colored policemen. 
+	      She escaped the stigma, too, of inciting to 
+	      riot by her white press. Apart from this, 
+	      however, the white mobs of Chicago have 
+	      nothing to be proud of. Like the white 
+	      mobs in Washington they were bravest in 
+	      their attacks on lone Negroes, and in the 
+	      instances when they cornered a lone and 
+	      unarmed Negro they descended to barbarities 
+	      that the Washington whites have not 
+	      been, as yet, accused of. The New York 
+	      Call of August first, reports, with photographs, 
+	      one of the instances as follows:</p>
+
+	      <p>"This mob has cornered a Negro under 
+	      an outside stairway near 46th street and 
+	      Wentworth avenue. The men who 'got' 
+	      him are in the right of the picture just 
+	      running to join the group about the stairway.</p>
+	      
+	      <p>"And at the right is the dying Negro and 
+	      the pair who were 'in at the death.' The 
+	      arm of the one in the cap is still upraised. 
+	      He has just thrown his last stone."</p>
+
+	      <p>Another lone Negro cornered in a white 
+	      section was burned to death. And to such 
+	      barbarities did the white mobs of Chicago 
+	      descend that the Mayor of the second American 
+	      city (to whom by the way all honor 
+	      for his stand against turning the militia 
+	      loose) gives as his reason for finally calling 
+	      upon Governor Lowden for troops the fact 
+	      that he was in receipt of authentic information 
+	      that an attempt would be made to 
+	      burn down the "Black Belt" with a duplication 
+	      of the East St. Louis horrors:</p>
+
+	      <p>"Information was accurate, and I was 
+	      satisfied it was well founded," the Mayor 
+	      said. "The condition of the buildings was 
+	      so dry that conflagration might have 
+	      started in no time. As evidence of the 
+	      absolute authenticity of my information, I 
+	      am having prepared a list of the fires and 
+	      alarms last night."</p>
+	    </div>
+
+	    <div>
+	      <head>Comment</head>
+
+	      <p>Naturally two race riots of such extent
+	      excited considerable comment from the 
+	      press and leading men of the nation. The 
+	      New York Call and the New York World 
+	      were outspoken in their denunciations of 
+	      the white injustices which both recognized 
+	      to be the underlying cause; the New York 
+	      Globe joined in denouncing white injustice 
+	      and the wanton attack upon Negro lives but 
+	      nevertheless was of the opinion that Negroes 
+	      never, never should resort to force; 
+	      and Arthur Brisbane, in the New York 
+	      American, while engaging in no denunciation 
+	      that we have seen or heard of, proffered 
+	      the advice that Negroes would do 
+	      well not to resort to force as "The odds 
+	      are too greater in number and in ability. 
+	      Besides, real force resides in Government 
+	      and this entire Government is white."
+
+	      The only word from the white "Christian 
+	      Church" was uttered by Cardinal Gibbons, 
+	      who, not deigning to denounce the injustices 
+	      to which the Negro is subjected, 
+	      showed more interest in booze than in 
+	      human lives and saw in the riots only proof
+	      "that a legislative suppression of intoxicating 
+	      drinks is not, as it was said to be, a 
+	      panacea against all social and moral evils," 
+	      which comment he supplemented with 
+	      some drivel to the effect that capitalism was 
+	      Labor's best friend.</p>
+
+	      <p>Among such papers as The New York 
+	      Times, the riots were attributed to the 
+	      growth of Bolshevism among Negroes and 
+	      not to any injustice in the white man's 
+	      attitude and treatment of the Negro.</p>
+
+	      <p>The ubiquitous Lusk Committee, too, 
+	      had its fling by the dissemination of the 
+	      opinion of one Ven Svare, a Cleveland 
+	      lawyer, whose testimony before the Stone 
+	      Agers included the statement that:</p>
+
+	      <p>"The Bolsheviki had a bad habit of 
+	      getting hold of armored cars and running 
+	      them through the streets of Petrograd and 
+	      carrying on disorderly shooting, and when 
+	      I read recently about he way some of the 
+	      Negroes were behaving down at Washington 
+	      it reminded me very much of the Bolshevist 
+	      tactics of the same kind in Petrograd."</p>
+	      
+	      <p>Not that Negroes who are determined to defend 
+	      their lives and homes against wanton and lawless 
+	      attacks will have any 
+	      objections to being called Bolshevists for so 
+	      doing, but it is an interesting phase of a 
+	      <pb n="6" />
+	      serious situation and further proof of the 
+	      hypocrisy and casuistry of the caucasian 
+	      that he should feel called upon to frame 
+	      up causes and excuses to explain two outbreaks 
+	      that were acknowledgedly started 
+	      by white mobs and in which colored men 
+	      and women merely fought in defence of 
+	      their lives and homes. Is the white man, 
+	      already morally bankrupt, approaching 
+	      intellectual bankruptcy?</p>
+
+	    </div>
+	  </body>
+	</text>
+
 	<text type="supplementary" xml:id="supp_domingo_messenger_if-we-must-die">
 	  <body>
 	    <head>
@@ -6241,7 +6746,7 @@
 		    <forename type="first"><choice><abbr type="initial">W</abbr><expan>Wilfred</expan></choice></forename> <forename type="middle"><choice><abbr type="initial">A</abbr><expan>Adolphus</expan></choice></forename> <surname>Domingo</surname>
 		  </persName>
 		</author>
-		<title level="a">"If We Must Die" [Editorial]</title>
+		<title level="a">If We Must Die [Editorial]</title>
 		<title level="j">The Messenger</title>
 		<date when="1919-09">September, 1919</date>
 		<biblScope unit="vol">II.9</biblScope>
@@ -6352,6 +6857,120 @@
 	    </quote>
 	  </body>
 	</text>
+
+	<text type="supplementary" xml:id="supp_congressional-record">
+	  <body>
+	    <head>
+	      <title></title>
+	      <bibl>
+		<title level="a"></title>
+		<title level="j">Congressional Record</title>
+		<date when="1920">Summer, 1920</date>
+		<biblScope>55</biblScope>
+	      </bibl>
+
+	      <note type="editorial">Text available from <ref target="http://congressional.proquest.com.libezproxy2.syr.edu/congressional/docview/t19.d20.cr-1919-0923?accountid=14214">ProQuest</ref>.</note>
+	    </head>
+
+	    <p><hi rend="italics">To the Congress of the United States:</hi></p>
+	    <p>The Commission on After-War Problems of the African Methodist 
+	    Episcopal Church, representing a religious organization numbering a 
+	    million communicants and adherents, now in the one hundred and third 
+	    year of its denominational existence, prompted by a sense of stern duty, 
+	    respectfully directs your attention to the solemn and ominous statements 
+	    which characterize the following poem, printed in the September 
+	    issue of a magazine published by colored people in New York City:</p>
+	    
+	    <quote>
+	      <lg type="poem">
+		<head>"IF WE MUST DIE!</head>
+
+		<lg type="octet">
+		  <l>"If we must die, let it not be like hogs</l>
+		  <l rend="indent1">Hunted and penned in an inglorious spot,</l>
+		  <l>While round us bark the made and hungry dogs,</l>
+		  <l rend="indent1">Making their mock at our accursed lot.</l>
+		  <l>If we must die, oh, let us nobly die</l>
+		  <l rend="indent1">So that our precious blood may not be shed</l>
+		  <l >In vain; then even the monsters we deft</l>
+		  <l rend="indent1">Shall be constrained to honor us, though dead!</l>
+		</lg>
+
+		<lg type="sestet">
+		  <l>"Oh, kinsmen! We must meet the common foe;</l>
+		  <l rend="indent1">Though far outnumbered, let us still be brave,</l>
+		  <l>And for their thousand blows deal one deathblow!</l>
+		  <l rend="indent1">What though before us lies the open grave?</l>
+		  <l>Like men we'll face the murderous, cowardly pack,</l>
+		  <l rend="indent1">Pressed to the wall, dying, but—fighting back!"</l>
+		</lg>
+	      </lg>
+	    </quote>
+
+	    <p>Though the poem is the production of a West Indian negro, a native 
+	    of Jamaica, it nevertheless reflects the conviction of a large group of 
+	    American citizens of African descent—a group who felt that death is 
+	    preferable to a state halfway between slavery and freedom. This group 
+	    has sworn by the blood of their kinsmen who fell on the battle fields 
+	    of France, in a death grip with the foe, to help make the world safe 
+	    for democracy, that they will no longer tamely submit to a denial 
+	    of the rights guaranteed them by the National Constitution.</p>
+
+	    <p>This does not mean that they intend to go around with a chip on 
+	    the shoulder seeking for trouble; that they mean to be needlessly 
+	    offensive; that they will provoke a conflict, or that they intend to 
+	    resort to force to secure a fair measure of righteous justice. Not at 
+	    all. It means that they will pursue the path of peace, imposing on 
+	    themselves the virtue of self-restraint to the limit, impelled by the 
+	    lofty purpose to agitate for a better understanding between the races. 
+	    They will demand a hearing at the bar of public opinion.</p>
+
+	    <p>It is quite certain, however, that the fulminating of the archaic 
+	    and vicious dogma, "This is a white man's country," which of late 
+	    has been resurrected, will not conduce to a better understanding between 
+	    the races. Moreover, when Gen. Lee surrendered his sword to 
+	    the commander of the triumphant armies of freedom at Appomattox, 
+	    that dogma fell a shattered idol.</p>
+
+	    <p>This year is the ter-centenary of the coming of our forebears to this 
+	    country, which antedates by a year the coming of the Pilgrim Fathers. 
+	    Our claim to an equitable ownership of this country is attested by 
+	    three centuries of toil for its development and expansion, as well as 
+	    by heroic deeds and sacrifices in its defense on fields of sanguinary 
+	    conflict from Bunker Hill to Metz. We are here, and here to stay—not 
+	    as aliens or pariahs but as a bona fide and integral part of the body 
+	    politic. Our supreme desire is to be allowed to exercise our inalienable 
+	    rights without let or hindrance, to prove a strong prop in the support 
+	    of American institutions, and to continue a helpful factor in the development 
+	    of American industry.</p>
+
+	    <p>We most earnestly pray the Congress to make diligent inquiry as to 
+	    the underlying cause of the race riots at Washington, D.C., Chicago, 
+	    Ill., and Knoxville, Tenn., with the view of formulating such suggestions
+	    for adoption by the people as, in your judgment, may prove a 
+	    safeguard against similar outbreaks in the future, and also had lead to 
+	    the establishment of a more friendly relationship between the races.</p>
+
+	    <p>And you petitioners will ever pray.</p>
+	    <signed>
+	      <list>
+		<item>Charles S. Smith, chairman, Detroit, Mich., bishop, American 
+		Episcopal Church;</item>
+		<item>John R. Hawkins, secretary, 
+		Washington, D.C. financial secretary. American Methodist Episcopal Church;</item>
+		<item>Joseph S. Flipper, Atlanta, Ga., bishop, American Methodist Episcopal Church;</item>
+		<item>J. Albert Johnson, Baltimore, Md., bishop. American Methodist Episcopal Church;</item>
+		<item>William H. Heard, Jackson, Miss., bishop, American Methodist Episcopal Church;</item>
+		<item>John Hurst, Jacksonville, Fla. bishop. American Methodist Episcopal Church;</item>
+		<item>William D. Chappelle, Columbia, S.C., bishop. American Methodist Episcopal Church;</item>
+		<item>Richard R. Wright, Jr., Savannah, Ga., editor Christian Recorder. American Methodist Episcopal Church;</item>
+		<item>Arthur S. Jackson. Waco, Tex., secretary of education, American Methodist Episcopal Church.</item>
+	      </list>
+	      Detroit, Mich., <date when="1919-09-22">September 22, 1919</date>
+	    </signed>
+	  </body>
+	</text>
+
 
 	<text type="supplementary" xml:id="supp_ogden_cambridge-magazine-introduction">
 	  <body>
@@ -6479,7 +7098,7 @@
 	    skill as a poet. He demonstrates a mastery of the three when as a 
 	    Negro poet he pours out the bitterness and rebellion in 
 	    his heart in those two sonnet-tragedies, <ref target="#if-we-must-die">"If We Must 
-	    Die"</ref> and <ref target="#to-the-white-fiends">"To the White Fiends,"</ref> in a manner that 
+	    Die"</ref> and <ref target="#supp_mckay_to-the-white-fiends">"To the White Fiends,"</ref> in a manner that 
 	    strikes terror; and when as a cosmic poet he creates the 
 	    atmosphere and mood of poetic beauty in the absolute, 
 	    as he does in <ref target="#spring-in-new-hampshire">"Spring in New Hampshire"</ref> and <ref target="#the-harlem-dancer">"The 
