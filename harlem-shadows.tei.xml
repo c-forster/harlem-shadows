@@ -2075,7 +2075,7 @@
 		<item><ref target="#SINH-harlem-shadows"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date></item>
 	      </list>
 
-	      In <title level="j">Pearson's Magazine</title>, this poem (along with <ref target="#supp_mckay_to-the-white-fiends">"To the White Fiends,"</ref> <ref target="#supp_mckay_the-conqueror">"The Conqueror,"</ref> <ref target="#supp_mckay_the-park-in-spring">"The Park in Spring,"</ref> and <ref target="#supp_mckay_is-it-worthwhile">"Is it Worth While?"</ref>) was prefaced by a statement by McKay, <ref target="#Pearsons-claude"><title level="a">"Claude <choice><sic>MacKay</sic><corr resp="cf">McKay</corr></choice> Describes His Own Life: A Negro Poet"</title></ref>.
+	      <p>In <title level="j">Pearson's Magazine</title>, this poem (along with <ref target="#supp_mckay_to-the-white-fiends">"To the White Fiends,"</ref> <ref target="#supp_mckay_the-conqueror">"The Conqueror,"</ref> <ref target="#supp_mckay_the-park-in-spring">"The Park in Spring,"</ref> and <ref target="#supp_mckay_is-it-worthwhile">"Is it Worth While?"</ref>) was prefaced by a statement by McKay, <ref target="#Pearsons-claude"><title level="a">"Claude <choice><sic>MacKay</sic><corr resp="cf">McKay</corr></choice> Describes His Own Life: A Negro Poet"</title></ref>.</p>
 	    </note>
 
 	    <lg type="stanza">
@@ -3235,6 +3235,9 @@
 
 	  <lg type = "poem" xml:id="a-prayer">
 	    <head>A Prayer</head>
+	    <note type="textual">This poem also appeared in <ref target="#SINH"><title level='m'>Spring in New Hampshire</title></ref>.
+	    </note>
+
 
 	    <head type="dedication">
 	      <app>
@@ -7159,6 +7162,371 @@
 	  </body>
 	</text>
 
+	<text type="supplementary" xml:id="supp_kerlin_negro-poets-and-their-poems">
+	  <body>
+	    <head>
+	      <title>Excerpt from Kerlin, <title level='m'>Negro Poets and Their Poems</title></title>
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename type="first">Robert</forename> <forename type="middle">T.</forename> <surname>Kerlin</surname>
+		  </persName>
+		</author>
+		<title level="a">Claude McKay</title>
+		<title level="m">Negro Poets and Their Poems</title>
+		<date when="1923">1923</date>
+		<biblScope>126-131</biblScope>
+		<pubPlace>Washington, DC</pubPlace>
+		<publisher>Associated Publishers, Inc.</publisher>
+
+		<note>Copy consulted at <ref target='http://summit.syr.edu/vwebv/holdingsInfo?bibId=2593016'>Syracuse University Libraries</ref>.</note>
+	      </bibl>
+	    </head>
+	    <note type='editorial'>
+	      <p>This extract is taken from Kerlin's discussion of McKay in the second chapter. "The Present Renaissance of the Negro" and the section offer "Some Representatives of the Present Era."</p>
+	      <p>This discussion also features a small head-shot of McKay on page 126.</p>
+	    </note>
+
+	    <p>An English subject, being born and growing to 
+	    manhood in Jamaica, Claude McKay, a pure blood Negro, was first discovered 
+	    as a poet by English critics. In
+	    Jamaica, as early as 
+	    1911, when he was but 
+	    twenty-two years of 
+	    age, his <title level='m'>Constab Ballads</title>, 
+	    in Negro dialect, 
+	    was published. Even 
+	    in so broken a tongue
+	    this book revealed 
+	    a poet—on the constabulary 
+	    force of Jamaica. In 1920 his 
+	    first book of poems in 
+	    literary English, 
+	    <title level='m'>Spring in New Hampshire</title>, 
+	    came out in England with a <ref target='#supp_richards_spring-preface'><title level='a'>Preface</title> by 
+	    Mr. I. A. Richards</ref>, of Cambridge, England.
+	    <pb n='127' />
+	    Meanwhile, shortly after the publication of his 
+	    first book, he had come to the United States.</p>
+
+	    <p>Here he has worked at various occupations, has 
+	    taken courses in Agriculture and English in the Kansas State College, and has thus become acquainted with life in the States. He is now on 
+	    the editorial staff of the <title level='j'>Liberator</title>, New York.
+	    There has been no poet of his race who has more 
+	    poignantly felt and more artistically expressed 
+	    the life of the American Negro. His poetry is a 
+	    most noteworthy contribution to literature. From 
+	    <title level='m'>Spring in New Hampshire</title> I am privileged to take 
+	    a number of poems which will follow without 
+	    comment:</p>
+
+	    <quote source='#spring-in-new-hampshire'>
+	      <lg type='poem'>
+		<head>SPRING IN NEW HAMPSHIRE</head>
+
+		<lg type='stanza'>
+		  <l>Too green the springing April grass,</l>
+		  <l rend='indent1'>Too blue the silver-speckled sky,</l>
+		  <l>For me to linger here, alas</l>
+		  <l rend='indent1'>While happy winds go laughing by,</l>
+		  <l>Wasting the golden hours indoors,</l>
+		  <l>Washing windows and scrubbing floors.</l>
+		</lg>
+
+		<lg type='stanza'>
+		  <l>Too wonderful the April night,</l>
+		  <l rend='indent1'>Too faintly sweet the first May flowers,</l>
+		  <l>The stars too gloriously bright,</l>
+		  <l rend='indent1'>For me to spend the evening hours,</l>
+		  <l>When fields are fresh and streams are leaping,</l>
+		  <l>Wearied, exhausted, dully sleeping.</l>
+		</lg>
+	      </lg>
+	    </quote>
+	    <pb n='128' />
+
+	    <quote source='#the-lynching'>
+	      <lg type='poem'>
+		<head>THE LYNCHING</head>
+		
+		<l>His spirit in smoke ascended to high heaven.</l>
+		<l>His Father, by the cruelest way of pain,</l>
+		<l>Had bidden him to his bosom once again;</l>
+		<l>The awful sin remained still unforgiven:</l>
+		<l>All night a bright and solitary star</l>
+		<l>(Perchance the one that ever guided him,</l>
+		<l>Yet gave him up at last to Fate's wild whim)</l>
+		<l>Hung pitifully o'er the swinging char.</l>
+		<l>Day dawned, and soon the mixed crowds came to view</l>
+		<l>The ghastly body swaying in the sun:</l>
+		<l>The women thronged to look, but never a one</l>
+		<l>Showed sorrow in her eyes of steely blue,</l>
+		<l>And little lads, lynchers that were to be,</l>
+		<l>Danced round the dreadful thing in fiendish glee.</l>
+	      </lg>
+	    </quote>
+
+	    <quote source='#the-harlem-dancer'>
+	      <lg type='poem'>
+		<head>THE HARLEM DANCER</head>
+
+		<l>Applauding youths laughed with young prostitutes</l>
+		<l>And watched her perfect, half-clothed body sway;</l>
+		<l>Her voice was like the sound of blended flutes</l>
+		<l>Blown by black players upon a picnic day.</l>
+		<l>She sang and danced on gracefully and calm,</l>
+		<l>The light gauze hanging loose about her form;</l>
+		<l>To me she seemed a proudly swaying palm</l>
+		<l>Grown lovelier for passing through a storm.</l>
+		<l>Upon her swarthy neck, black, shiny curls</l>
+		<l>Profusely fell; and, tossing coins in praise,</l>
+		<l>The wine-flushed, bold-eyed boys, and even the girls,</l>
+		<l>Devoured her with eager, passionate gaze:</l>
+		<l>But looking at her falsely-smiling face,</l>
+		<l>I knew her self was not in that strange place.</l>
+	      </lg>
+	    </quote>
+
+	    <pb n='129' />
+
+	    <quote source='#in-bondage'>
+	      <lg type='poem'>
+		<head>IN BONDAGE</head>
+
+		<l>I would be wandering in distant fields</l>
+		<l>Where man, and bird, and beast live leisurely,</l>
+		<l>And the old earth is kind and ever yields</l>
+		<l>Her goodly gifts to all her children free;</l>
+		<l>Where life is fairer, lighter, less demanding,</l>
+		<l>And boys and girls have time and space for play</l>
+		<l>Before they come to years of understanding,—</l>
+		<l>Somewhere I would be singing, far away;</l>
+		<l>For life is greater than the thousand wars</l>
+		<l>Men wage for it in their insatiate lust,</l>
+		<l>And will remain like the eternal stars</l>
+		<l>When all that is to-day is ashes and dust;</l>
+		<l>But I am bound with you in your mean graves,</l>
+		<l>Oh, black men, simple slaves of ruthless slaves.</l>
+	      </lg>
+	    </quote>
+
+	    <p>Distinction of idea and phrase inheres in these 
+	    poems. In them the Negro is esthetically conceived, 
+	    and interpreted with vision. This is art 
+	    working as it should. Mr. McKay has passion 
+	    and the control of it to the ends of art. He has 
+	    the poet's insight, the poet's understanding.</p>
+
+	    <p>Perhaps the most arresting poem in this list, 
+	    and the one most surely attesting the genius of the 
+	    writer, is <title level='a'><hi rend='italics'>The Harlem Dancer</hi></title>. It is an achievement
+	    in portrayal sufficient by itself to establish 
+	    poetic reputation. The divination that penetrates 
+	    to the secret purity of soul, or nobleness 
+	    of character, through denying appearances—how 
+	    rare is the faculty, and how necessary! Elsewhere 
+	    I give a poem from a Negro woman which 
+
+	    <pb n='130' />
+	    
+	    evinces the same divine gift in the author, exhibited 
+	    in a poem no less original and no less deeply 
+	    impressive—Mrs. Spencer's <title level='a'><hi rend='italics'>At the Carnival</hi></title>.<note type='editorial'>Spencer's "At the Carnival," from page 158-159.
+
+	    <lg type='poem'>
+	      <head>AT THE CARNIVAL</head>
+
+	      <l>Gay little Girl-of-the-Diving-Tank,</l>
+	      <l>I desire a name for you,</l>
+	      <l>Nice, as a right glove fits;</l>
+	      <l>For you—who amid the malodorous</l>
+	      <l>Mechanics of this unlovely thing,</l>
+	      <l>Are darling of spirit and form.</l>
+	      <l>I know you—a glance, and what you are</l>
+	      <l>Sits-by-the-fire in my heart.</l>
+	      <l>My Limousine-Lady knows you, or</l>
+	      <l>Why does the slant-envy of her eye mark</l>
+	      <l>Your straight <choice><sic>air</sic><corr cert='low'>hair</corr></choice> and radiant inclusive smile?</l>
+	      <l>Guilt pins a fig-leaf; Innocence is its own adorning.</l>
+	      <l>The bull-necked man knows you—this first time</l>
+	      <l>His itching flesh sees form divine and vibrant health,</l>
+	      <l>And thinks not of his avocation.</l>
+	      <l>I came incuriously—</l>
+	      <pb n='159' />
+	      <l>Set on no diversion save that my mind</l>
+	      <l>Might safely nurse its brood of misdeeds</l>
+	      <l>In the presence of a blind crowd.</l>
+	      <l>The color of life was gray.</l>
+	      <l>Everywhere the setting seemed right</l>
+	      <l>For my mood!</l>
+	      <l>Here the sausage and garlic booth</l>
+	      <l>Sent unholy incense skyward;</l>
+	      <l>There a quivering female-thing</l>
+	      <l>Gestured assignations, and lied</l>
+	      <l>To call it dancing;</l>
+	      <l>There, too, were games of chance</l>
+	      <l>With chances for none;</l>
+	      <l>But oh! Girl-of-the-Tank, at last!</l>
+	      <l>Gleaming Girl, how intimately pure and free</l>
+	      <l>The gaze you send the crowd,</l>
+	      <l>As though you know the dearth of beauty</l>
+	      <l>In its sordid life.</l>
+	      <l>We need you—my Limousine Lady,</l>
+	      <l>The bull-necked man, and I.</l>
+	      <l>Seeing you here brave and water-clean,</l>
+	      <l>Leaven for the heavy ones of earth,</l>
+	      <l>I am swift to feel that what makes</l>
+	      <l>The plodder glad is good; and</l>
+	      <l>Whatever is good is God.</l>
+	      <l>The wonder is that you are here;</l>
+	      <l>I have seen the queer in queer places,</l>
+	      <l>But never before a heaven-fed</l>
+	      <l>Naiad of the Carnival-Tank!</l>
+	      <l>Little Diver, Destiny for you,</l>
+	      <l>Like as for me, is shod in silence;</l>
+	      <l>Years may seep into your soul</l>
+	      <l>The bacilli of the usual and the expedient;</l>
+	      <l>I implore Neptune to claim his child to-day!</l>
+	    </lg>
+
+
+	  </note> 
+	    Here I will companion <title level='a'><hi rend='italics'>The Harlem Dancer</hi></title> with 
+	    one from Mr. Dandridge, for the comparison will 
+	    deepen the effect of each:</p>
+
+	    <quote>
+	      <lg type='poem'>
+		<head>
+		  <title level='m'>ZALKA PEETRUZA</title>
+		  <title level='s'>(<hi rend='italics'>Who Was Christened Lucy Jane</hi>)</title>
+		</head>
+
+		<lg type='stanza'>
+		  <l>She danced, near nude, to tom-tom beat,</l>
+		  <l>With swaying arms and flying feet,</l>
+		  <l>'Mid swirling spangles, gauze and lace,</l>
+		  <l>Her all was dancing—save her face.</l>
+		</lg>
+		
+		<lg type='stanza'>
+		  <l>A conscience, dumb to brooding fears,</l>
+		  <l>Companioned hearing deaf to cheers;</l>
+		  <l>A body, marshalled by the will,</l>
+		  <l>Kept dancing while a heart stood still:</l>
+		</lg>
+
+		<lg type='stanza'>
+		  <l>And eyes obsessed with vacant stare</l>
+		  <l>Looked over heads to empty air,</l>
+		  <l>As though they sought to find therein</l>
+		  <l>Redemption for a maiden sin.</l>
+		</lg>
+
+		<lg type='stanza'>
+		  <l>'Twas thus, amid force-driven grace,</l>
+		  <l>We found the lost look on her face;</l>
+		  <l>And then, to us, did it occur</l>
+		  <l>That, though we saw—we saw no her.</l>
+		</lg>
+	      </lg>
+	    </quote>
+
+	    <p>Returning to Mr. McKay, we may assert that 
+	    his new volume of verse, <title level='m'>Harlem Shadows</title>, confirms
+	   
+	    <pb n='131' />
+
+	    and enhances the estimate of him we have 
+	    expressed.</p>
+	  </body>
+	</text>
+	<text type="supplementary" xml:id="supp_kerlin_negro-poets-and-their-poems_protest">
+	  <body>
+	    <head>
+	      <title>"Protest Poems." Excerpt from Kerlin, <title level='m'>Negro Poets and Their Poems</title></title>
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename type="first">Robert</forename> <forename type="middle">T.</forename> <surname>Kerlin</surname>
+		  </persName>
+		</author>
+		<title level="a">Protest Poems</title>
+		<title level="m">Negro Poets and Their Poems</title>
+		<date when="1923">1923</date>
+		<biblScope>126-131</biblScope>
+		<pubPlace>Washington, DC</pubPlace>
+		<publisher>Associated Publishers, Inc.</publisher>
+
+		<note>Copy consulted at <ref target='http://summit.syr.edu/vwebv/holdingsInfo?bibId=2593016'>Syracuse University Libraries</ref>.</note>
+	      </bibl>
+	    </head>
+	    <note type='editorial'>
+	      <p>This extract is taken from Kerlin's discussion of McKay in the seventh chapter, "The Poetry of Protest."</p>
+	    </note>
+
+	    <p>The Negro's deep resentment of his wrongs has 
+	    found its most artistic expression in the verse of 
+	    a poet who came to use from Jamaica—Mr. Claude 
+	    McKay. In <ref target="#supp_kerlin_negro-poets-and-their-poems">another chapter</ref> I have given the 
+	    reader an opportunity to judge his merits. He 
+
+	    <pb n='273' />
+	    
+	    will be represented here by a sonnet, written, I 
+	    believe, shortly after the race-riot in the national 
+	    capital, July, 1919. It has been widely reprinted 
+	    in the Negro newspapers,</p>
+
+	    <quote source="#if-we-must-die">
+	      <lg type='poem'>
+		<head>IF WE MUST DIE</head>
+		<lg type='octet'>
+		  <l>If we must die, let it not be like hogs</l>
+		  <l rend='indent1'>Hunted and penned in an inglorious spot,</l>
+		  <l>While round us bark the mad and hungry dogs,</l>
+		  <l rend='indent1'>Making their mock at our accursed lot.</l>
+		  <l>If we must die—oh, let us nobly die,</l>
+		  <l rend='indent1'>So that our precious blood may not be shed</l>
+		  <l>In vain; then even the monsters we defy</l>
+		  <l rend='indent1'>Shall be constrained to honor us, though dead!</l>
+		</lg>
+		
+		<lg type='sestet'>
+		  <l>Oh, kinsmen! We must meet the common foe;</l>
+		  <l rend='indent1'>Though far outnumbered, let us still be brave,</l>
+		  <l>And for their thousand blows deal on death-blow.</l>
+		  <l rend='indent1'>What though before us lies the open grave?</l>
+		  <l>Like men we'll face the murderous, cowardly pack,</l>
+		  <l rend='indent1'>Pressed to the wall, dying, but—fighting back!</l>
+		</lg>
+	      </lg>
+	    </quote>
+
+	    <p>Race consciousness has recently attained an 
+	    extraordinary pitch in the Negro, and there seems 
+	    to be no prospect of any abatement. The verse-smiths 
+	    one and all have borne witness to a feeling 
+	    of great intensity on all subjects pertaining to 
+	    their race—the discriminations and injustices 
+	    practised against it, the limitations that would be 
+	    imposed upon it, the contumelies that would offend 
+	    it. Ardent appeals are therefore made to race 
+	    pride and ardent exhortations to race unity. The 
+	   
+	    <pb n='274' />
+	   
+	    ancient rôle of the poet whereby he is identified 
+	    with the prophet is being resumed by the enkindled 
+	    souls of black men. With their natural gift 
+	    for music and eloquence, with their increasing 
+	    culture, with their building up of poetic tradition 
+	    now in process, with this intensification of race 
+	    consciousness, almost anything may be expected 
+	    of the Negro in another generation.</p>
+	    
+	  </body>
+	</text>
       </group>
     </group>
   </text>
