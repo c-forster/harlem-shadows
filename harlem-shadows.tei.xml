@@ -3023,7 +3023,19 @@
 	  <pb n="53" />
 
 	  <lg type = "poem" xml:id="if-we-must-die" rhyme="ababcdcdefefgg">
-	    <head>If We Must Die<app type="punctuation"><lem wit="#HS #Liberator-if" /><rdg wit="#Crusader-if-1919-09">.</rdg></app></head>
+	    <head>If We Must Die<app type="punctuation"><lem wit="#HS #Liberator-if" /><rdg wit="#Crusader-if-1919-09">.</rdg></app>
+	      <note type='editorial'><p>McKay recorded this poem for the Folkways <title level='m'>Anthology of Negro Poetry</title> published in connection with Arna Bontemps's edited collection of the same title.</p>
+	      <p>McKay introduced the poem on that recording:</p>
+	      <quote>
+	      <p>"If We Must Die" is the poem that makes me a poet among colored Americans. Yet frankly, I have never regarded myself as a Negro poet. I have always felt that my gift of song was something bigger than the narrow confining limits of any one people and its problems. Even though many of my themes were racial, I wrote my poems to make a universal appeal. When "If We Must Die" was first published in 1919 it was denounced by many conservative white leaders as evidence of a new spirit among Negroes. Senator Henry Cabot Lodge read it into the records of Congress, but times change, and so I was not at all surprised when during the Nazi air blitz on Britain, an English anthologist requested the use of "If We Must Die" for an anthology of verse. But I was surprised by what happened when I turned on my radio one morning in 1944. A commentator was telling about the death of a young, white American soldier on the Russian front. The commentator went on to say that the youth was a lover of poetry and he proceeded to read one of five poems which had been discovered on the death youth's body. And he read "If We Must Die." The commentator did not mention the name of the author, Claude McKay, nor did he state that the poem was the work of a colored man. Perhaps he did not know. But I felt profoundly gratified and justified. I felt assurance that "If We Must Die" was just what I intended it to be, a universal poem. And wherever men are pressed, with their backs against the wall, abused, outraged, and murdered, whether they are minorities or nations, black or brown or yellow or white, Catholics or Protestants or Pagans, fighting against the terror, "If We Must Die" could be appropriately read.</p></quote>
+		<p>Recordings of both the introduction and the poem itself can be found online.
+		  <list>
+		    <item><ref type='weblink' target='https://archive.org/details/IfWeMustDieIntroduction'>McKay Introducing "If We Must Die"</ref></item>
+		    <item><ref type='weblink' target='https://archive.org/details/ClaudeMckayIfWeMustDie'>McKay Reading "If We Must Die"</ref></item>
+		  </list>
+		</p>
+	      </note>
+	    </head>
 
 	    <note type="textual" resp="cf">
 	      <p>This poem first appeared in <ref target="#Liberator-if"><title level="j">The Liberator</title></ref> <date when="1919-07">(July, 1919</date>). It later appeared in:
@@ -3033,13 +3045,16 @@
 	      </list>
 	      </p>
 	      <p>In its appearances in <title level="j">The Liberator</title>, <title level="j">The Crusader</title>, and <title level="j">The Messenger</title>, the poem is broken into two distinct linegroups, an octet and sestet. In <title level="j">The Messenger</title> and <title level="j">The Crusader</title> even numbered lines are indented.</p>
-	      <p>When it appeared in <title level="j">The Messenger</title>, the poem was included in an editorial on (also titled "If We Must Die").</p>
+	      <p>When it appeared in <title level="j">The Messenger</title>, the poem was included in an <ref target="#supp_domingo_messenger_if-we-must-die">editorial</ref> (also titled "If We Must Die").</p>
 	    </note>
 
 	    <l>If we must die<app type='punctuation'><lem wit="#HS #Messenger-if #Crusader-if-1919-09">, </lem><rdg wit="#Liberator-if">—</rdg></app>let it not be like hogs</l>
 	    <l>Hunted and penned in an inglorious spot<app type="punctuation"><lem wit="#HS #Liberator-if">,</lem><rdg wit="#Crusader-if-1919-09">.</rdg></app></l>
 	    <l>While round us bark the mad and hungry dogs,</l>
-	    <l>Making their mock at our accursed lot.</l>
+	    <l>Making their mock at our <app type='orthography'>
+	                                  <lem wit='#HS'>accursèd</lem>
+					  <rdg wit='#Messenger-if #Crusader-if-1919-09 #Liberator-if'>accursed</rdg>
+	                                </app> lot.</l>
 	    <l>If we must die<app type='punctuation'><lem wit="#HS #Messenger-if">, </lem><rdg wit="#Liberator-if #Crusader-if-1919-09">—</rdg></app><app type='orthography'>
 	    <lem wit="#HS">O</lem>
 	    <rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">oh,</rdg></app> let us nobly die,</l>
@@ -6791,11 +6806,11 @@
 	<text type="supplementary" xml:id="supp_congressional-record">
 	  <body>
 	    <head>
-	      <title></title>
+	      <title>Letter from Commission on After-War Problems, Read into Congressional Record</title>
 	      <bibl>
 		<title level="a"></title>
 		<title level="j">Congressional Record</title>
-		<date when="1920">Summer, 1920</date>
+		<date when="1919">Summer, 1919</date>
 		<biblScope>55</biblScope>
 	      </bibl>
 
@@ -7452,6 +7467,72 @@
 	    consciousness, almost anything may be expected 
 	    of the Negro in another generation.</p>
 	    
+	  </body>
+	</text>
+	<text type="supplementary" xml:id="supp_investigation-of-communist-propaganda">
+	  <body>
+	    <head>
+	      <title>From the Record of The House of Representatives "Investigation of Communist Propaganda" (1930)</title>
+	      <bibl>
+		<title level="m">Investigation of Communist Propaganda</title>
+		<title level="s">Hearings Before a Special Committee to Invesitgate Communist Activities in the United States</title>
+		<date when="1930">1930</date>
+		<biblScope unit='pgs'>566</biblScope>
+	      </bibl>
+
+	      <note type="editorial">Text available from <ref target="http://congressional.proquest.com/congressional/docview/t29.d30.hrg-1930-ica-0017/">ProQuest</ref>.</note>
+	    </head>
+
+	    <p>The following poems taken from Claude McKay's Harlem Shadows, reflect 
+	    the spirit of resentment and militancy which characterizes the new negro in 
+	    America. McKay, a native of Jamaica, came to the United States in 1912, 
+	    where he pursued a checkered career. He was a student at Kansas State 
+	    Univeristy of two years, but his restless spirit drove him int othe field of 
+	    journalism. He was at one time associated with the Liberator and the 
+	    Masses, before visiting the Soviet Union in 1921. Since then McKay has 
+	    resided in Europe.</p>
+
+	    <quote source="#if-we-must-die">
+	    <lg type='poem'>
+	      <head>IF WE MUST DIE</head>
+	      
+	      <l>If we must die, let it not be like hogs</l>
+	      <l>Hunted and penned in an inglorious spot,</l>
+	      <l>While round us bark the mad and hungry dogs,</l>
+	      <l>Making thier mock at our accursed lot.</l>
+	      <l>If we must die, O let us nobly die,</l>
+	      <l>So that our precious blood may not be shed</l>
+	      <l>In vain; then even the monsters we defy</l>
+	      <l>Shall be constrained to honor us though dead!</l>
+	      <l>O kinsmen! We must meet the common foe!</l>
+	      <l>Though far outnumbered let us show us brave,</l>
+	      <l>And for their thousand blows deal one deathblow!</l>
+	      <l>What though before us lies the open grave?</l>
+	      <l>Like men we'll face the murderous, cowardly pack.</l>
+	      <l>Pressed to the wall, dying, but fighting back!</l>
+	    </lg>
+	    </quote>
+
+	    <quote source="#the-tired-worker">
+	      <lg type='poem'>
+		<head>THE TIRED WORKER</head>
+
+		<l>O whisper, O my soul! The afternoon</l>
+		<l>Is waning into evening, whisper soft!</l>
+		<l>Peace, O my rebel heart, for soon the moon</l>
+		<l>From out its misty veil will swing aloft!</l>
+		<l>Be patient, weary body, soon the night</l>
+		<l>Will wrap thee gently in her sable sheet,</l>
+		<l>And with a leaden sigh thou wilt invite</l>
+		<l>To rest thy tired hands and aching feet.</l>
+		<l>The wretched day was theirs, the night is mine;</l>
+		<l>Come, tender sleep, and fold me to thy breast.</l>
+		<l>But what steals out the gray clouds red like wine?</l>
+		<l>O dawn! O dreaded dawn! O let me rest—</l>
+		<l>Weary my veins, my brain, my life! Have pity!</l>
+		<l>No! Once again the harsh, the ugly city.</l>
+	      </lg>
+	    </quote>
 	  </body>
 	</text>
       </group>
