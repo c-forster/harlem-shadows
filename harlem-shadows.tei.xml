@@ -874,7 +874,7 @@
 	    </biblStruct>
 	  </witness>
 
-	  <witness xml:id="Crusader-if-1919-09">
+	  <witness xml:id="Crusader-if">
 	    <biblStruct>
 	      <analytic>
 		<author>Claude McKay</author>
@@ -3023,7 +3023,7 @@
 	  <pb n="53" />
 
 	  <lg type = "poem" xml:id="if-we-must-die" rhyme="ababcdcdefefgg">
-	    <head>If We Must Die<app type="punctuation"><lem wit="#HS #Liberator-if" /><rdg wit="#Crusader-if-1919-09">.</rdg></app>
+	    <head>If We Must Die<app type="punctuation"><lem wit="#HS #Liberator-if" /><rdg wit="#Crusader-if">.</rdg></app>
 	      <note type='editorial'><p>McKay recorded this poem for the Folkways <title level='m'>Anthology of Negro Poetry</title> published in connection with Arna Bontemps's edited collection of the same title.</p>
 	      <p>McKay introduced the poem on that recording:</p>
 	      <quote>
@@ -3041,41 +3041,41 @@
 	      <p>This poem first appeared in <ref target="#Liberator-if"><title level="j">The Liberator</title></ref> <date when="1919-07">(July, 1919</date>). It later appeared in:
 	      <list>
 		<item><ref target="#Messenger-if"><title level="j">The Messenger</title></ref> <date when="1919-09">(September, 1919)</date>.</item>
-		<item><ref target="#Crusader-if-1919-09"><title level="j">The Crusader</title></ref> <date when="1919-09">(September, 1919)</date>.</item>
+		<item><ref target="#Crusader-if"><title level="j">The Crusader</title></ref> <date when="1919-09">(September, 1919)</date>.</item>
 	      </list>
 	      </p>
 	      <p>In its appearances in <title level="j">The Liberator</title>, <title level="j">The Crusader</title>, and <title level="j">The Messenger</title>, the poem is broken into two distinct linegroups, an octet and sestet. In <title level="j">The Messenger</title> and <title level="j">The Crusader</title> even numbered lines are indented.</p>
 	      <p>When it appeared in <title level="j">The Messenger</title>, the poem was included in an <ref target="#supp_domingo_messenger_if-we-must-die">editorial</ref> (also titled "If We Must Die").</p>
 	    </note>
 
-	    <l>If we must die<app type='punctuation'><lem wit="#HS #Messenger-if #Crusader-if-1919-09">, </lem><rdg wit="#Liberator-if">—</rdg></app>let it not be like hogs</l>
-	    <l>Hunted and penned in an inglorious spot<app type="punctuation"><lem wit="#HS #Liberator-if">,</lem><rdg wit="#Crusader-if-1919-09">.</rdg></app></l>
+	    <l>If we must die<app type='punctuation'><lem wit="#HS #Messenger-if #Crusader-if">, </lem><rdg wit="#Liberator-if">—</rdg></app>let it not be like hogs</l>
+	    <l>Hunted and penned in an inglorious spot<app type="punctuation"><lem wit="#HS #Liberator-if">,</lem><rdg wit="#Crusader-if">.</rdg></app></l>
 	    <l>While round us bark the mad and hungry dogs,</l>
 	    <l>Making their mock at our <app type='orthography'>
 	                                  <lem wit='#HS'>accursèd</lem>
-					  <rdg wit='#Messenger-if #Crusader-if-1919-09 #Liberator-if'>accursed</rdg>
+					  <rdg wit='#Messenger-if #Crusader-if #Liberator-if'>accursed</rdg>
 	                                </app> lot.</l>
-	    <l>If we must die<app type='punctuation'><lem wit="#HS #Messenger-if">, </lem><rdg wit="#Liberator-if #Crusader-if-1919-09">—</rdg></app><app type='orthography'>
+	    <l>If we must die<app type='punctuation'><lem wit="#HS #Messenger-if">, </lem><rdg wit="#Liberator-if #Crusader-if">—</rdg></app><app type='orthography'>
 	    <lem wit="#HS">O</lem>
-	    <rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">oh,</rdg></app> let us nobly die,</l>
+	    <rdg wit="#Liberator-if #Messenger-if #Crusader-if">oh,</rdg></app> let us nobly die,</l>
 	    <l>So that our precious blood may not be shed</l>
 	    <l>In vain; then even the monsters we defy</l>
-	    <l>Shall be constrained to honor us<app type='punctuation'><lem wit="#HS #Liberator-if" /><rdg wit="#Messenger-if #Crusader-if-1919-09">,</rdg></app> though dead!</l>
+	    <l>Shall be constrained to honor us<app type='punctuation'><lem wit="#HS #Liberator-if" /><rdg wit="#Messenger-if #Crusader-if">,</rdg></app> though dead!</l>
 	    <l><app type='orthography'>
 	      <lem wit="#HS">O</lem>
-	      <rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">Oh,</rdg>
+	      <rdg wit="#Liberator-if #Messenger-if #Crusader-if">Oh,</rdg>
 	      </app> kinsmen! <app type='orthography'>
 	      <lem wit="#HS">we</lem>
-	      <rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">We</rdg>
-	    </app> must meet the common foe<app type='punctuation'><lem wit="#HS">!</lem><rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">;</rdg></app></l>
-	    <l>Though far outnumbered<app type='punctuation'><lem wit="#HS #Liberator-if" /><rdg wit="#Messenger-if #Crusader-if-1919-09">,</rdg></app> let us <app type='phrase'>
+	      <rdg wit="#Liberator-if #Messenger-if #Crusader-if">We</rdg>
+	    </app> must meet the common foe<app type='punctuation'><lem wit="#HS">!</lem><rdg wit="#Liberator-if #Messenger-if #Crusader-if">;</rdg></app></l>
+	    <l>Though far outnumbered<app type='punctuation'><lem wit="#HS #Liberator-if" /><rdg wit="#Messenger-if #Crusader-if">,</rdg></app> let us <app type='phrase'>
 	    <lem wit="#HS">show us</lem>
-	    <rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">still be</rdg>
-	    </app> brave<app type='punctuation'><lem wit="#HS #Liberator-if #Crusader-if-1919-09">,</lem><rdg wit="#Messenger-if">.</rdg></app></l>
+	    <rdg wit="#Liberator-if #Messenger-if #Crusader-if">still be</rdg>
+	    </app> brave<app type='punctuation'><lem wit="#HS #Liberator-if #Crusader-if">,</lem><rdg wit="#Messenger-if">.</rdg></app></l>
 	    <l>And for their thousand blows deal one death-blow!</l>
 	    <l>What though before us lies the open grave?</l>
 	    <l>Like men we'll face the murderous, cowardly pack,</l>
-	    <l>Pressed to the wall, dying, but<app type='punctuation'><lem wit="#HS">&#160;</lem><rdg wit="#Liberator-if #Messenger-if #Crusader-if-1919-09">—</rdg></app>fighting back!</l>
+	    <l>Pressed to the wall, dying, but<app type='punctuation'><lem wit="#HS">&#160;</lem><rdg wit="#Liberator-if #Messenger-if #Crusader-if">—</rdg></app>fighting back!</l>
 	  </lg>
 	  
 	  <pb n="54" />
@@ -4879,106 +4879,121 @@
 	  </body>
 	</text>
 
-	<text type="review" xml:id="review_harrison-poetry">
+	<text type="review" xml:id="review_walrond_book-notes">
 	  <body>
 	    <head>
-	      <title>Poetry of Claude McKay [Review of <title level="m">Spring in New Hampshire and Other Poems</title>]</title>
+	      <title>"Book Notes" [Review of <title level='m'>Harlem Shadows</title>] by Eric D. Walrond</title>
+
 	      <bibl>
 		<author>
 		  <persName>
-		    <forename type="first">Hubert</forename> <surname>Harrison</surname>
+		    <forename>Eric</forename> <surname>Walrond</surname>
 		  </persName>
 		</author>
-		<title level="a">Poetry of Claude McKay</title>
-		<title level="j">Negro World</title>
-		<date when="1921-05-21">May 21, 1921</date>
-		<note>Text of this review is taken from Jeffery B. Perry's <title level="m">Hubert Harrison Reader</title> (Middleton, CT: Wesleyan University Press, 2001).</note>
+		<title level="a">Book Notes</title>
+		<title type ="main" level="j">The Negro World</title>
+		<date when="1922-05-06">May 6, 1922</date>
+		<biblScope>Vol. 3, no. 12: 4</biblScope>
 	      </bibl>
 	    </head>
 
-	    <p>The island of Jamaica has given us three Negroes who, along different lines, have risen 
-	    into permanent prominence: Marcus Garvey, president of the Black Star Line and head 
-	    of the most widely discussed movement in modern Negrodom; Joel A. Rogers, author 
-	    of two books which stand without a peer in the output of Negro writing (<title level="m">From Superman
-	    to Man</title> and <title level="m">As Nature Leads</title>); and Claude McKay, whose proud title to distinction 
-	    consists of two simple words: The Poet. Mr. McKay began to write poetry before he left 
-	    Jamaica, where he published three volumes of verse. Unfortunately (for us) his interest 
-	    in his own fame is so slim that he did not take the trouble to preserve any copies of 
-	    these earlier volumes, and we are left to speculate as to their quality.</p>
+	    <p>HARLEM SHADOWS, by Claude McKay (Harcourt, Brace, &amp; Co, New York).</p>
 
-	    <p>Since he came to America Mr. McKay has worked at various jobs, depending firstly
-	    on his hands to earn a living for himself. While on one of these jobs he was "discovered" 
-	    by <title level="j">Pearson's Magazine</title> and Max Eastman's <title level="j">Liberator</title> of which he is at present associate 
-	    editor. He has come to the fore by sheer virtue of the spiritual quality of poetic ability 
-	    which no hardships could suppress. Without any aid from Negro editors or publications 
-	    he made his way because white people who noted his gifts were eager to give him 
-	    a chance while Negro editors, as usual, were either too blind to see or too mean-spirited 
-	    to proclaim them to the world. His manly, stirring poem, "If We Must Die," first appeared 
-	    in a white publication from which it was elevated to the dignity of a place in the 
-	    <title level="j">Congressional Record</title>. It was then that the Negro reading public discovered him for 
-	    themselves without any aid from their top-lofty mentors who are always "ready to bring 
-	    forward young writers"—after they have been proclaimed by white critics.</p>
+	    <p>After swallowing these poems (as I 
+	    did), one is able to appreciate why 
+	    Claude McKay is idolized by lovers of 
+	    the beautiful in poetry. Every poem 
+	    is a gem—not a mediocre one is in the 
+	    entire batch. Yes, we risk saying that, 
+	    despite our limited knowledge of the 
+	    fundamentals of poetry. As George 
+	    Santayana says, Claude McKay "paints 
+	    in again into the landscape the tints 
+	    which the intellect has allowed to fade 
+	    from it."</p>
 
-	    <p>Mr. McKay's slim little volume, <title level="m">Spring in New Hampshire and Other Poems</title>, which 
-	    was published last year in London, is now before us. It reveals the author as a poet with 
-	    a fine delicate technique and a curiously cultivated restraint. It is equally free from 
-	    jingling and splurging and from the flaring fan-<choice><sic>tolds</sic><corr resp="cf" cert="low">folds</corr></choice> of the free-verse comedians who 
-	    now hold the centre of the stage in that garish masquerade entitled "The New Poetry." 
-	    The genuine breath of the tropics is felt in most of these poems, yet it seldom blows tornado 
-	    blasts. The fine artistic feeling of the poet controls and tempers it to fine effects. 
-	    Take, for instance, the last ten lines of "North and South":</p>
-
-	    <quote source="#north-and-south">
+	    <quote source='#to-one-coming-north'>
 	      <lg>
-		<l>A breadth of idleness is in the air</l>
-		<l rend="indent1">That casts a subtle spell upon all things,</l>
-		<l>And love and mating-time are every-where,</l>
-		<l rend="indent1">And wonder to life's commonplaces clings.</l>
-		<l>The fluttering humming-bird darts through the trees</l>
-		<l rend="indent1">And dips his long break in the big bell-flowers,</l>
-		<l>The leisured buzzard floats upon the breeze</l>
-		<l rend="indent1">Riding a crescent cloud for endless hours;</l>
-		<l>The sea beats softly on the emerald strands—</l>
-		<l rend="indent1">O sweet for dainty dreams are tropic lands!</l>
+		<l rend='indent1'>Like white moths trembling on the tropic air.</l>
+		<l>Or waters of the hills that softly flow</l>
+		<l rend='indent1'>Gracefully falling down a shining stair.</l>
 	      </lg>
 	    </quote>
 
-	    <p>It would have been very easy to vulgarize such a theme, to indulge in what Amy Lowell 
-	    calls "lazy writing," and to tread the common ground of commonplace figures. Instead, 
-	    we find that the words and the measure create <choice><sic>and</sic><corr resp="cf" cert="low">an</corr></choice> appropriate tone-color (or 
-	    "atmosphere") in which the scene is set, and the nuances make a something that is finer 
-	    than melody. The fourth line of the quoted portion is the golden touch of genius.</p>
+	    <p>We have been hearing quite a deal 
+	    recently about the virtues (?) of the 
+	    women in Claude McKay's poems. 
+	    Essentially an artist, it is not always 
+	    easy to feel the pulse of the master 
+	    poet. It is not condescending to say 
+	    that the Negro, educated though he 
+	    may be, is devoid of the true artistic 
+	    outlook. Experience is what counts 
+	    in an artist's life. Lafcadio Hearn 
+	    used to advise his Japanese students 
+	    not to bother with books, but to go 
+	    out in the large arena of life and 
+	    there get ideas. Super-artist that he 
+	    is, Claude McKay has done the very 
+	    thing. Experience has been the mother 
+	    of his poetry. And this, understand, 
+	    is foreign—entirely so—to the life and 
+	    character of the artist. One may be 
+	    with the mob and yet not be of it!</p>
 
-	    <p>Sometimes the hidden melody of his verse is so fine that those who think that poetry 
-	    is compounded of jingles and junk will fail to find it. But there it is just the same, like a 
-	    theme of [Edward Alexander] McDowell's, waiting for the ear of beauty to find it, as in 
-	    this half-stanza of his "Exhortation" (to Ethiopia):</p>
-
-	    <quote source="#exhortation">
+	    <quote source='#baptism'>
 	      <lg>
-		<l>In the East the clouds grow crimson with the new dawn that is breaking,</l>
-		<l rend="indent1">And its golden glory fills the western skies:—</l>
-		<l rend="indent1">Oh my brothers and my sisters, wake! Arise!</l>
-		<l>For the new birth rends the old earth, and the very dead are waking.</l>
-		<l rend="indent1">Ghosts are turned flesh, throwing off the grave's disguise,</l>
-		<l rend="indent1">And the foolish—even children—are made wise;</l>
-		<l>For the big earth groans in travail for the strong, new world in making—</l>
-		<l rend="indent1">Oh my brothers, dreaming for long centuries,</l>
-		<l rend="indent1">Wake from sleeping: to the East turn, turn your eyes!</l>
+		<l>Into the furnace let me go alone:</l>
+		<l>Stay you without in terror of the heat.</l>
+		<l>I will go naked in—for thus 'tis sweet—</l>
+		<l>Into the weird depths of the hottest zone.</l>
+		<l>I will not quiver in the frailest bone,</l>
+		<l>You will not note a flicker of defeat:</l>
+		<l>My heart shall tremble not its fate to meet.</l>
+		<l>My mouth give utterance to any moan.</l>
+		<l>The yawning over spits forth fiery spears:</l>
+		<l>Red aspish tongues shout wordlessly my name.</l>
+		<l>Desire destroys, consumes my mortal fears,</l>
+		<l>Transforming me into a shape of flame.</l>
+		<l>I will come out, back to your world of tears.</l>
+		<l>A stronger soul within a finer frame.</l>
 	      </lg>
 	    </quote>
 
-	    <p>This will stand the test of thinking and that quality of thought stands out in most of 
-	    Mr. McKay's work. He means something. He doesn't let the rhyme rule the thought nor 
-	    the ink guide the pen.</p>
+	    <p>There, in so many lines, is the poet-artist's 
+	    philosophy. It would be well 
+	    to bear it in mind in passing judgment 
+	    on McKay, the man.</p>
+	    
+	    <p>But the one, next to "If We Must 
+	    Die," which will probably find a snug 
+	    place in the enflamed breasts of the 
+	    propagandists and the black proletariat, 
+	    is "Enslaved."</p>
 
-	    <p>Perhaps the most arresting poem in this volume is the one entitled <ref target="#a-memory-of-june">"A Memory of 
-	    June."</ref> Its theme is too intimate for reproduction here; but it is the one in which our 
-	    poet comes nearest to letting himself go. <ref target="#the-lynching">"The Lynching,"</ref> <ref target="#on-broadway">"On Broadway,"</ref> <ref target="#harlem-shadows">"Harlem Shadows,"</ref> and <ref target="#the-harlem-dancer">"The Harlem Dancer"</ref> are noteworthy presentations of familiar themes.</p>
+	    <quote source='#enslaved'>
+	      <lg>
+		<l>Oh, when I think of my long-suffering race,</l>
+		<l>For weary centuries despised, oppressed,</l>
+		<l>Enslaved and lynched, denied a human place</l>
+		<l>In the great life line of the Christian West,</l>
+		<l>And in the Black Land <unclear cert='high'>disinherited,</unclear></l>
+		<l>Robbed in the ancient country <unclear cert='high'>of its</unclear> birth,</l>
+		<l>My heart grows sick with hate, becomes as lead</l>
+		<l>For this my race that has no home on earth.</l>
+		<l>Then from the dark depths of my soul I cry</l>
+		<l>To the avenging angel to consume</l>
+		<l>The white man's world of wonders utterly:</l>
+		<l>Let it be swallowed up in earth's vast womb,</l>
+		<l>Or upward roll as sacrificial smoke</l>
+		<l>To liberate my people from its yoke!</l>
+	      </lg>
+	    </quote>
+	    
+	    <p>Altogether it is a wondrous collection, 
+	    and indispensable to any representative 
+	    collection of Negro poetry.</p>
 
-	    <p>We feel that the work of this poet should be better known. It is high in aim, in 
-	    thought, in technique. And we gladly bespeak for this volume of genuine poetry a place 
-	    in the affection of our folk.</p>
 	  </body>
 	</text>
 
@@ -5221,6 +5236,109 @@
 	  </body>
 	</text>
 
+<text type="review" xml:id="review_harrison-poetry">
+	  <body>
+	    <head>
+	      <title>Poetry of Claude McKay [Review of <title level="m">Spring in New Hampshire and Other Poems</title>]</title>
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename type="first">Hubert</forename> <surname>Harrison</surname>
+		  </persName>
+		</author>
+		<title level="a">Poetry of Claude McKay</title>
+		<title level="j">Negro World</title>
+		<date when="1921-05-21">May 21, 1921</date>
+		<note>Text of this review is taken from Jeffery B. Perry's <title level="m">Hubert Harrison Reader</title> (Middleton, CT: Wesleyan University Press, 2001).</note>
+	      </bibl>
+	    </head>
+
+	    <p>The island of Jamaica has given us three Negroes who, along different lines, have risen 
+	    into permanent prominence: Marcus Garvey, president of the Black Star Line and head 
+	    of the most widely discussed movement in modern Negrodom; Joel A. Rogers, author 
+	    of two books which stand without a peer in the output of Negro writing (<title level="m">From Superman
+	    to Man</title> and <title level="m">As Nature Leads</title>); and Claude McKay, whose proud title to distinction 
+	    consists of two simple words: The Poet. Mr. McKay began to write poetry before he left 
+	    Jamaica, where he published three volumes of verse. Unfortunately (for us) his interest 
+	    in his own fame is so slim that he did not take the trouble to preserve any copies of 
+	    these earlier volumes, and we are left to speculate as to their quality.</p>
+
+	    <p>Since he came to America Mr. McKay has worked at various jobs, depending firstly
+	    on his hands to earn a living for himself. While on one of these jobs he was "discovered" 
+	    by <title level="j">Pearson's Magazine</title> and Max Eastman's <title level="j">Liberator</title> of which he is at present associate 
+	    editor. He has come to the fore by sheer virtue of the spiritual quality of poetic ability 
+	    which no hardships could suppress. Without any aid from Negro editors or publications 
+	    he made his way because white people who noted his gifts were eager to give him 
+	    a chance while Negro editors, as usual, were either too blind to see or too mean-spirited 
+	    to proclaim them to the world. His manly, stirring poem, "If We Must Die," first appeared 
+	    in a white publication from which it was elevated to the dignity of a place in the 
+	    <title level="j">Congressional Record</title>. It was then that the Negro reading public discovered him for 
+	    themselves without any aid from their top-lofty mentors who are always "ready to bring 
+	    forward young writers"—after they have been proclaimed by white critics.</p>
+
+	    <p>Mr. McKay's slim little volume, <title level="m">Spring in New Hampshire and Other Poems</title>, which 
+	    was published last year in London, is now before us. It reveals the author as a poet with 
+	    a fine delicate technique and a curiously cultivated restraint. It is equally free from 
+	    jingling and splurging and from the flaring fan-<choice><sic>tolds</sic><corr resp="cf" cert="low">folds</corr></choice> of the free-verse comedians who 
+	    now hold the centre of the stage in that garish masquerade entitled "The New Poetry." 
+	    The genuine breath of the tropics is felt in most of these poems, yet it seldom blows tornado 
+	    blasts. The fine artistic feeling of the poet controls and tempers it to fine effects. 
+	    Take, for instance, the last ten lines of "North and South":</p>
+
+	    <quote source="#north-and-south">
+	      <lg>
+		<l>A breadth of idleness is in the air</l>
+		<l rend="indent1">That casts a subtle spell upon all things,</l>
+		<l>And love and mating-time are every-where,</l>
+		<l rend="indent1">And wonder to life's commonplaces clings.</l>
+		<l>The fluttering humming-bird darts through the trees</l>
+		<l rend="indent1">And dips his long break in the big bell-flowers,</l>
+		<l>The leisured buzzard floats upon the breeze</l>
+		<l rend="indent1">Riding a crescent cloud for endless hours;</l>
+		<l>The sea beats softly on the emerald strands—</l>
+		<l rend="indent1">O sweet for dainty dreams are tropic lands!</l>
+	      </lg>
+	    </quote>
+
+	    <p>It would have been very easy to vulgarize such a theme, to indulge in what Amy Lowell 
+	    calls "lazy writing," and to tread the common ground of commonplace figures. Instead, 
+	    we find that the words and the measure create <choice><sic>and</sic><corr resp="cf" cert="low">an</corr></choice> appropriate tone-color (or 
+	    "atmosphere") in which the scene is set, and the nuances make a something that is finer 
+	    than melody. The fourth line of the quoted portion is the golden touch of genius.</p>
+
+	    <p>Sometimes the hidden melody of his verse is so fine that those who think that poetry 
+	    is compounded of jingles and junk will fail to find it. But there it is just the same, like a 
+	    theme of [Edward Alexander] McDowell's, waiting for the ear of beauty to find it, as in 
+	    this half-stanza of his "Exhortation" (to Ethiopia):</p>
+
+	    <quote source="#exhortation">
+	      <lg>
+		<l>In the East the clouds grow crimson with the new dawn that is breaking,</l>
+		<l rend="indent1">And its golden glory fills the western skies:—</l>
+		<l rend="indent1">Oh my brothers and my sisters, wake! Arise!</l>
+		<l>For the new birth rends the old earth, and the very dead are waking.</l>
+		<l rend="indent1">Ghosts are turned flesh, throwing off the grave's disguise,</l>
+		<l rend="indent1">And the foolish—even children—are made wise;</l>
+		<l>For the big earth groans in travail for the strong, new world in making—</l>
+		<l rend="indent1">Oh my brothers, dreaming for long centuries,</l>
+		<l rend="indent1">Wake from sleeping: to the East turn, turn your eyes!</l>
+	      </lg>
+	    </quote>
+
+	    <p>This will stand the test of thinking and that quality of thought stands out in most of 
+	    Mr. McKay's work. He means something. He doesn't let the rhyme rule the thought nor 
+	    the ink guide the pen.</p>
+
+	    <p>Perhaps the most arresting poem in this volume is the one entitled <ref target="#a-memory-of-june">"A Memory of 
+	    June."</ref> Its theme is too intimate for reproduction here; but it is the one in which our 
+	    poet comes nearest to letting himself go. <ref target="#the-lynching">"The Lynching,"</ref> <ref target="#on-broadway">"On Broadway,"</ref> <ref target="#harlem-shadows">"Harlem Shadows,"</ref> and <ref target="#the-harlem-dancer">"The Harlem Dancer"</ref> are noteworthy presentations of familiar themes.</p>
+
+	    <p>We feel that the work of this poet should be better known. It is high in aim, in 
+	    thought, in technique. And we gladly bespeak for this volume of genuine poetry a place 
+	    in the affection of our folk.</p>
+	  </body>
+	</text>
+
 	<text type="review" xml:id="review_kirnon-claude">
 	  <body>
 	    <head>
@@ -5231,86 +5349,139 @@
 		    <forename type="first">Hodge</forename> <surname>Kirnon</surname>
 		  </persName>
 		</author>
-		<title level="a">Claude McKay's <title level="m">Harlem Shadows</title>: An Appreciation</title>
+		<title level="a">Claude M'Kay's <title level="m">"Harlem Shadows"</title>: An Appreciation</title>
 		<title level="j">Negro World</title>
-		<date when="1922-05-26">May 26, 1922</date>
-		<note type="textual">The text of this review is taken from Tony Martin's <title level='m'>African Fundamentalism: A Literary and Cultural Anthology of Garvey's Harlem Renaissance</title> (Dover, MA: Majority Press, 1991): 69-70. Publication information comes from Cooper, <title level="m">Claude McKay: Rebel Sojourner in the Harlem Renaissance</title> (Baton Rouge: Louisiana State Univ. Press, 1987): 400:n83.</note>
+		<date when="1922-06-03">June 3, 1922</date>
+		<biblScope>Vol. XII, no. 16, pg. 6</biblScope>
+		<note type="textual">
+		  <p>Text of this review taken from microfilm held by <ref target='http://catalog.lib.msu.edu/record=b4852782~S1a'>Michigan State University Library</ref>, made available through the magic and generosity of interlibrary loan.</p>
+		  <p>The text of this review is also collected in Tony Martin's <title level='m'>African Fundamentalism: A Literary and Cultural Anthology of Garvey's Harlem Renaissance</title> (Dover, MA: Majority Press, 1991): 69-70. Cooper, <title level="m">Claude McKay: Rebel Sojourner in the Harlem Renaissance</title> (Baton Rouge: Louisiana State Univ. Press, 1987): 400:n83 misdates this review to May 25, 1922.</p>
+		</note>
 		<note type="editorial">Cooper calls this "perhaps the longest and most appreciative review of <title level="j">Harlem Shadows</title>. Cooper quotes a letter from McKay to Kirnon in which McKay praises Kirnon's "real feeling" for his poetry. "I am so sick of pretentious critics posturing about creative work which they haven't the understanding heart to comprehend" (qtd. in Cooper 165-166).</note>
 	      </bibl>
 	    </head>
 
-	    <p>This simple appreciation of Claude McKay's poems is done in obedience to 
-	    an appreciative urge which is too strong and insistent to be ignored entirely. 
-	    I trust that my readers will try and study it in the spirit in which it is offered. 
-	    It is not a boost. Indeed, I can lay no claim to this peculiar virtue, if it is really 
-	    such.</p>
+	    <p>This simple appreciation of Claude 
+	    McKay's poems is done in obedience to 
+	    an appreciative urge which is too 
+	    strong and insistent to be ignored entirely. 
+	    I trust that my readers will 
+	    try and study it in the spirit in 
+	    which it is offered. It is not a boost. 
+	    Indeed, I can lay no claim to this particular 
+	    virtue, if it is really such.</p>
 
-	    <p>I remember first reading of Claude McKay in <title level='j'>Pearson's Magazine</title>. I think 
-	    it was in the summer of 1918. I was then living out of this city. It was an autobiographical sketch with a few of his poems appended. I took no 
-	    particular in the writer or his poems at this time. In fact, I mislaid the magazine before I had the opportunity of rereading the article. Then at a later 
-	    date I cam across a poem entitled "Soul and Body" in Pearson's written by 
-	    McKay. This poem made a profound impression upon me. From then up to 
-	    this time I have entertained a profound interest and admiration for the 
+	    <p>I remember first reading of Claude 
+	    McKay in <ref target='#supp_mckay_claude-mackay-describes'><title level='j'>Pearson's Magazine</title></ref>. I think 
+	    it was in the summer of 1918. I was 
+	    then living out of this city. It was 
+	    an autobiographical sketch with a few 
+	    of his poems appended. I took no particular 
+	    interest in the writer or his 
+	    poems at this time. In fact, I mislaid 
+	    the magazine before I had the opportunity 
+	    of rereading the article. Then 
+	    at a later date I came across a poem 
+	    entitled "Soul and Body" in Pearson's 
+	    written by McKay. This poem made 
+	    a profound impression upon me. From 
+	    then up to this time I have entertained 
+	    a profound interest and admiration for the 
 	    writings of Mr. McKay.</p>
 
-	    <p>In <title level='m'>Harlem Shadows</title> Claude McKay appears at good advantage. He 
-	    exhibits ability and talent of no mean merit. I was suspicious of the soundness of 
-	    Mr. Eric Walrond's ... <title level='j'>Negro World</title> review when he said that there was 
-	    not a mediocre poem in the entire lot. But I now fully endorse his opinion 
-	    with added emphasis. In every poem there is exhibited a remarkable and 
-	    subtle balancing of thought and emotion of a nature that is rare indeed.
-	    Nothing really essential to goody poetry is over-emphasized or sacrificed. A 
-	    wonderful sense of harmony and completeness prevails throughout the entire 
-	    volume. There is nowhere any attempt at being clever, big or showy. There 
-	    is a complete absence of <sic resp="cf" cert="high">affection</sic>. His power lies in his simplicity. He does 
-	    not choose "big" themes. He absolutely refuses to be imposed upon by 
-	    himself with shallow and hollow pretenses. He follows with an unpretentious 
-	    docility, his natural inclinations in the selection of themes. He seems to write 
-	    under no other urge than that of natural impulse, and what seems strangely 
-	    interesting is that his knowledge and impulse seem so strained towards 
-	    perfection that no subject is being ill-treated by lack of treatment of over-treatment.</p>
+	    <p>In <title level='m'>Harlem Shadows</title> Claude McKay 
+	    appears at good advantage. He exhibits 
+	    ability and talent of no mean 
+	    merit. I was suspicious of the soundness of 
+	    Mr. Eric Walrond, of the 
+	    <ref target='#review_walrond_book-notes'><title level='j'>Negro World</title> review</ref> when he said that 
+	    there was not a mediocre poem in the entire 
+	    lot. But I now fully endorse his 
+	    opinion with added emphasis. In every 
+	    poem there is exhibited a remarkable 
+	    and subtle balancing of thought and 
+	    emotion of a nature that is rare indeed.
+	    Nothing really essential to goody poetry 
+	    is over-emphasized or sacrificed. A 
+	    wonderful sense of harmony and completeness 
+	    prevails throughout the entire 
+	    volume. There is nowhere any 
+	    attempt at being clever, big or showy. 
+	    There is a complete absence of affectation. 
+	    His power lies in his simplicity. 
+	    He does not choose "big" themes. He 
+	    absolutely refuses to be imposed upon 
+	    by himself with shallow and hollow
+	    <choice><orig>pretences</orig><corr>pretenses</corr></choice>. He follows with an unpretentious 
+	    docility, his natural inclinations 
+	    in the selection of themes. He 
+	    seems to write under no other urge 
+	    than that of natural impulse, and what 
+	    seems strangely interesting is that his 
+	    knowledge and impulse seem so trained 
+	    towards perfection that no subject is 
+	    being ill-treated by lack of treatment 
+	    of overtreatment.</p>
 
-	    <p>It is to Mr. McKay's credit that he does not specialize in any sort of 
-	    propaganda themes, whether they be racial or otherwise. The big soul is 
-	    universal. There are very few of his poems that would not make a universal 
-	    human appeal regardless of time, place or circumstances. The spirit and 
-	    thoughts expressed in his work are fundamental life experiences in some 
-	    form or other in all human beings.</p>
+	    <p>It is to Mr. McKay's credit that he 
+	    does not specialize in any sort of propaganda 
+	    themes, whether they be racial 
+	    or otherwise. The big soul is universal. 
+	    There are very few of his poems that 
+	    would not make a universal human appeal 
+	    regardless of time, place or circumstance. 
+	    The spirit and thoughts 
+	    expressed in his work are fundamental 
+	    life experiences in some form or other 
+	    in all human beings.</p>
 
-	    <p>In order of arrangement the poem, "America," makes a very powerful 
-	    appeal to me. I quote the first four lines:</p>
+	    <p>In order of arrangement the poem, 
+	    "America," makes a very powerful appeal 
+	    to me. I quote the first four lines:</p>
 
-	    <quote>
+	    <quote source='#america'>
 	      <lg>
 		<l>Although she feeds me bread of bitterness,</l>
-		<l>And sinks into my throat her tiger's tooth,</l>
+		<l rend='indent1'>And sinks into my throat her tiger's tooth,</l>
 		<l>Stealing my breath of life, I will confess</l>
-		<l>I love this cultured hell that tests my youth!</l>
+		<l rend='indent1'>I love this cultured hell that tests my youth!</l>
 	      </lg>
 	    </quote>
 
-	    <p>The last line truly expresses in a most satisfactory manner what I have 
-	    always felt and thought to be the main redeeming feature of America. And I 
-	    daresay many other aliens like myself have felt and thought in like manner 
+	    <p>The last line truly expresses in a 
+	    most satisfactory manner what I have 
+	    always felt and thought to be the main 
+	    redeeming feature of America. And I 
+	    daresay many other aliens like myself 
+	    have felt and thought in like manner 
 	    without ever giving them expression.</p>
 
-	    <p>McKay penetrates and probes to a depth not to be easily surpassed, the 
-	    spiritual isolation and loneliness which many of us—rich and poor, white 
-	    and black—have felt quite often in the heart of the noise and bustle of this 
-	    great city in the poem "On Broadway." He speaks for the many lonely, 
-	    struggling, straggling souls that are stranded in awful loneliness amidst the 
-	    great crowd.</p>
+	    <p>McKay penetrates and probes to a 
+	    depth not to be easily surpassed the 
+	    spiritual isolation and loneliness which 
+	    many of us—rich and poor, white and 
+	    black—have felt quite often in the 
+	    heart of the noise and bustle of this 
+	    great city in the poem <ref target='#on-broadway'>"On Broadway."</ref> 
+	    He speaks for the many lonely, struggling, 
+	    straggling souls that are stranded 
+	    in awful loneliness amidst the great 
+	    crowds.</p>
 
-	    <p>An outstanding feature of McKay is his poetical fancy for things that 
-	    appear even to the observant and responsive, meaningless and commonplace. 
-	    At his hands they live and throb with life. They are humanized. As a typical 
-	    example I take the "Subway Wind." I select the following lines, for they 
+	    <p>An outstanding feature of McKay is 
+	    his poetical fancy for things that appear 
+	    even to the observant and responsive, 
+	    meaningless and commonplace. 
+	    At his hands they live and throb 
+	    with life. They are humanized. 
+	    As a typical example I take the "Subway 
+	    Wind." I select the following lines, for they 
 	    vividly portray the theme:</p>
 
-	    <quote>
+	    <quote source='#subway-wind'>
 	      <lg>
 		<l>Far down, down through the city's great, gaunt gut,</l>
-		<l>The gray train rushing hears the weary wind;</l>
+		<l>The gray train rushing bears the weary wind;</l>
 		<l>In the packed cars the fans the crowd's breath cut,</l>
 		<l>Leaving the sick and heavy air behind.</l>
 		<l>And pale-cheeked children seek the upper door</l>
@@ -5320,35 +5491,61 @@
 	      </lg>
 	    </quote>
 
-	    <p>Another pertinent feature of this volume of poems is that one really cannot 
-	    be but conscious of the "genuine breath of the tropics," to use Mr. Hubert 
-	    Harrison's words. A certain mildness and serenity pervades and permeates 
-	    nearly every poem. McKay is a lover of nature. There are several poems 
-	    dealing with one or the other aspect of nature. There are "The Easter Flower," 
-	    "Winter in the Country," "To Winter," "Spring in New Hampshire," "North 
-	    and South," and others. The last named is of excellent quality, and, in my 
-	    humble estimation, can stand comparison with some of the best of William 
-	    Cullen Bryant and the great English singer of nature, William Wordsworth.</p>
+	    <p>Another pertinent feature of this 
+	    volume of poems is that one really 
+	    cannot be but conscious of the "genuine 
+	    breath of the tropics," to use Mr. 
+	    Hubert Harrison's words. A certain 
+	    mildness and serenity pervades and 
+	    permeates nearly every poem. McKay 
+	    is a lover of nature. Of that there 
+	    is no doubt. There are several poems 
+	    dealing with one or the other aspect 
+	    of nature. There are "The Easter 
+	    Flower," "Winter in the Country," "To 
+	    Winter," "Spring in New Hampshire," 
+	    "North and South," and others. The 
+	    last named is of excellent quality, and, 
+	    in my humble estimation, can stand 
+	    comparison with some of the best of 
+	    William Cullen Bryant and the great 
+	    English singer of nature, William 
+	    Wordsworth.</p>
 
-	    <p>But these are not all by any means. McKay touches philosophical themes. 
-	    He contemplates upon matters metaphysical. In "I Know My Soul" he shows 
-	    a poetical philosophical bent that was so strongly characteristic of Omar and 
-	    Goethe.</p>
+	    <p>But these are not all by any means. 
+	    McKay touches philosophical themes. 
+	    He contemplates upon matters metaphysical. 
+	    In "I Know My Soul" he 
+	    shows a poetical philosophical bent 
+	    that was so strongly characteristic of 
+	    Omar and Goethe.</p>
 
-	    <p>In conclusion, I wish to say that I am convinced that Mr. Claude McKay 
-	    possesses an exceptional poetical talent. He is an esthetician in the best sense 
-	    of the word. He is true to himself. At least, I feel that I am justified in making 
-	    this statement. An honest work which is expressive of one's individuality is 
-	    art in the creative sense. Imitation is always superficial at best when not made 
-	    subordinate to the individual personality. Esthetic beauty is greater and 
-	    beyond objective beauty. And this McKay seems to know. He records his 
-	    own deepest soul experience in his most intense moods and, in so doing, he 
-	    holds before his readers a true picture of their inner life; and in this 
-	    recognition of self lies the possibility of spiritual growth. To understand and 
-	    appreciate Claude McKay's poems, one must be capable of studying and 
-	    understanding life through the emotions; for a sympathetic and appreciative 
-	    understanding is possible only through the feelings.</p>
-
+	    <p>In conclusion, I wish to say that I 
+	    am convinced that Mr. Claude McKay 
+	    possesses an exceptional poetical talent. 
+	    He is an esthetician in the best 
+	    sense of the word. He is true to himself. 
+	    At least, I feel that I am justified 
+	    in making this statement. An honest 
+	    work which is expressive of one's individuality 
+	    is art in the creative sense. 
+	    Imitation is always superficial at best 
+	    when not made subordinate to the 
+	    individual personality. Esthetic beauty 
+	    is greater and beyond objective beauty. 
+	    And this McKay seems to know. He 
+	    records his own deepest soul experience 
+	    in his most intense moods and, 
+	    in so doing, he holds before his readers 
+	    a true picture of their inner life; 
+	    and in this recognition of self lies the 
+	    possibility of spiritual growth. To 
+	    understand and appreciate Claude McKay's 
+	    poems, one must be capable of 
+	    studying and understanding life 
+	    through the emotions; for a sympathetic 
+	    and appreciative understanding 
+	    is possible only through the feelings.</p>
 	    </body>
 	</text>
 
@@ -7103,6 +7300,81 @@
 
 	  </body>
 	</text>
+
+	<text type="supplementary" xml:id="supp_dunlap_lines-dedicated">
+	  <body>
+	    <head>
+	      <title>Lines Dedicated to Claude McKay</title>
+	      <bibl>
+		<title level="a">Lines Dedicated to Claude McKay</title>
+		<title level="j">The Negro World</title>
+		<date when="1922-05-27">May 27, 1922</date>
+		<biblScope unit='pgs'>6</biblScope>
+	      </bibl>
+	      
+	      <note type='textual'>
+	      <p>Text of this poem taken from microfilm held by <ref target='http://catalog.lib.msu.edu/record=b4852782~S1a'>Michigan State University Library</ref>, made available through the magic and generosity of interlibrary loan.</p>
+	      </note>
+	    </head>
+
+	    <lg type='poem'>
+	      <head>Lines Dedicated to Claude McKay</head>
+
+	      <l>Your notes shall ring when mine are still,</l>
+	      <l rend='indent1'>Live on when mine the casket claim,</l>
+	      <l>But let them come to weep by mine,</l>
+	      <l rend='indent1'>For pity is a part of fame.</l>
+	      <l>So sweet their tears will be, that, lo!</l>
+	      <l rend='indent1'>Their watering blom might restore</l>
+	      <l>And wake my dreaming thoughts again</l>
+	      <l rend='indent1'>To dwell on earth with yours once more.</l>
+	      <l>You made ecstatic flights above</l>
+	      <l rend='indent1'>And starland robbed of virgins fair</l>
+	      <l>To bear the children of our brain</l>
+	      <l rend='indent1'>That you have given to our care.</l>
+	      <l>And then in chilly depths you plunged</l>
+	      <l rend='indent1'>Where weirdness mingled with the groan</l>
+	      <l>Of water devils to <choice><orig>embue</orig><corr>imbue</corr></choice></l>
+	      <l rend='indent1'>Your song with wonder or with moan.</l>
+	      <l>I did no soar as high as you:</l>
+	      <l rend='indent1'>I cannot sing of realsm beyond;</l>
+	      <l>And, from your hand, all travel stained,</l>
+	      <l rend='indent1'>I would not steal the bloom or frond;</l>
+	      <l>But gaze on them with gladdened eye.</l>
+	      <l rend='indent1'>Just grateful for the dews that drip</l>
+	      <l>From their fair foliage on my hand—</l>
+	      <l rend='indent1'>Their petals soft as woman's lips.</l>
+	      <l>Your spirit braved the Artic zone</l>
+	      <l rend='indent1'>Of thought to give expression glow.</l>
+	      <l>The midnight sun lends eerie charm</l>
+	      <l rend='indent'>Unto thy song as to the floe.</l>
+	      <l>From tropic climes of mind you hear</l>
+	      <l rend='indent1'>Strange fascinations that enslave</l>
+	      <l>My fancy like the wind that binds</l>
+	      <l rend='indent1'>The shackle to the blue-veined wave.</l>
+	      <l>Your soul explored the realms all dark,</l>
+	      <l rend='indent'>Or fair, that makes my pulse beat high</l>
+	      <l>When from your lips the story falls</l>
+	      <l rend='indent'>In accents soft as fairy's sigh.</l>
+	      <l>Sing on the song that you have learned</l>
+	      <l rend='indent'>From siren raptured by your call</l>
+	      <l>That chanted in thine ears alone</l>
+	      <l rend='indent'>The straing with power to entrall.</l>
+	      <l>Strike on the harp you stole away</l>
+	      <l rend='indent'>From dreaming Fancy's loving arms,</l>
+	      <l>The numbers that have power to lull</l>
+	      <l rend='indent'>To rest with notes of dulcet charms.</l>
+	      <l>And I shall never, never tire,</l>
+	      <l rend='indent'>For I have waited long in vain</l>
+	      <l>For song ethereal like thine</l>
+	      <l rend='indent'>To wake joy and banish pain.</l>
+	      <closer>
+		<signed>—Ethel Trew Dunlap</signed>
+	      </closer>
+	    </lg>
+	  </body>
+	</text>
+
 
 	<text type="supplementary" xml:id="supp_kerlin_negro-poets-and-their-poems">
 	  <body>
