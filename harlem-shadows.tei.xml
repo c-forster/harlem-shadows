@@ -832,8 +832,8 @@
 		  <biblScope unit="pg">300</biblScope>
 		</imprint>
 	      </monogr>
-	      <note type="editorial">The Crisis printed the first eight lines of McKay's sonnet in the Literature section of "The Looking Class." The issue also contains discussions of the recent riots.</note>
-	      <note type="textual">This text taken from <ref target="http://www.modjourn.org/render.php?view=mjp_object&amp;id=1295988949906250">The Modernist Journals Project</ref>.</note>
+	      <note type='editorial'>The Crisis printed the first eight lines of McKay's sonnet in the Literature section of "The Looking Class." The issue also contains discussions of the recent riots.</note>
+	      <note type='textual'>This text taken from <ref target="http://www.modjourn.org/render.php?view=mjp_object&amp;id=1295988949906250">The Modernist Journals Project</ref>.</note>
 	    </biblStruct>
 
 	  </witness>
@@ -1402,7 +1402,7 @@
 	    <head>The Easter Flower</head>
 
 	    <note type="textual">
-	      This poem also appears in <ref target="#Liberator-easter"><title level="j">The Liberator</title></ref> (<date when="1921-03">March, 1921</date>).
+	      This poem also appears in <ptr target="#Liberator-easter" />.
 	    </note>
 
 	    <lg type="stanza">
@@ -1436,7 +1436,7 @@
 	    <head rend="caps">To One Coming North</head>
 
 	    <note type="textual">
-	      This poem also appears in <ref target="#Liberator-to-one"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.
+	      This poem also appears in <ptr target="#Liberator-to-one" />.
 	    </note>
 
 
@@ -1479,10 +1479,10 @@
 	    <head>America</head>
 	    
 	    <note type="textual">This poem appears in:
-	    <list>
-	      <item><ref target="#ThreeSonnets-America"><title level="j">The Literary Digest</title> with two other sonnets under the title "Three Sonnets" (<date when="1922-10-28">October 28, 1922.</date>)</ref></item>
-	      <item><ref target="#Liberator-america"><title level="j">The Liberator</title> (<date when="1921-12">December, 1921</date>)</ref></item>
-	    </list>
+	      <list>
+		<item><ptr target="#ThreeSonnets-America" /> with two other sonnets under the title "Three Sonnets."</item>
+		<item><ptr target="#Liberator-america" /></item>
+	      </list>
 	    </note>
 
 	    <l><app type='orthography'>
@@ -1518,7 +1518,7 @@
 	  <lg type="poem" xml:id="alfonso-dressing-to-wait-at-table">
 	    <head>Alfonso, Dressing to Wait at Table<app type='word'><lem wit="#HS"></lem><rdg wit="#Cambridge-Alfonso #SINH-alfonso">, Sings</rdg></app></head>
 
-	    <note type="textual">This poem also appears in <ref target="#Cambridge-Alfonso"><title level="j">Cambridge Magazine</title> (<date when="1920">1920</date>)</ref> and <ref target="#SINH-Alfonso"><title level="m">Spring in New Hampshire</title></ref>.</note>
+	    <note type="textual">This poem also appears in <ptr target="#Cambridge-Alfonso" /> and <ptr target="#SINH-Alfonso" />.</note>
 
 
 	    <lg type="stanza">
@@ -1561,9 +1561,9 @@
 	    <note type="textual">
 	      This poem also appeared in:
 	      <list>
-		<item><ref target="#SINH-tropics"><title level="m">Spring in New Hampshire</title></ref></item>
-		<item><ref target="#CambridgeMagazine-TropicsInNewYork"><title level="j">Cambridge Magazine</title></ref>.</item>
-		<item><ref target="#Liberator-tropics"><title level="j">The Liberator</title></ref> <date when="1920-05">(May, 1920).</date></item>
+		<item><ptr target="#SINH-tropics" /></item>
+		<item><ptr target="#CambridgeMagazine-TropicsInNewYork" /></item>
+		<item><ptr target="#Liberator-tropics" /></item>
 	      </list>
 
 	      In its appearance in <ref target="#Liberator-tropics"><title level="j">The Liberator</title></ref>, this poem did not feature any line indentation.
@@ -1682,10 +1682,10 @@
 	    <head>Home Thoughts</head>
 
 	    <note type="textual">
-	      This poem also appears:
+	      This poem also appears in:
 	      <list>
-		<item><ref target="#ThreeSonnets-HomeThoughts"><title level="a">"Home Thoughts"</title></ref> appears with two other sonnets in <ref target="#ThreeSonnets"><title level="a">"Three Sonnets"</title></ref> (<title level="j">The Literary Digest</title>, <date when="1922-10-28">October 28, 1922</date>).</item>
-                <item>in <ref target="#Liberator-home"><title level="j">The Liberator</title></ref> <date when="1920-02">(February, 1920).</date></item>
+		<item><ptr target="#ThreeSonnets-HomeThoughts" /> with two other sonnets.</item>
+                <item><ptr target="#Liberator-home" /></item>
 	      </list>
 	    </note>
 
@@ -1740,7 +1740,7 @@
 	    <head>On Broadway</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ref target="#SINH-on-broadway"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-OnBroadway"><title level="j">Cambridge Magazine</title></ref>.
+	      This poem also appeared in <ptr target="#SINH-on-broadway" /> and <ptr target="#CambridgeMagazine-OnBroadway" />.
 	    </note>
 
 	    <lg type="stanza">
@@ -1777,9 +1777,9 @@
 	    <note type="textual">
 	      This poem also appeared in:
 	      <list>
-		<item><ref target="#Liberator-barrier"><title level="j">The Liberator</title> <date when="1919-07">(July, 1919)</date></ref></item>
-		<item><ref target="#SINH-the-barrier"><title level="m">Spring in New Hampshire</title></ref></item>
-		<item><ref target="#CambridgeMagazine-TheBarrier"><title level="j">Cambridge Magazine</title></ref></item>
+		<item><ptr target="#Liberator-barrier" /></item>
+		<item><ptr target="#SINH-the-barrier" /></item>
+		<item><ptr target="#CambridgeMagazine-TheBarrier" /></item>
 	      </list>
 	    </note>
 
@@ -1879,7 +1879,7 @@
 	    <head>North and South</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ref target="#SINH-north-and-south"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-NorthAndSouth"><title level="j">Cambridge Magazine</title></ref>.
+	      This poem also appeared in <ptr target="#SINH-north-and-south" /> and <ptr target="#CambridgeMagazine-NorthAndSouth" />.
 	    </note>
 
 	    <l>O sweet are tropic lands for waking dreams!</l>
@@ -1968,9 +1968,9 @@
 	    <note type="textual">
 	      This poem also appeared in:
 	      <list>
-		<item><ref target="#Liberator-after"><title level="j">The Liberator</title> <date when="1919-07">(July, 1919)</date></ref></item>
-		<item><ref target="#SINH-after"><title level="m">Spring in New Hampshire</title></ref></item>
-		<item><ref target="#CambridgeMagazine-AfterTheWinter"><title level="j">Cambridge Magazine</title></ref></item>
+		<item><ptr target="#Liberator-after" /></item>
+		<item><ptr target="#SINH-after" /></item>
+		<item><ptr target="#CambridgeMagazine-AfterTheWinter" /></item>
 	      </list>
 	    </note>
 
@@ -2037,8 +2037,8 @@
 	    <note type="textual">
 	      This poem also appeared in:
 	      <list>
-		<item><ref target="#Pearsons-harlem"><title level="j">Pearson's Magazine</title></ref> <date when="1918-09">(September, 1918)</date></item>
-		<item><ref target="#SINH-harlem-shadows"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date></item>
+		<item><ptr target="#Pearsons-harlem" /></item>
+		<item><ptr target="#SINH-harlem-shadows" /></item>
 	      </list>
 
 	      <p>In <title level="j">Pearson's Magazine</title>, this poem (along with <ref target="#supp_mckay_to-the-white-fiends">"To the White Fiends,"</ref> <ref target="#supp_mckay_the-conqueror">"The Conqueror,"</ref> <ref target="#supp_mckay_the-park-in-spring">"The Park in Spring,"</ref> and <ref target="#supp_mckay_is-it-worthwhile">"Is it Worth While?"</ref>) was prefaced by a statement by McKay, <ref target="#Pearsons-claude"><title level="a">"Claude <choice><sic>MacKay</sic><corr resp="cf">McKay</corr></choice> Describes His Own Life: A Negro Poet"</title></ref>.</p>
@@ -2083,7 +2083,7 @@
 	  <lg type="poem" xml:id="the-white-city" rhyme="ababcdcdefefgg">
 	    <head>The White City</head>
 
-	    <note type="textual">This poem also appears in <ref target="#Liberator-white"><title level="j">The Liberator</title></ref> <date when="1921-10">(October, 1921)</date>.</note>
+	    <note type="textual">This poem also appears in <ptr target="#Liberator-white" />.</note>
 
 	    <l>I will not toy with it nor bend an inch.</l>
 	    <l>Deep in the secret chambers of my heart</l>
@@ -2111,8 +2111,8 @@
 	  <lg type="poem" xml:id="the-spanish-needle">
 	    <head rend="caps">The Spanish Needle<note type="editorial"><hi rend="bold">Spanish Needle:</hi> A wildflower (<hi rend="italics">bidens alba</hi>), with white and yellow blossoms.</note></head>
 
-	    <note type="textual" resp="cf">
-	      <ref target="#CambridgeMagazine-SpanishNeedle">This poem appears in <title level="j">The Cambridge Magazine</title></ref> (1920).
+	    <note type="textual">
+	      This poem also appears in <ptr target="#CambridgeMagazine-SpanishNeedle" />.
 	    </note>
 
 
@@ -2167,8 +2167,8 @@
 	  <lg type="poem" xml:id="my-mother">
 	    <head>My Mother</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#Liberator-mother"><title level="j">The Liberator</title></ref> <date when="1920-03">(March, 1920)</date>. The version appearing in <title level="j">The Liberator</title> lacks numbers for the stanzas.
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#Liberator-mother" />. The version appearing in <title level="j">The Liberator</title> lacks numbers for the stanzas.
 	    </note>
 
 
@@ -2220,8 +2220,8 @@
 	    <note type="textual">
 	      This poem also appears in:
 	      <list>
-		<item><ref target="#SINH-in-bondage"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
-		<item><ref target="#Liberator-in"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.</item>
+		<item><ptr target="#SINH-in-bondage" /></item>
+		<item><ptr target="#Liberator-in" /></item>
 	      </list>
 	    </note>
 
@@ -2344,7 +2344,7 @@
 	    <head>Enslaved</head>
 
 	    <note type="textual">
-	      This poem also appear in <ref target="#Liberator-enslaved"><title level="j">The Liberator</title> (<date when="1921-07">July, 1921</date>).</ref>
+	      This poem also appear in <ptr target="#Liberator-enslaved" />.
 	    </note>
 
 	    <l>Oh when I think of my long-suffering race<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Liberator-enslaved" /></app></l>
@@ -2371,8 +2371,8 @@
 	  <lg type="poem" xml:id="i-shall-return" rhyme="ababcdcdefefgg">
 	    <head>I Shall Return</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#SINH-i-shall"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-IShallReturn"><title level="j">Cambridge Magazine</title></ref>.
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#SINH-i-shall" /> and <ptr target="#CambridgeMagazine-IShallReturn" />.
 	    </note>
 
 	    <l>I shall return again; I shall return</l>
@@ -2399,12 +2399,12 @@
 	  <lg type="poem" xml:id="morning-joy">
 	    <head>Morning Joy</head>
 
-	    <note type="textual" resp="cf">
+	    <note type="textual">
 	      This poem also appeared in:
 	      <list>
-		<item><ref target="#CambridgeMagazine-MorningJoy"><title level="j">Cambridge Magazine</title></ref> <date when="1920"></date>.</item>
-		<item><ref target="#SINH-morning"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
-		<item><ref target="#Liberator-morning"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921).</date></item>
+		<item><ptr target="#CambridgeMagazine-MorningJoy" /></item>
+		<item><ptr target="#SINH-morning" /></item>
+		<item><ptr target="#Liberator-morning" /></item>
 	      </list>
 	    </note>
 
@@ -2446,8 +2446,8 @@
 	  <lg type="poem" xml:id="africa" rhyme="ababcdcdefefgg">
 	    <head>Africa</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#Liberator-africa"><title level="j">The Liberator</title></ref> <date when="1922-08">(August, 1921)</date>, where even numbered lines were indented.
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#Liberator-africa" />, where even numbered lines were indented.
 	    </note>
 
 	    <l>The sun sought thy dim bed and brought forth light,</l>
@@ -2494,8 +2494,8 @@
 	  <lg type="poem" xml:id="winter-in-the-country">
 	    <head>Winter in the Country</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#SINH-winter"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-WinterInTheCountry"><title level="j">Cambridge Magazine</title></ref>.
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#SINH-winter" /> and <ptr target="#CambridgeMagazine-WinterInTheCountry" />.
 	    </note>
 
 	    <lg type="stanza">
@@ -2554,8 +2554,8 @@
 	  <lg type="poem" xml:id="to-winter" rhyme="abbaabbacdcdcd">
 	    <head>To Winter</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#SINH-to-winter"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-ToWinter"><title level="j">Cambridge Magazine</title></ref>.
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#SINH-to-winter" /> and <ptr target="#CambridgeMagazine-ToWinter" />.
 	    </note>
 
 	    <l>Stay, season of calm love and soulful snows!</l>
@@ -2590,12 +2590,12 @@
 	      </app>
 	    </head>
 
-	    <note type="textual" resp="cf">
+	    <note type="textual">
 	      This poem also appeared in:
 	      <list>
-		<item><ref target="#SINH-spring"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">1920</date>.</item>
-		<item><ref target="#CambridgeMagazine-AfterTheWinter"><title level="j">Cambridge Magazine</title></ref> <date when="1920">(1920)</date>.</item>
-		<item><ref target="#Liberator-spring"><title level="j">The Liberator</title></ref> <date when="1919-08">(August, 1919).</date></item>
+		<item><ptr target="#SINH-spring" /></item>
+		<item><ptr target="#CambridgeMagazine-AfterTheWinter" /></item>
+		<item><ptr target="#Liberator-spring" /></item>
 	      </list>
 	    </note>
 
@@ -2624,7 +2624,7 @@
 	    <head>On the Road</head>
 
 	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#Liberator-on-the"><title level="j">The Liberator</title></ref> <date when="1922-03">(March, 1922).</date>
+	      This poem also appeared in <ptr target="#Liberator-on-the" />.
 	      
 	      The version in <title level="j">The Liberator</title> breaks the octet and sextet into separate line groups.
 	    </note>
@@ -2656,8 +2656,8 @@
 	    <note type="textual">
 	      This poem also appeared in:
 	      <list>
-		<item><ref target="#SevenArts-harlem"><title level="j">The Seven Arts</title></ref> <date when="1917-10">(October, 1917)</date> with <ref target="#SevenArts-invocation">"Invocation"</ref>, presented as "Two Sonnets" by Eli Edwards.</item>
-		<item><ref target="#SINH-the-harlem-dancer"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
+		<item><ptr target="#SevenArts-harlem" /> with <ref target="#SevenArts-invocation">"Invocation"</ref>, presented as "Two Sonnets" by Eli Edwards.</item>
+		<item><ptr target="#SINH-the-harlem-dancer" /></item>
 	      </list>
 	    </note>
 
@@ -2691,7 +2691,7 @@
 	    </head>
 
 	    <note type="textual">
-	      This poem also appears in <ref target="CambridgeMagazine-to-work"><title level="j">Cambridge Magazine</title></ref> and <ref target="#SINH-to-work"><title level="m">Spring in New Hampshire</title></ref> under the title "To Work."
+	      This poem also appears in <ptr target="CambridgeMagazine-to-work" /> and <ptr target="#SINH-to-work" /> under the title "To Work."
 	    </note>
 
 
@@ -2731,8 +2731,8 @@
 	  <lg type="poem" xml:id="the-tired-worker" rhyme="ababcdcdefefgg">
 	    <head>The Tired Worker</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#Liberator-tired"><title level="j">The Liberator</title></ref> <date when="1919-08">(August, 1919)</date>.
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#Liberator-tired" />.
 
 	      In the version appearing in <title level="j">The Liberator</title>, even numbered lines are indented (except the final line).
 	    </note>
@@ -2764,8 +2764,8 @@
 	  <lg type="poem" xml:id="outcast" rhyme="ababcdcdefefgg">
 	    <head>Outcast</head>
 
-	    <note type="textual" resp="cf">
-	      This poem appears as <ref target="#ThreeSonnets-Outcast"><title level="a">"Outcast"</title></ref> with two other sonnets in <ref target="#ThreeSonnets"><title level="a">"Three Sonnets"</title></ref> (<title level="j">The Literary Digest</title>, <date when="1922-10-28">October 28, 1922)</date>
+	    <note type="textual">
+	      This poem appears as <ptr target="#ThreeSonnets-Outcast" /> with two other sonnets.
 	    </note>
 
 	    <l><app type='word'>
@@ -2816,7 +2816,8 @@
 	    <head>Birds of Prey</head>
 
 	    <note type="textual">
-	      This poem also appears in <ref target="#Messenger-birds"><title level="j">The Messenger</title></ref> (<date when="1919-12">December, 1919</date>). When it appeared in <title level="j">The Messenger</title>, there was a break between the octet and the sestet, and even numbered lines were indented.</note>
+	      This poem also appears in <ptr target="#Messenger-birds" />. When it appeared in <title level="j">The Messenger</title>, there was a break between the octet and the sestet, and even numbered lines were indented.
+	    </note>
 
 	    <l>Their <app type='word'><lem wit="#HS">shadow</lem><rdg wit="#Messenger-birds">shadows</rdg></app>&#160;<app type='word'><lem wit="#HS">dims</lem><rdg wit="#Messenger-birds">dim</rdg></app> the sunshine of our day<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Messenger-birds" /></app></l>
 	    <l>As they go lumbering across the sky,</l>
@@ -2862,7 +2863,7 @@
 	    <head>The Castaways</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ref target="#SINH-the-castaways"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-TheCastaways"><title level="j">Cambridge Magazine</title></ref>.
+	      This poem also appeared in <ptr target="#SINH-the-castaways" /> and <ptr target="#CambridgeMagazine-TheCastaways" />.
 	    </note>
 
 	    <l>The vivid grass with visible delight</l>
@@ -2916,8 +2917,8 @@
 	    <note type="textual">
 	      This poem also appears in:
 	      <list>
-		<item><ref target="#SINH-exhortation"><title level="m">Spring in New Hampshire</title></ref> (<date when="1920">1920</date>).</item>
-		<item><ref target="#Liberator-to"><title level="j">The Liberator</title></ref> (<date when="1920-02">February, 1920</date>) under the title "To Ethiopia."</item>
+		<item><ptr target="#SINH-exhortation" /></item>
+		<item><ptr target="#Liberator-to" /></item>
 	      </list>
 
 	      The version appearing in <title level="j">The Liberator</title> does not indent any poetic lines. Its organization into stanzas is also different: 1-7, 8-13,14-20,21-26.
@@ -2971,7 +2972,7 @@
 	    <head>The Lynching</head>
 
 	    <note type="textual">
-	      This poem also appears in <ref target="#CambridgeMagazine-Lynching"><title>Cambridge Magazine</title> (1920)</ref> and in <ref target="#SINH-lynching"><title level="m">Spring in New Hampshire</title></ref>.
+	      This poem also appears in <ptr target="#CambridgeMagazine-Lynching" /> and in <ptr target="#SINH-lynching" />.
 	    </note>
 
 	    <l>His <app type='orthography'>
@@ -2999,8 +3000,8 @@
 	  <lg type="poem" xml:id="baptism" rhyme="abbaabbacdcdcd">
 	    <head>Baptism</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appears in <ref target="#Liberator-baptism"><title level="j">The Liberator</title> (<date when="1921-10">October, 1921</date>)</ref>.
+	    <note type="textual">
+	      This poem also appears in <ptr target="#Liberator-baptism" />.
 	    </note>
 
 
@@ -3037,11 +3038,11 @@
 	      </note>
 	    </head>
 
-	    <note type="textual" resp="cf">
-	      <p>This poem first appeared in <ref target="#Liberator-if"><title level="j">The Liberator</title></ref> <date when="1919-07">(July, 1919</date>). It later appeared in:
+	    <note type="textual">
+	      <p>This poem first appeared in <ptr target="#Liberator-if" />. It later appeared in:
 	      <list>
-		<item><ref target="#Messenger-if"><title level="j">The Messenger</title></ref> <date when="1919-09">(September, 1919)</date>.</item>
-		<item><ref target="#Crusader-if"><title level="j">The Crusader</title></ref> <date when="1919-09">(September, 1919)</date>.</item>
+		<item><ptr target="#Messenger-if" /></item>
+		<item><ptr target="#Crusader-if" /></item>
 	      </list>
 	      </p>
 	      <p>In its appearances in <title level="j">The Liberator</title>, <title level="j">The Crusader</title>, and <title level="j">The Messenger</title>, the poem is broken into two distinct linegroups, an octet and sestet. In <title level="j">The Messenger</title> and <title level="j">The Crusader</title> even numbered lines are indented.</p>
@@ -3084,7 +3085,7 @@
 	    <head>Subway Wind</head>
 
 	    <note type="textual">
-	      This poem also appears in <ref target="#Liberator-subway"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.
+	      This poem also appears in <ptr target="#Liberator-subway" />.
 	    </note>
 
 
@@ -3121,7 +3122,7 @@
 	    <head>The Night Fire</head>
 
 	    <note type="textual">
-	      This poem also appears in <ref target="#Liberator-night"><title level="j">The Liberator</title></ref> <date when="1922-05">(May, 1922)</date>.
+	      This poem also appears in <ptr target="#Liberator-night" />.
 	    </note>
 
 	    <l>No engines shrieking rescue storm the night,</l>
@@ -3192,8 +3193,7 @@
 
 	  <lg type = "poem" xml:id="a-prayer">
 	    <head>A Prayer</head>
-	    <note type="textual">This poem also appeared in <ref target="#SINH"><title level='m'>Spring in New Hampshire</title></ref>.
-	    </note>
+	    <note type="textual">This poem also appeared in <ptr target="#SINH-a-prayer" />.</note>
 
 
 	    <head type="dedication">
@@ -3237,7 +3237,7 @@
 	    <head type="title">When Dawn Comes to the City</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ref target="#SINH-when-dawn"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-WhenDawnComesToTheCity"><title level="j">Cambridge Magazine</title></ref>.
+	      This poem also appeared in <ptr target="#SINH-when-dawn"/> and <ptr target="#CambridgeMagazine-WhenDawnComesToTheCity" />.
 	    </note>
 
 	    <lg type="stanza">
@@ -3338,8 +3338,8 @@
 	  <lg type="poem" xml:id="absence">
 	    <head>Absence</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#Liberator-absence"><title level="j">The Liberator</title> <date when="1922-03">(March, 1922):</date></ref>, signed "Claude McKay."
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#Liberator-absence" />, signed "Claude McKay."
 	    </note>
 
 	    <lg type="stanza">
@@ -3403,8 +3403,8 @@
 	  <lg type="poem" xml:id="rest-in-peace">
 	    <head>Rest in Peace</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#SINH-rest-in-peace"><title level="m">Spring in New Hampshire</title></ref> and <ref target="#CambridgeMagazine-RestInPeace"><title level="j">Cambridge Magazine</title></ref>.
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#SINH-rest-in-peace" /> and <ptr target="#CambridgeMagazine-RestInPeace" />.
 	    </note>
 
 	    <lg type="stanza">
@@ -3517,7 +3517,7 @@
 	    <head>To O.E.A.</head>
 
 	    <note type="textual">
-	      <p>This poem also appears in <ref target="#CambridgeMagazine-ToOEA"><title level='j'>Cambridge Magazine</title></ref> <date when="1920">(1920)</date> and <ref target="#SINH"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</p>
+	      <p>This poem also appears in <ptr target="#CambridgeMagazine-ToOEA" /> and <ptr target="#SINH-to-oea" />.</p>
 
 	      <p>In these other two appearanes, lines 10 ("You are sea-foam...") and 14 ("But men will love...") are indented further, like lines 6 and 7, and line 13 ("Oh I love you...") is indented to the same distance as 2 and 4.</p>
 	    </note>
@@ -3668,8 +3668,8 @@
 	    <head>
 	      La Paloma<note type="editorial"><hi rend="bold">La Paloma:</hi> A popular, nineteenth-century Spanish song by Sebastian Yradier, inspired by a visit to Cuba that has spread worldwide as a popular folk song.</note> in London
 	    </head>
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#Liberator-paloma"><title level="j">The Liberator</title></ref> <date when="1922-01">(January, 1922).</date>
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#Liberator-paloma" />.
 	    </note>
 
 	    <l>About Soho<note type="editorial"><hi rend="bold">Soho:</hi> New York City neighborhood in Lower Manhattan, south of Houston Street.</note> we went before the light;</l>
@@ -3701,9 +3701,9 @@
 	    <note type="textual">
 	      This poem also appeared in:
 	      <list>
-		<item><ref target="#SINH-a-memory"><title level="m">Spring in New Hampshire</title></ref> <date when="1920">(1920)</date>.</item>
-		<item><ref target="#CambridgeMagazine-MemoryOfJune"><title level="j">Cambridge Magazine</title></ref> <date when="1920">(1920)</date>.</item>
-		<item><ref target="#Liberator-a-memory"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.</item>
+		<item><ptr target="#SINH-a-memory" /></item>
+		<item><ptr target="#CambridgeMagazine-MemoryOfJune" /></item>
+		<item><ptr target="#Liberator-a-memory" /></item>
 	      </list>
 	    </note>
 
@@ -3759,7 +3759,7 @@
 	  <lg type="poem" xml:id="flirtation">
 	    <head>Flirtation</head>
 	    <note type="textual">
-	      This poem also appeared in <ref target="#Liberator-flirtation"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921).</date>
+	      This poem also appeared in <ptr target="#Liberator-flirtation" />.
 	    </note>
 
 	    <l>Upon thy purple mat thy body bare</l>
@@ -3871,8 +3871,8 @@
 	  <lg type="poem" xml:id="french-leave">
 	    <head>French Leave</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#Liberator-french"><title level="j">The Liberator</title></ref> <date when="1922-04">(April, 1922).</date>
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#Liberator-french" />.
 	    </note>
 
 	    <lg type="stanza">
@@ -3919,8 +3919,8 @@
 	  <lg type="poem" xml:id="jasmines">
 	    <head>Jasmines</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appears in <ref target="#Liberator-jasmines"><title level="j">The Liberator</title></ref> <date when="1921-08">(August, 1921)</date>.
+	    <note type="textual">
+	      This poem also appears in <ptr target="#Liberator-jasmines" />.
 	    </note>
 
 	    <l>Your scent is in the room.</l>
@@ -4029,8 +4029,8 @@
 	  <lg type="poem" xml:id="thirst" rhyme="ababcdcdefefgg">
 	    <head>Thirst</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appeared in <ref target="#Liberator-thirst"><title level="j">The Liberator</title></ref> <date when="1921-12">(December, 1921)</date>.
+	    <note type="textual">
+	      This poem also appeared in <ptr target="#Liberator-thirst" />.
 	    </note>
 
 	    <l>My spirit wails for water, water now!</l>
@@ -4063,7 +4063,7 @@
 	  <lg type="poem" xml:id="futility" rhyme="ababcdcdefefgg">
 	    <head>Futility</head>
 
-	    <note type="textual" resp="cf">This poem also appeared in <ref target="#Liberator-futility"><title level="j">The Liberator</title></ref> <date when="1922-01">(January, 1922).</date></note>
+	    <note type="textual">This poem also appeared in <ptr target="#Liberator-futility" />.</note>
 
 	    <l>Oh<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Liberator-futility" /></app> I have tried to laugh the pain away,</l>
 	    <l>Let new flames brush my love-springs<note type="editorial"><hi rend="bold">Love-Springs:</hi> The young shoots of love; compare <title level="m">Comedy of Errors</title> where Luciana asks Antipholus, "shall, Antipholus, / Even in the spring of love, thy <hi rend="bold">love-springs</hi> rot? / Shall love, in building, grow so ruinous?" (III.ii).</note> like a feather.</l>
@@ -4087,8 +4087,8 @@
 	  <lg type="poem" xml:id="through-agony">
 	    <head>Through Agony</head>
 
-	    <note type="textual" resp="cf">
-	      This poem also appears in <ref target="Liberator-through"><title level="j">The Liberator</title></ref> <date when="1921-12">(December, 1921)</date>.
+	    <note type="textual">
+	      This poem also appears in <ptr target="Liberator-through" />.
 
 	      In its appearance in <title level="j">The Liberator</title> the first stanza is unnumbered. 
 	    </note>
