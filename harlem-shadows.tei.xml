@@ -24,145 +24,503 @@
 	  </witness>
 
 	  <witness xml:id="SINH">
-	    <bibl>
-	      <author>McKay, Claude</author>, <title>Spring in New Hampshire</title>. <pubPlace>London</pubPlace>: <publisher>Grant Richards Ltd.</publisher>, <date when="1920">1920</date>.
-	    </bibl>
-	  </witness>
-	  <witness xml:id="SINH-spring">
-	    <bibl>
-	      <title level="a">Spring in New Hampshire</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 9.
-	    </bibl>
+	    <biblStruct>
+	      <monogr>
+		<author>McKay, Claude</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="SINH-alfonso">
-	    <bibl>
-	      <title>Alfonso, Dressing to Wait at Table, Sings</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 13
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Alfonso, Dressing to Wait at Table, Sings</title>
+	      </analytic>
+
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 13</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
+	  </witness>
+
+	  <witness xml:id="SINH-spring">
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Spring in New Hampshire</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 9</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="SINH-tropics">
-	    <bibl>
-	      <title>The Tropics in New York</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 26
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Tropics in New York</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 26</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-flame">
-	    <bibl>
-	      <title>Flame-Heart</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 30
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Flame-Heart</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 30</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-on-broadway">
-	    <bibl>
-	      <title>On Broadway</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 18
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>On Broadway</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 18</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
+
 	  <witness xml:id="SINH-the-barrier">
-	    <bibl>
-	      <title>The Barrier</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 35
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>The Barrier</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 35</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-north-and-south">
-	    <bibl>
-	      <title>North and South</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 20
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>North and South</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 20</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-after">
-	    <bibl>
-	      <title>After the Winter</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 25
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>After the Winter</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 25</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-the-choice">
-	    <bibl>
-	      <title>The Choice</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 37
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>The Choice</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 37</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-harlem-shadows">
-	    <bibl>
-	      <title>Harlem Shadows</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 32
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Harlem Shadows</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 32</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-in-bondage">
-	    <bibl>
-	      <title>In Bondage</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 31
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>In Bondage</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 31</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-december">
-	    <bibl>
-	      <title>December 1919</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 29
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>December 1919</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 29</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-i-shall">
-	    <bibl>
-	      <title>I Shall Return</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 27
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>I Shall Return</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 27</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-morning">
-	    <bibl>
-	      <title>Morning Joy</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 16
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Morning Joy</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 16</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-winter">
-	    <bibl>
-	      <title>Winter in the Country</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 24
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Winter in the Country</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 24</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-to-winter">
-	    <bibl>
-	      <title>To Winter</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 23
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>To Winter</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 23</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-the-harlem-dancer">
-	    <bibl>
-	      <title>The Harlem Dancer</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 33
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>The Harlem Dancer</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 33</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-to-work">
-	    <bibl>
-	      <title>To Work</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 15
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>To Wor</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 15</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-the-castaways">
-	    <bibl>
-	      <title>The Castaways</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 28
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>The Castaways</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 28</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-exhortation">
-	    <bibl>
-	      <title>Exhortation</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 39-40
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Exhortation</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 39-40</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-a-prayer">
-	    <bibl>
-	      <title>A Prayer</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 34
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>A Prayer</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 34</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-when-dawn">
-	    <bibl>
-	      <title>When Dawn Comes to the City</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 36-37
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>When Dawn Comes to the City</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 36-37</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-rest-in-peace">
-	    <bibl>
-	      <title>Rest in Peace</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 21
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Rest in Peace</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 21</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-a-memory">
-	    <bibl>
-	      <title>A Memory of June</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 22
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>A Memory of June</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 22</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
+
 	  <witness xml:id="SINH-lynching">
-	    <bibl>
-	      <title>The Lynching</title> in <ref target="#SINH">Springtime in New Hampshire</ref>, pg. 11
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>The Lynching</title>
+	      </analytic>
+	      <monogr>
+		<author>Claude McKay</author>
+		<title level='m'>Spring in New Hampshire</title>
+		<imprint>
+		  <pubPlace>London</pubPlace>
+		  <publisher>Grant Richards Ltd.</publisher>
+		  <date when="1920">1920</date>
+		  <biblScope>pg. 11</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="ThreeSonnets">
 	    <bibl>
 	      <author>McKay, Claude</author>, <title level="a">"Three Sonnets"</title>. <title level="j">The Literary Digest</title> <date when="1922-10-28">October 28, 1922</date>. Vol 75. no. 4. <biblScope>pg. 33</biblScope>
-	      <note>
+	      <note xml:id='ThreeSonnetsNote'>
 		<p>
-		  These three poems, appearing in the "Current Poetry" section of <title level="j">The Literary Digest</title>, are
-		  introduced with the following note:
+		  "Three Sonnets" appears in the "Current Poetry" section of <title level="j">The Literary Digest</title>,  
+		  and are introduced with the following note:
 		  <quote>
 		    Since Dunbar, no Negro singer has interpreted Negro sentiment and emotion with a poetic realism to equal Claude McKay's. Of purest African blood, he shows us in "Harlem Shadows" not only the America of his youth and the Jamaica of his childhood, but the Africa of his forbears—and how he feels toward each. There is a world of relevation in these.
 		  </quote>
@@ -172,138 +530,357 @@
 	  </witness>
 
 	  <witness xml:id="ThreeSonnets-America">
-	    <bibl><title level="a">America</title> in <ref target="#ThreeSonnets"><title level="j">The Literary Digest</title></ref></bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>America</title>
+		<title level='a'>Three Sonnets</title>
+	      </analytic>
+	      <monogr>
+		<title level="j">The Literary Digest</title> 
+		<imprint>
+		  <date when="1922-10-28">October 28, 1922</date>
+		  <biblScope>Vol 75. no. 4. pg. 33</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="ThreeSonnets-HomeThoughts">
-	    <bibl><title level="a">Home Thoughts</title> in <ref target="#ThreeSonnets"><title level="j">The Literary Digest</title></ref></bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Home Thoughts</title>
+		<title level='a'>Three Sonnets</title>
+	      </analytic>
+	      <monogr>
+		<title level="j">The Literary Digest</title> 
+		<imprint>
+		  <date when="1922-10-28">October 28, 1922</date>
+		  <biblScope>Vol 75. no. 4. pg. 33</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="ThreeSonnets-Outcast">
-	    <bibl><title level="a">Outcast</title> in <ref target="#ThreeSonnets"><title level="j">The Literary Digest</title></ref></bibl>
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title level='a'>Outcast</title>
+		<title level='a'>Three Sonnets</title>
+	      </analytic>
+	      <monogr>
+		<title level="j">The Literary Digest</title> 
+		<imprint>
+		  <date when="1922-10-28">October 28, 1922</date>
+		  <biblScope>Vol 75. no. 4. pg. 33</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 	  
 	  <witness xml:id="CambridgeMagazine">
-	    <bibl>
-	      <title level="j">Cambridge Magazine</title>. <date when="1920">Summer, 1920</date>. <biblScope>pg. 55-59.</biblScope>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>Poems: Claude McKay</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 55-59</biblScope>
+		</imprint>
+	      </monogr>
 	      <note>
-		The Summer 1920 double issue of <title level="j">Cambridge Magazine</title> contains 23 poems by Claude Mckay, 19 of which appear in <ref target="#HS"><title>Harlem Shadows</title></ref>. The poems are introduced with the a long note.
+		The Summer 1920 double issue of <title level="j">Cambridge Magazine</title> contains 23 poems by Claude Mckay, 19 of which appear in <ref target="#HS"><title>Harlem Shadows</title></ref>. The poems are introduced with a <ref target='#supp_ogden_cambridge-magazine-introduction'>long note</ref>.
 	      </note>
-	    </bibl>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-SpanishNeedle">
-	    <bibl>
-	      <title level="a">The Spanish Level</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 55.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>The Spanish Needle</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 55</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-Lynching">
-	    <bibl>
-	      <title level="a">The Lynching</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 55.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>The Lynching</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 55</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-ToOEA">
-	    <bibl>
-	      <title level="a">To O.E.A.</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 55.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>To O.E.A.</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 55</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-Alfonso">
-	    <bibl>
-	      <title level="a">Alfonso, Dressing to Wait at Table, Sings</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 55.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>Alfonso, Dressing to Wait at Table, Sings</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 55</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-ToWork">
-	    <bibl>
-	      <title level="a">To Work</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 56.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>To Work</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 56</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-MorningJoy">
-	    <bibl>
-	      <title level="a">Morning Joy</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 56.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>Morning Joy</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 56</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-OnBroadway">
-	    <bibl>
-	      <title level="a">On Broadway</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 56.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>On Broadway</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 56</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-NorthAndSouth">
-	    <bibl>
-	      <title level="a">North and South</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 57.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>North and South</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 57</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-RestInPeace">
-	    <bibl>
-	      <title level="a">Rest in Peace</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 57.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>Rest in Peace</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 57</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-MemoryOfJune">
-	    <bibl>
-	      <title level="a">A Memory of June</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 57.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>A Memory of June</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 57</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-ToWinter">
-	    <bibl>
-	      <title level="a">To Winter</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 57.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>To Winter</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 57</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-WinterInTheCountry">
-	    <bibl>
-	      <title level="a">Winter in the Country</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 57.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>Winter in the Country</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 57</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-AfterTheWinter">
-	    <bibl>
-	      <title level="a">After the Winter</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 57.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>After the Winter</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 57</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-SpringInNewHampshire">
-	    <bibl>
-	      <title level="a">Spring in New Hampshire</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 58.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>Spring in New Hampshire</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 58</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-TropicsInNewYork">
-	    <bibl>
-	      <title level="a">The Tropics in New York</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 58.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>The Tropics in New York</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 58</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-IShallReturn">
-	    <bibl>
-	      <title level="a">I Shall Return</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 58.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>I Shall Return</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 58</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-TheCastaways">
-	    <bibl>
-	      <title level="a">The Castaways</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 58.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>The Castaways</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 58</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-TheBarrier">
-	    <bibl>
-	      <title level="a">The Barrier</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 58.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>The Barrier</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 58</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="CambridgeMagazine-WhenDawnComesToTheCity">
-	    <bibl>
-	      <title level="a">When Dawn Comes to the City</title> in <ref target="#CambridgeMagazine">Cambridge Magazine</ref> (1920), pg. 58.
-	    </bibl>
+	    <biblStruct>
+	      <analytic>
+		<title level='a'>When Dawn Comes to the City</title>
+	      </analytic>
+	      <monogr>
+		<title level='j'>Cambridge Magazine</title>
+		<imprint>
+		  <date when="1920">Summer, 1920</date>
+		  <biblScope>pg. 58</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="Liberator-absence">
@@ -1516,9 +2093,9 @@
 	  <pb n="7"/>
 
 	  <lg type="poem" xml:id="alfonso-dressing-to-wait-at-table">
-	    <head>Alfonso, Dressing to Wait at Table<app type='word'><lem wit="#HS"></lem><rdg wit="#Cambridge-Alfonso #SINH-alfonso">, Sings</rdg></app></head>
+	    <head>Alfonso, Dressing to Wait at Table<app type='word'><lem wit="#HS"></lem><rdg wit="#Cambridge-alfonso #SINH-alfonso">, Sings</rdg></app></head>
 
-	    <note type="textual">This poem also appears in <ptr target="#Cambridge-Alfonso" /> and <ptr target="#SINH-Alfonso" />.</note>
+	    <note type="textual">This poem also appears in <ptr target="#Cambridge-alfonso" /> and <ptr target="#SINH-alfonso" />.</note>
 
 
 	    <lg type="stanza">
