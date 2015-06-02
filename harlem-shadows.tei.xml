@@ -1,44 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<<<<<<< HEAD
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>An Electronic Facsimile of the 1922 of Claude McKay's <title level="m">Harlem Shadows</title></title>
-            <author role="primary">Claude McKay</author>
-            <author role="editor">Max Eastman</author>
-            <principal>Chris Forster</principal>
-         </titleStmt>
-         <publicationStmt>
-	   <p>Claude McKay's Harlem Shadows, because of age, is in the public domain. This encoding is published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</ref>.</p>
-	   <p>Inspired by <ref target="http://piez.org/wendell/projects/buechlein">Wendell Piez's XSLT pipeline</ref>, this edition was generated from the plain text version
-	   distributed freely through archive.org: see <ref target="http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt">http://www.archive.org/stream/harlemshadows00mcka/harlemshadows00mcka_djvu.txt</ref> and then improved manually.</p>
-         </publicationStmt>
-         <sourceDesc>
-	   <listWit>
-
-	     <witness xml:id="HS">
-	       <bibl>
-		 <author>McKay, Claude</author>, <title>Harlem Shadows</title>. <pubPlace>New York</pubPlace>: <publisher>Harcourt, Brace, and Company</publisher>, <date when="1922">1922</date>.
-	       </bibl>
-	     </witness>
-
-	     <witness xml:id="SINH">
-	       <bibl>
-		 <author>McKay, Claude</author>, <title>Spring in New Hampshire</title>. <pubPlace>London</pubPlace>: <publisher>Grant Richards Ltd.</publisher>, <date when="1920">1920</date>.
-	       </bibl>
-	     </witness>
-
-	   </listWit>
-
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-     <pb n = "[]" facs="hs_ind_001.jpg hs_tor_003.jpg hs_pri_008.jpg hs_loc_005.jpg" />
-     <front>
-=======
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1526,7 +1488,6 @@
       <text xml:id="hs">
 	<pb n = "[]" />
 	<front>
->>>>>>> critical-edition
 	  <titlePage>
 	    <titlePart type="main" rend="caps">Harlem Shadows</titlePart><lb />
 	    <titlePart type="sub" rend="caps">The Poems of <lb/> Claude McKay</titlePart><lb />
@@ -1542,16 +1503,9 @@
 	  </titlePage>
 
 	  <pb />
-<<<<<<< HEAD
-	  <div>
-	      <p>Copyright, 1922 by <lb /> Harcourt, Brace and Company, INC.</p>
-	      <p>Printed in the U.S.A. by <lb /> The Quinn &amp; Boden Company <lb /> Rahway, N. J.</p>
-	  </div>
-=======
 	  <div type="frontmatter">
 	    <p>Copyright, 1922 by <lb /> Harcourt, Brace and Company, INC.</p>
 	    <p>Printed in the U.S.A. by <lb /> The Quinn &amp; Boden Company <lb /> Rahway, N. J.</p>
->>>>>>> critical-edition
 
 	    <pb />
 
@@ -2018,16 +1972,12 @@
 	  <pb />
 
 	  <div type="half-title">
-<<<<<<< HEAD
 	    <head><title rend="caps">Harlem Shadows</title></head>
-=======
 	    <head>Harlem Shadows</head>
->>>>>>> critical-edition
 	  </div>
 	  
 	</front>  
 
-<<<<<<< HEAD
 	<pb n="3" />
 	
    	<body>
@@ -10563,8 +10513,4 @@
 	  </body>
 	</text>
       </group>
-    </group>
-  </text>
-
->>>>>>> critical-edition
 </TEI>
