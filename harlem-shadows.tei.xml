@@ -7883,6 +7883,11 @@
 	    <head>
 	      <title>Lines Dedicated to Claude McKay</title>
 	      <bibl>
+		<author>
+		  <persName>
+		    <forename type='first'>Ethel</forename> <forename type='middle'>Trew</forename> <surname>Dunlap</surname>
+		  </persName>
+		</author>
 		<title level="a">Lines Dedicated to Claude McKay</title>
 		<title level="j">The Negro World</title>
 		<date when="1922-05-27">May 27, 1922</date>
@@ -7945,9 +7950,6 @@
 	      <l rend='indent'>For I have waited long in vain</l>
 	      <l>For song ethereal like thine</l>
 	      <l rend='indent'>To wake joy and banish pain.</l>
-	      <closer>
-		<signed>—Ethel Trew Dunlap</signed>
-	      </closer>
 	    </lg>
 	  </body>
 	</text>
