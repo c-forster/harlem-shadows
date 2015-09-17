@@ -5384,8 +5384,7 @@
 	<text type="review" xml:id="review_unsigned-two">
 	  <body>
 	    <head>
-	      <title>Two Volumes of Verse [A Review of <title level="m">Spring in New Hampshire </title>]
-	      </title>
+	      <title>Two Volumes of Verse [A Review of <title level="m">Spring in New Hampshire </title>]</title>
 	      <bibl>
 		<title level="a">Poets and Poetry</title>
 		<title level="a">Two Volumes of Verse.</title>
@@ -5453,6 +5452,298 @@
 	    There are, of course, two sides to the question, but, especially 
 	    after reading Mr. McKay's poem, we do not feel that the other 
 	    side needs supporting in quite the way he depicts.</p>
+	  </body>
+	</text>
+
+	<text type="review" xml:id="review_untermeyer_negro-as-artist">
+	  <body>
+	    <head>
+	      <title>"The Negro as Artist"</title>
+
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename>Louis</forename> <surname>Untermeyer</surname>
+		  </persName>
+f		</author>
+		<title level="a">"The Negro as Artist"</title>
+		<title type ="main" level="j">New York Tribune</title>
+		<date when="1922-09-22">April 9, 1922</date>
+		<biblScope>Page 7</biblScope>
+	      </bibl>
+	      <note type='editorial'>The text of this review is transcribed from a <ref target='http://chroniclingamerica.loc.gov/lccn/sn83030214/1922-04-09/ed-1/seq-59/'>page image</ref>
+	      available through Chronicling America: Historic American Newspapers.</note>
+	    </head>
+	    <div type='section'>
+	      <p>THE BOOK OF AMERICAN NEGRO
+	      POETRY. Chosen and Edited by James
+	      Weldon Johnson. Harcourt, Brace &amp; Co.</p>
+
+	      <p>If they are right—the prophets
+	      who predict the eventual submersion
+	      of the white race in a
+	      "rising tide of color"—this decade
+	      may come to be known as the
+	      first black renaissance. Even without
+	      the perspective of time, we can see
+	      how curiously this generation has been
+	      influenced by the dark strain. African
+	      sculpture has made a powerful impress
+	      on the art of our day. American music
+	      music reflects, in an increasing strength, the
+	      savage insistence of Congo drum beats,
+	      as well as the syncopated poignance of
+	      our Southern spirituals. In sociology
+	      the negro has begun to be his own interpreter,
+	      W. E. Burghardt Du Bois,
+	      editor of "The Crisis," has made two
+	      important contributions to the psychology
+	      of the suppressed race in "The
+	      Souls of Black Folk" and "Darkwater."
+	      Benjamin Brawley, author of that excellent
+	      handbook, "A Short History of
+	      the English Drama," has done splendid
+	      pioneer's work with his "The Negro in
+	      Art" and "A Social History of the
+	      American Negro."</p>
+
+	      <p>In literature the field is more uneven.
+	      In <hi rend='italics'>belles lettres</hi>, criticism and
+	      purely creative work the negro seems
+	      to suffer from an inhibition that prevents
+	      him from expressing his own
+	      emotions. Instead of giving free rein
+	      to a vision sharply differentiated from
+	      that of his white compatriots, he is
+	      content to ape their gestures, their
+	      inflections—too anxious to imitate with
+	      a stammering complaisance their own
+	      imitations. Instead of being proudly
+	      race conscious, he is too often merely
+	      self-conscious.</p>
+
+	      <p>A Harlem Freud may some day rise
+	      to explain this quality in terms of mass
+	      repression; the negro as artist suffers, 
+	      he may conclude, from a race inferiority
+	      complex. The implications of
+	      such an analysis are too deep and far-reaching
+	      for an article as superficial
+	      as this. They would, however, find
+	      repercussions in a recently published
+	      collection of poems chosen and edited
+	      by James Weldon Johnson, himself a
+	      poet, as was proved by his original
+	      volume, "Fifty Years."</p>
+	    </div>
+
+	    <div type='section'>
+	      <p>"The Book of Negro Poetry"
+	      is a record of the successes as
+	      well as the failures of the American
+	      negro (or, as Mr. Johnson prefers to
+	      call him, the Aframerican) as poet.
+	      Here are lyrics as native, as genuinely
+	      emotional, as "A Death Song" and
+	      "Little Brown Baby," by Paul Laurence
+	      Dunbar, and here, also, are verses as
+	      maudlin and imitative as "Ships That
+	      Pass in the Night" by the same writer.
+	      Here are rhapsodies as passionate as
+	      "A Litany of Atlanta," by <sic>W. E. 
+	      Du Bois</sic>, and quatrains as cryptic as the
+	      obviously Robinsonian echoes of that
+	      ardent anthologist, William Stanley
+	      Braithwaite. Fenton Johnson adopts,
+	      without hesitation or apology, Master's
+	      Spoon River idiom, but his angry intensity
+	      is his own.</p>
+
+	      <p>The outstanding discoveries of this
+	      collection are two, and they are less
+	      familiar—even to their own race. They
+	      are Claude McKay and Anne Spencer.
+	      McKay does not disguise either himself
+	      or his poetry; his lines are saturated
+	      with a people's passion: they are
+	      colored with a mixture of bitterness
+	      and beauty. McKay's quieter and
+	      idyllic moments are less noteworthy;
+	      his muse is more characteristic when
+	      she is rebellious than resigned. This
+	      singer does not mistake polemics for
+	      poetry; he knows to evoke a
+	      power of communication without shouting
+	      at the top of his voice. <ref target='#the-lynching'>"The
+	      Lynching"</ref> proves this. So does the
+	      impulsive sonnet, <ref target='#to-the-white-fiends'>"To the White
+	      Fiends,"</ref> and this significant outcry,
+	      written during the recent race riots:
+
+	      <quote source='#if-we-must-die'>
+		<lg>
+		  <head>If We Must Die</head>
+
+		  <lg type='stanza'>
+		    <l>If we must die—let it not be like hogs</l>
+		    <l>Hunted and penned in an inglorious spot,</l>
+		    <l>While round us bark the mad and hungry dogs,</l>
+		    <l>Making their mock at our accursed lot.</l>
+		    <l>If we must die—oh, let us nobly die,</l>
+		    <l>So that our precious blood may not be shed</l>
+		    <l>In vain, then even the monsters we defy</l>
+		    <l>Shall be constrained to honor us though dead!</l>
+		  </lg>
+
+		  <lg type='stanza'>
+		    <l>Oh, kinsmen! We must meet the common foe,</l>
+		    <l>Though far outnumbered, let us still be brave,</l>
+		    <l>And, for their thousand blows, deal one death blow!</l>
+		    <l>What though before us lies the open grave?</l>
+		    <l>Like men we'll face the murderous cowardly pack,</l>
+		    <l>Pressed to the wall, dying, but—fighting back!</l>
+		  </lg>
+		</lg>
+	      </quote>
+	      </p>
+
+	      <p>Anne Spencer's work sounds the other
+	      extreme of the gamut. Her verse is
+	      remarkably restrained, closely woven,
+	      intellectually complex. "The Wife-Woman"
+	      and "Translation" are steeped
+	      in a philosophy that has metaphysical
+	      overtones. But there is a racial opulence,
+	      an almost barbaric heat in the
+	      color of her lines.</p>
+	    </div>
+
+	    <div type='section'>
+	      <p>The names of Alex Rogers, J. W.
+	      Johnson and Paul Dunbar—all of
+	      whom wrote well known lyrics for
+	      popular songs like "Lover's Lane," "Nobody"
+	      and "The Jonah Man"—recall
+	      the negro composers who promised so
+	      much and who have performed so little. 
+	      Will Marion Cook, one of the ablest
+	      musicians ever produced in America,
+	      startle us with the amazing "Rain
+	      Song," originally written for a Williams
+	      and Walker show.</p>
+
+	      <p>H. T. Burleigh is another negro composer
+	      who apparently has been ruined
+	      by the conservatories. W. C. Handy
+	      must be given credit for an entire
+	      tendency which originated with his
+	      "Memphis Blues." What has happened
+	      to him? Or to Rosamond Johnson,
+	      most adroit of ragtime adapters? Or
+	      to Nathaniel Dett, whose "Listen to de
+	      Lambs" is one of the most eloquent
+	      pieces of choral writing ever scored by
+	      an American? Is the answer to be
+	      found, in spite of the negro's bursts of
+	      enthusiasm and gusto, in his lack of
+	      sustained effort? In a sheer inability
+	      to cope with the strain of continued
+	      creative effort?</p>
+
+	      <p>In short, is this almost equal alternation
+	      of achievement and failure a
+	      physical or a psychical thing? This
+	      collection poses such questions even
+	      though it does not pretend to supply
+	      the answers. What it does supply is
+	      a full sized portrait of the American
+	      negro's contribution to a definitely
+	      American art. It shows that if the
+	      Aframerican has not yet had his
+	      renaissance, his poetry has at least
+	      passed its pains of parturition. It is
+	      no discredit to him that, with two exceptions,
+	      the most balanced and cumulative
+	      contribution to this compilation
+	      is Mr. Johnson's forty-page preface. It
+	      is a mark of which any group could
+	      allow itself to be proud.</p>
+	    </div>
+	  </body>
+	</text>
+
+
+	<text type="review" xml:id="review_hunter_review">
+	  <body>
+	    <head>
+	      <title>"Harlem Shadows" [Review by Rex Hunter]</title>
+
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename>Rex</forename> <surname>Hunter</surname>
+		  </persName>
+		</author>
+		<title level="a">"Harlem Shadows"</title>
+		<title type ="main" level="j">New York Tribune</title>
+		<date when="1922-05-07">May 7, 1922</date>
+		<biblScope>Page 4</biblScope>
+	      </bibl>
+	    </head>
+
+	    <p>Contemplating the title of
+	    this collection of poems by a
+	    negro, I am reminded of a
+	    negro playwright whom I met
+	    in Chicago writing to ask me if I would
+	    not come "into the shadows" to see him—"out
+	    of that wider world in which
+	    you live and move." He was afraid
+	    that my respectable landlady would
+	    object to a "nigger" calling to see me.</p>
+
+	    <p>When nature places an agile, sensitive
+	    brain in a skull over which a black
+	    skin is stretched she creates one of
+	    her most ironical situations. For the
+	    possessor of that brain, to the average
+	    white man, will never be in any wise
+	    different from George the Pullman porter.
+	    He will be synonymous with crap
+	    games, razors and good-natured, deferential
+	    inanity.</p>
+
+	    <p>Claude McKay has tasted fully of
+	    the irony, the sheer tragedy, of such a
+	    situation. An authentic singer, his
+	    head full of music and sensuous imagery,
+	    his heart of nostalgia for his native
+	    Jamaica, he has been compelled to earn
+	    a living in America by doing everything
+	    from "pot wrestling" in a boarding-house
+	    kitchen to waiting on dining-car
+	    patrons.</p>
+
+	    <p>Usually, as in the sonnet <ref target="#america">"America,"</ref>
+	    he is brave and defiant. Occasionally,
+	    as in the title poem, he becomes bitter.
+	    At his best he produces the sort of instinctive
+	    lyricism that is found in folk-songs.
+	    At his worst—and the worst
+	    poem in the book is probably "When
+	    Dawn Comes to the City"—he comes
+	    perilously close to doggerel.</p>
+
+	    <p>Nostalgia is achingly expressed in
+	    <ref target="#the-tropics-in-new-york">"The Tropics in New York,"</ref> and there
+	    is dreadful heartbreak in <ref target="#wild-may">"Wild
+	    May."</ref></p>
+
+	    <p>It is no use looking in this book for
+	    elaborate nuances or a subtle music.</p>
+
+	    <p>What does exist in it is a natural
+	    lyricism.</p>
 	  </body>
 	</text>
 
@@ -5542,8 +5833,8 @@
 	    to bear it in mind in passing judgment 
 	    on McKay, the man.</p>
 	    
-	    <p>But the one, next to "If We Must 
-	    Die," which will probably find a snug 
+	    <p>But the one, next to <ref target='#if-we-must-die'>"If We Must 
+	    Die,"</ref> which will probably find a snug 
 	    place in the enflamed breasts of the 
 	    propagandists and the black proletariat, 
 	    is "Enslaved."</p>
@@ -5570,7 +5861,6 @@
 	    <p>Altogether it is a wondrous collection, 
 	    and indispensable to any representative 
 	    collection of Negro poetry.</p>
-
 	  </body>
 	</text>
 
@@ -5687,6 +5977,7 @@
 		<biblScope>4</biblScope>
 	      </bibl>
 	    </head>
+	    
 	    <div type="section">
 	      <p>For years the great poet has been regarded as the highest 
 	      manifestation of the intellectual, esthetic, and in many cases spiritual, 
@@ -5813,7 +6104,7 @@
 	  </body>
 	</text>
 
-<text type="review" xml:id="review_harrison-poetry">
+	<text type="review" xml:id="review_harrison-poetry">
 	  <body>
 	    <head>
 	      <title>Poetry of Claude McKay [Review of <title level="m">Spring in New Hampshire and Other Poems</title>]</title>
@@ -5847,7 +6138,7 @@
 	    which no hardships could suppress. Without any aid from Negro editors or publications 
 	    he made his way because white people who noted his gifts were eager to give him 
 	    a chance while Negro editors, as usual, were either too blind to see or too mean-spirited 
-	    to proclaim them to the world. His manly, stirring poem, "If We Must Die," first appeared 
+	    to proclaim them to the world. His manly, stirring poem, <ref target='#if-we-must-die'>"If We Must Die,"</ref> first appeared 
 	    in a white publication from which it was elevated to the dignity of a place in the 
 	    <title level="j">Congressional Record</title>. It was then that the Negro reading public discovered him for 
 	    themselves without any aid from their top-lofty mentors who are always "ready to bring 
@@ -5916,6 +6207,478 @@
 	  </body>
 	</text>
 
+	<text type="review" xml:id="effect-of-freedom">
+	  <body>
+	    <head>
+	      <title>Effect of Freedom on the Literary Art of Negroes</title>
+
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename>George</forename> <forename>W.</forename> <surname>Douglas</surname>
+		  </persName>
+		</author>
+		<title level='a' type='main'>Effect of Freedom on the Literary Art of Negroes</title>
+		<title level='a' type='sub'>Unconscious and Conscious Art Displayed in Poetry by Negroes</title>
+		<title level='j'>Evening Public Ledger</title>
+		<date when="1922-05-23">May 23, 1922</date>
+		<biblScope>Page 13</biblScope>
+		<note>Transcribed from page image available from <ref target='http://chroniclingamerica.loc.gov/lccn/sn83045211/1922-05-23/ed-1/seq-13/'>Chronicling America</ref>.</note>
+	      </bibl>
+	    </head>
+
+	    <div type='section'>
+	      <p>Three recent books of verse by
+	      Negroes afford an excellent opportunity
+	      for those interested in such matters
+	      to examine into the literary development
+	      of the race and incidentally
+	      into the changing temper of its literary
+	      spokesman.</p>
+
+	      <p>The Negro of slavery and the years
+	      immediately following the emancipation
+	      is represented in "Negro Folk
+	      Rhymes" (Macmillan), a collection of
+	      folk verse made of Prof. Thomas W.
+	      Talley, of Fisk University. These
+	      rhymes have no known author. They
+	      grew up among the Negroes and were
+	      developed by repetition and adjustment
+	      until they reached the form in which
+	      they are now reported in the South.
+	      They are dance songs and love songs,
+	      songs of animal and nature lore, charms
+	      and incantations, and so on. It is remarkable
+	      that there are so few in the
+	      whole collection that show any realization
+	      of the enslavement of the Negro
+	      or any resentment against that condition.
+	      Almost without exception the
+	      rhymes indicate an acceptance of the
+	      world and a cheerful adaptation to it.
+	      Even where there is resentment against
+	      slavery it is not argued but exhibited
+	      indirectly. Take, for example, "Promises
+	      of Freedom," in which the singer
+	      tells how the master promised to set
+	      him free and broke the promise. It
+	      continues:
+
+	      <quote>
+		<lg>
+		  <l>Ole Mosser lakwise promise me,</l>
+		  <l>W'en he died, he'd set me free,</l>
+		  <l>But ole Mosser go an' make his Will</l>
+		  <l>Fer to leave me a-plowin' ole Beck still.</l>
+		</lg>
+
+		<lg>
+		  <l>Yes, my ole Mosser promise me;</l>
+		  <l>But "his papers" didn' leave me free,</l>
+		  <l>A doze of pizen helped 'im along,</l>
+		  <l>May de Devil preach 'is funer'l song.</l>
+		</lg>
+	      </quote>
+	      </p>
+
+	      <p>One may assume that the slave had
+	      something to do with the poison, but
+	      there is no moralizing or justifying of
+	      resentment against injustice. The fact
+	      is stated with the simplicity of a primitive
+	      people.</p>
+	    </div>
+
+	    <div type='section'>
+	      <p rend='italics'>A similar simplicity rules in the
+	      songs of nature, a simplicity that
+	      sometimes becomes beautiful.</p>
+	    </div>
+
+	    <div type='section'>
+	      <p>There is no sophisticated and
+	      trained poet who could produce more
+	      nearly perfect things than some that
+	      have been handed down by word of
+	      mouth among untutored Negroes.
+	      Only a person with a sensitive ear and
+	      a feeling for rhythm could have produced
+	      the 'Bob White Song':
+
+	      <quote>
+		<lg>
+		  <l>Bob white! Bob White!</l>
+		  <l>Is yo' peas all ripe?</l>
+		  <l>No—! not—! quite!</l>
+		</lg>
+
+		<lg>
+		  <l>Bob white! Bob white!</l>
+		  <l>W'en will dey be ripe?</l>
+		  <l>Tomor—! row! night!</l>
+		</lg>
+
+		<lg>
+		  <l>Bob white! Bob white!</l>
+		  <l>Does you sing at night?</l>
+		  <l>No—! not—! quite!</l>
+		</lg>
+
+		<lg>
+		  <l>Bob white! Bob white!</l>
+		  <l>W'en is de time right?</l>
+		  <l>At can—! dle—! light!</l>
+		</lg>
+	      </quote>
+	      </p>
+
+	      <p>Of course, many of the rhymes in
+	      the volume are little more than nonsense
+	      jingles. They are the product of
+	      a comparatively happy and irresponsible
+	      phase of the life of the Negro in America.
+	      There is no conscious literary art,
+	      no introspection and no philosophizing.
+	      These things had to wait until a later
+	      period.</p>
+	    </div>
+
+	    <div type='section'>
+	      <p rend='italics'>Within the past twenty years the
+	      Negroes have become conscious literary
+	      artists.</p>
+	    </div>
+
+	    <div type='section'>
+	      <p>They have written such a considerable
+	      volume of poetry as to justify
+	      the production of an anthology. Under
+	      the title of "The Book of American
+	      Negro Poetry" (Harcourt, Brace &amp;
+	      Co.), James Weldon Johnson has set
+	      forth selections from the work of more
+	      than thirty Negroes who have published
+	      verse since the late Paul Laurence Dunbar
+	      began to write. Mr. Johnson says
+	      in his preface that more than one hundred
+	      Negroes in the United States have
+	      published volumes of poetry and that
+	      only thirty of them came between
+	      Phillis Wheatley and Dunbar. The remaining
+	      seventy belong to the present
+	      and the recent past. It is evident that
+	      a literary consciousness is awakening
+	      in the race. And after Mr.
+	      Johnson's anthology one must admit
+	      that the Negro has a gift for poetry,
+	      even if the simpler and more spontaneous
+	      folk rhymes in Prof. Talley's
+	      volume had not demonstrated it.</p>
+
+	      <p>There is no great poetry in the volume;
+	      that is hardly to be expected.
+	      But there is a considerable body of good
+	      poetry, distinguished by imagination
+	      and insight and written with a fine
+	      sense of the requirements of verse.
+	      Some of the poets represented are educated
+	      men, college professors or preachers
+	      or journalists. Others are more
+	      humble workers, one of the best having
+	      been a kitchen worker in a restaurant.</p>
+	    </div>
+
+	    <div type='section'>
+	      <p rend='italics'>Many of these modern Negro poets
+	      express their resentment against the
+	      race that one enslaved their ancestors
+	      and even now lynches their
+	      fellows.</p>
+	    </div>
+
+	    <div type='section'>
+	      <p>Mr. Johnson, who has put his
+	      own poem, "Brothers," into his
+	      anthology is much more tolerant than
+	      some of the others, for he only
+	      makes the white who have burned a Negro at
+	      the stake for an atrocious crime wonder
+	      what the victim meant when he said,
+	      "Brothers in spirit, brothers in deed
+	      are we." Claude McKay, of whom I
+	      shall speak a little later, is voluble with
+	      hater. Joseph S. Cotter, Jr., merely
+	      asks:
+	      <quote>
+		<lg>
+		  <l>Why do men sneer when I arise</l>
+		  <l>And stand in their councils,</l>
+		  <l>And look them eye to eye,</l>
+		  <l>And speak their tongue?</l>
+		  <l>Is it because I am black?</l>
+		</lg>
+	      </quote>
+	      </p>
+
+	      <p>The late James D. Corrothers was
+	      in a very different mood when he wrote
+	      of the obstacles in the way of recognition
+	      for a Negro versemaker:
+	      <quote>
+		<lg>
+		  <l>Thus, my true Brother, dream-led, I</l>
+		  <l rend='indent1'>Forfend the anathema, following the span.</l>
+		  <l>I hold my head as proudly high</l>
+		  <l rend='indent1'>As any man.</l>
+		</lg>
+	      </quote>
+	      </p>
+	    </div>
+
+	    <div type='section'>
+	      <p rend='italics'>But the Negro poet has not yet
+	      arise who sees any overruling
+	      Providence in the forced migration of
+	      his ancestors from Africa.</p>
+	    </div>
+
+	    <div type='section'>
+	      <p>The bitterest of the whole company
+	      is Claude McKay, whose name appears
+	      on the title page of "Harlem
+	      Shadows" (Harcourt, Brace, &amp; Co.)
+	      Mr. McKay was born in Jamaica of
+	      slave ancestors. He came to this country
+	      in 1912 and has lived here since,
+	      and has received the medal of the Institute
+	      of Arts and Sciences in recognition
+	      of his verse. When he came to
+	      the United States he intended to study
+	      agriculture and go back to Jamaica and
+	      teach it to his people. He had not
+	      been here more than two years before
+	      he gave up the study and abandoned
+	      the plan to return to his native island.
+	      He earned a living at whatever work he
+	      could get. For a time he was a waiter
+	      in the dining car on the railroad between
+	      this city and New York. One
+	      of his poems is an expression of disgust
+	      for the diners and other waiters
+	      alike. Another begins
+	      <quote source='#the-white-city'>
+		<lg>
+		  <l>I will not toy with it nor bend an inch.</l>
+		  <l rend='indent1'>Deep in the secret chambers of my heart</l>
+		  <l>I nurse my life-long hate, and without flinch</l>
+		  <l rend='indent1'>I bear it nobly as I live my part.</l>
+		</lg>
+	      </quote>
+	      </p>
+
+	      <p>In poem after poem he varies this
+	      expression of hatred, until it seems as
+	      if it were a morbid obsession. Yet he
+	      has written a tenderly beautiful piece
+	      about his mother and some love lyrics
+	      that sing.</p>
+
+	      <p>It is not strange that the Negro
+	      should feel resentment at the wrongs
+	      his race has suffered at the hands of
+	      the whites. But as he grows in spiritual
+	      and intellectual stature he will discover
+	      that hatred will not redress a
+	      single wrong nor elevate him a single
+	      inch. It is from the poet, who is supposed
+	      to see more deeply and more
+	      clearly than the rest of us, that the recognition
+	      of the futility of hate is expected.
+	      Was it not Tennyson who said
+	      that the poet should be dowered with
+	      the hate of hate and the scorn of scorn.</p>
+	    </div>
+	  </body>
+	</text>
+	
+	<text type="review" xml:id="ovington_book-chat">
+	  <body>
+	    <head>
+	      <title>Book Chat [Review of "Harlem Shadows"]</title>
+
+	      <bibl>
+		<author>
+		  <persName>
+		    <forename>Mary</forename> <forename>White</forename> <surname>Ovington</surname>
+		    <roleName>Chairman of the Board of Directors of the National Association for the Advancement of Colored People.</roleName>
+		  </persName>
+		</author>
+		<title level="a">Book Chat</title>
+		<title level="j">The Dallas Express</title>
+		<date when="1922-06-03">June 3, 1922</date>
+		<biblScope>Page 4</biblScope>
+		<note>Transcribed from page image available from <ref target='http://chroniclingamerica.loc.gov/lccn/sn83025779/1922-06-03/ed-1/seq-4/'>Chronicling America</ref>.</note>
+	      </bibl>
+	    </head>
+	    <p>"HARLEM SHADOWS" By Claude McKay, published by
+	    Harcourt Brace and Co., Price $1.35.
+	    Postage 10c Extra.</p>
+
+	    <p>Claude McKay was born in the West
+	    Indies and had attained to some distinction
+	    there before he came to the
+	    United States. He had written exquisite
+	    songs in the Jamaican dialect,
+	    songs full of a love for the simple
+	    peasant folk and a longing for their
+	    full liberty, he had helped the street
+	    car men on strike, he had received
+	    the medal of the institute of Arts and
+	    Sciences. And then he came to New
+	    York. And though he sings of New
+	    York as a city which he hates; we,
+	    who love it, can rest content that he
+	    stays with us. Hate is next to love
+	    and far better than indifference.</p>
+
+	    <p>"Harlem Shadows" centres about
+	    New York, but to the poet's heart
+	    again and again comes the call of the
+	    Tropics. It is Easter Sunday and
+	    he thinks:
+	    <quote source='#the-easter-flower'>
+	      <lg>
+		<l>"Far from this foreign Easter damp and chilly</l>
+		<l rend='indent1'>My soul steals to a pear-shaped plot of ground,</l>
+		<l>Where gleamed the lilac-tinted Easter lily</l>
+		<l rend='indent1'>Soft-scented in the air for yards around."</l>
+	      </lg>
+	    </quote>
+	    </p>
+
+	    <p>He stops at a shop window and
+	    <quote source='#the-tropics-in-new-york'>
+	      <lg>
+		<l>"Bananas ripe and green, and ginger-root,</l>
+		<l rend='indent1'>Cocoa in pods and alligator pears.</l>
+		<l>And tangerines and mangoes and grape-fruit—"</l>
+	      </lg>
+	    </quote>
+	    recall the laden fruit-trees of home
+	    and the mystical blue skies. He goes
+	    into the subway, the city's "great,
+	    gaunt gut" where "the gray train
+	    rushing bears the weary wind" and
+	    to him the wind is captive, moaning
+	    for fields and seas:
+	    <quote source='#subway-wind'>
+	      <lg>
+		<l>"Seas cooling warm where native schooners drift</l>
+		<l rend='indent1'>Through sleepy waters, while gulls wheel and sweep,</l>
+		<l>Waiting for windy waves the keels to lift</l>
+		<l rend='indent1'>Lightly among the islands of the deep."</l>
+	      </lg>
+	    </quote>
+	    </p>
+
+	    <p>The swallows fly North up from the
+	    Spanish main and he questions them.
+	    They have seen the children scampering
+	    out of school:
+	    <quote source='#homing-swallows'>
+	      <lg>
+		<l>"Do they still stop beneath the giant tree</l>
+		<l rend='indent1'>To gather locusts in their childish greed,</l>
+		<l>And chuckle when they break the pods to see</l>
+		<l rend='indent1'>The golden powder clustered round the seed?"</l>
+	      </lg>
+	    </quote>
+	    </p>
+
+	    <p>Weary, he turns to the South as
+	    the land of waking dreams.
+	    <quote source='#north-and-south'>
+	      <lg>
+		<l>"There by the banks of the blue and silver streams</l>
+		<l rend='indent1'>Grass-sheltered crickets chirp incessant song.</l>
+		<l>Gay-colored lizards loll all through the day</l>
+		<l rend='indent1'>Their tongues outstretched for careless little flies,</l>
+		<l rend='indent1'>Look upward laughing at the smiling skies."</l>
+	      </lg>
+	    </quote>
+	    </p>
+
+	    <p>When night comes he thinks of the
+	    "dainty Spanish needle" the yellow
+	    and white flower "shadowed by the
+	    spreading mango." And in the New
+	    York dawn of groaning cars and rumbling
+	    milks carts, of dark figures
+	    shuffling sadly to work, he calls up
+	    his island of the sea.
+	    <quote source='#when-dawn-comes-to-the-city'>
+	      <lg>
+		<l>"Where the cocks are crowing,</l>
+		<l rend='indent1'>And the hens are crackling in the rose-apple tree.'</l>
+	      </lg>
+	    </quote>
+	    </p>
+
+	    <p>But America has a grip upon Claude
+	    McKay. He tells us so in a wonderful
+	    sonnet.
+
+	    <quote source='#america'>
+	      <lg>
+		<l>"Although she feed me bread of bitterness,</l>
+		<l rend='indent1'>And sinks into my throat her tiger's <sic>took</sic>,</l>
+		<l>Stealing my breath of life, I will confess</l>
+		<l rend='indent1'>I love this cultured hell that tests my youth."</l>
+	      </lg>
+	    </quote>
+	    </p>
+
+	    <p>He has written <ref target='#the-lynching'>two great sonnets
+	    upon lynching</ref> and two <sic>unforgetable</sic>
+	    pictures of women, <ref target='#harlem-shadows'>Harlem Shadows</ref>
+	    and <ref target='#the-harlem-dancer'>The Harlem Dancer</ref>. As he explains
+	    in his preface, America has
+	    greatly affected his poetry at times,
+	    but it has not yet taught him to use
+	    free verse.</p>
+
+	    <p>Max Eastman, himself a poet as
+	    well as a rare critic of poetry, has
+	    written an Introduction to Mr. McKay's
+	    poems. I quote the end:</p>
+
+	    <quote source='#introduction'>
+	      <p>"The quality is here in all these
+	      songs, the pure, arrowlike <sic>tranference</sic>
+	      of his emotion into our heart,
+	      without any but the inevitable words, 
+	      the quality that reminds us of Burns
+	      and Villon and <sic>Catallus</sic>, and all the
+	      poets that we call lyric because we
+	      love them so much. It is the quality
+	      that Keats sought to cherish when
+	      he said that 'Poetry should be great
+	      and <sic>unobstrusive</sic>, a thing which enters
+	      into the soul, and does not startle
+	      or amaze with itself but with its
+	      subject.' * * * It is the poetry that
+	      looks upon a thing and sings.</p>
+	      <p>It is possessed by a feeling and
+	      sings. May it find its way a little
+	      quietly and softly in this age of roar
+	      and advertising, to the hearts that
+	      love a true and unaffected song."</p>
+	    </quote>
+	  </body>
+
+	</text>
+	
 	<text type="review" xml:id="review_kirnon-claude">
 	  <body>
 	    <head>
@@ -6078,10 +6841,10 @@
 	    is a lover of nature. Of that there 
 	    is no doubt. There are several poems 
 	    dealing with one or the other aspect 
-	    of nature. There are "The Easter 
-	    Flower," "Winter in the Country," "To 
-	    Winter," "Spring in New Hampshire," 
-	    "North and South," and others. The 
+	    of nature. There are <ref target='#the-easter-flower'>"The Easter 
+	    Flower,"</ref> <ref target='#winter-in-the-country'>"Winter in the Country,"</ref> <ref target='#to-winter'>"To 
+	    Winter,"</ref> <ref target='#spring-in-new-hampshire'>"Spring in New Hampshire,"</ref> 
+	    <ref target='#north-and-south'>"North and South,"</ref> and others. The 
 	    last named is of excellent quality, and, 
 	    in my humble estimation, can stand 
 	    comparison with some of the best of 
@@ -6092,7 +6855,7 @@
 	    <p>But these are not all by any means. 
 	    McKay touches philosophical themes. 
 	    He contemplates upon matters metaphysical. 
-	    In "I Know My Soul" he 
+	    In <ref target='#i-know-my-soul'>"I Know My Soul"</ref> he 
 	    shows a poetical philosophical bent 
 	    that was so strongly characteristic of 
 	    Omar and Goethe.</p>
