@@ -8344,15 +8344,17 @@ f		</author>
 	<text type="supplementary" xml:id="supp_congressional-record">
 	  <body>
 	    <head>
-	      <title>Letter from Commission on After-War Problems, Read into Congressional Record</title>
+	      <title>Letter from the African Methodist Episcopal Church Commission on After-War Problems, Read into Congressional Record</title>
 	      <bibl>
-		<title level="a"></title>
+		<title level="a">"A Memorial."</title>
 		<title level="j">Congressional Record</title>
-		<date when="1919">Summer, 1919</date>
-		<biblScope>55</biblScope>
+		<date when="1919-09-23">September 23, 1919</date>
+		<biblScope>pg. 5759-5760</biblScope>
 	      </bibl>
 
-	      <note type="editorial">Text available from <ref target="http://congressional.proquest.com.libezproxy2.syr.edu/congressional/docview/t19.d20.cr-1919-0923?accountid=14214">ProQuest</ref>.</note>
+	      <note type="textual">This letter was read into the Senate Congressional Record by U.S. Senator Truman Handy Newberry. "I also present a memorial signed by six bishops of the African Methodist Episcopal Church, praying for an investigation into the recent race riots in Washington, D.C., Chicago., Ill., and Knoxville, Tenn. I ask that the memorial be printed in the RECORD and referred to the Committee on Education and Labor.</note>
+	      
+	      <note type="editorial">Text available from <ref target="http://congressional.proquest.com/congressional/docview/t19.d20.cr-1919-0923?accountid=14214">ProQuest</ref>.</note>
 	    </head>
 
 	    <p><hi rend="italics">To the Congress of the United States:</hi></p>
@@ -8361,8 +8363,8 @@ f		</author>
 	    million communicants and adherents, now in the one hundred and third 
 	    year of its denominational existence, prompted by a sense of stern duty, 
 	    respectfully directs your attention to the solemn and ominous statements 
-	    which characterize the following poem, printed in the September 
-	    issue of a magazine published by colored people in New York City:</p>
+	    which characterize the following poem, printed in the <ref target="#supp_domingo_messenger_if-we-must-die">September 
+	    issue of a magazine published by colored people in New York City</ref>:</p>
 	    
 	    <quote>
 	      <lg type="poem">
@@ -8371,11 +8373,11 @@ f		</author>
 		<lg type="octet">
 		  <l>If we must die, let it not be like hogs</l>
 		  <l rend="indent1">Hunted and penned in an inglorious spot,</l>
-		  <l>While round us bark the made and hungry dogs,</l>
+		  <l>While round us bark the mad and hungry dogs,</l>
 		  <l rend="indent1">Making their mock at our accursed lot.</l>
 		  <l>If we must die, oh, let us nobly die</l>
 		  <l rend="indent1">So that our precious blood may not be shed</l>
-		  <l >In vain; then even the monsters we deft</l>
+		  <l >In vain; then even the monsters we defy</l>
 		  <l rend="indent1">Shall be constrained to honor us, though dead!</l>
 		</lg>
 
