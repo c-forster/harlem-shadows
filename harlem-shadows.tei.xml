@@ -3797,8 +3797,8 @@
 
 	  <head type="dedication">
 	    <app type='phrase'>
-	      <lem wit="#HS" />
-	      <rdg rend="italics" wit="#SINH-a-prayer">(For Max Eastman)</rdg>
+	      <lem wit="#HS"></lem>
+	      <rdg wit="#SINH-a-prayer"><hi rend='italics'>(For Max Eastman)</hi></rdg>
 	    </app>
 	  </head>
 
