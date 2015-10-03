@@ -5513,7 +5513,7 @@
 	  a chance while Negro editors, as usual, were either too blind to see or too mean-spirited 
 	  to proclaim them to the world. His manly, stirring poem, <ref target='#if-we-must-die'>"If We Must Die,"</ref> first appeared 
 	  in a white publication from which it was elevated to the dignity of a place in the 
-	  <title level="j">Congressional Record</title>. It was then that the Negro reading public discovered him for 
+	  <ref target="#supp_congressional-record"><title level="j">Congressional Record</title></ref>. It was then that the Negro reading public discovered him for 
 	  themselves without any aid from their top-lofty mentors who are always "ready to bring 
 	  forward young writers"—after they have been proclaimed by white critics.</p>
 
@@ -7430,8 +7430,8 @@
 	  </head>
 
 	  <p>James Weldon Johnson, in the sound 
-	  and aggressive foreword to his collection, "The
-	  Book of American Negro Poetry," says that the 
+	  and aggressive <ref target="#supp_johnson_american-book_preface">foreword to his collection, "The
+	  Book of American Negro Poetry,"</ref> says that the 
 	  negro is the creator of the only things artistic that 
 	  have yet sprung from American soil and been universally 
 	  acknowledged as distinctive American products. 
@@ -7488,23 +7488,23 @@
 	  "The Lynching" has power and majesty, from its 
 	  momentous opening to the sardonic throb at the end—
 
-	  <quote>
+	  <quote source="#the-lynching">
 	    <lg>
 	      <l>And little lads, lynchers that were to be,</l>
 	      <l>Danced round the dreadful thing in fiendish glee.</l>
 	    </lg>
 	  </quote>
 
-	  "If We Must Die" is a powerful call to battle; this 
+	  <ref target="#if-we-must-die">"If We Must Die"</ref> is a powerful call to battle; this 
 	  trinity of sonnets is one of the most effective things 
 	  ever done upon the theme. It compares favorably with 
 	  Du Bois's "Litany," with James Weldon Johnson's 
 	  "Brothers"; it is superior to William Ellery Leonard's 
 	  "The Lynching Bee."</p>
 
-	  <p>As stark realist, such poems as "On the Road," a 
+	  <p>As stark realist, such poems as <ref target="#on-the-road">"On the Road,"</ref> a 
 	  reminiscence of his dining car days, and the title poem 
-	  and "The Harlem Dancer" for another phase of life, 
+	  and <ref target="#the-harlem-dancer">"The Harlem Dancer"</ref> for another phase of life, 
 	  are vivid and gripping. Nor is he too close to the 
 	  writhing to achieve the poet's penetrating detachment, 
 	  as evidence in a line like this from "In Bondage":
@@ -7526,11 +7526,11 @@
 	  </quote>
 
 	  His tributes to his mother, especially the one with the 
-	  line "The best of me is the but the least of you," are finely 
+	  line <quote source="#heritage">"The best of me is the but the least of you,"</quote> are finely 
 	  thought, and wrought as well. If he sometimes strays 
 	  into an experiment as weak as
 
-	  <quote>
+	  <quote source="#when-dawn-comes-to-the-city">
 	    <lg>
 	      <l>And the tethered cow is lowing, lowing, lowing,</l>
 	      <l>And dear old Ned is braying, braying, braying,</l>
@@ -7539,11 +7539,11 @@
 	  </quote>
 
 	  this is forgiven for the loveliness of his love songs, 
-	  "Romance," "Flower of June," "The Snow Fairy," 
-	  "A Memory of June," and especially the bird-like 
+	  <ref target="#romance">"Romance,"</ref> "Flower of June," <ref target="#the-snow-fairy">"The Snow Fairy,"</ref> 
+	  <ref target="#a-memory-of-june">"A Memory of June,"</ref> and especially the bird-like 
 	  opening of "The Barrier":
 
-	  <quote>
+	  <quote source="#the-barrier">
 	    <lg>
 	      <l>I must not gaze at them although</l>
 	      <l rend="indent1">Your eyes are dawning day;</l>
