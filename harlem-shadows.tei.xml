@@ -5809,7 +5809,7 @@
 		  <forename>Rex</forename> <surname>Hunter</surname>
 		</persName>
 	      </author>
-	      <title level="a">"Harlem Shadows"</title>
+	      <title level="a">Harlem Shadows</title>
 	      <title type ="main" level="j">New York Tribune</title>
 	      <date when="1922-05-07">May 7, 1922</date>
 	      <biblScope>Page 4</biblScope>
@@ -6229,7 +6229,7 @@
 	</body>
       </text>
 
-      <text type="review" xml:id="effect-of-freedom">
+      <text type="review" xml:id="review_effect-of-freedom">
 	<body>
 	  <head>
 	    <title>George W. Douglas, "Effect of Freedom on the Literary Art of Negroes" (1922)</title>
@@ -6711,7 +6711,7 @@
 		  <forename type="first">Hodge</forename> <surname>Kirnon</surname>
 		</persName>
 	      </author>
-	      <title level="a">Claude M'Kay's <title level="m">"Harlem Shadows"</title>: An Appreciation</title>
+	      <title level="a">Claude M'Kay's <title level="m">Harlem Shadows</title>: An Appreciation</title>
 	      <title level="j">Negro World</title>
 	      <date when="1922-06-03">June 3, 1922</date>
 	      <biblScope>Vol. XII, no. 16, pg. 6</biblScope>
