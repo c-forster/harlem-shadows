@@ -5327,7 +5327,7 @@
 	  works for his daily bread. His story as it 
 	  is, which I had from Mr. Oppenheim, who 
 	  accepted his poems when editor of <title level="j" rend="italic">The 
-	  Seven Arts</title>, if full of alluring interest, and 
+	  Seven Arts</title>, is full of alluring interest, and 
 	  may one day be vividly featured as a 
 	  topic of historic literary importance. For 
 	  he may well be the keystone of the new 
@@ -5415,7 +5415,7 @@
 	      <date when="1920-10-23">October 23, 1920.</date>
 	      <pubPlace>London</pubPlace>
 	    </bibl>
-	    <note type="editorial" resp="cf">This review originally treated two volumes of verse: McKay's <title level="m">Spring in New Hampshire</title> and <title level="m">Collected Poems</title> by Edward Thomas. (London: Selwyn and Blount). Only the section of the review discussing <title level="m">Spring in New Hampshire</title> is reproduced here.</note>
+	    <note type="editorial" resp="cf">The complete review treats two volumes of verse: McKay's <title level="m">Spring in New Hampshire</title> and <title level="m">Collected Poems</title> by Edward Thomas (London: Selwyn and Blount). Only the section of the review discussing <title level="m">Spring in New Hampshire</title> is reproduced here.</note>
 	  </head>
 
 	  <p><title level="j">Spring in New Hampshire</title><note anchored="true" n="1">(1) <title level="m">Spring in New Hampshire</title>. By Claude McKay. London: Grant Richards. [3s. 6d. net.]</note> is extrinsically as well as intrinsically 
@@ -5490,7 +5490,7 @@
 	      <title level="a">Poetry of Claude McKay</title>
 	      <title level="j">Negro World</title>
 	      <date when="1921-05-21">May 21, 1921</date>
-	      <note>Text of this review is taken from Jeffery B. Perry's <title level="m">Hubert Harrison Reader</title> (Middleton, CT: Wesleyan University Press, 2001).</note>
+	      <note type='source'>Text of this review is available in Jeffery B. Perry's <title level="m">Hubert Harrison Reader</title> (Middleton, CT: Wesleyan University Press, 2001).</note>
 	    </bibl>
 	  </head>
 
@@ -5590,14 +5590,13 @@
 		<persName>
 		  <forename>Louis</forename> <surname>Untermeyer</surname>
 		</persName>
-	      f		</author>
-	      <title level="a">"The Negro as Artist"</title>
+	      </author>
+	      <title level="a">The Negro as Artist</title>
 	      <title type ="main" level="j">New York Tribune</title>
 	      <date when="1922-09-22">April 9, 1922</date>
 	      <biblScope>Page 7</biblScope>
 	    </bibl>
-	    <note type='editorial'>The text of this review is transcribed from a <ref target='http://chroniclingamerica.loc.gov/lccn/sn83030214/1922-04-09/ed-1/seq-59/'>page image</ref>
-	    available through Chronicling America: Historic American Newspapers.</note>
+	    <note type='source'>The text of this review is transcribed from a page image available through <ref target='http://chroniclingamerica.loc.gov/lccn/sn83030214/1922-04-09/ed-1/seq-59/'>Chronicling America</ref>.</note>
 	  </head>
 	  <div type='section'>
 	    <p>THE BOOK OF AMERICAN NEGRO
@@ -5706,7 +5705,7 @@
 	    written during the recent race riots:
 
 	    <quote source='#if-we-must-die'>
-	      <lg>
+	      <lg type='poem'>
 		<head>If We Must Die</head>
 
 		<lg type='stanza'>
@@ -6245,8 +6244,10 @@
 	      <title level='j'>Evening Public Ledger</title>
 	      <date when="1922-05-23">May 23, 1922</date>
 	      <biblScope>Page 13</biblScope>
-	      <note>Transcribed from page image available from <ref target='http://chroniclingamerica.loc.gov/lccn/sn83045211/1922-05-23/ed-1/seq-13/'>Chronicling America</ref>.</note>
 	    </bibl>
+
+	    <note type='source'>Transcribed from page image available from <ref target='http://chroniclingamerica.loc.gov/lccn/sn83045211/1922-05-23/ed-1/seq-13/'>Chronicling America</ref>.</note>
+
 	  </head>
 
 	  <div type='section'>
@@ -6540,8 +6541,8 @@
 	      <title level="j">The Dallas Express</title>
 	      <date when="1922-06-03">June 3, 1922</date>
 	      <biblScope>Page 4</biblScope>
-	      <note>Transcribed from page image available from <ref target='http://chroniclingamerica.loc.gov/lccn/sn83025779/1922-06-03/ed-1/seq-4/'>Chronicling America</ref>.</note>
 	    </bibl>
+	    <note type='source'>Transcribed from page image available from <ref target='http://chroniclingamerica.loc.gov/lccn/sn83025779/1922-06-03/ed-1/seq-4/'>Chronicling America</ref>.</note>
 	  </head>
 	  <p>"HARLEM SHADOWS" By Claude McKay, published by
 	  Harcourt Brace and Co., Price $1.35.
@@ -6715,12 +6716,14 @@
 	      <title level="j">Negro World</title>
 	      <date when="1922-06-03">June 3, 1922</date>
 	      <biblScope>Vol. XII, no. 16, pg. 6</biblScope>
-	      <note type="textual">
-		<p>Text of this review taken from microfilm held by <ref target='http://catalog.lib.msu.edu/record=b4852782~S1a'>Michigan State University Library</ref>, made available through the magic and generosity of interlibrary loan.</p>
-		<p>The text of this review is also collected in Tony Martin's <title level='m'>African Fundamentalism: A Literary and Cultural Anthology of Garvey's Harlem Renaissance</title> (Dover, MA: Majority Press, 1991): 69-70. Cooper, <title level="m">Claude McKay: Rebel Sojourner in the Harlem Renaissance</title> (Baton Rouge: Louisiana State Univ. Press, 1987): 400:n83 misdates this review to May 25, 1922.</p>
-	      </note>
-	      <note type="editorial">Cooper calls this "perhaps the longest and most appreciative review of <title level="j">Harlem Shadows</title>. Cooper quotes a letter from McKay to Kirnon in which McKay praises Kirnon's "real feeling" for his poetry. "I am so sick of pretentious critics posturing about creative work which they haven't the understanding heart to comprehend" (qtd. in Cooper 165-166).</note>
 	    </bibl>
+	    
+	    <note type="source">
+	      <p>Text of this review taken from microfilm held by <ref target='http://catalog.lib.msu.edu/record=b4852782~S1a'>Michigan State University Library</ref>, made available through the magic and generosity of interlibrary loan.</p>
+	      <p>The text of this review is also collected in Tony Martin's <title level='m'>African Fundamentalism: A Literary and Cultural Anthology of Garvey's Harlem Renaissance</title> (Dover, MA: Majority Press, 1991): 69-70. Cooper, <title level="m">Claude McKay: Rebel Sojourner in the Harlem Renaissance</title> (Baton Rouge: Louisiana State Univ. Press, 1987): 400:n83 misdates this review to May 25, 1922.</p>
+	    </note>
+	    
+	    <note type="editorial">Cooper calls this "perhaps the longest and most appreciative review of <title level="j">Harlem Shadows</title>. Cooper quotes a letter from McKay to Kirnon in which McKay praises Kirnon's "real feeling" for his poetry. "I am so sick of pretentious critics posturing about creative work which they haven't the understanding heart to comprehend" (qtd. in Cooper 165-166).</note>
 	  </head>
 
 	  <p>This simple appreciation of Claude 
@@ -7589,7 +7592,7 @@
 	      <date when="1923-05">May, 1923</date>
 	      <biblScope>Vol. 5, no. 5: 697, 717</biblScope>
 
-	      <note type="textual">Text of this review from microfilm held by <ref target="http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957">Syracuse University Libraries.</ref></note>
+	      <note type="source">Text of this review from microfilm held by <ref target="http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957">Syracuse University Libraries.</ref></note>
 	    </bibl>
 	  </head>
 
@@ -7684,7 +7687,7 @@
 	    </bibl>
 	  </head>
 
-	  <note type="editorial"><p>When these McKay published two sonnets in <title level="j">Seven Arts</title>, he had already published collections of poetry under his own name in Jamaica. However, when he began publishing poems  in the United States he used a pen name, a masculinization of his mother's name, Hannah Ann Elizabeth Edwards (see Cooper 26). McKay expains in his autobiography, "The nom de plume was adapted from my mother's name. I used it because at the time when the poems were submitted, I was a waiter at a women's club. The members were students of the arts. Some were literary aspirants and were always reading and discussing the new and little magazines. As I was a good enough waiter I did not care to be discovered as a poet there" (<title level='m'>Long Way from Home</title> 26).</p>
+	  <note type="editorial"><p>When McKay published these two sonnets in <title level="j">Seven Arts</title>, he had already published collections of poetry under his own name in Jamaica. However, when he began publishing poems in the United States he used a pen name, a masculinization of his mother's name, Hannah Ann Elizabeth Edwards (see Cooper 26). McKay expains in his autobiography, "The nom de plume was adapted from my mother's name. I used it because at the time when the poems were submitted, I was a waiter at a women's club. The members were students of the arts. Some were literary aspirants and were always reading and discussing the new and little magazines. As I was a good enough waiter I did not care to be discovered as a poet there" (<title level='m'>Long Way from Home</title> 26).</p>
 	  <p>The same issue of <title level="j">Seven Arts</title> featured material by J. D. Beresford, John Cournos, Clement Jones, Edna Kenton, Amy Lowell, Lajpat Rai, Paul Rosenfeld, Bertrand Russell, Jean Starr Untermeyer, and Willard Huntington.</p>
 	  </note>
 
@@ -7870,8 +7873,6 @@
 	      <biblScope unit="vol">II.1</biblScope>
 	      <biblScope unit="pg">3-6</biblScope>
 	    </bibl>
-
-	    <note type="editorial" resp="cf"></note>
 
 	    <note type="encoding">In its original appearance this text used unbalanced quotation marks for some of its quotations, i.e. it would not include closing quotation 
 	    marks at the end of a paragraph of quoted prose if the same source was being quoted into a second paragraph. This unbalanced typographical encoding produces 
@@ -8374,9 +8375,9 @@
 	      <biblScope>pg. 5759-5760</biblScope>
 	    </bibl>
 
-	    <note type="textual">This letter was read into the Senate Congressional Record by U.S. Senator Truman Handy Newberry. "I also present a memorial signed by six bishops of the African Methodist Episcopal Church, praying for an investigation into the recent race riots in Washington, D.C., Chicago., Ill., and Knoxville, Tenn. I ask that the memorial be printed in the RECORD and referred to the Committee on Education and Labor.</note>
+	    <note type="editorial">This letter was read into the Senate Congressional Record by U.S. Senator Truman Handy Newberry. "I also present a memorial signed by six bishops of the African Methodist Episcopal Church, praying for an investigation into the recent race riots in Washington, D.C., Chicago., Ill., and Knoxville, Tenn. I ask that the memorial be printed in the RECORD and referred to the Committee on Education and Labor.</note>
 	    
-	    <note type="editorial">Text available from <ref target="http://congressional.proquest.com/congressional/docview/t19.d20.cr-1919-0923?accountid=14214">ProQuest</ref>.</note>
+	    <note type="source">Text available from <ref target="http://congressional.proquest.com/congressional/docview/t19.d20.cr-1919-0923?accountid=14214">ProQuest</ref>.</note>
 	  </head>
 
 	  <p><hi rend="italics">To the Congress of the United States:</hi></p>
@@ -8496,6 +8497,7 @@
 	      <biblScope>55</biblScope>
 	    </bibl>
 	  </head>
+	  
 	  <p>The author of these poems is a native of Jamaica, where he was born in 1889, and where 
 	  he lived till 1911, publishing a book of dialect verse already referred to in our columns. 
 	  After reaching the United States he worked his way through Kansas to the West in various 
@@ -8525,6 +8527,7 @@
 	      <biblScope>[5]</biblScope>
 	    </bibl>
 	  </head>
+	  
 	  <p>The writer of these verses was born in the Clarendon 
 	  Hills of Jamaica in 1889. In 1911 he published a small 
 	  volume in the Negro dialect, and later left for the United 
@@ -8595,6 +8598,7 @@
 	      <p>The following passage on McKay is excerpted from Johnson's longer preface.</p>
 	    </note>
 	  </head>
+	  
 	  <pb n="xliii" />
 	  <p>But the group of the new Negro poets, whose work 
 	  makes up the bulk of this anthology, contains names 
@@ -8682,7 +8686,7 @@
 	      <biblScope unit='pgs'>6</biblScope>
 	    </bibl>
 	    
-	    <note type='textual'>
+	    <note type='source'>
 	      <p>Text of this poem taken from microfilm held by <ref target='http://catalog.lib.msu.edu/record=b4852782~S1a'>Michigan State University Library</ref>, made available through the magic and generosity of interlibrary loan.</p>
 	    </note>
 	  </head>
@@ -8760,9 +8764,10 @@
 	      <pubPlace>Washington, DC</pubPlace>
 	      <publisher>Associated Publishers, Inc.</publisher>
 
-	      <note>Copy consulted at <ref target='http://summit.syr.edu/vwebv/holdingsInfo?bibId=2593016'>Syracuse University Libraries</ref>.</note>
+	      <note type='source'>Copy consulted at <ref target='http://summit.syr.edu/vwebv/holdingsInfo?bibId=2593016'>Syracuse University Libraries</ref>.</note>
 	    </bibl>
 	  </head>
+	  
 	  <note type='editorial'>
 	    <p>This extract is taken from Kerlin's discussion of McKay in the second chapter. "The Present Renaissance of the Negro" and the section offer "Some Representatives of the Present Era."</p>
 	    <p>This discussion also features a small head-shot of McKay on page 126.</p>
@@ -8970,7 +8975,6 @@
 	    <l>I implore Neptune to claim his child to-day!</l>
 	  </lg>
 
-
 	</note> 
 	Here I will companion <title level='a'><hi rend='italics'>The Harlem Dancer</hi></title> with 
 	one from Mr. Dandridge, for the comparison will 
@@ -9022,6 +9026,7 @@
 	  expressed.</p>
 	</body>
       </text>
+      
       <text type="supplementary" xml:id="supp_kerlin_negro-poets-and-their-poems_protest">
 	<body>
 	  <head>
@@ -9038,13 +9043,14 @@
 	      <biblScope>126-131</biblScope>
 	      <pubPlace>Washington, DC</pubPlace>
 	      <publisher>Associated Publishers, Inc.</publisher>
-
-	      <note>Copy consulted at <ref target='http://summit.syr.edu/vwebv/holdingsInfo?bibId=2593016'>Syracuse University Libraries</ref>.</note>
 	    </bibl>
+
+	    <note type='source'>Copy consulted at <ref target='http://summit.syr.edu/vwebv/holdingsInfo?bibId=2593016'>Syracuse University Libraries</ref>.</note>
+
+	    <note type='editorial'>
+	      <p>This extract is taken from Kerlin's discussion of McKay in the seventh chapter, "The Poetry of Protest."</p>
+	    </note>
 	  </head>
-	  <note type='editorial'>
-	    <p>This extract is taken from Kerlin's discussion of McKay in the seventh chapter, "The Poetry of Protest."</p>
-	  </note>
 
 	  <p>The Negro's deep resentment of his wrongs has 
 	  found its most artistic expression in the verse of 
@@ -9108,6 +9114,7 @@
 	  
 	</body>
       </text>
+      
       <text type="supplementary" xml:id="supp_investigation-of-communist-propaganda">
 	<body>
 	  <head>
