@@ -1975,7 +1975,7 @@
 
    	<body>
 	  <pb n="3" />
-	  <lg type="poem" xml:id="the-easter-flower">
+	  <lg type="poem" xml:id="the-easter-flower" rhyme="abab">
 	    <head>The Easter Flower</head>
 
 	    <note type="textual">
@@ -2009,7 +2009,7 @@
 	  </lg>
 
 	  <pb n="4" />
-	  <lg type="poem" xml:id="to-one-coming-north">
+	  <lg type="poem" xml:id="to-one-coming-north" rhyme="abab">
 	    <head rend="caps">To One Coming North</head>
 
 	    <note type="textual">
@@ -2074,7 +2074,7 @@
 	    <l>Her bigness sweeps my being like a flood.</l>
 	    <l>Yet as a rebel fronts a king in state,</l>
 	    <l>I stand within her walls with not a shred</l>
-	    <l>Of terror, malice<app type='phrase'><lem wit="#HS">,  not</lem><rdg wit="#Liberator-america"> nor even</rdg></app> a word of jeer.</l>
+	    <l>Of terror, malice<app type='phrase'><lem wit="#HS">, not</lem><rdg wit="#Liberator-america"> nor even</rdg></app> a word of jeer.</l>
 	    <l>Darkly I gaze into the days ahead<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Liberator-america" /></app></l>
 	    <l><app type='word'>
 	      <lem wit="#HS">And</lem>
@@ -2092,7 +2092,7 @@
 
 	  <pb n="7"/>
 
-	  <lg type="poem" xml:id="alfonso-dressing-to-wait-at-table">
+	  <lg type="poem" xml:id="alfonso-dressing-to-wait-at-table" rhyme="abab">
 	    <head>Alfonso, Dressing to Wait at Table<app type='word'><lem wit="#HS"></lem><rdg wit="#CambridgeMagazine-alfonso #SINH-alfonso">, Sings</rdg></app></head>
 
 	    <note type="textual">This poem also appears in <ptr target="#CambridgeMagazine-alfonso" /> and <ptr target="#SINH-alfonso" />.</note>
@@ -2132,7 +2132,7 @@
 	  </lg>
 
 	  <pb n="8" />
-	  <lg type="poem" xml:id="the-tropics-in-new-york">
+	  <lg type="poem" xml:id="the-tropics-in-new-york" rhyme="abab">
 	    <head>The Tropics in New York</head>
 
 	    <note type="textual">
@@ -2195,7 +2195,7 @@
 
 	  <pb n="9" />
 
-	  <lg type="poem" xml:id="flame-heart">
+	  <lg type="poem" xml:id="flame-heart" rhyme="-a-a-b-bcc">
 	    <head>Flame-Heart</head>
 
 	    <lg type="stanza">
@@ -2255,7 +2255,7 @@
 
 	  <pb n="11" />
 
-	  <lg type="poem" xml:id="home-thoughts">
+	  <lg type="poem" xml:id="home-thoughts" rhyme="aa">
 	    <head>Home Thoughts</head>
 
 	    <note type="textual">
@@ -2307,7 +2307,7 @@
 	  </lg>
 
 	  <pb n="12" />
-	  <lg type="poem" xml:id="on-broadway">
+	  <lg type="poem" xml:id="on-broadway" rhyme="aabcbcdd">
 
 	    <head>On Broadway</head>
 
@@ -2343,7 +2343,7 @@
 	  
 	  <pb n="13" />
 
-	  <lg type="poem" xml:id="the-barrier">
+	  <lg type="poem" xml:id="the-barrier" rhyme="abab">
 	    <head>The Barrier</head>
 
 	    <note type="textual">
@@ -2383,7 +2383,7 @@
 
 	  <pb n="14" />
 
-	  <lg type="poem" xml:id="adolescence">
+	  <lg type="poem" xml:id="adolescence" rhyme="abab">
 	    <head>Adolescence</head>
 
 	    <lg type="stanza">
@@ -2408,7 +2408,7 @@
 
 	  <pb n="15" />
 
-	  <lg type="poem" xml:id="homing-swallows">
+	  <lg type="poem" xml:id="homing-swallows" rhyme="abab">
 	    <head>Homing Swallows<note type="editorial"><hi rend="bold">Homing Swallow:</hi> a swallow capable of traveling distances but returning to its point of origin, like a homing pigeon.</note></head>
 
 	    <lg type="stanza">
@@ -2433,7 +2433,7 @@
 
 	  <pb n="16" />
 
-	  <lg type="poem" xml:id="the-citys-love">
+	  <lg type="poem" xml:id="the-citys-love" rhyme="aabcbcdd">
 	    <head>The City's Love</head>
 
 	    <l>For one brief golden moment rare like wine,</l>
@@ -2447,7 +2447,7 @@
 	  </lg>
 
 	  <pb n="17" />
-	  <lg type="poem" xml:id="north-and-south">
+	  <lg type="poem" xml:id="north-and-south" rhyme="ababcdcdefefghghii">
 	    <head>North and South</head>
 
 	    <note type="textual">
@@ -2500,7 +2500,7 @@
 
 	  <pb n="19" />
 
-	  <lg type="poem" xml:id="the-plateau">
+	  <lg type="poem" xml:id="the-plateau" rhyme="abba">
 	    <head>The Plateau</head>
 
 	    <lg type="stanza">
@@ -2534,7 +2534,7 @@
 
 	  <pb n="20" />
 
-	  <lg type="poem" xml:id="after-the-winter"> 
+	  <lg type="poem" xml:id="after-the-winter" rhyme="ababcdcd"> 
 	    <head>After the <app type='word'><lem wit="#HS #SINH-after #CambridgeMagazine-after-the-winter">Winter</lem><rdg wit="#Liberator-after">Winters.</rdg></app></head>
 
 	    <note type="textual">
@@ -2579,7 +2579,7 @@
 	  </lg>
 
 	  <pb n="21" />
-	  <lg type="poem" xml:id="the-wild-goat">
+	  <lg type="poem" xml:id="the-wild-goat" rhyme="abab">
 	    <head>
 	      <app type='phrase'>
 		<lem wit="#HS">The Wild Goat</lem>
@@ -2608,7 +2608,7 @@
 	  </lg>
 
 	  <pb n ="22"/>
-	  <lg type="poem" xml:id="harlem-shadows">
+	  <lg type="poem" xml:id="harlem-shadows" rhyme="ababcc">
 	    <head>Harlem Shadows</head>
 
 	    <note type="textual">
@@ -2685,7 +2685,7 @@
 
 	  <pb n="24" />
 	  
-	  <lg type="poem" xml:id="the-spanish-needle">
+	  <lg type="poem" xml:id="the-spanish-needle" rhyme="abcb">
 	    <head rend="caps">The Spanish Needle<note type="editorial"><hi rend="bold">Spanish Needle:</hi> A wildflower (<hi rend="italics">bidens alba</hi>), with white and yellow blossoms.</note></head>
 
 	    <note type="textual">
@@ -2741,7 +2741,7 @@
 
 	  <pb n="26" />
 	  
-	  <lg type="poem" xml:id="my-mother">
+	  <lg type="poem" xml:id="my-mother" rhyme="ababcdcdefefgg">
 	    <head>My Mother</head>
 
 	    <note type="textual">
@@ -2830,7 +2830,7 @@
 
 	  <pb n="29" />
 
-	  <lg type="poem" xml:id="december-1919">
+	  <lg type="poem" xml:id="december-1919" rhyme="abcb">
 	    <head>December, 1919</head>
 
 	    <lg type="stanza">
@@ -2856,7 +2856,7 @@
 
 	  <pb n="30" />
 	  
-	  <lg type="poem" xml:id="heritage">
+	  <lg type="poem" xml:id="heritage" rhyme="abcb">
 	    <head>Heritage</head>
 	    <lg type="stanza">
 	      <l>Now the dead past seems vividly alive,</l>
@@ -2890,7 +2890,7 @@
 
 	  <pb n="31" />
 
-	  <lg type="poem" xml:id="when-i-have-passed-away">
+	  <lg type="poem" xml:id="when-i-have-passed-away" rhyme="abab">
 	    <head>When I Have Passed Away</head>
 
 	    <lg type="stanza">
@@ -2973,7 +2973,7 @@
 
 	  <pb n="34" />
 	  
-	  <lg type="poem" xml:id="morning-joy">
+	  <lg type="poem" xml:id="morning-joy" rhyme="aabb">
 	    <head>Morning Joy</head>
 
 	    <note type="textual">
@@ -3068,7 +3068,7 @@
 
 	  <pb n="37" />
 
-	  <lg type="poem" xml:id="winter-in-the-country">
+	  <lg type="poem" xml:id="winter-in-the-country" rhyme="abab">
 	    <head>Winter in the Country</head>
 
 	    <note type="textual">
@@ -3157,7 +3157,7 @@
 
 	  <pb n="40" />
 
-	  <lg type="poem" xml:id="spring-in-new-hampshire">
+	  <lg type="poem" xml:id="spring-in-new-hampshire" rhyme="ababcc">
 	    <head>Spring in New Hampshire</head>
 
 	    <head type="dedication">
@@ -3482,7 +3482,7 @@
 
 	  <pb n="49"/>
 
-	  <lg type="poem" xml:id="exhortation-summer-1919">
+	  <lg type="poem" xml:id="exhortation-summer-1919" rhyme="ababcddcddcddefefcddcddcdd">
 	    <head>
 	      <app type='phrase'>
 		<lem wit="#HS">Exhortation: Summer, 1919</lem>
@@ -3680,7 +3680,7 @@
 	
 	<pb n="54" />
 
-	<lg type = "poem" xml:id="subway-wind">
+	<lg type = "poem" xml:id="subway-wind" rhyme="abab">
 	  <head>Subway Wind</head>
 
 	  <note type="textual">
@@ -3763,7 +3763,7 @@
 
 	<pb n="57" />
 
-	<lg type = "poem" xml:id="to-a-poet">
+	<lg type = "poem" xml:id="to-a-poet" rhyme="abab">
 	  <head>To a Poet</head>
 
 	  <lg type="stanza">
@@ -3790,10 +3790,9 @@
 
 	<pb n="58" />
 
-	<lg type = "poem" xml:id="a-prayer">
+	<lg type = "poem" xml:id="a-prayer" rhyme="aa">
 	  <head>A Prayer</head>
-	  <note type="textual">This poem also appeared in <ptr target="#SINH-a-prayer" />.</note>
-
+	  <note type="textual">This poem also appeared in <ptr target="#SINH-a-prayer" />, with a dedication to Max Eastman.</note>
 
 	  <head type="dedication">
 	    <app type='phrase'>
@@ -3832,7 +3831,7 @@
 	
 	<pb n="60" />
 
-	<lg type = "poem" xml:id="when-dawn-comes-to-the-city">
+	<lg type = "poem" xml:id="when-dawn-comes-to-the-city" rhyme="ababcdcd eefefgfffefeeg">
 	  <head type="title">When Dawn Comes to the City</head>
 
 	  <note type="textual">
@@ -3907,7 +3906,7 @@
 
 	<pb n="63" />
 
-	<lg type="poem" xml:id="o-word-i-love-to-sing">
+	<lg type="poem" xml:id="o-word-i-love-to-sing" rhyme="abab">
 	  <head>O Word I Love to Sing</head>
 
 	  <lg type="stanza">
@@ -3934,7 +3933,7 @@
 
 	<pb n="64" />
 
-	<lg type="poem" xml:id="absence">
+	<lg type="poem" xml:id="absence" rhyme="aa">
 	  <head>Absence</head>
 
 	  <note type="textual">
@@ -3971,7 +3970,7 @@
 
 	<pb n="66" />
 	
-	<lg type="poem" xml:id="summer-morn-in-new-hampshire">
+	<lg type="poem" xml:id="summer-morn-in-new-hampshire" rhyme="abab">
 	  <head>Summer Morn in New Hampshire</head>
 
 	  <lg type="stanza">
@@ -3999,7 +3998,7 @@
 
 	<pb n="67" />	   
 
-	<lg type="poem" xml:id="rest-in-peace">
+	<lg type="poem" xml:id="rest-in-peace" rhyme="abab">
 	  <head>Rest in Peace</head>
 
 	  <note type="textual">
@@ -4033,7 +4032,7 @@
 
 	<pb n="68" />
 
-	<lg type="poem" xml:id="a-red-flower">
+	<lg type="poem" xml:id="a-red-flower" rhyme="abab">
 	  <head>A Red Flower</head>
 
 	  <lg type="stanza">
@@ -4077,7 +4076,7 @@
 
 	<pb n="70" />
 
-	<lg type="poem" xml:id="courage">
+	<lg type="poem" xml:id="courage" rhyme="abba">
 	  <head>Courage</head>
 
 	  <lg type="stanza">
@@ -4112,13 +4111,13 @@
 
 	<pb n="71" />
 
-	<lg type="poem" xml:id="to-oea">
+	<lg type="poem" xml:id="to-oea" rhyme="ababcddeeefghih">
 	  <head>To O.E.A.</head>
 
 	  <note type="textual">
 	    <p>This poem also appears in <ptr target="#CambridgeMagazine-to-oea" /> and <ptr target="#SINH-to-oea" />.</p>
 
-	    <p>In these other two appearanes, lines 10 ("You are sea-foam...") and 14 ("But men will love...") are indented further, like lines 6 and 7, and line 13 ("Oh I love you...") is indented to the same distance as 2 and 4.</p>
+	    <p>In these other two appearances, lines 10 ("You are sea-foam...") and 14 ("But men will love...") are indented further, like lines 6 and 7, and line 13 ("Oh I love you...") is indented to the same distance as 2 and 4.</p>
 	  </note>
 
 	  <l>Your voice is the <app type='orthographic'><lem wit="#HS">color</lem><rdg wit="#SINH #CambridgeMagazine-to-oea">colour</rdg></app> of a robin's breast,</l>
@@ -4143,7 +4142,7 @@
 
 	<pb n="73" />
 
-	<lg type="poem" xml:id="romance">
+	<lg type="poem" xml:id="romance" rhyme="aa">
 	  <head>Romance</head>
 
 	  <lg type="stanza">
@@ -4192,7 +4191,7 @@
 
 	<pb n="75" />
 
-	<lg type="poem" xml:id="flower-of-love">
+	<lg type="poem" xml:id="flower-of-love" rhyme="ababcdcdefeghihi">
 	  <head>Flower of Love</head>
 
 	  <l>The perfume of your body dulls my sense.</l>
@@ -4215,7 +4214,7 @@
 
 	<pb n="76" />
 
-	<lg type="poem" xml:id="the-snow-fairy">
+	<lg type="poem" xml:id="the-snow-fairy" rhyme="ababcdcdefefgg">
 	  <head>The Snow Fairy</head>
 
 	  <lg type="stanza">
@@ -4293,7 +4292,7 @@
 
 	<pb n="79" />
 	
-	<lg type="poem" xml:id="a-memory-of-june">
+	<lg type="poem" xml:id="a-memory-of-june" rhyme="abab">
 
 	  <head>A Memory of June</head>
 
@@ -4355,7 +4354,7 @@
 
 	<pb n="81" />
 	
-	<lg type="poem" xml:id="flirtation">
+	<lg type="poem" xml:id="flirtation" rhyme="abababab">
 	  <head>Flirtation</head>
 	  <note type="textual">
 	    This poem also appeared in <ptr target="#Liberator-flirtation" />.
@@ -4373,7 +4372,7 @@
 
 	<pb n="82" />
 	
-	<lg type="poem" xml:id="tormented">
+	<lg type="poem" xml:id="tormented" rhyme="abcb">
 	  <head>Tormented</head>
 
 	  <lg type="stanza">
@@ -4400,7 +4399,7 @@
 
 	<pb n="83" />
 
-	<lg type="poem" xml:id="polarity">
+	<lg type="poem" xml:id="polarity" rhyme="abab">
 	  <head>Polarity</head>
 
 	  <lg type="stanza">
@@ -4421,7 +4420,7 @@
 
 	<pb n="84" />
 
-	<lg type="poem" xml:id="one-year-after">
+	<lg type="poem" xml:id="one-year-after" rhyme="abbaabbacdcdcd">
 	  <head>One Year After</head>
 
 	  <lg type="stanza">
@@ -4467,8 +4466,8 @@
 	  </lg>
 	</lg>
 
-	<lg type="poem" xml:id="french-leave">
-	  <head>French Leave</head>
+	<lg type="poem" xml:id="french-leave" rhyme="abab">
+	  <head>French Leave<note type="editorial"><hi rend="bold">French leave</hi>: an unexcused absence; to without permission; in military contexts, to be absent without leave.</note></head>
 
 	  <note type="textual">
 	    This poem also appeared in <ptr target="#Liberator-french" />.
@@ -4515,7 +4514,7 @@
 
 	<pb n="88" />
 
-	<lg type="poem" xml:id="jasmines">
+	<lg type="poem" xml:id="jasmines" rhyme="abacbcddeffegfg">
 	  <head>Jasmines</head>
 
 	  <note type="textual">
@@ -4543,7 +4542,7 @@
 
 	<pb n="89" />
 
-	<lg type="poem" xml:id="commemoration">
+	<lg type="poem" xml:id="commemoration" rhyme="abab">
 	  <head>Commemoration</head>
 
 	  <lg type="stanza">
@@ -4577,7 +4576,7 @@
 
 	<pb n="90" />
 
-	<lg type="poem" xml:id="memorial">
+	<lg type="poem" xml:id="memorial" rhyme="abab">
 	  <head>Memorial</head>
 
 	  <lg type="stanza">
@@ -4683,7 +4682,7 @@
 
 	<pb n="94" />
 
-	<lg type="poem" xml:id="through-agony">
+	<lg type="poem" xml:id="through-agony" rhyme="abbaabbacdcdcd">
 	  <head>Through Agony</head>
 
 	  <note type="textual">
