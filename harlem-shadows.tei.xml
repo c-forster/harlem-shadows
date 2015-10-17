@@ -4932,6 +4932,8 @@
 	  </head>
 
 	  <lg type="poem" rhyme="ababcdcdefefgg">
+	    <head>A Capitalist At Dinner</head>
+	    
 	    <lg type="octave">
 	      <l>An ugly figure, heavy, overfed,</l>
 	      <l>Settles uneasily into a chair;</l>
@@ -4974,6 +4976,7 @@
 	  </head>
 
 	  <lg type="poem" rhyme="ababcdcdefefgg">
+	    <head>The Little Peoples</head>
 	    <lg type="octave">
 	      <l>The little peoples of the troubled earth,</l>
 	      <l>The little nations that are weak and white;—</l>
@@ -5016,6 +5019,7 @@
 	  </head>
 
 	  <lg type="poem" rhyme="ababcdcd">
+	    <head>A Roman Holiday</head>
 	    <lg type="octave">
 	      <l>'Tis but a modern Roman holiday;</l>
 	      <l>Each state invokes its soul of basest passion,</l>
