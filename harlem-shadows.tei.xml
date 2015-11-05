@@ -1937,7 +1937,7 @@
 	    <head>The Easter Flower</head>
 
 	    <note type="textual">
-	      This poem also appears in <ptr target="#Liberator-easter" />.
+	      <p>This poem also appears in <ptr target="#Liberator-easter" />.</p>
 	    </note>
 
 	    <lg type="stanza">
@@ -1971,7 +1971,7 @@
 	    <head rend="caps">To One Coming North</head>
 
 	    <note type="textual">
-	      This poem also appears in <ptr target="#Liberator-to-one" />.
+	      <p>This poem also appears in <ptr target="#Liberator-to-one" />.</p>
 	    </note>
 
 
@@ -2013,11 +2013,11 @@
 	  <lg type="poem" xml:id="america" rhyme="ababcdcdefefgg">
 	    <head>America</head>
 	    
-	    <note type="textual">This poem appears in:
+	    <note type="textual"><p>This poem appears in:
 	    <list>
 	      <item><ptr target="#ThreeSonnets-america" /> with two other sonnets under the title "Three Sonnets."</item>
 	      <item><ptr target="#Liberator-america" /></item>
-	    </list>
+	    </list></p>
 	    </note>
 
 	    <l><app type='orthography'>
@@ -2053,7 +2053,7 @@
 	  <lg type="poem" xml:id="alfonso-dressing-to-wait-at-table" rhyme="abab">
 	    <head>Alfonso, Dressing to Wait at Table<app type='word'><lem wit="#HS"></lem><rdg wit="#CambridgeMagazine-alfonso #SINH-alfonso">, Sings</rdg></app></head>
 
-	    <note type="textual">This poem also appears in <ptr target="#CambridgeMagazine-alfonso" /> and <ptr target="#SINH-alfonso" />.</note>
+	    <note type="textual"><p>This poem also appears in <ptr target="#CambridgeMagazine-alfonso" /> and <ptr target="#SINH-alfonso" />.</p></note>
 
 
 	    <lg type="stanza">
@@ -2094,14 +2094,14 @@
 	    <head>The Tropics in New York</head>
 
 	    <note type="textual">
-	      This poem also appeared in:
+	      <p>This poem also appeared in:
 	      <list>
 		<item><ptr target="#SINH-tropics" /></item>
 		<item><ptr target="#CambridgeMagazine-tropics-in-new-york" /></item>
 		<item><ptr target="#Liberator-tropics" /></item>
 	      </list>
 
-	      In its appearance in <ref target="#Liberator-tropics"><title level="j">The Liberator</title></ref>, this poem did not feature any line indentation.
+	      In its appearance in <ref target="#Liberator-tropics"><title level="j">The Liberator</title></ref>, this poem did not feature any line indentation.</p>
 	    </note>
 
 	    <lg type="stanza">
@@ -2217,11 +2217,11 @@
 	    <head>Home Thoughts</head>
 
 	    <note type="textual">
-	      This poem also appears in:
+	      <p>This poem also appears in:
 	      <list>
 		<item><ptr target="#ThreeSonnets-homethoughts" /> with two other sonnets.</item>
                 <item><ptr target="#Liberator-home" /></item>
-	      </list>
+	      </list></p>
 	    </note>
 
 	    <l><app type='orthography'><lem wit="#HS #ThreeSonnets-homethoughts">Oh</lem><rdg wit="#Liberator-home">O</rdg></app><app type='punctuation'><lem wit="#HS #Liberator-home" /><rdg wit="#ThreeSonnets-homethoughts">,</rdg></app> something just now must be happening there!</l>
@@ -2270,7 +2270,7 @@
 	    <head>On Broadway</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ptr target="#SINH-on-broadway" /> and <ptr target="#CambridgeMagazine-on-broadway" />.
+	      <p>This poem also appeared in <ptr target="#SINH-on-broadway" /> and <ptr target="#CambridgeMagazine-on-broadway" />.</p>
 	    </note>
 
 	    <lg type="stanza">
@@ -2305,12 +2305,12 @@
 	    <head>The Barrier</head>
 
 	    <note type="textual">
-	      This poem also appeared in:
+	      <p>This poem also appeared in:
 	      <list>
 		<item><ptr target="#Liberator-barrier" /></item>
 		<item><ptr target="#SINH-the-barrier" /></item>
 		<item><ptr target="#CambridgeMagazine-the-barrier" /></item>
-	      </list>
+	      </list></p>
 	    </note>
 
 
@@ -2409,7 +2409,7 @@
 	    <head>North and South</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ptr target="#SINH-north-and-south" /> and <ptr target="#CambridgeMagazine-north-and-south" />.
+	      <p>This poem also appeared in <ptr target="#SINH-north-and-south" /> and <ptr target="#CambridgeMagazine-north-and-south" />.</p>
 	    </note>
 
 	    <l>O sweet are tropic lands for waking dreams!</l>
@@ -2496,12 +2496,12 @@
 	    <head>After the <app type='word'><lem wit="#HS #SINH-after #CambridgeMagazine-after-the-winter">Winter</lem><rdg wit="#Liberator-after">Winters.</rdg></app></head>
 
 	    <note type="textual">
-	      This poem also appeared in:
+	      <p>This poem also appeared in:
 	      <list>
 		<item><ptr target="#Liberator-after" /></item>
 		<item><ptr target="#SINH-after" /></item>
 		<item><ptr target="#CambridgeMagazine-after-the-winter" /></item>
-	      </list>
+	      </list></p>
 	    </note>
 
 
@@ -2546,7 +2546,7 @@
 	    </head>
 
 	    <note type="textual">
-	      This poem also appears under a different title in <ptr target="#SINH-the-choice" />.
+	      <p>This poem also appears under a different title in <ptr target="#SINH-the-choice" />.</p>
 	    </note>
 
 
@@ -2570,11 +2570,11 @@
 	    <head>Harlem Shadows</head>
 
 	    <note type="textual">
-	      This poem also appeared in:
+	      <p>This poem also appeared in:
 	      <list>
 		<item><ptr target="#Pearsons-harlem" /></item>
 		<item><ptr target="#SINH-harlem-shadows" /></item>
-	      </list>
+	      </list></p>
 
 	      <p>In <title level="j">Pearson's Magazine</title>, this poem (along with <ref target="#supp_mckay_to-the-white-fiends">"To the White Fiends,"</ref> <ref target="#supp_mckay_the-conqueror">"The Conqueror,"</ref> <ref target="#supp_mckay_the-park-in-spring">"The Park in Spring,"</ref> and <ref target="#supp_mckay_is-it-worthwhile">"Is it Worth While?"</ref>) was prefaced by a statement by McKay, <ref target="#Pearsons-claude"><title level="a">"Claude <choice><sic>MacKay</sic><corr resp="cf">McKay</corr></choice> Describes His Own Life: A Negro Poet"</title></ref>.</p>
 	    </note>
@@ -2618,7 +2618,7 @@
 	  <lg type="poem" xml:id="the-white-city" rhyme="ababcdcdefefgg">
 	    <head>The White City</head>
 
-	    <note type="textual">This poem also appears in <ptr target="#Liberator-white" />.</note>
+	    <note type="textual"><p>This poem also appears in <ptr target="#Liberator-white" />.</p></note>
 
 	    <l>I will not toy with it nor bend an inch.</l>
 	    <l>Deep in the secret chambers of my heart</l>
@@ -2647,7 +2647,7 @@
 	    <head rend="caps">The Spanish Needle<note type="editorial"><hi rend="bold">Spanish Needle:</hi> A wildflower (<hi rend="italics">bidens alba</hi>), with white and yellow blossoms.</note></head>
 
 	    <note type="textual">
-	      This poem also appears in <ptr target="#CambridgeMagazine-spanish-needle" />.
+	      <p>This poem also appears in <ptr target="#CambridgeMagazine-spanish-needle" />.</p>
 	    </note>
 
 
@@ -2701,7 +2701,7 @@
 	    <head>My Mother</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ptr target="#Liberator-mother" />. The version appearing in <title level="j">The Liberator</title> lacks numbers for the stanzas.
+	      <p>This poem also appeared in <ptr target="#Liberator-mother" />. The version appearing in <title level="j">The Liberator</title> lacks numbers for the stanzas.</p>
 	    </note>
 
 
@@ -2751,11 +2751,11 @@
 	    <head>In Bondage</head>
 
 	    <note type="textual">
-	      This poem also appears in:
+	      <p>This poem also appears in:
 	      <list>
 		<item><ptr target="#SINH-in-bondage" /></item>
 		<item><ptr target="#Liberator-in" /></item>
-	      </list>
+	      </list></p>
 	    </note>
 
 
@@ -2877,7 +2877,7 @@
 	    <head>Enslaved</head>
 
 	    <note type="textual">
-	      This poem also appear in <ptr target="#Liberator-enslaved" />.
+	      <p>This poem also appear in <ptr target="#Liberator-enslaved" />.</p>
 	    </note>
 
 	    <l>Oh when I think of my long-suffering race<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Liberator-enslaved" /></app></l>
@@ -2905,7 +2905,7 @@
 	    <head>I Shall Return</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ptr target="#SINH-i-shall" /> and <ptr target="#CambridgeMagazine-i-shall-return" />.
+	      <p>This poem also appeared in <ptr target="#SINH-i-shall" /> and <ptr target="#CambridgeMagazine-i-shall-return" />.</p>
 	    </note>
 
 	    <l>I shall return again; I shall return</l>
@@ -2933,12 +2933,12 @@
 	    <head>Morning Joy</head>
 
 	    <note type="textual">
-	      This poem also appeared in:
+	      <p>This poem also appeared in:
 	      <list>
 		<item><ptr target="#CambridgeMagazine-morning-joy" /></item>
 		<item><ptr target="#SINH-morning" /></item>
 		<item><ptr target="#Liberator-morning" /></item>
-	      </list>
+	      </list></p>
 	    </note>
 
 	    <lg type="stanza">
@@ -2980,7 +2980,7 @@
 	    <head>Africa</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ptr target="#Liberator-africa" />, where even numbered lines were indented.
+	      <p>This poem also appeared in <ptr target="#Liberator-africa" />, where even numbered lines were indented.</p>
 	    </note>
 
 	    <l>The sun sought thy dim bed and brought forth light,</l>
@@ -3028,7 +3028,7 @@
 	    <head>Winter in the Country</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ptr target="#SINH-winter" /> and <ptr target="#CambridgeMagazine-winter-in-the-country" />.
+	      <p>This poem also appeared in <ptr target="#SINH-winter" /> and <ptr target="#CambridgeMagazine-winter-in-the-country" />.</p>
 	    </note>
 
 	    <lg type="stanza">
@@ -3086,7 +3086,7 @@
 	    <head>To Winter</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ptr target="#SINH-to-winter" /> and <ptr target="#CambridgeMagazine-to-winter" />.
+	      <p>This poem also appeared in <ptr target="#SINH-to-winter" /> and <ptr target="#CambridgeMagazine-to-winter" />.</p>
 	    </note>
 
 	    <l>Stay, season of calm love and soulful snows!</l>
@@ -3122,12 +3122,12 @@
 	    </head>
 
 	    <note type="textual">
-	      This poem also appeared in:
+	      <p>This poem also appeared in:
 	      <list>
 		<item><ptr target="#SINH-spring" /></item>
 		<item><ptr target="#CambridgeMagazine-spring-in-new-hampshire" /></item>
 		<item><ptr target="#Liberator-spring" /></item>
-	      </list>
+	      </list></p>
 	    </note>
 
 	    <lg type="stanza">
@@ -3155,9 +3155,9 @@
 	    <head>On the Road</head>
 
 	    <note type="textual" resp="cf">
-	      This poem also appeared in <ptr target="#Liberator-on-the" />.
+	      <p>This poem also appeared in <ptr target="#Liberator-on-the" />.
 	      
-	      The version in <title level="j">The Liberator</title> breaks the octet and sextet into separate line groups.
+	      The version in <title level="j">The Liberator</title> breaks the octet and sextet into separate line groups.</p>
 	    </note>
 
 	    <l>Roar of the rushing train fearfully rocking,</l>
@@ -3185,11 +3185,11 @@
 	    <head>The Harlem Dancer</head>
 
 	    <note type="textual">
-	      This poem also appeared in:
+	      <p>This poem also appeared in:
 	      <list>
 		<item><ptr target="#SevenArts-harlem" /> with <ref target="#SevenArts-invocation">"Invocation"</ref>, presented as "Two Sonnets" by Eli Edwards.</item>
 		<item><ptr target="#SINH-the-harlem-dancer" /></item>
-	      </list>
+	      </list></p>
 	    </note>
 
 	    <l>Applauding youths laughed with young prostitutes</l>
@@ -3222,7 +3222,7 @@
 	    </head>
 
 	    <note type="textual">
-	      This poem also appears in <ptr target="#CambridgeMagazine-to-work" /> and <ptr target="#SINH-to-work" /> under the title "To Work."
+	      <p>This poem also appears in <ptr target="#CambridgeMagazine-to-work" /> and <ptr target="#SINH-to-work" /> under the title "To Work."</p>
 	    </note>
 
 
@@ -3263,9 +3263,7 @@
 	    <head>The Tired Worker</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ptr target="#Liberator-tired" />.
-
-	      In the version appearing in <title level="j">The Liberator</title>, even numbered lines are indented (except the final line).
+	      <p>This poem also appeared in <ptr target="#Liberator-tired" />, in which version even numbered lines are indented (except the final line).</p>
 	    </note>
 
 	    <l>O whisper, O my soul!<app type='punctuation'>
@@ -3296,7 +3294,7 @@
 	    <head>Outcast</head>
 
 	    <note type="textual">
-	      This poem appears as <ptr target="#ThreeSonnets-Outcast" /> with two other sonnets.
+	      <p>This poem appears as <ptr target="#ThreeSonnets-Outcast" /> with two other sonnets.</p>
 	    </note>
 
 	    <l><app type='word'>
@@ -3347,7 +3345,7 @@
 	    <head>Birds of Prey</head>
 
 	    <note type="textual">
-	      This poem also appears in <ptr target="#Messenger-birds" />. When it appeared in <title level="j">The Messenger</title>, there was a break between the octet and the sestet, and even numbered lines were indented.
+	      <p>This poem also appears in <ptr target="#Messenger-birds" />. When it appeared in <title level="j">The Messenger</title>, there was a break between the octet and the sestet, and even numbered lines were indented.</p>
 	    </note>
 
 	    <l>Their <app type='word'><lem wit="#HS">shadow</lem><rdg wit="#Messenger-birds">shadows</rdg></app>&#160;<app type='word'><lem wit="#HS">dims</lem><rdg wit="#Messenger-birds">dim</rdg></app> the sunshine of our day<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Messenger-birds" /></app></l>
@@ -3394,7 +3392,7 @@
 	    <head>The Castaways</head>
 
 	    <note type="textual">
-	      This poem also appeared in <ptr target="#SINH-the-castaways" /> and <ptr target="#CambridgeMagazine-the-castaways" />.
+	      <p>This poem also appeared in <ptr target="#SINH-the-castaways" /> and <ptr target="#CambridgeMagazine-the-castaways" />.</p>
 	    </note>
 
 	    <l>The vivid grass with visible delight</l>
@@ -3446,13 +3444,13 @@
 	    </head>
 
 	    <note type="textual">
-	      This poem also appears in:
+	      <p>This poem also appears in:
 	      <list>
 		<item><ptr target="#SINH-exhortation" /></item>
 		<item><ptr target="#Liberator-to" /></item>
-	      </list>
+	      </list></p>
 
-	      The version appearing in <title level="j">The Liberator</title> does not indent any poetic lines. Its organization into stanzas is also different: 1-7, 8-13,14-20,21-26.
+	      <p>The version appearing in <title level="j">The Liberator</title> does not indent any poetic lines. Its organization into stanzas is also different: 1-7, 8-13,14-20,21-26.</p>
 	    </note>
 
 	    <lg type="stanza">
@@ -3500,7 +3498,7 @@
 	    <head>The Lynching</head>
 
 	    <note type="textual">
-	      This poem also appears in <ptr target="#CambridgeMagazine-lynching" /> and in <ptr target="#SINH-lynching" />.
+	      <p>This poem also appears in <ptr target="#CambridgeMagazine-lynching" /> and in <ptr target="#SINH-lynching" />.</p>
 	    </note>
 
 	    <l>His <app type='orthography'>
@@ -3529,7 +3527,7 @@
 	    <head>Baptism</head>
 
 	    <note type="textual">
-	      This poem also appears in <ptr target="#Liberator-baptism" />.
+	      <p>This poem also appears in <ptr target="#Liberator-baptism" />.</p>
 	    </note>
 
 
@@ -3635,7 +3633,7 @@
 	  <head>Subway Wind</head>
 
 	  <note type="textual">
-	    This poem also appears in <ptr target="#Liberator-subway" />.
+	    <p>This poem also appears in <ptr target="#Liberator-subway" />.</p>
 	  </note>
 
 
@@ -3672,7 +3670,7 @@
 	  <head>The Night Fire</head>
 
 	  <note type="textual">
-	    This poem also appears in <ptr target="#Liberator-night" />.
+	    <p>This poem also appears in <ptr target="#Liberator-night" />.</p>
 	  </note>
 
 	  <l>No engines shrieking rescue storm the night,</l>
@@ -3743,7 +3741,7 @@
 
 	<lg type = "poem" xml:id="a-prayer" rhyme="aa">
 	  <head>A Prayer</head>
-	  <note type="textual">This poem also appeared in <ptr target="#SINH-a-prayer" />, with a dedication to Max Eastman.</note>
+	  <note type="textual"><p>This poem also appeared in <ptr target="#SINH-a-prayer" />, with a dedication to Max Eastman.</p></note>
 
 	  <head type="dedication">
 	    <app type='phrase'>
@@ -3786,7 +3784,7 @@
 	  <head type="title">When Dawn Comes to the City</head>
 
 	  <note type="textual">
-	    This poem also appeared in <ptr target="#SINH-when-dawn"/> and <ptr target="#CambridgeMagazine-when-dawn" />.
+	    <p>This poem also appeared in <ptr target="#SINH-when-dawn"/> and <ptr target="#CambridgeMagazine-when-dawn" />.</p>
 	  </note>
 
 	  <lg type="stanza">
@@ -3882,7 +3880,7 @@
 	  <head>Absence</head>
 
 	  <note type="textual">
-	    This poem also appeared in <ptr target="#Liberator-absence" />, signed "Claude McKay."
+	    <p>This poem also appeared in <ptr target="#Liberator-absence" />, signed "Claude McKay."</p>
 	  </note>
 
 	  <lg type="stanza">
@@ -3945,7 +3943,7 @@
 	  <head>Rest in Peace</head>
 
 	  <note type="textual">
-	    This poem also appeared in <ptr target="#SINH-rest-in-peace" /> and <ptr target="#CambridgeMagazine-rest-in-peace" />.
+	    <p>This poem also appeared in <ptr target="#SINH-rest-in-peace" /> and <ptr target="#CambridgeMagazine-rest-in-peace" />.</p>
 	  </note>
 
 	  <lg type="stanza">
@@ -4200,7 +4198,7 @@
 	    La Paloma<note type="editorial"><hi rend="bold">La Paloma:</hi> A popular, nineteenth-century Spanish song by Sebastian Yradier, inspired by a visit to Cuba that has spread worldwide as a popular folk song.</note> in London
 	  </head>
 	  <note type="textual">
-	    This poem also appeared in <ptr target="#Liberator-paloma" />.
+	    <p>This poem also appeared in <ptr target="#Liberator-paloma" />.</p>
 	  </note>
 
 	  <l>About Soho<note type="editorial"><hi rend="bold">Soho:</hi> New York City neighborhood in Lower Manhattan, south of Houston Street.</note> we went before the light;</l>
@@ -4230,12 +4228,12 @@
 	  <head>A Memory of June</head>
 
 	  <note type="textual">
-	    This poem also appeared in:
+	    <p>This poem also appeared in:
 	    <list>
 	      <item><ptr target="#SINH-a-memory" /></item>
 	      <item><ptr target="#CambridgeMagazine-memory-of-june" /></item>
 	      <item><ptr target="#Liberator-a-memory" /></item>
-	    </list>
+	    </list></p>
 	  </note>
 
 	  <lg type="stanza">
@@ -4288,7 +4286,7 @@
 	<lg type="poem" xml:id="flirtation" rhyme="abababab">
 	  <head>Flirtation</head>
 	  <note type="textual">
-	    This poem also appeared in <ptr target="#Liberator-flirtation" />.
+	    <p>This poem also appeared in <ptr target="#Liberator-flirtation" />.</p>
 	  </note>
 
 	  <l>Upon thy purple mat thy body bare</l>
@@ -4398,7 +4396,7 @@
 	  <head>French Leave<note type="editorial"><hi rend="bold">French leave</hi>: an unexcused absence; to without permission; in military contexts, to be absent without leave.</note></head>
 
 	  <note type="textual">
-	    This poem also appeared in <ptr target="#Liberator-french" />.
+	    <p>This poem also appeared in <ptr target="#Liberator-french" />.</p>
 	  </note>
 
 	  <lg type="stanza">
@@ -4444,7 +4442,7 @@
 	  <head>Jasmines</head>
 
 	  <note type="textual">
-	    This poem also appears in <ptr target="#Liberator-jasmines" />.
+	    <p>This poem also appears in <ptr target="#Liberator-jasmines" />.</p>
 	  </note>
 
 	  <l>Your scent is in the room.</l>
@@ -4552,7 +4550,7 @@
 	  <head>Thirst</head>
 
 	  <note type="textual">
-	    This poem also appeared in <ptr target="#Liberator-thirst" />.
+	    <p>This poem also appeared in <ptr target="#Liberator-thirst" />.</p>
 	  </note>
 
 	  <l>My spirit wails for water, water now!</l>
@@ -4585,7 +4583,7 @@
 	<lg type="poem" xml:id="futility" rhyme="ababcdcdefefgg">
 	  <head>Futility</head>
 
-	  <note type="textual">This poem also appeared in <ptr target="#Liberator-futility" />.</note>
+	  <note type="textual"><p>This poem also appeared in <ptr target="#Liberator-futility" />.</p></note>
 
 	  <l>Oh<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Liberator-futility" /></app> I have tried to laugh the pain away,</l>
 	  <l>Let new flames brush my love-springs<note type="editorial"><hi rend="bold">Love-Springs:</hi> The young shoots of love; compare <title level="m">Comedy of Errors</title> where Luciana asks Antipholus, "shall, Antipholus, / Even in the spring of love, thy <hi rend="bold">love-springs</hi> rot? / Shall love, in building, grow so ruinous?" (III.ii).</note> like a feather.</l>
@@ -4610,9 +4608,7 @@
 	  <head>Through Agony</head>
 
 	  <note type="textual">
-	    This poem also appears in <ptr target="Liberator-through" />.
-
-	    In its appearance in <title level="j">The Liberator</title> the first stanza is unnumbered. 
+	    <p>This poem also appears in <ptr target="Liberator-through" />, where the first stanza is unnumbered.</p>
 	  </note>
 
 	  <lg type="stanza">
@@ -4690,7 +4686,7 @@
 	  <lg type="poem" rhyme="abbaabbacdcdcd">
 	    <head>Invocation</head>
 
-	    <note type="textual">This sonnet was published along with <ref target="#the-harlem-dancer">"The Harlem Dancer"</ref> in <title level="j">Seven Arts</title> Magazine (<date when="1917-10">October, 1917</date>), under the title "Two Sonnets." It appeared under the name "Eli Edwards," with a short <ref target="#supp_seven-arts-biography">biographical note</ref>.</note>
+	    <note type="textual"><p>This sonnet was published along with <ref target="#the-harlem-dancer">"The Harlem Dancer"</ref> in <title level="j">Seven Arts</title> Magazine (<date when="1917-10">October, 1917</date>), under the title "Two Sonnets." It appeared under the name "Eli Edwards," with a short <ref target="#supp_seven-arts-biography">biographical note</ref>.</p></note>
 
 	    <l>Ancestral Spirit, hidden from my sight</l>
 	    <l>By modern Time's unnumbered works and ways</l>
