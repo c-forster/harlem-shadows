@@ -8766,7 +8766,7 @@
 
 	    <note type="editorial" resp="cf">
 	      <p>James Weldon Johnson's <title level="m">The Book of American Negro Poetry</title> was published nearly contemporaneously with McKay's <title level="m">Harlem Shadows</title>, and its prefatory essay provides a valuable context for the initial reception of McKay's poetry.</p>
-	      <p>McKay also features prominently in <title level="m">The Book of American Negro Poetry</title>, which includes 12 of McKay's poems (ten of which also appear in <title level="m">Harlem Shadows</title>:
+	      <p>McKay also features prominently in <title level="m">The Book of American Negro Poetry</title>, which includes 12 of McKay's poems (ten of which also appear in <title level="m">Harlem Shadows</title>):
 	      <list>
 		<item><ref target="#the-lynching">The Lynching</ref></item>
 		<item><ref target="#if-we-must-die">If We Must Die</ref></item>
@@ -8940,13 +8940,13 @@
 	    <bibl>
 	      <author>
 		<persName>
-		  <forename type="first">Robert</forename> <forename type="middle">T.</forename> <surname>Kerlin</surname>
+		  <forename type="first">Robert</forename> <forename type="middle">T</forename> <surname>Kerlin</surname>
 		</persName>
 	      </author>
 	      <title level="a">Claude McKay</title>
 	      <title level="m">Negro Poets and Their Poems</title>
 	      <date when="1923">1923</date>
-	      <biblScope>126-131</biblScope>
+	      <biblScope unit="pg">126-131</biblScope>
 	      <pubPlace>Washington, DC</pubPlace>
 	      <publisher>Associated Publishers, Inc.</publisher>
 
@@ -8954,8 +8954,8 @@
 	    </bibl>
 	  </head>
 	  
-	  <note type='editorial'>
-	    <p>This extract is taken from Kerlin's discussion of McKay in the second chapter. "The Present Renaissance of the Negro" and the section offer "Some Representatives of the Present Era."</p>
+	  <note type='textual'>
+	    <p>This extract is taken from Kerlin's discussion of McKay in the second chapter. "The Present Renaissance of the Negro" and the section "Some Representatives of the Present Era."</p>
 	    <p>This discussion also features a small head-shot of McKay on page 126.</p>
 	  </note>
 
