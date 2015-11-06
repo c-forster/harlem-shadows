@@ -6845,7 +6845,9 @@
 	      <title level="a">Claude M'Kay's <title level="m">Harlem Shadows</title>: An Appreciation</title>
 	      <title level="j">Negro World</title>
 	      <date when="1922-06-03">June 3, 1922</date>
-	      <biblScope>Vol. XII, no. 16, pg. 6</biblScope>
+	      <biblScope unit="vol">XII</biblScope>
+	      <biblScope unit="no">16</biblScope>
+	      <biblScope unit="pg">6</biblScope>
 	    </bibl>
 	    
 	    <note type="source">
