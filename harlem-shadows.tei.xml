@@ -8866,7 +8866,7 @@
 	      <title level="a">Lines Dedicated to Claude McKay</title>
 	      <title level="j">The Negro World</title>
 	      <date when="1922-05-27">May 27, 1922</date>
-	      <biblScope unit='pgs'>6</biblScope>
+	      <biblScope unit='pg'>6</biblScope>
 	    </bibl>
 	    
 	    <note type='source'>
@@ -9292,7 +9292,7 @@
 	      <title level="m">Investigation of Communist Propaganda</title>
 	      <title level="s">Hearings Before a Special Committee to Invesitgate Communist Activities in the United States</title>
 	      <date when="1930">1930</date>
-	      <biblScope unit='pgs'>566</biblScope>
+	      <biblScope unit='pg'>566</biblScope>
 	    </bibl>
 
 	    <note type="editorial">Text available from <ref target="http://congressional.proquest.com/congressional/docview/t29.d30.hrg-1930-ica-0017/">ProQuest</ref>.</note>
