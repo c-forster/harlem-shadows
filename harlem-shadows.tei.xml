@@ -6569,7 +6569,7 @@
 	  <div type='section'>
 	    <p rend='italics'>Many of these modern Negro poets
 	    express their resentment against the
-	    race that one enslaved their ancestors
+	    race that once enslaved their ancestors
 	    and even now lynches their
 	    fellows.</p>
 	  </div>
@@ -7205,6 +7205,9 @@
 	      <title level="a">The Negro's Contribution</title>
 	      <title level="j">The Bookman</title>
 	      <date when="1922-07">July, 1922</date>
+	      <biblScope unit="pg">530-532</biblScope>
+	      <biblScope unit="vol">55</biblScope>
+	      <biblScope unit="no">5</biblScope>
 	    </bibl>
 	  </head>
 	  <pb n="530" />
