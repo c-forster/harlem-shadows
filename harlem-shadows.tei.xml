@@ -51,7 +51,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 13</biblScope>
+		  <biblScope unit="pg">13</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -70,7 +70,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 9</biblScope>
+		  <biblScope unit="pg">9</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -89,7 +89,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 26</biblScope>
+		  <biblScope unit="pg">26</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -108,7 +108,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 30</biblScope>
+		  <biblScope unit="pg">30</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -127,7 +127,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 18</biblScope>
+		  <biblScope unit="pg">18</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -147,7 +147,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 35</biblScope>
+		  <biblScope unit="pg">35</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -166,7 +166,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 20</biblScope>
+		  <biblScope unit="pg">20</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -185,7 +185,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 25</biblScope>
+		  <biblScope unit="pg">25</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -204,7 +204,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 37</biblScope>
+		  <biblScope unit="pg">37</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -223,7 +223,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 32</biblScope>
+		  <biblScope unit="pg">32</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -242,7 +242,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 31</biblScope>
+		  <biblScope unit="pg">31</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -261,7 +261,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 29</biblScope>
+		  <biblScope unit="pg">29</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -280,7 +280,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 27</biblScope>
+		  <biblScope unit="pg">27</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -299,7 +299,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 16</biblScope>
+		  <biblScope unit="pg">16</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -318,7 +318,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 24</biblScope>
+		  <biblScope unit="pg">24</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -337,7 +337,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 23</biblScope>
+		  <biblScope unit="pg">23</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -356,7 +356,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 33</biblScope>
+		  <biblScope unit="pg">33</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -375,7 +375,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 15</biblScope>
+		  <biblScope unit="pg">15</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -394,7 +394,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 28</biblScope>
+		  <biblScope unit="pg">28</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -413,7 +413,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 39-40</biblScope>
+		  <biblScope unit="pg">39-40</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -432,7 +432,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 34</biblScope>
+		  <biblScope unit="pg">34</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -451,7 +451,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 36-37</biblScope>
+		  <biblScope unit="pg">36-37</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -470,7 +470,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 21</biblScope>
+		  <biblScope unit="pg">21</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -489,7 +489,7 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 22</biblScope>
+		  <biblScope unit="pg">22</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -508,15 +508,27 @@
 		  <pubPlace>London</pubPlace>
 		  <publisher>Grant Richards Ltd.</publisher>
 		  <date when="1920">1920</date>
-		  <biblScope>pg. 11</biblScope>
+		  <biblScope unit="pg">11</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="ThreeSonnets">
-	    <bibl>
-	      <author>McKay, Claude</author>, <title level="a">"Three Sonnets"</title>. <title level="j">The Literary Digest</title> <date when="1922-10-28">October 28, 1922</date>. Vol 75. no. 4. <biblScope>pg. 33</biblScope>
+	    <biblStruct>
+	      <analytic>
+		<author>McKay, Claude</author>
+		<title level="a">Three Sonnets</title>
+		<date when="1922-10-28">October 28, 1922</date>
+	      </analytic>
+	      <monogr>
+		<title level="j">The Literary Digest</title>
+		<imprint>
+		  <biblScope unit="vol">75</biblScope>
+		  <biblScope unit="no">4</biblScope>
+		  <biblScope unit="pg">33</biblScope>
+		</imprint>
+	      </monogr>
 	      <note xml:id='ThreeSonnets-note'>
 		<p>
 		  "Three Sonnets" appears in the "Current Poetry" section of <title level="j">The Literary Digest</title>,  
@@ -526,7 +538,7 @@
 		  </quote>
 		</p>
 	      </note>
-	    </bibl>
+	    </biblStruct>
 	  </witness>
 
 	  <witness xml:id="ThreeSonnets-america">
@@ -540,7 +552,9 @@
 		<title level="j">The Literary Digest</title> 
 		<imprint>
 		  <date when="1922-10-28">October 28, 1922</date>
-		  <biblScope>Vol 75. no. 4. pg. 33</biblScope>
+		  <biblScope unit="vol">75</biblScope>
+		  <biblScope unit="no">4</biblScope>
+		  <biblScope unit="pg">33</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -557,7 +571,9 @@
 		<title level="j">The Literary Digest</title> 
 		<imprint>
 		  <date when="1922-10-28">October 28, 1922</date>
-		  <biblScope>Vol 75. no. 4. pg. 33</biblScope>
+		  <biblScope unit="vol">75</biblScope>
+		  <biblScope unit="no">4</biblScope>
+		  <biblScope unit="pg">33</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -574,7 +590,9 @@
 		<title level="j">The Literary Digest</title> 
 		<imprint>
 		  <date when="1922-10-28">October 28, 1922</date>
-		  <biblScope>Vol 75. no. 4. pg. 33</biblScope>
+		  <biblScope unit="vol">75</biblScope>
+		  <biblScope unit="no">4</biblScope>
+		  <biblScope unit="pg">33</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -589,12 +607,10 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 55-59</biblScope>
+		  <biblScope unit="pg">55-59</biblScope>
 		</imprint>
 	      </monogr>
-	      <note>
-		The Summer 1920 double issue of <title level="j">Cambridge Magazine</title> contains 23 poems by Claude Mckay, 19 of which appear in <ref target="#HS"><title>Harlem Shadows</title></ref>. The poems are introduced with a <ref target='#supp_ogden_cambridge-magazine-introduction'>long note</ref>.
-	      </note>
+	      <note>The Summer 1920 double issue of <title level="j">Cambridge Magazine</title> contains 23 poems by Claude Mckay, 19 of which appear in <ref target="#HS"><title>Harlem Shadows</title></ref>. The poems are introduced with a <ref target='#supp_ogden_cambridge-magazine-introduction'>long note</ref>.</note>
 	    </biblStruct>
 	  </witness>
 
@@ -607,7 +623,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 55</biblScope>
+		  <biblScope unit="pg">55</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -622,7 +638,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 55</biblScope>
+		  <biblScope unit="pg">55</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -637,7 +653,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 55</biblScope>
+		  <biblScope unit="pg">55</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -652,7 +668,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 55</biblScope>
+		  <biblScope unit="pg">55</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -667,7 +683,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 56</biblScope>
+		  <biblScope unit="pg">56</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -682,7 +698,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 56</biblScope>
+		  <biblScope unit="pg">56</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -697,7 +713,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 56</biblScope>
+		  <biblScope unit="pg">56</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -712,7 +728,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 57</biblScope>
+		  <biblScope unit="pg">57</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -727,7 +743,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 57</biblScope>
+		  <biblScope unit="pg">57</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -742,7 +758,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 57</biblScope>
+		  <biblScope unit="pg">57</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -757,7 +773,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 57</biblScope>
+		  <biblScope unit="pg">57</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -772,7 +788,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 57</biblScope>
+		  <biblScope unit="pg">57</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -787,7 +803,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 57</biblScope>
+		  <biblScope unit="pg">57</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -802,7 +818,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 58</biblScope>
+		  <biblScope unit="pg">58</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -817,7 +833,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 58</biblScope>
+		  <biblScope unit="pg">58</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -832,7 +848,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 58</biblScope>
+		  <biblScope unit="pg">58</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -847,7 +863,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 58</biblScope>
+		  <biblScope unit="pg">58</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -862,7 +878,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 58</biblScope>
+		  <biblScope unit="pg">58</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -877,7 +893,7 @@
 		<title level='j'>Cambridge Magazine</title>
 		<imprint>
 		  <date when="1920">Summer, 1920</date>
-		  <biblScope>pg. 58</biblScope>
+		  <biblScope unit="pg">58</biblScope>
 		</imprint>
 	      </monogr>
 	    </biblStruct>
@@ -1405,7 +1421,8 @@
 		<title level="j">Crisis</title>
 		<imprint>
 		  <date when="1919-10">(October, 1919):</date>
-		  <biblScope unit="vol">18</biblScope> <biblScope unit="issue">6</biblScope>
+		  <biblScope unit="vol">18</biblScope>
+		  <biblScope unit="no">6</biblScope>
 		  <biblScope unit="pg">300</biblScope>
 		</imprint>
 	      </monogr>
@@ -1425,7 +1442,8 @@
 		<title level="j">The Messenger</title>
 		<imprint>
 		  <date when="1919-12">(December, 1919):</date>
-		  <biblScope unit="vol">II</biblScope> <biblScope unit="issue">11</biblScope>
+		  <biblScope unit="vol">II</biblScope>
+		  <biblScope unit="no">11</biblScope>
 		  <biblScope unit="pg">23</biblScope>
 		</imprint>
 	      </monogr>
@@ -1443,7 +1461,8 @@
 		<title level="j">The Messenger</title>
 		<imprint>
 		  <date when="1919-09">(September, 1919):</date>
-		  <biblScope unit="vol">II</biblScope> <biblScope unit="issue">9</biblScope>
+		  <biblScope unit="vol">II</biblScope>
+		  <biblScope unit="no">9</biblScope>
 		  <biblScope unit="pg">4</biblScope>
 		</imprint>
 	      </monogr>
@@ -1461,7 +1480,8 @@
 		<title level="j">The Crusader</title>
 		<imprint>
 		  <date when="1919-09">(September, 1919):</date>
-		  <biblScope unit="vol">II</biblScope> <biblScope unit="issue">1</biblScope>
+		  <biblScope unit="vol">II</biblScope>
+		  <biblScope unit="no">1</biblScope>
 		  <biblScope unit="pg">7</biblScope>
 		</imprint>
 	      </monogr>
@@ -3567,7 +3587,7 @@
 		  <pubPlace>New Brunswick, NJ</pubPlace>
 		  <publisher>Rutgers University Press</publisher>
 		  <date when="2007">2007, First Published 1937</date>
-		  <biblScope>pg. 29-30</biblScope>
+		  <biblScope unit="pg">29-30</biblScope>
 		</bibl>
 	      </cit>
 	      <p>In his autobiography, McKay also describes the strong desire that Frank Harris, editor of <title level='j'>Pearson's</title>, had to publish the poem; McKay, however, had already committed to publishing the poem in <title level='j'>The Liberator</title>, edited by Max Eastman:</p>
@@ -4720,7 +4740,7 @@
 	      <title level="a">To the White Fiends</title>
 	      <title level="j">Pearson's Magazine</title>
 	      <date when="1918-09">September, 1918</date>
-	      <biblScope>276</biblScope>
+	      <biblScope unit="pg">276</biblScope>
 	    </bibl>
 	  </head>
 	  <lg type="poem" rhyme = "abbaabb cdedede">
@@ -4973,7 +4993,7 @@
 	      <title level="a">The Conqueror</title>
 	      <title level="j">Pearson's Magazine</title>
 	      <date when="1918-09">September, 1918</date>
-	      <biblScope>276</biblScope>
+	      <biblScope unit="pg">276</biblScope>
 	    </bibl>
 	  </head>
 
@@ -5026,7 +5046,7 @@
 	      <title level="a">The Park in Spring</title>
 	      <title level="j">Pearson's Magazine</title>
 	      <date when="1918-09">September, 1918</date>
-	      <biblScope>276</biblScope>
+	      <biblScope unit="pg">276</biblScope>
 	    </bibl>
 	  </head>
 	  <lg type="poem" rhyme="ababcd efghghii">
@@ -5068,7 +5088,7 @@
 	      <title level="a">Is it Worth While?</title>
 	      <title level="j">Pearson's Magazine</title>
 	      <date when="1918-09">September, 1918</date>
-	      <biblScope>276</biblScope>
+	      <biblScope unit="pg">276</biblScope>
 	    </bibl>
 	  </head>
 	  <lg type="poem" rhyme="abacdcaceefggchiihfjacja">
@@ -5121,7 +5141,9 @@
 	      <title type ="main" level="j">The Crisis</title>
 	      <title type="sub" level="j">A Record of the Darker Races</title>
 	      <date when="1919-04">April, 1919</date>
-	      <biblScope>Vol. 17, no. 6: 275-280</biblScope>
+	      <biblScope unit="vol">17</biblScope>
+	      <biblScope unit="no">6</biblScope>
+	      <biblScope unit="pg">275-280</biblScope>
 	    </bibl>
 	  </head>
 
@@ -5541,7 +5563,7 @@
 	      <title level="a">Poets and Poetry</title>
 	      <title level="a">Two Volumes of Verse.</title>
 	      <title level="j">The Spectator</title>.
-	      <biblScope>4817</biblScope>
+	      <biblScope unit="pg">4817</biblScope>
 	      <date when="1920-10-23">October 23, 1920.</date>
 	      <pubPlace>London</pubPlace>
 	    </bibl>
@@ -5724,7 +5746,7 @@
 	      <title level="a">The Negro as Artist</title>
 	      <title type ="main" level="j">New York Tribune</title>
 	      <date when="1922-09-22">April 9, 1922</date>
-	      <biblScope>Page 7</biblScope>
+	      <biblScope unit="pg">7</biblScope>
 	    </bibl>
 	    <note type='source'>The text of this review is transcribed from a page image available through <ref target='http://chroniclingamerica.loc.gov/lccn/sn83030214/1922-04-09/ed-1/seq-59/'>Chronicling America</ref>.</note>
 	  </head>
@@ -5941,7 +5963,7 @@
 	      <title level="a">Harlem Shadows</title>
 	      <title type ="main" level="j">New York Tribune</title>
 	      <date when="1922-05-07">May 7, 1922</date>
-	      <biblScope>Page 4</biblScope>
+	      <biblScope unit="pg">Page 4</biblScope>
 	    </bibl>
 	  </head>
 
@@ -6015,7 +6037,9 @@
 	      <title level="a">Book Notes</title>
 	      <title type ="main" level="j">The Negro World</title>
 	      <date when="1922-05-06">May 6, 1922</date>
-	      <biblScope>Vol. 3, no. 12: 4</biblScope>
+	      <biblScope unit="vol">3</biblScope>
+	      <biblScope unit="no">12</biblScope>
+	      <biblScope unit="pg">4</biblScope>
 	    </bibl>
 	  </head>
 
@@ -6132,7 +6156,7 @@
 	      <title level="j">New York Times Book Review and Magazine</title>
 	      <date when="1922-05-14">May 14, 1922</date>
 	      <pubPlace>New York, New York</pubPlace>
-	      <biblScope>17-18</biblScope>
+	      <biblScope unit="pg">17-18</biblScope>
 	    </bibl>
 	    <note type="editorial" resp="cf">This excerpt considers McKay's <title level="m">Harlem Shadows</title>, but the longer review treats a total of 12 works:
 	    <list>
@@ -6228,7 +6252,7 @@
 	      <title level="j">The New York Age: The National Negro Weekly</title>
 	      <date when="1922-05-20">May 20, 1922</date>
 	      <pubPlace>New York, New York</pubPlace>
-	      <biblScope>4</biblScope>
+	      <biblScope unit="pg">4</biblScope>
 	    </bibl>
 	  </head>
 	  
@@ -6373,7 +6397,7 @@
 	      <title level='a' type='sub'>Unconscious and Conscious Art Displayed in Poetry by Negroes</title>
 	      <title level='j'>Evening Public Ledger</title>
 	      <date when="1922-05-23">May 23, 1922</date>
-	      <biblScope>Page 13</biblScope>
+	      <biblScope unit="pg">13</biblScope>
 	    </bibl>
 
 	    <note type='source'>Transcribed from page image available from <ref target='http://chroniclingamerica.loc.gov/lccn/sn83045211/1922-05-23/ed-1/seq-13/'>Chronicling America</ref>.</note>
@@ -6670,7 +6694,7 @@
 	      <title level="a">Book Chat</title>
 	      <title level="j">The Dallas Express</title>
 	      <date when="1922-06-03">June 3, 1922</date>
-	      <biblScope>Page 4</biblScope>
+	      <biblScope unit="pg">4</biblScope>
 	    </bibl>
 	    <note type='source'>Transcribed from page image available from <ref target='http://chroniclingamerica.loc.gov/lccn/sn83025779/1922-06-03/ed-1/seq-4/'>Chronicling America</ref>.</note>
 	  </head>
@@ -7060,7 +7084,7 @@
 	      <title level="j">The Crisis</title>
 	      <date when="1922-06">June, 1922</date>
 	      <pubPlace>New York, New York</pubPlace>
-	      <biblScope>66-68</biblScope>
+	      <biblScope unit="pg">66-68</biblScope>
 	    </bibl>
 	    <note type="editorial" resp="cf">
 	      <p>This excerpt considers McKay's <title level="m">Harlem Shadows</title>, but the longer review treats a 7 works:
@@ -7335,7 +7359,7 @@
 	      <title level="a">Negro Poets</title>
 	      <title level="j">The New Republic</title>
 	      <date when="1922-07-12">July 12, 1922</date>
-	      <biblScope>196</biblScope>
+	      <biblScope unit="pg">196</biblScope>
 	    </bibl>
 	    <note type="editorial" resp="cf">Littell's short review treats both <title level="j">Harlem Shadows</title> and James Weldon Johnson's <title level="j">Book of American Negro Poetry</title>.
 	    </note>
@@ -7477,7 +7501,7 @@
 	      <title level="j">Southern Workman</title>
 	      <date when="1922-09">September, 1922</date>
 	      <pubPlace>Hampton, VA</pubPlace>
-	      <biblScope>441-42</biblScope>
+	      <biblScope unit="pg">441-42</biblScope>
 	    </bibl>
 	  </head>
 	  
@@ -7556,7 +7580,7 @@
 		</persName>
 	      </author>
 	      <title level="j">Literary Review of the New York Evening Post</title>.
-	      <biblScope>127</biblScope>
+	      <biblScope unit="pg">127</biblScope>
 	      <date when="1922-10-21">October 21, 1922.</date>
 	      <pubPlace>New York</pubPlace>
 	    </bibl>
@@ -7720,7 +7744,9 @@
 	      <title level="a">Rev. of <title level='m'>Harlem Shadows</title></title>
 	      <title type ="main" level="j">The Messenger</title>
 	      <date when="1923-05">May, 1923</date>
-	      <biblScope>Vol. 5, no. 5: 697, 717</biblScope>
+	      <biblScope unit="vol">5</biblScope>
+	      <biblScope unit="no">5</biblScope>
+	      <biblScope unit="pg">697, 717</biblScope>
 
 	      <note type="source">Text of this review from microfilm held by <ref target="http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957">Syracuse University Libraries.</ref></note>
 	    </bibl>
@@ -7813,7 +7839,7 @@
 	      <title level="a">Eli Edwards</title>
 	      <title level="j">Seven Arts</title>
 	      <date when="1917-10">October, 1917</date>
-	      <biblScope>np</biblScope>
+	      <biblScope unit="pg">np</biblScope>
 	    </bibl>
 	  </head>
 
@@ -7839,7 +7865,7 @@
 	      <title level="a">Claude <choice><sic>MacKay</sic><corr>McKay</corr></choice> Describes His Own Life</title>
 	      <title level="j">Pearson's Magazine</title>
 	      <date when="1918-09">September, 1918</date>
-	      <biblScope>275-76</biblScope>
+	      <biblScope unit="pg">275-76</biblScope>
 	    </bibl>
 	  </head>
 	  
@@ -8442,7 +8468,8 @@
 	      <title level="a">If We Must Die [Editorial]</title>
 	      <title level="j">The Messenger</title>
 	      <date when="1919-09">September, 1919</date>
-	      <biblScope unit="vol">II.9</biblScope>
+	      <biblScope unit="vol">II</biblScope>
+	      <biblScope unit="no">9</biblScope>
 	      <biblScope unit="pg">4</biblScope>
 	    </bibl>
 	  </head>
@@ -8559,7 +8586,7 @@
 	      <title level="a">"A Memorial."</title>
 	      <title level="j">Congressional Record</title>
 	      <date when="1919-09-23">September 23, 1919</date>
-	      <biblScope>pg. 5759-5760</biblScope>
+	      <biblScope unit="pg">5759-5760</biblScope>
 	    </bibl>
 
 	    <note type="editorial">This letter was read into the Senate Congressional Record by U.S. Senator Truman Handy Newberry. "I also present a memorial signed by six bishops of the African Methodist Episcopal Church, praying for an investigation into the recent race riots in Washington, D.C., Chicago., Ill., and Knoxville, Tenn. I ask that the memorial be printed in the RECORD and referred to the Committee on Education and Labor.</note>
@@ -8681,7 +8708,7 @@
 	      <title level="a">Claude <choice><sic>MacKay</sic><corr>McKay</corr></choice> Describes His Own Life</title>
 	      <title level="j">Cambridge Magazine</title>
 	      <date when="1920">Summer, 1920</date>
-	      <biblScope>55</biblScope>
+	      <biblScope unit="pg">55</biblScope>
 	    </bibl>
 	  </head>
 	  
@@ -8711,7 +8738,7 @@
 	      <title level="a">Preface</title>
 	      <title level="m" type="main">Spring in New Hampshire</title>
 	      <date when="1920-09">September, 1920</date>
-	      <biblScope>[5]</biblScope>
+	      <biblScope unit="pg">[5]</biblScope>
 	    </bibl>
 	  </head>
 	  
@@ -8761,7 +8788,7 @@
 	      <title level="m" type="main">Book of American Negro Poetry</title>
 	      <title level="m" type="sub">Chosen and Edited with an Essay on the Negro's Creative Genius</title>
 	      <date when="1922">1922</date>
-	      <biblScope>vii-xlviii</biblScope>
+	      <biblScope unit="pg">vii-xlviii</biblScope>
 	    </bibl>
 
 	    <note type="editorial" resp="cf">
@@ -8831,7 +8858,7 @@
 	      <title level="m" type="main">The Book of American Negro Poetry</title>
 	      <title level="m" type="sub">Chosen and Edited with an Essay on the Negro's Creative Genius</title>
 	      <date when="1922">1922</date>
-	      <biblScope>213</biblScope>
+	      <biblScope unit="pg">213</biblScope>
 	    </bibl>
 
 	    <note type="editorial" resp="cf">
@@ -9218,7 +9245,7 @@
 	      <title level="a">Protest Poems</title>
 	      <title level="m">Negro Poets and Their Poems</title>
 	      <date when="1923">1923</date>
-	      <biblScope>126-131</biblScope>
+	      <biblScope unit="pg">126-131</biblScope>
 	      <pubPlace>Washington, DC</pubPlace>
 	      <publisher>Associated Publishers, Inc.</publisher>
 	    </bibl>
