@@ -4088,12 +4088,12 @@
 	  <l rend="indent2">Searching me through, reading my thoughts, shining like gold.</l>
 	  <l>But sometimes they are gentle and soft like the dew on the lips of the eucharis<note type="editorial"><hi rend="bold">Eucharis:</hi> A flowering, tropical plant with white, bell-shaped flowers.</note></l>
 	  <l>Before the sun comes warm with his lover's kiss<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#SINH #CambridgeMagazine-to-oea">,</rdg></app></l>
-	  <l>You are sea-foam, pure with the star's loveliness,</l>
+	  <l rend="indent1">You are sea-foam, pure with the star's loveliness,</l>
 	  <l>Not mortal, a flower, a fairy, too fair for the beauty-shorn earth<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#SINH #CambridgeMagazine-to-oea">,</rdg></app></l>
 	  <l>All wonderful things, all beautiful things, gave of their wealth to your birth<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#SINH #CambridgeMagazine-to-oea">:</rdg></app></l> <pb n="72" />
-	  <l>Oh I love you so much, not recking of passion, that I feel it is wrong<app type='punctuation'><lem wit='#HS'>!</lem><rdg wit="#SINH">,</rdg><rdg wit='#CambridgeMagazine-to-oea' /></app></l>
-	  <l>But men will love you, flower, fairy, non-mortal spirit burdened with flesh,</l>
-	  <l>Forever, life-long.</l>
+	  <l rend="indent1">Oh I love you so much, not recking of passion, that I feel it is wrong<app type='punctuation'><lem wit='#HS'>!</lem><rdg wit="#SINH">,</rdg><rdg wit='#CambridgeMagazine-to-oea' /></app></l>
+	  <l rend="indent2">But men will love you, flower, fairy, non-mortal spirit burdened with flesh,</l>
+	  <l rend="indent1">Forever, life-long.</l>
 	</lg>
 
 	<pb n="73" />
