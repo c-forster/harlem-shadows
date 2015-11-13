@@ -2989,7 +2989,7 @@
 	    <lg type="stanza">
 	      <l>The sun rose smiling o'er the river's breast,</l>
 	      <l>And my soul, by his happy spirit blest,</l>
-	      <l>Soared like a bird to greet him in the sky<app type='punctuation'><lem wit="#HS #Liberator-morning">,</lem><rdg wit="#SINH-morning CambridgeMagazine-morning-joy" /></app></l>
+	      <l>Soared like a bird to greet him in the sky<app type='punctuation'><lem wit="#HS #Liberator-morning">,</lem><rdg wit="#SINH-morning #CambridgeMagazine-morning-joy" /></app></l>
 	      <l>And drew out of his heart Eternity.</l>
 	    </lg>
 	  </lg>
