@@ -6696,6 +6696,9 @@
 	      <biblScope unit="pg">4</biblScope>
 	    </bibl>
 	    <note type='source'>Transcribed from page image available from <ref target='http://chroniclingamerica.loc.gov/lccn/sn83025779/1922-06-03/ed-1/seq-4/'>Chronicling America</ref>.</note>
+	    <note type="encoding">In its original appearance this text used quotation marks for its quotations from poetry. These typographical marks produce 
+	    problems for transforming this text, and therefore are not present in this encoding.</note>
+
 	  </head>
 	  <p>"HARLEM SHADOWS" By Claude McKay, published by
 	  Harcourt Brace and Co., Price $1.35.
@@ -6725,10 +6728,10 @@
 	  he thinks:
 	  <quote source='#the-easter-flower'>
 	    <lg>
-	      <l>"Far from this foreign Easter damp and chilly</l>
+	      <l>Far from this foreign Easter damp and chilly</l>
 	      <l rend='indent1'>My soul steals to a pear-shaped plot of ground,</l>
 	      <l>Where gleamed the lilac-tinted Easter lily</l>
-	      <l rend='indent1'>Soft-scented in the air for yards around."</l>
+	      <l rend='indent1'>Soft-scented in the air for yards around.</l>
 	    </lg>
 	  </quote>
 	  </p>
@@ -6736,9 +6739,9 @@
 	  <p>He stops at a shop window and
 	  <quote source='#the-tropics-in-new-york'>
 	    <lg>
-	      <l>"Bananas ripe and green, and ginger-root,</l>
+	      <l>Bananas ripe and green, and ginger-root,</l>
 	      <l rend='indent1'>Cocoa in pods and alligator pears.</l>
-	      <l>And tangerines and mangoes and grape-fruit—"</l>
+	      <l>And tangerines and mangoes and grape-fruit—</l>
 	    </lg>
 	  </quote>
 	  recall the laden fruit-trees of home
@@ -6750,10 +6753,10 @@
 	  for fields and seas:
 	  <quote source='#subway-wind'>
 	    <lg>
-	      <l>"Seas cooling warm where native schooners drift</l>
+	      <l>Seas cooling warm where native schooners drift</l>
 	      <l rend='indent1'>Through sleepy waters, while gulls wheel and sweep,</l>
 	      <l>Waiting for windy waves the keels to lift</l>
-	      <l rend='indent1'>Lightly among the islands of the deep."</l>
+	      <l rend='indent1'>Lightly among the islands of the deep.</l>
 	    </lg>
 	  </quote>
 	  </p>
@@ -6764,10 +6767,10 @@
 	  out of school:
 	  <quote source='#homing-swallows'>
 	    <lg>
-	      <l>"Do they still stop beneath the giant tree</l>
+	      <l>Do they still stop beneath the giant tree</l>
 	      <l rend='indent1'>To gather locusts in their childish greed,</l>
 	      <l>And chuckle when they break the pods to see</l>
-	      <l rend='indent1'>The golden powder clustered round the seed?"</l>
+	      <l rend='indent1'>The golden powder clustered round the seed?</l>
 	    </lg>
 	  </quote>
 	  </p>
@@ -6776,11 +6779,11 @@
 	  the land of waking dreams.
 	  <quote source='#north-and-south'>
 	    <lg>
-	      <l>"There by the banks of the blue and silver streams</l>
+	      <l>There by the banks of the blue and silver streams</l>
 	      <l rend='indent1'>Grass-sheltered crickets chirp incessant song.</l>
 	      <l>Gay-colored lizards loll all through the day</l>
 	      <l rend='indent1'>Their tongues outstretched for careless little flies,</l>
-	      <l rend='indent1'>Look upward laughing at the smiling skies."</l>
+	      <l rend='indent1'>Look upward laughing at the smiling skies.</l>
 	    </lg>
 	  </quote>
 	  </p>
@@ -6795,8 +6798,8 @@
 	  his island of the sea.
 	  <quote source='#when-dawn-comes-to-the-city'>
 	    <lg>
-	      <l>"Where the cocks are crowing,</l>
-	      <l rend='indent1'>And the hens are crackling in the rose-apple tree.'</l>
+	      <l>Where the cocks are crowing,</l>
+	      <l rend='indent1'>And the hens are crackling in the rose-apple tree.</l>
 	    </lg>
 	  </quote>
 	  </p>
@@ -6807,10 +6810,10 @@
 
 	  <quote source='#america'>
 	    <lg>
-	      <l>"Although she feed me bread of bitterness,</l>
+	      <l>Although she feed me bread of bitterness,</l>
 	      <l rend='indent1'>And sinks into my throat her tiger's <sic>took</sic>,</l>
 	      <l>Stealing my breath of life, I will confess</l>
-	      <l rend='indent1'>I love this cultured hell that tests my youth."</l>
+	      <l rend='indent1'>I love this cultured hell that tests my youth.</l>
 	    </lg>
 	  </quote>
 	  </p>
@@ -6830,7 +6833,7 @@
 	  poems. I quote the end:</p>
 
 	  <quote source='#introduction'>
-	    <p>"The quality is here in all these
+	    <p>The quality is here in all these
 	    songs, the pure, arrowlike <sic>tranference</sic>
 	    of his emotion into our heart,
 	    without any but the inevitable words, 
@@ -6849,7 +6852,7 @@
 	    sings. May it find its way a little
 	    quietly and softly in this age of roar
 	    and advertising, to the hearts that
-	    love a true and unaffected song."</p>
+	    love a true and unaffected song.</p>
 	  </quote>
 	</body>
 
