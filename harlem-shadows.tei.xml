@@ -7754,6 +7754,9 @@
 	      <biblScope unit="pg">697, 717</biblScope>
 
 	      <note type="source">Text of this review from microfilm held by <ref target="http://summit.syr.edu/vwebv/holdingsInfo?bibId=681957">Syracuse University Libraries.</ref></note>
+	      <note type="encoding">In its original appearance this text used quotation marks for its quotations from poetry. These typographical marks produce 
+	    problems for transforming this text, and therefore are not present in this encoding.</note>
+
 	    </bibl>
 	  </head>
 
@@ -7766,7 +7769,7 @@
 
 	  <quote source='#the-harlem-dancer'>
 	    <lg type='poem'>
-	      <l>"Applauding youths laughed with young prostitutes</l>
+	      <l>Applauding youths laughed with young prostitutes</l>
 	      <l>And watched her perfect, half-clothed body sway;</l>
 	      <l>Her voice was like the sound of blended flutes</l>
 	      <l>Blown by black players upon a picnic day.</l>
@@ -7779,7 +7782,7 @@
 	      <l>The wine flushed, bold-eyed boys and even the girls,</l>
 	      <l>Devoured her shape with eager passionate gaze;</l>
 	      <l>But looking at her falsely-smiling face,</l>
-	      <l>I knew her self was not in that strange place."</l>
+	      <l>I knew her self was not in that strange place.</l>
 	    </lg>
 	  </quote>
 
@@ -7793,12 +7796,12 @@
 
 	  <quote source='#harlem-shadows'>
 	    <lg>
-	      <l>"I hear the halting footsteps of a lass</l>
+	      <l>I hear the halting footsteps of a lass</l>
 	      <l rend='indent1'>In Negro Harlem when the night lets fall</l>
 	      <l>Its veil. I see the shapes of girls who pass</l>
 	      <l rend='indent1'>To bend and barter at desires call.</l>
 	      <l>Ah, little dark girls who in slippered feet</l>
-	      <l rend='indent1'>Go prowling through the night from street to street!"</l>
+	      <l rend='indent1'>Go prowling through the night from street to street!</l>
 	    </lg>
 	  </quote>
 
@@ -7812,10 +7815,10 @@
 
 	  <quote source="#america">
 	    <lg>
-	      <l>"Darkly I gaze into the days ahead,</l>
+	      <l>Darkly I gaze into the days ahead,</l>
 	      <l>And see her might and granite wonders there,</l>
 	      <l>Beneath the touch of Time's unerring hand</l>
-	      <l>Like priceless treasures sinking in the sand."</l>
+	      <l>Like priceless treasures sinking in the sand.</l>
 	    </lg>
 	  </quote>
 
@@ -7824,8 +7827,8 @@
 
 	  <quote source="#america">
 	    <lg>
-	      <l>"I stand within her walls with not a shred</l>
-	      <l>Of terror, malice, not a word of jeer."</l>
+	      <l>I stand within her walls with not a shred</l>
+	      <l>Of terror, malice, not a word of jeer.</l>
 	    </lg>
 	  </quote>
 	</body>
@@ -7833,7 +7836,7 @@
 
     </group>
 
-    <group xml:id="st">
+    <group xml:id="supplementary-texts">
       <head>Supplementary Texts</head>
 
       <text type="supplementary" xml:id="supp_seven-arts-biography">
