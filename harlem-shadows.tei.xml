@@ -5567,9 +5567,11 @@
 	      <pubPlace>London</pubPlace>
 	    </bibl>
 	    <note type="editorial" resp="cf">The complete review treats two volumes of verse: McKay's <title level="m">Spring in New Hampshire</title> and <title level="m">Collected Poems</title> by Edward Thomas (London: Selwyn and Blount). Only the section of the review discussing <title level="m">Spring in New Hampshire</title> is reproduced here.</note>
+	    <note type="encoding">In its original appearance this text used quotation marks for its quotations from poetry. These typographical marks produce 
+	    problems for transforming this text, and therefore are not present in this encoding.</note>
 	  </head>
 
-	  <p><title level="j">Spring in New Hampshire</title><note anchored="true" n="1">(1) <title level="m">Spring in New Hampshire</title>. By Claude McKay. London: Grant Richards. [3s. 6d. net.]</note> is extrinsically as well as intrinsically 
+	  <p><title level="m">Spring in New Hampshire</title><note type="authorial"><title level="m">Spring in New Hampshire</title>. By Claude McKay. London: Grant Richards. [3s. 6d. net.]</note> is extrinsically as well as intrinsically 
 	  interesting. It is, as the portrait frontispiece and <ref target="#supp_richards_spring-preface">Mr. 
 	  Richards' preface</ref> tell us, written by a man who is a full-blooded 
 	  negro, and it is, as Mr. Richards says, "the first success in poetry 
@@ -5585,7 +5587,7 @@
 	  would or no.
 	  <quote source="#the-harlem-dancer">
 	    <lg>
-	      <l>"Applauding youths laughed with young prostitutes</l>
+	      <l>Applauding youths laughed with young prostitutes</l>
 	      <l>And watched her perfect, half-clothed body sway;</l>
 	      <l>Her voice was like the sound of blended flutes</l>
 	      <l>Blown by black players upon a picnic day.</l>
@@ -5598,14 +5600,14 @@
 	      <l>The wine-flushed, bold-eyed boys, and even the girls,</l>
 	      <l>Devoured her with eager, passionate gaze:</l>
 	      <l>But, looking at her falsely-smiling face,</l>
-	      <l>I knew her self was not in that strange place."</l>
+	      <l>I knew her self was not in that strange place.</l>
 	    </lg>
 	  </quote>
 	  The whole <choice><sic>books</sic><corr>book</corr></choice> sounds a curiously wistful note, but the pathos
 	  is nowhere more poignant than in the following:—
 	  <quote source="#the-lynching">
 	    <lg>
-	      <l>"His spirit in smoke ascended to high heaven.</l>
+	      <l>His spirit in smoke ascended to high heaven.</l>
 	      <l>His father, by the cruellest way of pain,</l>
 	      <l>Had bidden him to his bosom once again:</l>
 	      <l>The awful sin remained still unforgiven.</l>
@@ -5618,7 +5620,7 @@
 	      <l>The women thronged to look, but never a one</l>
 	      <l>Showed sorrow in her eyes of steely blue;</l>
 	      <l>And little lads, lynchers that were to be,</l>
-	      <l>Danced round the dreadful thing in fiendish glee."</l>
+	      <l>Danced round the dreadful thing in fiendish glee.</l>
 	    </lg>
 	  </quote>
 	  Here is, indeed, the blot on the scutcheon of the United States.
