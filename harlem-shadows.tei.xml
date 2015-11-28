@@ -1616,9 +1616,8 @@
 	    </list>
 	  </div>
 	  
-	  <pb n="ix"/>
-
 	  <div type="introductory-prose" xml:id="introduction">
+	    <pb n="ix"/>
             <head>Introduction</head>
 
 	    <p>These poems have a special interest for all the 
@@ -1866,9 +1865,8 @@
 	    </closer>
 	  </div>
 
-	  <pb n="xix" />
-
 	  <div type="introductory-prose" xml:id="authors-word">
+	    <pb n="xix" />
 	    <head>Author's Word</head> 
 
 	    <p>In putting ideas and feelings into poetry, I have 
@@ -1946,14 +1944,15 @@
 	      <signed><name rend="smallcaps">Claude McKay.</name></signed> 
 	    </closer>
 	  </div>
+
 	  <div type="half-title">
 	    <head>Harlem Shadows</head>
 	  </div>
 	</front>  
 
    	<body>
-	  <pb n="3" />
 	  <lg type="poem" xml:id="the-easter-flower" rhyme="abab">
+	    <pb n="3" />
 	    <head>The Easter Flower</head>
 
 	    <note type="textual">
@@ -1986,14 +1985,13 @@
 	    </lg>	
 	  </lg>
 
-	  <pb n="4" />
 	  <lg type="poem" xml:id="to-one-coming-north" rhyme="abab">
+	    <pb n="4" />
 	    <head rend="caps">To One Coming North</head>
 
 	    <note type="textual">
 	      <p>This poem also appears in <ptr target="#Liberator-to-one" />.</p>
 	    </note>
-
 
 	    <lg type="stanza">
 	      <l>At first you'll joy to see the playful snow,</l>
@@ -2029,8 +2027,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="6"/>
 	  <lg type="poem" xml:id="america" rhyme="ababcdcdefefgg">
+	    <pb n="6"/>
 	    <head>America</head>
 	    
 	    <note type="textual"><p>This poem appears in:
@@ -2068,9 +2066,8 @@
 	    </app> in the sand.</l>
 	  </lg>
 
-	  <pb n="7"/>
-
 	  <lg type="poem" xml:id="alfonso-dressing-to-wait-at-table" rhyme="abab">
+	    <pb n="7"/>
 	    <head>Alfonso, Dressing to Wait at Table<app type='word'><lem wit="#HS"></lem><rdg wit="#CambridgeMagazine-alfonso #SINH-alfonso">, Sings</rdg></app></head>
 
 	    <note type="textual"><p>This poem also appears in <ptr target="#CambridgeMagazine-alfonso" /> and <ptr target="#SINH-alfonso" />.</p></note>
@@ -2109,8 +2106,8 @@
 
 	  </lg>
 
-	  <pb n="8" />
 	  <lg type="poem" xml:id="the-tropics-in-new-york" rhyme="abab">
+	    <pb n="8" />
 	    <head>The Tropics in New York</head>
 
 	    <note type="textual">
@@ -2171,9 +2168,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="9" />
-
 	  <lg type="poem" xml:id="flame-heart" rhyme="-a-a-b-bcc">
+	    <pb n="9" />
 	    <head>Flame-Heart</head>
 
 	    <lg type="stanza">
@@ -2231,9 +2227,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="11" />
-
 	  <lg type="poem" xml:id="home-thoughts" rhyme="aa">
+	    <pb n="11" />
 	    <head>Home Thoughts</head>
 
 	    <note type="textual">
@@ -2284,9 +2279,8 @@
 	    </app> <app type='orthography'><lem wit="#HS #ThreeSonnets-homethoughts">something's</lem><rdg wit="#Liberator-home">Something's</rdg></app> happening there this very minute!</l>
 	  </lg>
 
-	  <pb n="12" />
 	  <lg type="poem" xml:id="on-broadway" rhyme="aabcbcdd">
-
+	    <pb n="12" />
 	    <head>On Broadway</head>
 
 	    <note type="textual">
@@ -2319,9 +2313,8 @@
 	    </lg>
 	  </lg>
 	  
-	  <pb n="13" />
-
 	  <lg type="poem" xml:id="the-barrier" rhyme="abab">
+	    <pb n="13" />
 	    <head>The Barrier</head>
 
 	    <note type="textual">
@@ -2359,9 +2352,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="14" />
-
 	  <lg type="poem" xml:id="adolescence" rhyme="abab">
+	    <pb n="14" />
 	    <head>Adolescence</head>
 
 	    <lg type="stanza">
@@ -2384,9 +2376,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="15" />
-
 	  <lg type="poem" xml:id="homing-swallows" rhyme="abab">
+	    <pb n="15" />
 	    <head>Homing Swallows<note type="editorial"><hi rend="bold">Homing Swallow:</hi> a swallow capable of traveling distances but returning to its point of origin, like a homing pigeon.</note></head>
 
 	    <lg type="stanza">
@@ -2409,9 +2400,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="16" />
-
 	  <lg type="poem" xml:id="the-citys-love" rhyme="aabcbcdd">
+	    <pb n="16" />
 	    <head>The City's Love</head>
 
 	    <l>For one brief golden moment rare like wine,</l>
@@ -2424,8 +2414,8 @@
 	    <l>Bowed down for one flame hour my pride to prove.</l>
 	  </lg>
 
-	  <pb n="17" />
 	  <lg type="poem" xml:id="north-and-south" rhyme="ababcdcdefefghghii">
+	    <pb n="17" />
 	    <head>North and South</head>
 
 	    <note type="textual">
@@ -2455,9 +2445,8 @@
 	    </app> dreams are tropic lands!</l>
 	  </lg>
 
-	  <pb n="18" />
-
 	  <lg type="poem" xml:id="wild-may" rhyme="ababcdcdefefgg">
+	    <pb n="18" />
 	    <head>Wild May</head>
 
 	    <l>Aleta mentions in her tender letters,</l>
@@ -2476,9 +2465,8 @@
 	    <l>Before sex tamed your spirit, made you slave.</l>
 	  </lg>
 
-	  <pb n="19" />
-
 	  <lg type="poem" xml:id="the-plateau" rhyme="abba">
+	    <pb n="19" />
 	    <head>The Plateau</head>
 
 	    <lg type="stanza">
@@ -2510,9 +2498,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="20" />
-
-	  <lg type="poem" xml:id="after-the-winter" rhyme="ababcdcd"> 
+	  <lg type="poem" xml:id="after-the-winter" rhyme="ababcdcd">
+	    <pb n="20" />
 	    <head>After the <app type='word'><lem wit="#HS #SINH-after #CambridgeMagazine-after-the-winter">Winter</lem><rdg wit="#Liberator-after">Winters.</rdg></app></head>
 
 	    <note type="textual">
@@ -2556,8 +2543,8 @@
 	    </lg>	     
 	  </lg>
 
-	  <pb n="21" />
 	  <lg type="poem" xml:id="the-wild-goat" rhyme="abab">
+	    <pb n="21" />
 	    <head>
 	      <app type='phrase'>
 		<lem wit="#HS">The Wild Goat</lem>
@@ -2585,8 +2572,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n ="22"/>
 	  <lg type="poem" xml:id="harlem-shadows" rhyme="ababcc">
+	    <pb n ="22"/>
 	    <head>Harlem Shadows</head>
 
 	    <note type="textual">
@@ -2633,9 +2620,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="23" />
-	  
 	  <lg type="poem" xml:id="the-white-city" rhyme="ababcdcdefefgg">
+	    <pb n="23" />
 	    <head>The White City</head>
 
 	    <note type="textual"><p>This poem also appears in <ptr target="#Liberator-white" />.</p></note>
@@ -2661,9 +2647,8 @@
 	    <l>Are sweet like wanton loves because I hate.</l>
 	  </lg>
 
-	  <pb n="24" />
-	  
 	  <lg type="poem" xml:id="the-spanish-needle" rhyme="abcb">
+	    <pb n="24" />
 	    <head rend="caps">The Spanish Needle<note type="editorial"><hi rend="bold">Spanish Needle:</hi> A wildflower (<hi rend="italics">bidens alba</hi>), with white and yellow blossoms.</note></head>
 
 	    <note type="textual">
@@ -2715,9 +2700,8 @@
 	    </lg>
 	  </lg>	   
 
-	  <pb n="26" />
-	  
 	  <lg type="poem" xml:id="my-mother" rhyme="ababcdcdefefgg">
+	    <pb n="26" />
 	    <head>My Mother</head>
 
 	    <note type="textual">
@@ -2765,9 +2749,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="28" />
-
 	  <lg type="poem" xml:id="in-bondage" rhyme="ababcdcdefefgg">
+	    <pb n="28" />
 	    <head>In Bondage</head>
 
 	    <note type="textual">
@@ -2804,9 +2787,8 @@
 	    </app> black men, simple slaves of ruthless slaves.</l>
 	  </lg>
 
-	  <pb n="29" />
-
 	  <lg type="poem" xml:id="december-1919" rhyme="abcb">
+	    <pb n="29" />
 	    <head>December, 1919</head>
 
 	    <lg type="stanza">
@@ -2830,9 +2812,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="30" />
-	  
 	  <lg type="poem" xml:id="heritage" rhyme="abcb">
+	    <pb n="30" />
 	    <head>Heritage</head>
 	    <lg type="stanza">
 	      <l>Now the dead past seems vividly alive,</l>
@@ -2864,9 +2845,8 @@
 
 	  </lg>
 
-	  <pb n="31" />
-
 	  <lg type="poem" xml:id="when-i-have-passed-away" rhyme="abab">
+	    <pb n="31" />
 	    <head>When I Have Passed Away</head>
 
 	    <lg type="stanza">
@@ -2891,9 +2871,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="32" />
-
 	  <lg type="poem" xml:id="enslaved" rhyme="ababcdcdefefgg">
+	    <pb n="32" />
 	    <head>Enslaved</head>
 
 	    <note type="textual">
@@ -2919,9 +2898,8 @@
 	    <l>To liberate my people from its yoke!</l>
 	  </lg>
 
-	  <pb n="33" />
-	  
 	  <lg type="poem" xml:id="i-shall-return" rhyme="ababcdcdefefgg">
+	    <pb n="33" />
 	    <head>I Shall Return</head>
 
 	    <note type="textual">
@@ -2947,9 +2925,8 @@
 	    <l>To ease my mind of long, long years of pain.</l>
 	  </lg>
 
-	  <pb n="34" />
-	  
 	  <lg type="poem" xml:id="morning-joy" rhyme="aabb">
+	    <pb n="34" />
 	    <head>Morning Joy</head>
 
 	    <note type="textual">
@@ -2994,9 +2971,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="35"/>
-	  
 	  <lg type="poem" xml:id="africa" rhyme="ababcdcdefefgg">
+	    <pb n="35"/>
 	    <head>Africa</head>
 
 	    <note type="textual">
@@ -3021,9 +2997,8 @@
 	    <l>Of all the mighty nations of the sun.</l>
 	  </lg>
 
-	  <pb n="36"/>
-
 	  <lg type="poem" xml:id="on-a-primitive-canoe" rhyme="ababcdcdefefgg">
+	    <pb n="36"/>
 	    <head>On a Primitive Canoe</head>
 
 	    <l>Here, passing lonely down this quiet lane,</l>
@@ -3042,9 +3017,8 @@
 	    <l>An old wine has intoxicated me.</l>
 	  </lg>	   
 
-	  <pb n="37" />
-
 	  <lg type="poem" xml:id="winter-in-the-country" rhyme="abab">
+	    <pb n="37" />
 	    <head>Winter in the Country</head>
 
 	    <note type="textual">
@@ -3100,9 +3074,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="39" />
-	  
 	  <lg type="poem" xml:id="to-winter" rhyme="abbaabbacdcdcd">
+	    <pb n="39" />
 	    <head>To Winter</head>
 
 	    <note type="textual">
@@ -3129,9 +3102,8 @@
 	    <l>To ease my heart of its impassioned woe.</l>
 	  </lg>
 
-	  <pb n="40" />
-
 	  <lg type="poem" xml:id="spring-in-new-hampshire" rhyme="ababcc">
+	    <pb n="40" />
 	    <head>Spring in New Hampshire</head>
 
 	    <head type="dedication">
@@ -3169,9 +3141,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="41" />
-
 	  <lg type="poem" xml:id="on-the-road" rhyme="ababcdcdefefgg">
+	    <pb n="41" />
 	    <head>On the Road</head>
 
 	    <note type="textual" resp="cf">
@@ -3199,9 +3170,8 @@
 	    <l>To spend their tips on harlots<note type="editorial"><hi rend="bold">Harlot:</hi> Here, a prostitute.</note>, cards and rum.</l>
 	  </lg>
 
-	  <pb n="42" />
-	  
 	  <lg type="poem" xml:id="the-harlem-dancer" rhyme="ababcdcdefegg">
+	    <pb n="42" />
 	    <head>The Harlem Dancer</head>
 
 	    <note type="textual">
@@ -3231,9 +3201,8 @@
 	    <l>I knew her self was not in that strange place.</l>
 	  </lg>
 	  
-	  <pb n="43" />
-
 	  <lg type="poem" xml:id="dawn-in-new-york" rhyme="ababcdcdefefgg">
+	    <pb n="43" />
 	    <head>
 	      <app type='phrase'>
 		<lem wit="#HS">Dawn in New York</lem>
@@ -3277,9 +3246,8 @@
 	    </app></l>
 	  </lg>
 
-	  <pb n="44" />
-
 	  <lg type="poem" xml:id="the-tired-worker" rhyme="ababcdcdefefgg">
+	    <pb n="44" />
 	    <head>The Tired Worker</head>
 
 	    <note type="textual">
@@ -3308,9 +3276,8 @@
 	    <rdg wit="#Liberator-tired">hard</rdg></app>, the ugly city.</l>
 	  </lg>
 
-	  <pb n="45" />
-
 	  <lg type="poem" xml:id="outcast" rhyme="ababcdcdefefgg">
+	    <pb n="45" />
 	    <head>Outcast</head>
 
 	    <note type="textual">
@@ -3338,9 +3305,8 @@
 
 	  </lg>
 
-	  <pb n="46"/>
-
 	  <lg type="poem" xml:id="i-know-my-soul" rhyme="abbaabbacdcdcd">
+	    <pb n="46"/>
 	    <head>I Know My Soul</head>
 
 	    <l>I plucked my soul out of its secret place,</l>
@@ -3359,9 +3325,8 @@
 	    <l>By this narcotic thought: I know my soul.</l>
 	  </lg>
 	  
-	  <pb n="47"/>
-
 	  <lg type="poem" xml:id="birds-of-prey" rhyme="abbaabbacdcdcd">
+	    <pb n="47"/>
 	    <head>Birds of Prey</head>
 
 	    <note type="textual">
@@ -3406,9 +3371,8 @@
 	    <l>And stuff our gory hearts into their maws.</l>
 	  </lg>
 	  
-	  <pb n="48"/>
-
 	  <lg type="poem" xml:id="the-castaways" rhyme="ababcdcdefefgg">
+	    <pb n="48"/>
 	    <head>The Castaways</head>
 
 	    <note type="textual">
@@ -3452,9 +3416,8 @@
 	    <l>I have the strength to bear but not to see.</l>
 	  </lg>
 
-	  <pb n="49"/>
-
 	  <lg type="poem" xml:id="exhortation-summer-1919" rhyme="ababcddcddcddefefcddcddcdd">
+	    <pb n="49"/>
 	    <head>
 	      <app type='phrase'>
 		<lem wit="#HS">Exhortation: Summer, 1919</lem>
@@ -3512,9 +3475,8 @@
 	    </lg>
 	  </lg>
 
-	  <pb n="51"/>
-
 	  <lg type="poem" xml:id="the-lynching" rhyme="abbacddceffegg">
+	    <pb n="51"/>
 	    <head>The Lynching</head>
 
 	    <note type="textual">
@@ -3541,9 +3503,8 @@
 	    <l>Danced round the dreadful thing in fiendish glee.</l>
 	  </lg>
 	  
-	  <pb n="52" />
-
 	  <lg type="poem" xml:id="baptism" rhyme="abbaabbacdcdcd">
+	    <pb n="52" />
 	    <head>Baptism</head>
 
 	    <note type="textual">
@@ -3567,9 +3528,8 @@
 	    <l>A stronger soul within a finer frame.</l>
 	  </lg>
 
-	  <pb n="53" />
-
 	  <lg type = "poem" xml:id="if-we-must-die" rhyme="ababcdcdefefgg">
+	    <pb n="53" />
 	    <head>If We Must Die<app type="punctuation"><lem wit="#HS #Liberator-if" /><rdg wit="#Crusader-if">.</rdg></app>
 	    <note type='editorial' resp='cf'>
 	      <p>"If We Must Die" is surely McKay's most famous poem. He recounts its origin in <title level="m">A Long Way From Home</title>:</p>
@@ -3646,9 +3606,8 @@
 	  <l>Pressed to the wall, dying, but<app type='punctuation'><lem wit="#HS">&#160;</lem><rdg wit="#Liberator-if #Messenger-if #Crusader-if">—</rdg></app>fighting back!</l>
 	</lg>
 	
-	<pb n="54" />
-
 	<lg type = "poem" xml:id="subway-wind" rhyme="abab">
+	  <pb n="54" />
 	  <head>Subway Wind</head>
 
 	  <note type="textual">
@@ -3683,9 +3642,8 @@
 	  <l rend="indent1">And the Trades float above them fresh and free.</l>
 	</lg>
 
-	<pb n="55" />
-
 	<lg type = "poem" xml:id="the-night-fire" rhyme="ababcdcdefefgg">
+	  <pb n="55" />
 	  <head>The Night Fire</head>
 
 	  <note type="textual">
@@ -3708,9 +3666,8 @@
 	  <l>And where life lay asleep broods darkly death.</l>
 	</lg>
 
-	<pb n="56" />
-
 	<lg type = "poem" xml:id="poetry" rhyme="abbacddceffegg">
+	  <pb n="56" />
 	  <head>Poetry</head>
 
 	  <l>Sometimes I tremble like a storm-swept flower,</l>
@@ -3729,9 +3686,8 @@
 	  <l>Will perish on the altar-stone of art!</l>
 	</lg>
 
-	<pb n="57" />
-
 	<lg type = "poem" xml:id="to-a-poet" rhyme="abab">
+	  <pb n="57" />
 	  <head>To a Poet</head>
 
 	  <lg type="stanza">
@@ -3756,9 +3712,8 @@
 	  </lg>
 	</lg>
 
-	<pb n="58" />
-
 	<lg type = "poem" xml:id="a-prayer" rhyme="aa">
+	  <pb n="58" />
 	  <head>A Prayer</head>
 	  <note type="textual"><p>This poem also appeared in <ptr target="#SINH-a-prayer" />, with a dedication to Max Eastman.</p></note>
 
@@ -3797,9 +3752,8 @@
 	  </lg>
 	</lg>
 	
-	<pb n="60" />
-
 	<lg type = "poem" xml:id="when-dawn-comes-to-the-city" rhyme="ababcdcd eefefgfffefeeg">
+	  <pb n="60" />
 	  <head type="title">When Dawn Comes to the City</head>
 
 	  <note type="textual">
@@ -3866,9 +3820,8 @@
 	  </lg>
 	</lg>
 
-	<pb n="63" />
-
 	<lg type="poem" xml:id="o-word-i-love-to-sing" rhyme="abab">
+	  <pb n="63" />
 	  <head>O Word I Love to Sing</head>
 
 	  <lg type="stanza">
@@ -3893,9 +3846,8 @@
 	  </lg>
 	</lg>
 
-	<pb n="64" />
-
 	<lg type="poem" xml:id="absence" rhyme="aa">
+	  <pb n="64" />
 	  <head>Absence</head>
 
 	  <note type="textual">
@@ -3928,9 +3880,8 @@
 	  </lg>
 	</lg>
 
-	<pb n="66" />
-	
 	<lg type="poem" xml:id="summer-morn-in-new-hampshire" rhyme="abab">
+	  <pb n="66" />
 	  <head>Summer Morn in New Hampshire</head>
 
 	  <lg type="stanza">
@@ -3956,9 +3907,8 @@
 	  </lg>
 	</lg>
 
-	<pb n="67" />	   
-
 	<lg type="poem" xml:id="rest-in-peace" rhyme="abab">
+	  <pb n="67" />	   
 	  <head>Rest in Peace</head>
 
 	  <note type="textual">
@@ -3990,9 +3940,8 @@
 	  </lg>
 	</lg>
 
-	<pb n="68" />
-
 	<lg type="poem" xml:id="a-red-flower" rhyme="abab">
+	  <pb n="68" />
 	  <head>A Red Flower</head>
 
 	  <lg type="stanza">
@@ -4032,9 +3981,8 @@
 
 	</lg>
 
-	<pb n="70" />
-
 	<lg type="poem" xml:id="courage" rhyme="abba">
+	  <pb n="70" />
 	  <head>Courage</head>
 
 	  <lg type="stanza">
@@ -4067,9 +4015,8 @@
 
 	</lg>
 
-	<pb n="71" />
-
 	<lg type="poem" xml:id="to-oea" rhyme="ababcddeeefghih">
+	  <pb n="71" />
 	  <head>To O.E.A.</head>
 
 	  <note type="textual">
@@ -4095,9 +4042,8 @@
 	  <l rend="indent1">Forever, life-long.</l>
 	</lg>
 
-	<pb n="73" />
-
 	<lg type="poem" xml:id="romance" rhyme="aa">
+	  <pb n="73" />
 	  <head>Romance</head>
 
 	  <lg type="stanza">
@@ -4142,9 +4088,8 @@
 
 	</lg>
 
-	<pb n="75" />
-
 	<lg type="poem" xml:id="flower-of-love" rhyme="ababcdcdefeghihi">
+	  <pb n="75" />
 	  <head>Flower of Love</head>
 
 	  <l>The perfume of your body dulls my sense.</l>
@@ -4165,9 +4110,8 @@
 	  <l rend="indent1">While we lie loving, passionate and mute.</l>
 	</lg>
 
-	<pb n="76" />
-
 	<lg type="poem" xml:id="the-snow-fairy" rhyme="ababcdcdefefgg">
+	  <pb n="76" />
 	  <head>The Snow Fairy</head>
 
 	  <lg type="stanza">
@@ -4210,9 +4154,8 @@
 
 	</lg>
 
-	<pb n="78" />
-	
 	<lg type="poem" xml:id="la-paloma-in-london" rhyme="ababcdcdefefgg">
+	  <pb n="78" />
 	  <head>
 	    La Paloma<note type="editorial"><hi rend="bold">La Paloma:</hi> A popular, nineteenth-century Spanish song by Sebastian Yradier, inspired by a visit to Cuba that has spread worldwide as a popular folk song.</note> in London
 	  </head>
@@ -4240,10 +4183,8 @@
 	  <l>I loved you, Cuban girl, fond sweet Diory.</l>
 	</lg>
 
-	<pb n="79" />
-	
 	<lg type="poem" xml:id="a-memory-of-june" rhyme="abab">
-
+	  <pb n="79" />
 	  <head>A Memory of June</head>
 
 	  <note type="textual">
@@ -4300,9 +4241,8 @@
 	  </lg>
 	</lg>
 
-	<pb n="81" />
-	
 	<lg type="poem" xml:id="flirtation" rhyme="abababab">
+	  <pb n="81" />
 	  <head>Flirtation</head>
 	  <note type="textual">
 	    <p>This poem also appeared in <ptr target="#Liberator-flirtation" />.</p>
@@ -4318,9 +4258,8 @@
 	  <l rend="indent1">Enough! if thou wilt ask no more of me!</l>
 	</lg>
 
-	<pb n="82" />
-	
 	<lg type="poem" xml:id="tormented" rhyme="abcb">
+	  <pb n="82" />
 	  <head>Tormented</head>
 
 	  <lg type="stanza">
@@ -4345,9 +4284,8 @@
 	  </lg>
 	</lg>
 
-	<pb n="83" />
-
 	<lg type="poem" xml:id="polarity" rhyme="abab">
+	  <pb n="83" />
 	  <head>Polarity</head>
 
 	  <lg type="stanza">
@@ -4366,9 +4304,8 @@
 
 	</lg>
 
-	<pb n="84" />
-
 	<lg type="poem" xml:id="one-year-after" rhyme="abbaabbacdcdcd">
+	  <pb n="84" />
 	  <head>One Year After</head>
 
 	  <lg type="stanza">
@@ -4455,9 +4392,8 @@
 
 	</lg>
 
-	<pb n="88" />
-
 	<lg type="poem" xml:id="jasmines" rhyme="abacbcddeffegfg">
+	  <pb n="88" />
 	  <head>Jasmines</head>
 
 	  <note type="textual">
@@ -4483,9 +4419,8 @@
 	  <l>Luxuriant, clustered round your cottage door!</l>
 	</lg>
 
-	<pb n="89" />
-
 	<lg type="poem" xml:id="commemoration" rhyme="abab">
+	  <pb n="89" />
 	  <head>Commemoration</head>
 
 	  <lg type="stanza">
@@ -4517,9 +4452,8 @@
 	  </lg>
 	</lg>
 
-	<pb n="90" />
-
 	<lg type="poem" xml:id="memorial" rhyme="abab">
+	  <pb n="90" />
 	  <head>Memorial</head>
 
 	  <lg type="stanza">
@@ -4597,9 +4531,8 @@
 
 	</lg>
 
-	<pb n="93" />
-
 	<lg type="poem" xml:id="futility" rhyme="ababcdcdefefgg">
+	  <pb n="93" />
 	  <head>Futility</head>
 
 	  <note type="textual"><p>This poem also appeared in <ptr target="#Liberator-futility" />.</p></note>
@@ -4621,9 +4554,8 @@
 
 	</lg>
 
-	<pb n="94" />
-
 	<lg type="poem" xml:id="through-agony" rhyme="abbaabbacdcdcd">
+	  <pb n="94" />
 	  <head>Through Agony</head>
 
 	  <note type="textual">
