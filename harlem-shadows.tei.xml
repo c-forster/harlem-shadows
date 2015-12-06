@@ -2175,7 +2175,7 @@
 	    <lg type="stanza">
 	      <l>So much have I forgotten in ten years,</l>
 	      <l rend="indent1">So much in ten brief years<app type='punctuation'><lem wit="#HS">!</lem><rdg wit="#SINH-flame">;</rdg></app> I have forgot</l>
-	      <l>What time the purple apples come to juice<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="SINH-flame" /></app></l>
+	      <l>What time the purple apples come to juice<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#SINH-flame" /></app></l>
 	      <l rend="indent1">And what month brings the shy forget-me-not<note type="editorial"><hi rend="bold">Forget-me-not:</hi> a flowering plant of the genus <hi rend="italics">myosotis</hi>.</note><app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#SINH-flame">;</rdg></app></l>
 	      <l><app type='phrase'>
 		<lem wit="#HS">I have forgot</lem>
@@ -4217,7 +4217,7 @@
 	    <l>I always see the cheerful little room,</l>
 	    <l rend="indent1">And in the corner, fresh and white, the bed<app type='punctuation'><lem wit="#HS #Liberator-a-memory">,</lem><rdg wit="#SINH-a-memory #CambridgeMagazine-memory-of-june" /></app></l>
 	    <l>Sweet scented with a delicate perfume,</l>
-	    <l rend="indent1">Wherein for one night only we were wed<app type='punctuation'><lem wit="#HS #Liberator-a-memory">;</lem><rdg wit="#SING-a-memory #CambridgeMagazine-memory-of-june">:</rdg></app></l>
+	    <l rend="indent1">Wherein for one night only we were wed<app type='punctuation'><lem wit="#HS #Liberator-a-memory">;</lem><rdg wit="#SINH-a-memory #CambridgeMagazine-memory-of-june">:</rdg></app></l>
 	  </lg>
 
 	  <lg type="stanza">
