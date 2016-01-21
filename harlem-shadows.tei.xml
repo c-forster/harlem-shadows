@@ -2035,33 +2035,34 @@
 	    <list>
 	      <item><ptr target="#ThreeSonnets-america" /> with two other sonnets under the title "Three Sonnets."</item>
 	      <item><ptr target="#Liberator-america" /></item>
+	      <item><ptr target="#FourNegroPoets-america" /></item>
 	    </list></p>
 	    </note>
 
 	    <l><app type='orthography'>
-	      <lem wit="#HS">Although</lem>
+	      <lem wit="#HS #FourNegroPoets-america">Although</lem>
 	      <rdg wit="#ThreeSonnets-america">Altho</rdg>
 	    </app> she feeds me bread of bitterness,</l>
 	    <l>And sinks into my throat her tiger's tooth,</l>
 	    <l>Stealing my breath of life, I will confess</l>
-	    <l>I love this cultured hell that tests my youth!</l>
+	    <l>I love this cultured hell that tests my youth<app><lem wit="#HS #ThreeSonnets-america">!</lem><rdg wit="#FourNegroPoets-america">.</rdg></app></l>
 	    <l>Her vigor flows like tides into my blood,</l>
-	    <l>Giving me strength erect against her hate.</l>
+	    <l>Giving me strength <app><lem wit="#HS #ThreeSonnets-america">erect</lem><rdg wit="#FourNegroPoets-america" /></app> against her hate.</l>
 	    <l>Her bigness sweeps my being like a flood.</l>
-	    <l>Yet as a rebel fronts a king in state,</l>
+	    <l>Yet<app type="punctuation"><lem wit="#HS #ThreeSonnets-america" /><rdg wit="#FourNegroPoets-america">,</rdg></app> as a rebel fronts a king in state,</l>
 	    <l>I stand within her walls with not a shred</l>
-	    <l>Of terror, malice<app type='phrase'><lem wit="#HS">, not</lem><rdg wit="#Liberator-america"> nor even</rdg></app> a word of jeer.</l>
-	    <l>Darkly I gaze into the days ahead<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Liberator-america" /></app></l>
+	    <l>Of terror, malice<app type='phrase'><lem wit="#HS #FourNegroPoets-america">, not</lem><rdg wit="#Liberator-america"> nor even</rdg></app> a word of jeer.</l>
+	    <l>Darkly I gaze into the days ahead<app type='punctuation'><lem wit="#HS #FourNegroPoets-america">,</lem><rdg wit="#Liberator-america" /></app></l>
 	    <l><app type='word'>
-	      <lem wit="#HS">And</lem>
+	      <lem wit="#HS #FourNegroPoets-america">And</lem>
 	      <rdg wit="#Liberator-america">To</rdg>
 	    </app> see her might and granite wonders there,</l>
 	    <l>Beneath the touch of Time's unerring hand,</l>
 	    <l>Like <app type='word'>
-	    <lem wit="#HS">priceless</lem>
+	    <lem wit="#HS #FourNegroPoets-america">priceless</lem>
 	    <rdg wit="#Liberator-america">ancient</rdg>
 	    </app> treasures <app type='word'>
-	    <lem wit="#HS">sinking</lem>
+	    <lem wit="#HS #FourNegroPoets-america">sinking</lem>
 	    <rdg wit="#Liberator-america">buried</rdg>
 	    </app> in the sand.</l>
 	  </lg>
@@ -2116,52 +2117,54 @@
 		<item><ptr target="#SINH-tropics" /></item>
 		<item><ptr target="#CambridgeMagazine-tropics-in-new-york" /></item>
 		<item><ptr target="#Liberator-tropics" /></item>
+		<item><ptr target="#FourNegroPoets-tropics-in-york" /></item>
 	      </list>
 
 	      In its appearance in <ref target="#Liberator-tropics"><title level="j">The Liberator</title></ref>, this poem did not feature any line indentation.</p>
 	    </note>
 
 	    <lg type="stanza">
-	      <l>Bananas ripe and green<app type='punctuation'><lem wit="#HS #Liberator-tropics">,</lem><rdg wit="#SINH-tropics #CambridgeMagazine-tropics-in-new-york" /></app> and ginger-root,</l>
+	      <l>Bananas ripe and green<app type='punctuation'><lem wit="#HS #Liberator-tropics #FourNegroPoets-tropics-in-york">,</lem><rdg wit="#SINH-tropics #CambridgeMagazine-tropics-in-new-york" /></app> and ginger-root,</l>
 	      <l rend="indent1">Cocoa in pods and alligator pears,</l>
-	      <l>And tangerines and mangoes and grape fruit,</l>
-	      <l rend="indent1">Fit for the highest prize at parish<note type="editorial"><hi rend="bold">Parish:</hi> "A division or department of a county or other area... (in some former British Colonies) a local division used for civil purposes, frequently as an electoral district; a civil parish" (OED).</note> fairs,</l>
+	      <l>And tangerines and mangoes and <app><lem wit="#HS #Liberator-tropics #CambridgeMagazine-tropics-in-new-york #SINH-tropics">grape fruit</lem><rdg wit="#FourNegroPoets-tropics-in-york">grapefruit</rdg></app>,</l>
+	      <l rend="indent1">Fit for the highest prize at parish<note type="editorial"><hi rend="bold">Parish:</hi> "A division or department of a county or other area... (in some former British Colonies) a local division used for civil purposes, frequently as an electoral district; a civil parish" (OED).</note> fairs<app type="punctuation"><lem wit="#HS #Liberator-tropics #CambridgeMagazine-tropics-in-new-york #SINH-tropics">,</lem><rdg wit="#FourNegroPoets-tropics-in-york">.</rdg></app></l>
 	    </lg>
 
 	    <lg type="stanza">
-	      <l>Set in the window, bringing memories</l>
+	      <l>Set in the window, <app type="word"><lem wit="#HS #Liberator-tropics #CambridgeMagazine-tropics-in-new-york #SINH-tropics">bringing</lem><rdg wit="#FourNegroPoets-tropics-in-york">burning</rdg></app> memories</l>
 	      <l rend="indent1">Of <app type='orthography'>
-	      <lem wit="#HS #CambridgeMagazine-tropics-in-new-york #SINH-tropics">fruit-trees</lem>
+	      <lem wit="#HS #CambridgeMagazine-tropics-in-new-york #SINH-tropics #FourNegroPoets-tropics-in-york">fruit-trees</lem>
 	      <rdg wit="#Liberator-tropics">fruit trees</rdg>
-	      </app> laden<app type='punctuation'><lem wit="#HS #CambridgeMagazine-tropics-in-new-york #SINH-tropics" /><rdg wit="#Liberator-tropics">,</rdg></app> by low-singing <app type='error'>
-	      <lem wit="#HS #CambridgeMagazine-tropics-in-new-york #SINH-tropics">rills</lem>
+	      </app> laden<app type='punctuation'><lem wit="#HS #CambridgeMagazine-tropics-in-new-york #SINH-tropics #FourNegroPoets-tropics-in-york" /><rdg wit="#Liberator-tropics">,</rdg></app> by low-singing <app type='error'>
+	      <lem wit="#HS #CambridgeMagazine-tropics-in-new-york #SINH-tropics #FourNegroPoets-tropics-in-york">rills</lem>
 	      <rdg wit="#Liberator-tropics"><sic>sills</sic></rdg>
 	      </app>,</l>
-	      <l>And dewy dawns<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#SINH-tropics #CambridgeMagazine-tropics-in-new-york #Liberator-tropics" /></app> and mystical blue skies</l>
+	      <l>And dewy dawns<app type='punctuation'><lem wit="#HS #FourNegroPoets-tropics-in-york">,</lem><rdg wit="#SINH-tropics #CambridgeMagazine-tropics-in-new-york #Liberator-tropics" /></app> and mystical blue skies</l>
 	      <l rend="indent1">In benediction over nun-like hills.</l>
 	    </lg>
 
 	    <lg type="stanza">
 	      <l><app type='phrase'>
 		<lem wit='#HS'>My eyes grew dim, and I could no more gaze;</lem>
-		<rdg wit='#SINH-tropics #CambridgeMagazine-tropics-in-new-york'>Mine eyes grew dim and I could no more gaze,</rdg>
 		<rdg wit='#Liberator-tropics'>A wave of longing overwhelmed my soul,</rdg>
+		<rdg wit='#SINH-tropics #CambridgeMagazine-tropics-in-new-york'>Mine eyes grew dim and I could no more gaze,</rdg>
+		<rdg wit='#FourNegroPoets-tropics-in-york'>My eyes grew dim, and I could no more gaze:</rdg>
 	      </app></l>
 	      <l rend="indent1">
 	        <app type='phrase'>
-		  <lem wit="#HS #SINH-tropics #CambridgeMagazine-tropics-in-new-york">A wave of longing through my body swept,</lem>
+		  <lem wit="#HS #SINH-tropics #CambridgeMagazine-tropics-in-new-york #FourNegroPoets-tropics-in-york'>My">A wave of longing through my body swept,</lem>
 		  <rdg wit="#Liberator-tropics">My heart grew faint ceasing its furious throbbing;</rdg>
 		</app>
 	      </l>
 	      <l>
 		<app type='phrase'>
-		  <lem wit="#HS #SINH-tropics #CambridgeMagazine-tropics-in-new-york">And, hungry for the old, familiar ways,</lem>
+		  <lem wit="#HS #SINH-tropics #CambridgeMagazine-tropics-in-new-york #FourNegroPoets-tropics-in-york'>My">And, hungry for the old, familiar ways,</lem>
 		  <rdg wit="#Liberator-tropics">And in the thronged street, losing self-control,</rdg>
 		</app>
 	      </l>
 	      <l rend="indent1">
 		<app type='phrase'>
-		  <lem wit="#HS CambridgeMagazine-tropics-in-new-york #SINH-tropics">I turned aside and bowed my head and wept.</lem>
+		  <lem wit="#HS CambridgeMagazine-tropics-in-new-york #SINH-tropics #FourNegroPoets-tropics-in-york'>My">I turned aside and bowed my head and wept.</lem>
 		  <rdg wit="#Liberator-tropics">Like a child lost and lone, I fell to <choice><sic>subbing</sic><corr resp="cf">sobbing</corr></choice>.</rdg>
 		</app>
 	      </l>
@@ -2284,7 +2287,10 @@
 	    <head>On Broadway</head>
 
 	    <note type="textual">
-	      <p>This poem also appeared in <ptr target="#SINH-on-broadway" /> and <ptr target="#CambridgeMagazine-on-broadway" />.</p>
+	      <p>This poem also appeared in:<list>
+	      <item><ptr target="#SINH-on-broadway" /></item>
+	      <item><ptr target="#CambridgeMagazine-on-broadway" /></item>
+	      <item><ptr target="#FourNegroPoets-on-broadway" /></item></list></p>
 	    </note>
 
 	    <lg type="stanza">
@@ -2293,9 +2299,9 @@
 	      <l rend="indent1">Above, a hundred shouting signs</l>
 	      <l>Shed down their bright fantastic glow</l>
 	      <l rend="indent1">Upon the merry crowd and lines</l>
-	      <l>Of moving carriages below<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#SINH-on-broadway #CambridgeMagazine-on-broadway">:</rdg></app></l>
+	      <l>Of moving carriages below<app type='punctuation'><lem wit="#HS #FourNegroPoets-on-broadway">.</lem><rdg wit="#SINH-on-broadway #CambridgeMagazine-on-broadway">:</rdg></app></l>
 	      <l><app type='orthography'>
-		<lem wit="#HS">Oh</lem>
+		<lem wit="#HS #FourNegroPoets-on-broadway">Oh</lem>
 		<rdg wit="#SINH-on-broadway #CambridgeMagazine-on-broadway">O</rdg>
 	      </app> wonderful is Broadway—only</l>
 	      <l>My heart, my heart is lonely.</l>
@@ -2306,7 +2312,7 @@
 	      <l>Goes strutting by in brazen fashion;</l>
 	      <l rend="indent1">From playhouse, cabaret and inn</l>
 	      <l>The rainbow lights of Broadway blaze</l>
-	      <l rend="indent1">All gay without, all glad within;</l>
+	      <l rend="indent1">All <app><lem wit="#HS #SINH-on-broadway #CambridgeMagazine-on-broadway">gay</lem><rdg wit="#FourNegroPoets-on-broadway">day</rdg></app> without, all glad within;</l>
 	      <l>As in a dream I stand and gaze</l>
 	      <l>At Broadway, shining Broadway—only</l>
 	      <l>My heart, my heart is lonely.</l>
@@ -2419,28 +2425,34 @@
 	    <head>North and South</head>
 
 	    <note type="textual">
-	      <p>This poem also appeared in <ptr target="#SINH-north-and-south" /> and <ptr target="#CambridgeMagazine-north-and-south" />.</p>
+	      <p>This poem also appeared in:
+	      <list>
+		<item><ptr target="#SINH-north-and-south" /></item>
+		<item><ptr target="#CambridgeMagazine-north-and-south" /></item>
+		<item><ptr target="#FourNegroPoets-north-and-south" /></item>
+	      </list>
+	      It's appearance in <title level="m">Four Negro Poets</title> does not indent the second line.</p>
 	    </note>
 
 	    <l>O sweet are tropic lands for waking dreams!</l>
-	    <l rend="indent1">There time and life move lazily along<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south">;</rdg></app></l>
+	    <l rend="indent1">There time and life move lazily along<app type='punctuation'><lem wit="#HS #FourNegroPoets-north-and-south">.</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south">;</rdg></app></l>
 	    <l>There by the banks of blue-and-silver streams</l>
 	    <l rend="indent1">Grass-sheltered crickets chirp incessant song,</l>
-	    <l>Gay-<app type='orthography'><lem wit="#HS">colored</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south">coloured</rdg></app> lizards loll all through the day,</l>
+	    <l>Gay-<app type='orthography'><lem wit="#HS #FourNegroPoets-north-and-south">colored</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south">coloured</rdg></app> lizards loll all through the day,</l>
 	    <l rend="indent1">Their tongues outstretched for careless little flies,</l>
-	    <l>And swarthy<note type="editorial"><hi rend="bold">Swarthy:</hi> A somewhat archaic term for dark, or dark skinned.</note> children in the fields at play<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south" /></app></l>
+	    <l>And swarthy<note type="editorial"><hi rend="bold">Swarthy:</hi> A somewhat archaic term for dark, or dark skinned.</note> children in the fields at play<app type='punctuation'><lem wit="#HS #FourNegroPoets-north-and-south">,</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south" /></app></l>
 	    <l rend="indent1">Look upward laughing at the smiling skies.</l>
 	    <l>A breath of idleness is in the air</l>
 	    <l rend="indent1">That casts a subtle spell upon all things,</l>
-	    <l>And love and mating-time are everywhere<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south" /></app></l>
+	    <l>And love and mating-time are everywhere<app type='punctuation'><lem wit="#HS #FourNegroPoets-north-and-south">,</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south" /></app></l>
 	    <l rend="indent1">And wonder to life's commonplaces clings.</l>
 	    <l>The fluttering humming-bird darts through the trees</l>
 	    <l rend="indent1">And dips his long beak in the big bell-flowers,</l>
-	    <l>The leisured buzzard floats upon the breeze<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south" /></app></l>
-	    <l rend="indent1">Riding a crescent cloud for endless hours<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south">;</rdg></app></l>
-	    <l>The sea beats softly on the emerald strands<app type='punctuation'><lem wit="#HS" /><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south">,</rdg></app>—</l>
+	    <l>The leisured buzzard floats upon the breeze<app type='punctuation'><lem wit="#HS #FourNegroPoets-north-and-south">,</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south" /></app></l>
+	    <l rend="indent1">Riding a crescent cloud for endless hours<app type='punctuation'><lem wit="#HS #FourNegroPoets-north-and-south">,</lem><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south">;</rdg></app></l>
+	    <l>The sea beats softly on the emerald strands<app type='punctuation'><lem wit="#HS #FourNegroPoets-north-and-south" /><rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south">,</rdg></app>—</l>
 	    <l>O sweet for <app type='word'>
-	    <lem wit="#HS">quiet</lem>
+	    <lem wit="#HS #FourNegroPoets-north-and-south">quiet</lem>
 	    <rdg wit="#SINH-north-and-south #CambridgeMagazine-north-and-south">dainty</rdg>
 	    </app> dreams are tropic lands!</l>
 	  </lg>
@@ -2976,21 +2988,21 @@
 	    <head>Africa</head>
 
 	    <note type="textual">
-	      <p>This poem also appeared in <ptr target="#Liberator-africa" />, where even numbered lines were indented.</p>
+	      <p>This poem also appeared in <ptr target="#Liberator-africa" />, where even numbered lines were indented, and <ptr target="#FourNegroPoets-africa" />.</p>
 	    </note>
 
 	    <l>The sun sought thy dim bed and brought forth light,</l>
 	    <l>The sciences were sucklings at thy breast;</l>
 	    <l>When all the world was young in pregnant night</l>
-	    <l>Thy slaves toiled at thy monumental best<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#Liberator-africa">;</rdg></app></l>
-	    <l>Thou ancient treasure-land, thou modern prize,</l>
-	    <l>New peoples marvel at thy pyramids<app type='punctuation'><lem wit="#HS">!</lem><rdg wit="#Liberator-africa">;</rdg></app></l>
-	    <l>The years roll on, thy sphinx of riddle eyes</l>
+	    <l>Thy slaves toiled at thy monumental best<app type='punctuation'><lem wit="#HS #FourNegroPoets-africa">.</lem><rdg wit="#Liberator-africa">;</rdg></app></l>
+	    <l>Thou ancient <app type="orthography"><lem wit="#HS #Liberator-africa">treasure-land</lem><rdg wit="#FourNegroPoets-africa">treasure land</rdg></app>, thou modern prize,</l>
+	    <l>New peoples marvel at thy pyramids<app type='punctuation'><lem wit="#HS #FourNegroPoets-africa">!</lem><rdg wit="#Liberator-africa">;</rdg></app></l>
+	    <l>The years roll on, thy sphinx of <app type="orthogaphy"><lem wit="#HS Liberator-africa">riddle eyes</lem><rdg wit="#FourNegroPoets-africa">riddle-eyes</rdg></app></l>
 	    <l>Watches the mad world with immobile lids<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#Liberator-africa">;</rdg></app></l>
-	    <l>The Hebrews humbled them at Pharaoh's name<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#Liberator-africa">;</rdg></app></l>
+	    <l>The Hebrews humbled them at Pharaoh's name<app type='punctuation'><lem wit="#HS #FourNegroPoets-africa">.</lem><rdg wit="#Liberator-africa">;</rdg></app></l>
 	    <l>Cradle of Power! Yet all things were in vain!</l>
 	    <l><app type='orthography'>
-	      <lem wit="#HS">Honor</lem>
+	      <lem wit="#HS #FourNegroPoets-africa">Honor</lem>
 	    <rdg wit="#Liberator-africa">Honour</rdg></app> and Glory, Arrogance and Fame!</l>
 	    <l>They went. The darkness swallowed thee again.</l>
 	    <l>Thou art the harlot, now thy time is done,</l>
@@ -3000,13 +3012,15 @@
 	  <lg type="poem" xml:id="on-a-primitive-canoe" rhyme="ababcdcdefefgg">
 	    <pb n="36"/>
 	    <head>On a Primitive Canoe</head>
+	    <note type="textual"><p>This poem later appeared in <ptr target="#FourNegroPoets-on-a-primitive-canoe" />, where it was split into two stanzas (an octave and a sestet).</p></note>
 
+	    
 	    <l>Here, passing lonely down this quiet lane,</l>
 	    <l>Before a mud-splashed window long I pause</l>
 	    <l>To gaze and gaze, while through my active brain</l>
 	    <l>Still thoughts are stirred to wakefulness; because</l>
 	    <l>Long, long ago in a dim unknown land,</l>
-	    <l>A massive forest-tree, ax-felled, adze-hewn<note type="editorial"><hi rend="bold">Adze-hewn:</hi> That is carved by an adze, an axe-like tool for the carving of wood.</note>,</l>
+	    <l>A massive <app type="orthographical"><lem wit="#HS">forest-tree</lem><rdg wit="#FourNegroPoets-on-a-primitive-canoe">forest tree</rdg></app>, ax-felled, adze-hewn<note type="editorial"><hi rend="bold">Adze-hewn:</hi> That is carved by an adze, an axe-like tool for the carving of wood.</note>,</l>
 	    <l>Was deftly done by cunning mortal hand</l>
 	    <l>Into a symbol of the tender moon.</l>
 	    <l>Why does it thrill more than the handsome boat</l>
@@ -3120,6 +3134,7 @@
 		<item><ptr target="#CambridgeMagazine-spring-in-new-hampshire" /></item>
 		<item><ptr target="#Liberator-spring" /></item>
 	      </list></p>
+	      <p>In <title level="j">The Liberator</title>, it appeared with <ref target="#the-tired-worker">"The Tired Worker"</ref> under the title "Negro Poems."</p>
 	    </note>
 
 	    <lg type="stanza">
@@ -3172,13 +3187,14 @@
 
 	  <lg type="poem" xml:id="the-harlem-dancer" rhyme="ababcdcdefegg">
 	    <pb n="42" />
-	    <head>The Harlem Dancer</head>
+	    <head><app><lem wit="#HS #SevenArts-harlem #SINH-the-harlem-dancer">The</lem><rdg wit="#FourNegroPoets-harlem-dancer" /></app> Harlem Dancer</head>
 
 	    <note type="textual">
 	      <p>This poem also appeared in:
 	      <list>
 		<item><ptr target="#SevenArts-harlem" /> with <ref target="#SevenArts-invocation">"Invocation"</ref>, presented as "Two Sonnets" by Eli Edwards.</item>
 		<item><ptr target="#SINH-the-harlem-dancer" /></item>
+		<item><ptr target="#FourNegroPoets-harlem-dancer" /></item>
 	      </list></p>
 	    </note>
 
@@ -3190,14 +3206,14 @@
 	    <l>The light gauze hanging loose about her form;</l>
 	    <l>To me she seemed a proudly-swaying palm</l>
 	    <l>Grown lovelier for passing through a storm.</l>
-	    <l>Upon her swarthy neck black<app type='punctuation'><lem wit="#HS" /><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">,</rdg></app> shiny curls</l>
+	    <l>Upon her swarthy neck black<app type='punctuation'><lem wit="#HS #FourNegroPoets-harlem-dancer" /><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">,</rdg></app> shiny curls</l>
 	    <l><app type='word'>
-	      <lem wit="#HS">Luxuriant</lem>
+	      <lem wit="#HS #FourNegroPoets-harlem-dancer">Luxuriant</lem>
 	      <rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">Profusely</rdg>
-	    </app> fell; and<app type='punctuation'><lem wit='#HS' /><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">,</rdg></app> tossing coins in praise,</l>
+	    </app> fell; and<app type='punctuation'><lem wit="#HS #FourNegroPoets-harlem-dancer" /><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">,</rdg></app> tossing coins in praise,</l>
 	    <l>The wine-flushed, bold-eyed boys, and even the girls,</l>
-	    <l>Devoured her <app type='word'><lem wit="#HS">shape</lem><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer" /></app> with eager, passionate gaze<app type='punctuation'><lem wit="#HS">;</lem><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">:</rdg></app></l>
-	    <l>But<app type='punctuation'><lem wit="#HS" /><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">,</rdg></app> looking at her falsely-smiling face,</l>
+	    <l>Devoured her <app type='word'><lem wit="#HS #FourNegroPoets-harlem-dancer">shape</lem><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer" /></app> with eager, passionate gaze<app type='punctuation'><lem wit="#HS #FourNegroPoets-harlem-dancer">;</lem><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">:</rdg></app></l>
+	    <l>But<app type='punctuation'><lem wit="#HS #FourNegroPoets-harlem-dancer" /><rdg wit="#SevenArts-harlem #SINH-the-harlem-dancer">,</rdg></app> looking at her falsely-smiling face,</l>
 	    <l>I knew her self was not in that strange place.</l>
 	  </lg>
 	  
@@ -3251,7 +3267,7 @@
 	    <head>The Tired Worker</head>
 
 	    <note type="textual">
-	      <p>This poem also appeared in <ptr target="#Liberator-tired" />, in which version even numbered lines are indented (except the final line).</p>
+	      <p>This poem appeared in <ptr target="#Liberator-tired" /> together with <ref target="#spring-in-new-hampshire">"Spring in New Hampshire"</ref> under the title "Negro Poems, in which version even numbered lines are indented (except the final line).</p>
 	    </note>
 
 	    <l>O whisper, O my soul!<app type='punctuation'>
@@ -3333,7 +3349,7 @@
 	      <p>This poem also appears in <ptr target="#Messenger-birds" />. When it appeared in <title level="j">The Messenger</title>, there was a break between the octet and the sestet, and even numbered lines were indented.</p>
 	    </note>
 
-	    <l>Their <app type='word'><lem wit="#HS">shadow</lem><rdg wit="#Messenger-birds">shadows</rdg></app>&#160;<app type='word'><lem wit="#HS">dims</lem><rdg wit="#Messenger-birds">dim</rdg></app> the sunshine of our day<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Messenger-birds" /></app></l>
+	    <l>Their <app type='word'><lem wit="#HS">shadow</lem><rdg wit="#Messenger-birds">shadows</rdg></app> <app type='word'><lem wit="#HS">dims</lem><rdg wit="#Messenger-birds">dim</rdg></app> the sunshine of our day<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Messenger-birds" /></app></l>
 	    <l>As they go lumbering across the sky,</l>
 	    <l>Squawking in joy of feeling safe on high,</l>
 	    <l>Beating their heavy wings of owlish gray.</l>
@@ -3353,19 +3369,14 @@
 	      <lem wit="#HS">And</lem>
 	      <rdg wit="#Messenger-birds">They</rdg>
 	    </app> fasten in our bleeding flesh their claws<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#Messenger-birds" /></app></l>
-	    <l>
-	      <app type='phrase'>
+	    <l><app type='phrase'>
 		<lem wit="#HS">They beat us to surrender weak with fright,</lem>
 		<rdg wit="#Messenger-birds">(We may be black or yellow, brown or white)</rdg>
-	      </app>
-	    </l>
-	    <l>And<app><lem wit="#HS" /><rdg wit="#Messenger-birds">,</rdg></app> tugging and tearing without 
-	    <app type='phrase'>
+	    </app></l>
+	    <l>And<app><lem wit="#HS" /><rdg wit="#Messenger-birds">,</rdg></app> tugging and tearing without <app type='phrase'>
 	      <lem wit="#HS">let</lem>
-	      <rdg wit="#Messenger-birds">rest</rdg>
-	    </app> or pause,</l>
-	    <l>They flap their hideous wings 
-	    <app type='phrase'>
+	      <rdg wit="#Messenger-birds">rest</rdg></app> or pause,</l>
+	    <l>They flap their hideous wings <app type='phrase'>
 	      <lem wit="#HS">in grim</lem>
 	    <rdg wit="#Messenger-birds">with wild</rdg></app> delight<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Messenger-birds" /></app></l>
 	    <l>And stuff our gory hearts into their maws.</l>
@@ -3373,45 +3384,46 @@
 	  
 	  <lg type="poem" xml:id="the-castaways" rhyme="ababcdcdefefgg">
 	    <pb n="48"/>
-	    <head>The Castaways</head>
+	    <head><app><lem wit="#HS #CambridgeMagazine-the-castaways #SINH-the-castaways">The Castaways</lem><rdg with="#Pearsons-park-in-spring">The Park in Spring</rdg></head>
 
 	    <note type="textual">
-	      <p>This poem also appeared in <ptr target="#SINH-the-castaways" /> and <ptr target="#CambridgeMagazine-the-castaways" />.</p>
+	      <p>This poem first appeared in <ptr target="#Pearsons-park-in-spring" /> (under the title "The Park in Spring." It also appeared in <ptr target="#SINH-the-castaways" /> and <ptr target="#CambridgeMagazine-the-castaways" />. In its appearance in <title level="j">Pearsons</title>, lines 2,4,6,8,10, and 12 are indented one level, and the concluding couplet is indented two levels.</p>
 	    </note>
 
 	    <l>The vivid grass with visible delight</l>
-	    <l>Springing triumphant from the pregnant earth<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">;</rdg></app></l>
+	    <l>Springing triumphant from the pregnant earth<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Pearsons-park-in-spring #SINH-the-castaways #CambridgeMagazine-the-castaways">;</rdg></app></l>
 	    <l><app type='word'>
-	      <lem wit="#HS">The</lem>
+	      <lem wit="#HS #Pearsons-park-in-spring">The</lem>
 	      <rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">And</rdg>
 	    </app> butterflies, and sparrows in brief flight</l>
 	    <l>Chirping and dancing for the season's birth,</l>
 	    <l><app type='word'>
 	      <lem wit="#HS">The</lem>
-	      <rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">And</rdg>
+	      <rdg wit="#Pearsons-park-in-spring #SINH-the-castaways #CambridgeMagazine-the-castaways">And</rdg>
 	    </app> dandelions and rare daffodils</l>
 	    <l>That <app type='word'>
 	    <lem wit="#HS">touch</lem>
-	    <rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">hold</rdg>
-	    </app> the deep-stirred heart with hands of gold<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways" /></app></l>
+	    <rdg wit="#Pearsons-park-in-spring #SINH-the-castaways #CambridgeMagazine-the-castaways">hold</rdg>
+	    </app> the deep-stirred heart with hands of gold<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Pearsons-park-in-spring #SINH-the-castaways #CambridgeMagazine-the-castaways" /></app></l>
 	    <l><app type='word'>
 	      <lem wit="#HS">The</lem>
-	      <rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">And</rdg>
-	    </app> thrushes sending forth their joyous trills<app type='punctuation'><lem wit="#HS">,—</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">;</rdg></app></l>
-	    <l>Not these, not these did I at first behold<app type='punctuation'><lem wit="#HS">!</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">:</rdg></app></l>
-	    <l>But seated on the benches daubed with green,</l>
-	    <l>The castaways of <app type='word'>
-	    <lem wit="#HS">life</lem>
-	    <rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">earth</rdg>
-	    </app>, <app type='phrase'>
+	      <rdg wit="#Pearsons-park-in-spring #SINH-the-castaways #CambridgeMagazine-the-castaways">And</rdg>
+	    </app> thrushes sending forth their joyous trills<app type='punctuation'><lem wit="#HS">,—</lem><rdg wit="#Pearsons-park-in-spring #SINH-the-castaways #CambridgeMagazine-the-castaways">;</rdg></app></l>
+	    <l>Not these, not these did I at first behold<app type='punctuation'><lem wit="#HS">!</lem><rdg wit="#Pearsons-park-in-spring">;</rdg><rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">:</rdg></app></l>
+	    <l>But<app type="punctuation"><lem wit="#HS #CambridgeMagazine-the-castaways #SINH-the-castaways" /><rdg wit="#Pearsons-park-in-spring">,</rdg></app> seated on the benches daubed with green,</l>
+	    <l>The <app type="phrase">
+	    <lem wit="#HS">castaways of life</lem>
+	    <rdg wit="#CambridgeMagazine-the-castaways #SINH-the-castaways">castaways of earth</rdg>
+	    <rdg wit="#Pearsons-park-in-spring">human derelicts</rdg></app>, <app type='phrase'>
 	    <lem wit="#HS">a few</lem>
-	    <rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">some fast</rdg></app> asleep,</l>
+	    <rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways #Pearsons-park-in-spring">some fast</rdg></app> asleep,</l>
 	    <l><app type='phrase'>
 	      <lem wit="#HS">Some withered women desolate and mean,</lem>
+	      <rdg wit="#Pearsons-park-in-spring">With here and there a woman wedged between,</rdg>
 	      <rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">With many a withered woman wedged between,</rdg>
 	    </app>
 	    </l>
-	    <l>And over all<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways" /></app> life's shadows dark and deep<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways">:</rdg></app></l>
+	    <l>And<app type="punctuation"><lem wit="#HS #CambridgeMagazine-the-castaways #SINH-the-castaways" /><rdg wit="#Pearsons-park-in-spring">,</rdg></app> over all<app type='punctuation'><lem wit="#Pearsons-park-in-spring #HS">,</lem><rdg wit="#SINH-the-castaways #CambridgeMagazine-the-castaways" /></app> life's shadows dark and deep<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#Pearsons-park-in-spring #SINH-the-castaways #CambridgeMagazine-the-castaways">:</rdg></app></l>
 	    <l>Moaning I turned away, for misery</l>
 	    <l>I have the strength to bear but not to see.</l>
 	  </lg>
@@ -3508,23 +3520,29 @@
 	    <head>Baptism</head>
 
 	    <note type="textual">
-	      <p>This poem also appears in <ptr target="#Liberator-baptism" />.</p>
+	      <p>This poem also appears in:
+	      <list>
+		<item><ptr target="#Liberator-baptism" /></item>
+		<item><ptr target="#FourNegroPoets-baptism" /></item>
+	      </list>
+	      In its appearance in <title level='m'>Four Negro Poets</title>, its first lines, and its final
+	      two lines, are presented separated from the remainder of the sonnet.</p>	      
 	    </note>
 
 
-	    <l>Into the furnace let me go alone<app type='punctuation'><lem wit="#HS">;</lem><rdg wit="#Libeator-baptism">.</rdg></app></l>
+	    <l>Into the furnace let me go alone<app type='punctuation'><lem wit="#HS #FourNegroPoets-baptism">;</lem><rdg wit="#Liberator-baptism">.</rdg></app></l>
 	    <l>Stay you without in terror of the heat.</l>
 	    <l>I will go naked in—for thus 'tis sweet—</l>
-	    <l>Into the weird depths of the hottest zone.</l>
+	    <l>Into the weird depths of the hottest zone<app><lem wit="#HS #Liberator-baptism">.</lem><rdg wit="#FourNegroPoets">,</rdg></app></l>
 	    <l>I will not quiver in the frailest bone,</l>
 	    <l>You will not note a flicker of defeat;</l>
 	    <l>My heart shall tremble not its fate to meet,</l>
-	    <l>My mouth give utterance to any moan.</l>
-	    <l>The yawning oven spits forth fiery spears<app type='punctuation'><lem wit="#HS">;</lem><rdg wit="#Liberator-baptism">,</rdg></app></l>
-	    <l>Red aspish<note type="editorial"><hi>Aspish: </hi> Like an asp, snakelike, full of venom.</note> tongues shout wordlessly my name<app type='punctuation'><lem wit="#HS">.</lem><rdg wit="#Liberator-baptism">;</rdg></app></l>
+	    <l><app><lem wit="#HS #Liberator-baptism">My</lem><rdg wit="#FourNegroPoets">Nor</rdg></app> mouth give utterance to any moan.</l>
+	    <l>The yawning oven spits forth fiery spears<app type='punctuation'><lem wit="#HS #FourNegroPoets-baptism">;</lem><rdg wit="#Liberator-baptism">,</rdg></app></l>
+	    <l>Red aspish<note type="editorial"><hi>Aspish: </hi> Like an asp, snakelike, full of venom.</note> tongues shout wordlessly my name<app type='punctuation'><lem wit="#HS #FourNegroPoets-baptism">.</lem><rdg wit="#Liberator-baptism">;</rdg></app></l>
 	    <l>Desire destroys, consumes my mortal fears,</l>
 	    <l>Transforming me into a shape of flame.</l>
-	    <l>I will come out, back to your world of tears<app type='punctuation'><lem wit="#HS">,</lem><rdg wit="#Liberator-baptism" /></app></l>
+	    <l>I will come out, back to your world of tears<app type='punctuation'><lem wit="#HS #FourNegroPoets-baptism">,</lem><rdg wit="#Liberator-baptism" /></app></l>
 	    <l>A stronger soul within a finer frame.</l>
 	  </lg>
 
@@ -3566,7 +3584,8 @@
 	  </head>
 
 	  <note type="textual">
-	    <p>This poem first appeared in <ptr target="#Liberator-if" />. It later appeared in:
+	    <p>This poem first appeared in <ptr target="#Liberator-if" /> under the title "Sonnets and Songs," which included <ref target="#the-barrer">"The Barrier"</ref> and <ref target="#after-the-winter">"After the Winters"</ref> (later collected in <title level="m">Harlem Shadows</title>) and <ref target="#supp_mckay_the-negro-dancers">"The Negro Dancers,"</ref>, <ref target="#supp_mckay_a-capitalist-at-dinner">"A Capitalist at Dinner,"</ref> <ref target="#supp_mckay_the-little-peoples">"The Little Peoples,"</ref> and <ref target="#supp_mckay_a-roman-holiday">"A Roman Holiday."</ref> That same issue also included a <ref target="#supp_liberator_mckay-note">short biographical note</ref> on McKay.</p>
+	    <p>It later appeared in:
 	    <list>
 	      <item><ptr target="#Messenger-if" /></item>
 	      <item><ptr target="#Crusader-if" /></item>
@@ -4738,6 +4757,7 @@
 	      <l>Under the smoke upon foul air afloat;</l>
 	      <l rend="indent1">Around the room the laughing puppets spin</l>
 	      <l rend="indent2">To sound of fiddle, drum and clarinet,</l>
+	      <l rend="indent2">Dancing, their world of shadows to forget.</l>
 	    </lg>
 
 	    <lg type="section">
@@ -6202,7 +6222,7 @@
 	    and appeal stand on a level with or even above the greatest poets. 
 	    They are Buddha, Confucius, Christ and Mohammed. But these 
 	    four great religious teachers were after all great ethical poets. 
-	    Judged in every light they do represents the highest peaks of the 
+	    Judged in every light they do represent the highest peaks of the 
 	    genius of the races that produced them. But these names are 
 	    limited to oriental races. No occidental race has yet produced 
 	    a great religious teacher. Among the occidental peoples the great 
@@ -6266,8 +6286,8 @@
 	    to a Negro poet who has risen like a new and flaming 
 	    star on the horizon. The poet is Claude McKay.</p>
 
-	    <p>Mr. McKay deserves a fully and prompt appreciation. We 
-	    should not do in his case what were guilty of in the case of 
+	    <p>Mr. McKay deserves a full and prompt appreciation. We 
+	    should not do in his case what <choice><orig>were</orig><corr>we're</corr></choice> guilty of in the case of 
 	    Dunbar, that was, not to recognize or not even to know his greatness 
 	    until it was acclaimed by the whites.</p>
 
@@ -7957,7 +7977,6 @@
 	  of my poems.</p>
 	</body>
       </text>
-
 
       <text type="supplementary" xml:id="supp_liberator_mckay-note">
 	<body>
