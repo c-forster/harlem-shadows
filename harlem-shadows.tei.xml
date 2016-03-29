@@ -530,12 +530,8 @@
 		</imprint>
 	      </monogr>
 	      <note xml:id='ThreeSonnets-note'>
-		<p>
-		  "Three Sonnets" appears in the "Current Poetry" section of <title level="j">The Literary Digest</title>,  
-		  and are introduced with the following note:
-		  <quote>
-		    Since Dunbar, no Negro singer has interpreted Negro sentiment and emotion with a poetic realism to equal Claude McKay's. Of purest African blood, he shows us in "Harlem Shadows" not only the America of his youth and the Jamaica of his childhood, but the Africa of his forbears—and how he feels toward each. There is a world of relevation in these.
-		  </quote>
+		<p>"Three Sonnets" appears in the "Current Poetry" section of <title level="j">The Literary Digest</title>, and are introduced with the following note:
+		  <quote>Since Dunbar, no Negro singer has interpreted Negro sentiment and emotion with a poetic realism to equal Claude McKay's. Of purest African blood, he shows us in "Harlem Shadows" not only the America of his youth and the Jamaica of his childhood, but the Africa of his forbears—and how he feels toward each. There is a world of relevation in these.</quote>
 		</p>
 	      </note>
 	    </biblStruct>
@@ -1356,7 +1352,7 @@
 	      <monogr>
 		<title level="j">The Liberator</title>
 		<imprint>
-		  <date when="1920-05">(May, 1920):</date>
+		  <date when="1920-05">May, 1920</date>
 		  <biblScope unit="pg">48</biblScope>
 		</imprint>
 	      </monogr>
@@ -3384,7 +3380,7 @@
 	  
 	  <lg type="poem" xml:id="the-castaways" rhyme="ababcdcdefefgg">
 	    <pb n="48"/>
-	    <head><app><lem wit="#HS #CambridgeMagazine-the-castaways #SINH-the-castaways">The Castaways</lem><rdg with="#Pearsons-park-in-spring">The Park in Spring</rdg></head>
+	    <head><app><lem wit="#HS #CambridgeMagazine-the-castaways #SINH-the-castaways">The Castaways</lem><rdg wit="#Pearsons-park-in-spring">The Park in Spring</rdg></app></head>
 
 	    <note type="textual">
 	      <p>This poem first appeared in <ptr target="#Pearsons-park-in-spring" /> (under the title "The Park in Spring." It also appeared in <ptr target="#SINH-the-castaways" /> and <ptr target="#CambridgeMagazine-the-castaways" />. In its appearance in <title level="j">Pearsons</title>, lines 2,4,6,8,10, and 12 are indented one level, and the concluding couplet is indented two levels.</p>
@@ -4981,48 +4977,6 @@
 	      <l rend="indent1">Yea, all things</l>
 	      <l rend="indent1">But his Soul.</l>
 	    </lg>
-	  </lg>
-	</body>
-      </text>
-
-      <text xml:id="supp_mckay_the-park-in-spring">
-	<body>
-	  <head>
-	    <title>The Park in Spring</title>
-	    <bibl>
-	      <author>
-		<persName>
-		  <forename type="first">Claude</forename> <surname>McKay</surname>
-		</persName>
-	      </author>
-	      <title level="a">The Park in Spring</title>
-	      <title level="j">Pearson's Magazine</title>
-	      <date when="1918-09">September, 1918</date>
-	      <biblScope unit="pg">276</biblScope>
-	    </bibl>
-	  </head>
-	  <lg type="poem" rhyme="ababcd efghghii">
-	    <head>The Park in Spring</head>
-	    <lg type="stanza">
-	      <l>The vivid grass with visible delight</l>
-	      <l rend="indent1">Springing triumphant from the pregnant earth;</l>
-	      <l>The butterflies, and sparrows in brief flight</l>
-	      <l rend="indent1">Chirping and dancing for the season's birth,</l>
-	      <l>And dandelions and rare daffodils</l>
-	      <l rend="indent1">That hold the deep-stirred heart with hands of gold</l>
-	    </lg>
-
-	    <lg type="stanza">
-	      <l>And thrushes sending forth their joyous trills;</l>
-	      <l rend="indent1">Not these, not these did I at first behold;</l>
-	      <l>But, seated on the benches daubed with green,</l>
-	      <l rend="indent1">The human derelicts, some fast asleep,</l>
-	      <l>With here and there a woman wedged between,</l>
-	      <l rend="indent1">And, over all, life's shadows dark and deep:</l>
-	      <l rend="indent2">Moaning I turned away, for misery</l>
-	      <l rend="indent2">I have the strength to bear but not to see.</l>
-	    </lg>
-
 	  </lg>
 	</body>
       </text>
