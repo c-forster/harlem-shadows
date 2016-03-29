@@ -1391,6 +1391,22 @@
 	    </biblStruct>
 	  </witness>
 
+	  <witness xml:id="Pearsons-park-in-spring">
+	    <biblStruct>
+	      <analytic>
+		<author>Claude McKay</author>
+		<title>Harlem Shadows</title>
+	      </analytic>
+	      <monogr>
+		<title level="j">Pearson's Magazine</title>
+		<imprint>
+		  <date when="1918-09">(September, 1918):</date>
+		  <biblScope unit="pg">276</biblScope>
+		</imprint>
+	      </monogr>
+	    </biblStruct>
+	  </witness>
+	  
 	  <witness xml:id="SevenArts-harlem">
 	    <biblStruct>
 	      <analytic>
