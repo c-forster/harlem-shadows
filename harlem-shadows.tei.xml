@@ -19,7 +19,11 @@
 	<listWit>
 	  <witness xml:id="HS">
 	    <bibl>
-	      <author>McKay, Claude</author>, <title>Harlem Shadows</title>. <pubPlace>New York</pubPlace>: <publisher>Harcourt, Brace, and Company</publisher>, <date when="1922">1922</date>.
+	      <author>McKay, Claude</author>,
+	      <title>Harlem Shadows</title>.
+	      <pubPlace>New York</pubPlace>:
+	      <publisher>Harcourt, Brace, and Company</publisher>,
+	      <date when="1922">1922</date>.
 	    </bibl>
 	  </witness>
 
@@ -2085,7 +2089,7 @@
 
 	    <note type="textual"><p>This poem also appears in <ptr target="#CambridgeMagazine-alfonso" /> and <ptr target="#SINH-alfonso" />.</p></note>
 
-
+   
 	    <lg type="stanza">
 	      <l>Alfonso is a handsome bronze-hued lad</l>
 	      <l rend="indent1">Of subtly-changing and surprising parts;</l>
@@ -3399,7 +3403,7 @@
 	    <head><app><lem wit="#HS #CambridgeMagazine-the-castaways #SINH-the-castaways">The Castaways</lem><rdg wit="#Pearsons-park-in-spring">The Park in Spring</rdg></app></head>
 
 	    <note type="textual">
-	      <p>This poem first appeared in <ptr target="#Pearsons-park-in-spring" /> (under the title "The Park in Spring." It also appeared in <ptr target="#SINH-the-castaways" /> and <ptr target="#CambridgeMagazine-the-castaways" />. In its appearance in <title level="j">Pearsons</title>, lines 2,4,6,8,10, and 12 are indented one level, and the concluding couplet is indented two levels.</p>
+	      <p>This poem first appeared in <ptr target="#Pearsons-park-in-spring" /> (under the title "The Park in Spring"). It also appeared in <ptr target="#SINH-the-castaways" /> and <ptr target="#CambridgeMagazine-the-castaways" />. In its appearance in <title level="j">Pearsons</title>, lines 2,4,6,8,10, and 12 are indented one level, and the concluding couplet is indented two levels.</p>
 	    </note>
 
 	    <l>The vivid grass with visible delight</l>
